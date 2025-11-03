@@ -1,0 +1,39 @@
+# This GitHub Action automates the FAA data pipeline.
+# It downloads obstacle, airport, and airspace data from public sources,
+# checks for updates using checksums, converts formats as needed,
+# and commits the results to the repo's /data folder.
+# Runs daily and can be triggered manually.
+
+name: Update FAA Data
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Runs daily at 6 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests certifi
+
+      - name: Run FAA update script
+        run: python scripts/update_all_faa_data.py
+
+      - name: Commit changes to main
+        run: |
+          git config --global user.name "FAA Bot"
+          git config --global user.email "faa-bot@example.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Auto-update FAA data"
+          git push origin main
