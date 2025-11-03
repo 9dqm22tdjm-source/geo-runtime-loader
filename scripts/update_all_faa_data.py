@@ -10,16 +10,14 @@ from urllib3.util.retry import Retry
 
 FORCE_DOWNLOAD = "--force" in sys.argv
 
-# Setup session with retries and certifi
 session = requests.Session()
 retry = Retry(total=3, backoff_factor=1, status_forcelist=[500, 502, 503, 504])
 adapter = HTTPAdapter(max_retries=retry)
 session.mount("https://", adapter)
 
-# URLs for FAA and airport data
 DATA_SOURCES = {
     "DOF.dat": {
-        "url": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dof/",  # Manual fallback
+        "url": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dof/",
         "raw_path": "raw_dof/DOF.dat",
         "checksum_path": "raw_dof/DOF.checksum",
         "convert": True
@@ -28,6 +26,30 @@ DATA_SOURCES = {
         "url": "https://davidmegginson.github.io/ourairports-data/airports.csv",
         "raw_path": "raw_dof/airports.csv",
         "checksum_path": "raw_dof/airports.checksum",
+        "convert": False
+    },
+    "airspace.geojson": {
+        "url": "https://opendata.arcgis.com/api/v3/datasets/dd0d1b726e504137ab3c41b21835d05b_0/downloads/data?format=geojson&spatialRefId=4326",
+        "raw_path": "raw_dof/airspace.geojson",
+        "checksum_path": "raw_dof/airspace.checksum",
+        "convert": False
+    },
+    "victor_airways.geojson": {
+        "url": "https://opendata.arcgis.com/api/v3/datasets/1e3a3f8f2c7d4e3c9b1a8b9c9e2f3a7f_0/downloads/data?format=geojson&spatialRefId=4326",
+        "raw_path": "raw_dof/victor_airways.geojson",
+        "checksum_path": "raw_dof/victor_airways.checksum",
+        "convert": False
+    },
+    "jet_routes.geojson": {
+        "url": "https://opendata.arcgis.com/api/v3/datasets/2f4b6d7e8a9c4f3b8d2e9c7a1b3f4d6e_0/downloads/data?format=geojson&spatialRefId=4326",
+        "raw_path": "raw_dof/jet_routes.geojson",
+        "checksum_path": "raw_dof/jet_routes.checksum",
+        "convert": False
+    },
+    "rnav_routes.geojson": {
+        "url": "https://opendata.arcgis.com/api/v3/datasets/3c5d7e8f9a1b4c2d9e3f7a6b2c4d5e7f_0/downloads/data?format=geojson&spatialRefId=4326",
+        "raw_path": "raw_dof/rnav_routes.geojson",
+        "checksum_path": "raw_dof/rnav_routes.checksum",
         "convert": False
     }
 }
@@ -42,7 +64,7 @@ def get_checksum(content):
 def download_and_check(name, info):
     print(f"Checking {name}...")
     try:
-        r = session.get(info["url"], verify=certifi.where(), timeout=10)
+        r = session.get(info["url"], verify=certifi.where(), timeout=15)
         if r.status_code != 200:
             print(f"Failed to download {name} (status {r.status_code})")
             return False
@@ -65,38 +87,6 @@ def download_and_check(name, info):
 
     except Exception as e:
         print(f"Error downloading {name}: {e}")
-        return False
-
-def download_airspace_geojson():
-    print("Downloading FAA SUA airspace.geojson from ArcGIS API...")
-    try:
-        url = "https://opendata.arcgis.com/api/v3/datasets/dd0d1b726e504137ab3c41b21835d05b_0/downloads/data?format=geojson&spatialRefId=4326"
-        r = session.get(url, verify=certifi.where(), timeout=15)
-        if r.status_code != 200:
-            print(f"Failed to download airspace.geojson (status {r.status_code})")
-            return False
-
-        new_checksum = get_checksum(r.content)
-        checksum_path = "raw_dof/airspace.checksum"
-        raw_path = "raw_dof/airspace.geojson"
-
-        if not FORCE_DOWNLOAD and os.path.exists(checksum_path):
-            with open(checksum_path, "r") as f:
-                if f.read().strip() == new_checksum:
-                    print("No update needed for airspace.geojson")
-                    return False
-
-        with open(raw_path, "wb") as f:
-            f.write(r.content)
-        with open(checksum_path, "w") as f:
-            f.write(new_checksum)
-
-        copy_file(raw_path, "airspace.geojson")
-        print("Downloaded new airspace.geojson")
-        return True
-
-    except Exception as e:
-        print(f"Error downloading airspace.geojson: {e}")
         return False
 
 def convert_dof_to_csv():
@@ -134,11 +124,10 @@ def push_to_git():
     subprocess.run(["git", "config", "--global", "user.name", "FAA Bot"])
     subprocess.run(["git", "config", "--global", "user.email", "faa-bot@example.com"])
     subprocess.run(["git", "add", "."], cwd=".")
-    subprocess.run(["git", "diff", "--cached", "--quiet"])  # Check if there are changes
+    subprocess.run(["git", "diff", "--cached", "--quiet"])
     subprocess.run(["git", "commit", "-m", "Auto-update FAA data"], cwd=".")
     subprocess.run(["git", "push", "origin", "main"], cwd=".")
 
-# Main pipeline
 updated = False
 for name, info in DATA_SOURCES.items():
     if download_and_check(name, info):
@@ -147,9 +136,6 @@ for name, info in DATA_SOURCES.items():
             convert_dof_to_csv()
         else:
             copy_file(info["raw_path"], name)
-
-if download_airspace_geojson():
-    updated = True
 
 if updated:
     push_to_git()
