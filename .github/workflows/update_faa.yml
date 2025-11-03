@@ -1,15 +1,14 @@
-# This GitHub Action automates the FAA data pipeline.
-# It downloads obstacle, airport, and airspace data from public sources,
-# checks for updates using checksums, converts formats as needed,
-# and commits the results to the repo's /data folder.
-# Runs daily and can be triggered manually.
-
 name: Update FAA Data
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Runs daily at 6 AM UTC
+    - cron: '0 6 * * *'  # Daily at 6 AM UTC
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Force download all files"
+        required: false
+        default: "false"
 
 jobs:
   update:
@@ -31,7 +30,12 @@ jobs:
         run: pip install requests certifi
 
       - name: Run FAA update script
-        run: python scripts/update_all_faa_data.py
+        run: |
+          if [[ "${{ github.event.inputs.force }}" == "true" ]]; then
+            python scripts/update_all_faa_data.py --force
+          else
+            python scripts/update_all_faa_data.py
+          fi
 
       - name: Commit changes to main
         run: |
