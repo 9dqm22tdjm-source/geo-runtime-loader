@@ -32,8 +32,8 @@ def get_checksum(content):
 
 def download_and_check(name, info):
     print(f"Checking {name}...")
-    r = requests.get(info["url"])
-    if r.status_code != 200:
+r = requests.get(info["url"], verify=certifi.where())
+if r.status_code != 200:
         print(f"Failed to download {name}")
         return False
     new_checksum = get_checksum(r.content)
