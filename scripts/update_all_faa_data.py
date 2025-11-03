@@ -8,7 +8,6 @@ import subprocess
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-# Check for --force flag
 FORCE_DOWNLOAD = "--force" in sys.argv
 
 # Setup session with retries and certifi
@@ -29,12 +28,6 @@ DATA_SOURCES = {
         "url": "https://davidmegginson.github.io/ourairports-data/airports.csv",
         "raw_path": "raw_dof/airports.csv",
         "checksum_path": "raw_dof/airports.checksum",
-        "convert": False
-    },
-    "airspace.geojson": {
-        "url": "https://raw.githubusercontent.com/io-aero/io-data-sources/main/data_sources/io-xpa-core/FAA/sua.geojson",
-        "raw_path": "raw_dof/airspace.geojson",
-        "checksum_path": "raw_dof/airspace.checksum",
         "convert": False
     }
 }
@@ -72,6 +65,38 @@ def download_and_check(name, info):
 
     except Exception as e:
         print(f"Error downloading {name}: {e}")
+        return False
+
+def download_airspace_geojson():
+    print("Downloading FAA SUA airspace.geojson from ArcGIS API...")
+    try:
+        url = "https://opendata.arcgis.com/api/v3/datasets/dd0d1b726e504137ab3c41b21835d05b_0/downloads/data?format=geojson&spatialRefId=4326"
+        r = session.get(url, verify=certifi.where(), timeout=15)
+        if r.status_code != 200:
+            print(f"Failed to download airspace.geojson (status {r.status_code})")
+            return False
+
+        new_checksum = get_checksum(r.content)
+        checksum_path = "raw_dof/airspace.checksum"
+        raw_path = "raw_dof/airspace.geojson"
+
+        if not FORCE_DOWNLOAD and os.path.exists(checksum_path):
+            with open(checksum_path, "r") as f:
+                if f.read().strip() == new_checksum:
+                    print("No update needed for airspace.geojson")
+                    return False
+
+        with open(raw_path, "wb") as f:
+            f.write(r.content)
+        with open(checksum_path, "w") as f:
+            f.write(new_checksum)
+
+        copy_file(raw_path, "airspace.geojson")
+        print("Downloaded new airspace.geojson")
+        return True
+
+    except Exception as e:
+        print(f"Error downloading airspace.geojson: {e}")
         return False
 
 def convert_dof_to_csv():
@@ -122,6 +147,9 @@ for name, info in DATA_SOURCES.items():
             convert_dof_to_csv()
         else:
             copy_file(info["raw_path"], name)
+
+if download_airspace_geojson():
+    updated = True
 
 if updated:
     push_to_git()
