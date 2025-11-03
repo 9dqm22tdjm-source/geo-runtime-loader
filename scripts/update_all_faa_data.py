@@ -1,3 +1,4 @@
+import certifi
 import os, hashlib, requests, csv, subprocess
 
 # URLs for FAA and airport data
