@@ -1,4 +1,5 @@
 import os
+import sys
 import hashlib
 import requests
 import certifi
@@ -6,6 +7,9 @@ import csv
 import subprocess
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+
+# Check for --force flag
+FORCE_DOWNLOAD = "--force" in sys.argv
 
 # Setup session with retries and certifi
 session = requests.Session()
@@ -52,7 +56,7 @@ def download_and_check(name, info):
 
         new_checksum = get_checksum(r.content)
 
-        if os.path.exists(info["checksum_path"]):
+        if not FORCE_DOWNLOAD and os.path.exists(info["checksum_path"]):
             with open(info["checksum_path"], "r") as f:
                 if f.read().strip() == new_checksum:
                     print(f"No update needed for {name}")
@@ -103,4 +107,23 @@ def copy_file(src, dest_name):
 
 def push_to_git():
     subprocess.run(["git", "config", "--global", "user.name", "FAA Bot"])
-    subprocess.run
+    subprocess.run(["git", "config", "--global", "user.email", "faa-bot@example.com"])
+    subprocess.run(["git", "add", "."], cwd=".")
+    subprocess.run(["git", "diff", "--cached", "--quiet"])  # Check if there are changes
+    subprocess.run(["git", "commit", "-m", "Auto-update FAA data"], cwd=".")
+    subprocess.run(["git", "push", "origin", "main"], cwd=".")
+
+# Main pipeline
+updated = False
+for name, info in DATA_SOURCES.items():
+    if download_and_check(name, info):
+        updated = True
+        if info["convert"] and name == "DOF.dat":
+            convert_dof_to_csv()
+        else:
+            copy_file(info["raw_path"], name)
+
+if updated:
+    push_to_git()
+else:
+    print("All data is up to date. No commit needed.")
