@@ -16,19 +16,19 @@ session.mount("https://", adapter)
 # URLs for FAA and airport data
 DATA_SOURCES = {
     "DOF.dat": {
-        "url": "https://www.faa.gov/sites/faa.gov/files/2023-11/DOF.dat",
+        "url": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dof/",  # Manual fallback
         "raw_path": "raw_dof/DOF.dat",
         "checksum_path": "raw_dof/DOF.checksum",
         "convert": True
     },
     "airports.csv": {
-        "url": "https://ourairports.com/data/airports.csv",
+        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv",
         "raw_path": "raw_dof/airports.csv",
         "checksum_path": "raw_dof/airports.checksum",
         "convert": False
     },
     "airspace.geojson": {
-        "url": "https://io-aero.github.io/io-olympus/io-data-sources/data_sources/io-xpa-core/FAA/sua.geojson",
+        "url": "https://raw.githubusercontent.com/io-aero/io-data-sources/main/data_sources/io-xpa-core/FAA/sua.geojson",
         "raw_path": "raw_dof/airspace.geojson",
         "checksum_path": "raw_dof/airspace.checksum",
         "convert": False
@@ -103,23 +103,4 @@ def copy_file(src, dest_name):
 
 def push_to_git():
     subprocess.run(["git", "config", "--global", "user.name", "FAA Bot"])
-    subprocess.run(["git", "config", "--global", "user.email", "faa-bot@example.com"])
-    subprocess.run(["git", "add", "."], cwd=".")
-    subprocess.run(["git", "diff", "--cached", "--quiet"])  # Check if there are changes
-    subprocess.run(["git", "commit", "-m", "Auto-update FAA data"], cwd=".")
-    subprocess.run(["git", "push", "origin", "main"], cwd=".")
-
-# Main pipeline
-updated = False
-for name, info in DATA_SOURCES.items():
-    if download_and_check(name, info):
-        updated = True
-        if info["convert"] and name == "DOF.dat":
-            convert_dof_to_csv()
-        else:
-            copy_file(info["raw_path"], name)
-
-if updated:
-    push_to_git()
-else:
-    print("All data is up to date. No commit needed.")
+    subprocess.run
