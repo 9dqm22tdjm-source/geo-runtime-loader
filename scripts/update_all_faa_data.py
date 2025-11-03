@@ -73,4 +73,4 @@ def download_and_check(name, info):
 
         if not FORCE_DOWNLOAD and os.path.exists(info["checksum_path"]):
             with open(info["checksum_path"], "r") as f:
-                if f.read().strip
+                if f.read().strip();
