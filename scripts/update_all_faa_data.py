@@ -36,16 +36,26 @@ r = requests.get(info["url"], verify=certifi.where())
 if r.status_code != 200:
         print(f"Failed to download {name}")
         return False
+def download_and_check(name, info):
+    print(f"Checking {name}...")
+    r = requests.get(info["url"], verify=certifi.where())
+    if r.status_code != 200:
+        print(f"Failed to download {name}")
+        return False
+
     new_checksum = get_checksum(r.content)
+
     if os.path.exists(info["checksum_path"]):
         with open(info["checksum_path"], "r") as f:
             if f.read().strip() == new_checksum:
                 print(f"No update needed for {name}")
                 return False
+
     with open(info["raw_path"], "wb") as f:
         f.write(r.content)
     with open(info["checksum_path"], "w") as f:
         f.write(new_checksum)
+
     print(f"Downloaded new {name}")
     return True
 
