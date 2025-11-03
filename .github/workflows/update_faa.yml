@@ -15,6 +15,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -37,3 +40,5 @@ jobs:
           git add .
           git diff --cached --quiet || git commit -m "Auto-update FAA data"
           git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
