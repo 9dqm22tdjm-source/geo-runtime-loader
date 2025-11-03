@@ -1,5 +1,9 @@
+import os
+import hashlib
+import requests
 import certifi
-import os, hashlib, requests, csv, subprocess
+import csv
+import subprocess
 
 # URLs for FAA and airport data
 DATA_SOURCES = {
@@ -32,32 +36,31 @@ def get_checksum(content):
 
 def download_and_check(name, info):
     print(f"Checking {name}...")
-r = requests.get(info["url"], verify=certifi.where())
-if r.status_code != 200:
-        print(f"Failed to download {name}")
+    try:
+        r = requests.get(info["url"], verify=certifi.where())
+        if r.status_code != 200:
+            print(f"Failed to download {name}")
+            return False
+
+        new_checksum = get_checksum(r.content)
+
+        if os.path.exists(info["checksum_path"]):
+            with open(info["checksum_path"], "r") as f:
+                if f.read().strip() == new_checksum:
+                    print(f"No update needed for {name}")
+                    return False
+
+        with open(info["raw_path"], "wb") as f:
+            f.write(r.content)
+        with open(info["checksum_path"], "w") as f:
+            f.write(new_checksum)
+
+        print(f"Downloaded new {name}")
+        return True
+
+    except Exception as e:
+        print(f"Error downloading {name}: {e}")
         return False
-def download_and_check(name, info):
-    print(f"Checking {name}...")
-    r = requests.get(info["url"], verify=certifi.where())
-    if r.status_code != 200:
-        print(f"Failed to download {name}")
-        return False
-
-    new_checksum = get_checksum(r.content)
-
-    if os.path.exists(info["checksum_path"]):
-        with open(info["checksum_path"], "r") as f:
-            if f.read().strip() == new_checksum:
-                print(f"No update needed for {name}")
-                return False
-
-    with open(info["raw_path"], "wb") as f:
-        f.write(r.content)
-    with open(info["checksum_path"], "w") as f:
-        f.write(new_checksum)
-
-    print(f"Downloaded new {name}")
-    return True
 
 def convert_dof_to_csv():
     print("Converting DOF.dat to obstacles.csv...")
@@ -73,6 +76,7 @@ def convert_dof_to_csv():
         ("type", 48, 53),
         ("date", 54, 62)
     ]
+
     def parse_line(line):
         return {name: line[start:end].strip() for name, start, end in columns}
 
@@ -90,9 +94,12 @@ def copy_file(src, dest_name):
             fdst.write(fsrc.read())
 
 def push_to_git():
+    subprocess.run(["git", "config", "--global", "user.name", "FAA Bot"])
+    subprocess.run(["git", "config", "--global", "user.email", "faa-bot@example.com"])
     subprocess.run(["git", "add", "."], cwd=".")
+    subprocess.run(["git", "diff", "--cached", "--quiet"])  # Check if there are changes
     subprocess.run(["git", "commit", "-m", "Auto-update FAA data"], cwd=".")
-    subprocess.run(["git", "push"], cwd=".")
+    subprocess.run(["git", "push", "origin", "main"], cwd=".")
 
 # Main pipeline
 updated = False
