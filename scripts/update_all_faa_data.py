@@ -4,6 +4,14 @@ import requests
 import certifi
 import csv
 import subprocess
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+# Setup session with retries and certifi
+session = requests.Session()
+retry = Retry(total=3, backoff_factor=1, status_forcelist=[500, 502, 503, 504])
+adapter = HTTPAdapter(max_retries=retry)
+session.mount("https://", adapter)
 
 # URLs for FAA and airport data
 DATA_SOURCES = {
@@ -37,9 +45,9 @@ def get_checksum(content):
 def download_and_check(name, info):
     print(f"Checking {name}...")
     try:
-        r = requests.get(info["url"], verify=certifi.where())
+        r = session.get(info["url"], verify=certifi.where(), timeout=10)
         if r.status_code != 200:
-            print(f"Failed to download {name}")
+            print(f"Failed to download {name} (status {r.status_code})")
             return False
 
         new_checksum = get_checksum(r.content)
