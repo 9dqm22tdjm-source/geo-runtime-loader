@@ -23,7 +23,7 @@ DATA_SOURCES = {
         "convert": True
     },
     "airports.csv": {
-        "url": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+        "url": "https://ourairports.com/data/airports.csv",
         "raw_path": "raw_dof/airports.csv",
         "checksum_path": "raw_dof/airports.checksum",
         "convert": False
