@@ -1,7 +1,7 @@
 import os, csv
 
 # Folder where your .dat files are stored
-input_folder = "raw_dof"
+input_folder = "scripts/raw_dof"
 output_file = "obstacles.csv"
 
 # Define fixed-width columns from FAA DOF format
@@ -29,4 +29,5 @@ with open(output_file, "w", newline= "") as outfile:
         if filename.endswith(".dat"):
             with open(os.path.join(input_folder, filename), "r") as infile:
                 for line in infile:
+
                     writer.writerow(parse_line(line))
