@@ -17,7 +17,7 @@ session.mount("https://", adapter)
 
 DATA_SOURCES = {
     "DOF.dat": {
-        "url": "https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dof/",
+        "url": "https://aeronav.faa.gov/Obst_Data/DOF_251026.zip",
         "raw_path": "raw_dof/DOF.dat",
         "checksum_path": "raw_dof/DOF.checksum",
         "convert": True
