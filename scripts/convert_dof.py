@@ -30,9 +30,16 @@ def convert():
         print(f"Extracted {ZIP_PATH} to {EXTRACT_TO}")
 
     # Step 2: Parse DOF.dat
-    dat_path = os.path.join(EXTRACT_TO, DAT_FILENAME)
-    if not os.path.exists(dat_path):
-        raise FileNotFoundError(f"Missing extracted DOF.dat: {dat_path}")
+ def find_dof_dat(root):
+    for dirpath, _, filenames in os.walk(root):
+        for f in filenames:
+            if f.lower() == "dof.dat":
+                return os.path.join(dirpath, f)
+    return None
+
+dat_path = find_dof_dat(EXTRACT_TO)
+if not dat_path:
+    raise FileNotFoundError("DOF.dat not found after extraction.")
 
     with open(dat_path, "r") as infile, open(OUTPUT_CSV, "w", newline="") as outfile:
         writer = csv.DictWriter(outfile, fieldnames=[col[0] for col in columns])
@@ -44,3 +51,4 @@ def convert():
 
 if __name__ == "__main__":
     convert()
+
