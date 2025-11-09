@@ -1,26 +1,12 @@
-import os
-import sys
-import hashlib
-import requests
-import certifi
-import csv
-import subprocess
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
-
-FORCE_DOWNLOAD = "--force" in sys.argv
-
-session = requests.Session()
-retry = Retry(total=3, backoff_factor=1, status_forcelist=[500, 502, 503, 504])
-adapter = HTTPAdapter(max_retries=retry)
-session.mount("https://", adapter)
+import os, hashlib, requests, certifi, subprocess
+from convert_dof import convert
 
 DATA_SOURCES = {
-    "DOF.dat": {
+    "DOF_251026.zip": {
         "url": "https://aeronav.faa.gov/Obst_Data/DOF_251026.zip",
-        "raw_path": "raw_dof/DOF.dat",
-        "checksum_path": "raw_dof/DOF.checksum",
-        "convert": True
+        "raw_path": "raw_dof/DOF_251026.zip",
+        "checksum_path": "raw_dof/DOF_251026.checksum",
+        "convert": "dof"
     },
     "airports.csv": {
         "url": "https://ourairports.com/data/airports.csv",
@@ -64,21 +50,18 @@ def get_checksum(content):
 def download_and_check(name, info):
     print(f"Checking {name}...")
     try:
-        r = session.get(info["url"], verify=certifi.where(), timeout=15)
+        r = requests.get(info["url"], verify=certifi.where(), timeout=15)
         if r.status_code != 200:
             print(f"Failed to download {name} (status {r.status_code})")
             return False
 
         new_checksum = get_checksum(r.content)
 
-        if not FORCE_DOWNLOAD and os.path.exists(info["checksum_path"]):
-            try:
-                with open(info["checksum_path"], "r") as f:
-                    if f.read().strip() == new_checksum:
-                        print(f"No update needed for {name}")
-                        return False
-            except Exception as e:
-                print(f"Error reading checksum for {name}: {e}")
+        if os.path.exists(info["checksum_path"]):
+            with open(info["checksum_path"], "r") as f:
+                if f.read().strip() == new_checksum:
+                    print(f"No update needed for {name}")
+                    return False
 
         with open(info["raw_path"], "wb") as f:
             f.write(r.content)
@@ -92,37 +75,11 @@ def download_and_check(name, info):
         print(f"Error downloading {name}: {e}")
         return False
 
-def convert_dof_to_csv():
-    print("Converting DOF.dat to obstacles.csv...")
-    columns = [
-        ("state", 0, 2),
-        ("obstacle_number", 3, 12),
-        ("latitude", 13, 21),
-        ("longitude", 22, 31),
-        ("elevation_agl", 32, 37),
-        ("elevation_amsl", 38, 43),
-        ("lighting", 44, 45),
-        ("marking", 46, 47),
-        ("type", 48, 53),
-        ("date", 54, 62)
-    ]
-
-    def parse_line(line):
-        return {name: line[start:end].strip() for name, start, end in columns}
-
-    with open(DATA_SOURCES["DOF.dat"]["raw_path"], "r") as infile:
-        with open(os.path.join(OUTPUT_DIR, "obstacles.csv"), "w", newline="") as outfile:
-            writer = csv.DictWriter(outfile, fieldnames=[col[0] for col in columns])
-            writer.writeheader()
-            for line in infile:
-                writer.writerow(parse_line(line))
-
 def copy_file(src, dest_name):
     dest_path = os.path.join(OUTPUT_DIR, dest_name)
     if os.path.exists(src):
-        with open(src, "rb") as fsrc:
-            with open(dest_path, "wb") as fdst:
-                fdst.write(fsrc.read())
+        with open(src, "rb") as fsrc, open(dest_path, "wb") as fdst:
+            fdst.write(fsrc.read())
 
 def push_to_git():
     subprocess.run(["git", "config", "--global", "user.name", "FAA Bot"])
@@ -134,15 +91,12 @@ def push_to_git():
 
 updated = False
 for name, info in DATA_SOURCES.items():
-    try:
-        if download_and_check(name, info):
-            updated = True
-            if info["convert"] and name == "DOF.dat":
-                convert_dof_to_csv()
-            else:
-                copy_file(info["raw_path"], name)
-    except Exception as e:
-        print(f"Skipping {name} due to error: {e}")
+    if download_and_check(name, info):
+        updated = True
+        if info["convert"] == "dof":
+            convert()
+        else:
+            copy_file(info["raw_path"], name)
 
 if updated:
     push_to_git()
