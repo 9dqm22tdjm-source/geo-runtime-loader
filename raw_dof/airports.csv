@@ -11482,7 +11482,7 @@
 355368,"AU-0475","heliport","Kingfisher Resort Heliport",-25.390385,153.028994,10,"OC","AU","AU-QLD","Fraser Island","no",,,,"OZHCK",,,
 355370,"AU-0476","heliport","Kooringal Emergency Centre HLS",-27.34917,153.422619,39,"OC","AU","AU-QLD","Kooringal","no",,,,"OZHCM",,,
 355371,"AU-0477","heliport","Karragarra Island Helicopter Landing Site",-27.63619,153.369795,16,"OC","AU","AU-QLD","Karragarra Island","no",,,,"OZHCL",,,
-355440,"AU-0478","closed","Former Shark Bay Airport",-25.88408,113.56393,15,"OC","AU","AU-WA","Denham","no",,,,,,,"DNM, YDHM"
+355440,"AU-0478","closed","Original Shark Bay Airport",-26.047217,113.609533,,"OC","AU","AU-WA","Denham","no",,,,,,,
 355594,"AU-0479","small_airport","Cameron Corner Airstrip",-29.003252,140.994265,366,"OC","AU","AU-QLD","Bollards Lagoon","no",,,,,,,
 356029,"AU-0480","small_airport","Lake Wells Station Airport",-27.28818,123.00507,1506,"OC","AU","AU-WA","Lake Wells","no",,,,,,,
 356175,"AU-0481","closed","Former Ayers Rock Connellan Airport",-25.33723,131.05127,1700,"OC","AU","AU-NT","Mutitjulu","no",,,,,,,
@@ -31621,7 +31621,7 @@
 13313,"IL50","heliport","Memorial Hospital Heliport",40.4092108,-91.1334756,653,"NA","US","US-IL","Carthage","no",,,"IL50","IL50",,,
 18024,"IL51","small_airport","Aero Acres Airport",41.038335,-88.334971,645,"NA","US","US-IL","Dwight","no",,,"IL51","IL51",,,
 18025,"IL52","small_airport","Williams Airport",40.43920135498047,-91.14399719238281,679,"NA","US","US-IL","Carthage","no",,,"IL52","IL52",,,
-18027,"IL54","small_airport","Richmond Airport",40.344200134277344,-90.44280242919922,680,"NA","US","US-IL","Table Grove","no",,,"IL54","IL54",,,
+18027,"IL54","closed","Richmond Airport",40.344137,-90.443977,680,"NA","US","US-IL","Table Grove","no",,,,,,,"IL54"
 18029,"IL56","small_airport","McCulley Airport",40.219462,-88.254182,750,"NA","US","US-IL","Champaign","no",,,"IL56","IL56",,,
 18030,"IL57","small_airport","Cottonwood Airport",40.422000885009766,-89.02059936523438,765,"NA","US","US-IL","Bloomington","no",,,"IL57","IL57",,,
 18032,"IL59","small_airport","Chicago Glider Club Gliderport",41.43199921,-88.24729919,590,"NA","US","US-IL","Channahon","no",,,"IL59","IL59",,,
@@ -54618,7 +54618,7 @@
 34942,"RU-0008","medium_airport","Bada Air Base",51.406917,109.900091,2500,"AS","RU","RU-ZAB","Bada","no",,,"XIAB",,,"https://en.wikipedia.org/wiki/Bada_%28air_base%29",
 34944,"RU-0009","closed","Bakhmutovo Air Base",56.371700286865234,34.08829879760742,699,"EU","RU","RU-TVE","Rzhev","no",,,,,,"https://en.wikipedia.org/wiki/Bakhmutovo",
 34945,"RU-0010","medium_airport","Balashov Air Base",51.533298,43.299999,568,"EU","RU","RU-SAR","Balashov","no",,,,"XWSW",,"https://en.wikipedia.org/wiki/Balashov_%28air_base%29",
-34947,"RU-0011","closed","Kosa (Baltiysk Air Base) (ex. Neutief) (XMKB)",54.60968,19.86842,10,"EU","RU","RU-KGD","Baltiysk (ex. Pillau)","no",,,,,,"https://en.wikipedia.org/wiki/Baltiysk_%28air_base%29","XMKB"
+34947,"RU-0011","closed","Kosa (Baltiysk Air Base) (ex. Neutief) (XMKB)",54.60968,19.86842,10,"EU","RU","RU-KGD","Baltiysk (ex. Pillau)","no",,,,,,"https://en.wikipedia.org/wiki/Baltiysk_%28air_base%29","XMKB, ЬМКБ, Балтийск"
 34949,"RU-0012","closed","Khariusny Air Base (closed)",67.379729,34.215661,427,"EU","RU","RU-MUR","Umbozero","no",,,,,,"https://en.wikipedia.org/wiki/Berezovka_(air_base)","Khariusnaya Airfield, Berezovka Airfield, Umbozero South, Аэродром Хариусный, Аэродром Хариусная, XLMH, ЬЛМХ"
 34950,"RU-0013","closed","Bezrechnaya-2 Air Base",50.75,116.217003,2201,"AS","RU","RU-ZAB","Mirnaya","no",,,,,,"https://en.wikipedia.org/wiki/Bezrechnaya-2","Bezrechnaya, Bezrechnoy, Khodabulak, Khada Bulak North, Mirnaya"
 34953,"RU-0014","medium_airport","Borisoglebsk Air Base",51.366699,42.178299,390,"EU","RU","RU-VOR","Borisoglebsk","no",,,,"XUOB",,"https://en.wikipedia.org/wiki/Borisoglebsk_%28air_base%29","Аэродром Борисоглебск"
@@ -54634,7 +54634,7 @@
 44674,"RU-0024","heliport","Krasnaya Polyana Heliport",43.6765319836,40.206634998300004,,"EU","RU","RU-KDA","Krasnaya Polyana","no",,,,,,,"Вертодром Красная Поляна"
 41839,"RU-0026","closed","Korsakov (Novaya) Air Base",46.709801,142.869995,347,"AS","RU","RU-SAK","Novaya","no",,,,,,,"Otomari Airfield"
 41840,"RU-0027","small_airport","Rybnovsk Airport",53.246007,141.806327,10,"AS","RU","RU-SAK","Rybnovsk","no",,,,"ZB37",,,
-42328,"RU-0028","medium_airport","Kaliningrad Chkalovsk Naval Air Base",54.766602,20.396999,164,"EU","RU","RU-KGD","Kaliningrad","no",,,,,,"https://en.wikipedia.org/wiki/Kaliningrad_Chkalovsk","Chkalovskoye, Tchalov, Proveren"
+42328,"RU-0028","medium_airport","Kaliningrad Chkalovsk Naval Air Base",54.766556,20.396819,164,"AS","RU","RU-KGD","Kaliningrad","no",,,,"XMWB",,"https://en.wikipedia.org/wiki/Kaliningrad_Chkalovsk","ЬМВБ, Чкаловск, Chkalovskoye, Tchalov, Proveren"
 42329,"RU-0029","small_airport","Kansk West Airport",56.20658493041992,95.63624572753906,,"AS","RU","RU-KYA",,"no",,,,,,,
 42331,"RU-0030","closed","Tyukhtet North",56.562099,89.329002,,"AS","RU","RU-KYA","Tyukhtet","no",,,,,,,
 42909,"RU-0031","closed","Khodynka Airport",55.78860092163086,37.52989959716797,502,"EU","RU","RU-MOW","Moscow","no",,,,,,"https://en.wikipedia.org/wiki/Khodynka_Airport","Tsentralny Airport, Аэропорт Центральный"
@@ -54665,8 +54665,8 @@
 43004,"RU-0057","closed","Tarnogskiy Gorodok Airfield",60.5033,43.6017,328,"EU","RU","RU-VLG","Tarnogskiy Gorodok","no",,,,,,"https://en.wikipedia.org/wiki/Tarnogskiy_Gorodok_Airfield","Tarnogsky Gorodok Airport, Tarnoga Airport, Аэропорт Тарногский Городок, Аэропорт Тарнога, УЛВГ, ULWG"
 43005,"RU-0058","small_airport","Tasayevo Airport",57.174999,94.889999,299,"AS","RU","RU-KYA","Tasayevo","no",,,,,,"https://en.wikipedia.org/wiki/Tasayevo_Airport",
 43007,"RU-0059","closed","Alakurtti Naval Air Base",66.973335,30.344999,538,"EU","RU","RU-MUR","Alakurtti","no",,,,,,"https://en.wikipedia.org/wiki/Alakurtti_Air_Base","XLMA"
-43008,"RU-0060","medium_airport","Chernyakhovsk Naval Air Base",54.601665,21.781668,131,"EU","RU","RU-KGD","Chernyakhovsk","no",,,,"XMWH",,"https://en.wikipedia.org/wiki/Chernyakhovsk_(air_base)","Черняхо́вск"
-43009,"RU-0061","heliport","Donskoye Air Base",54.934391,19.982414,135,"EU","RU","RU-KGD","Donskoye","no",,,,,,"https://en.wikipedia.org/wiki/Donskoye_(air_base)","Bryusterort, Donskoe, Gross Dirschkeim"
+43008,"RU-0060","medium_airport","Chernyakhovsk Naval Air Base",54.601676,21.782375,131,"EU","RU","RU-KGD","Chernyakhovsk","no",,,,"XMWH",,"https://en.wikipedia.org/wiki/Chernyakhovsk_(air_base)","ЬМВХ, Черняхо́вск"
+43009,"RU-0061","heliport","Donskoye Air Base",54.934473,19.982303,135,"EU","RU","RU-KGD","Donskoye","no",,,,"XMWD",,"https://en.wikipedia.org/wiki/Donskoye_(air_base)","ЬМВД, Донское, Bryusterort, Donskoe, Gross Dirschkeim"
 44683,"RU-0062","small_airport","Kalinovskaya Airfield",43.599614,45.532849,243,"EU","RU","RU-CE","Kalinovskaya","no",,,,"XRMK",,,"ЬРМК, Аэродром Калиновская"
 43012,"RU-0063","closed","Lakhta Naval Air Base",64.383331,40.716667,102,"EU","RU","RU-ARK","Arkhangelsk","no",,,,,,"https://en.wikipedia.org/wiki/Lakhta_air_base","Kholm, Katunino, Novodvinsk, Lahta, Pervomaysk, XLAL"
 43014,"RU-0064","medium_airport","Ostrov Naval Air Base",57.299999,28.4333,220,"EU","RU","RU-PSK","Ostrov","no",,,,"XLOS",,"https://en.wikipedia.org/wiki/Ostrov_(air_base)","Gorokhovka, Kildin"
@@ -54729,7 +54729,7 @@
 44360,"RU-0121","small_airport","Verkhneimbatsk Airport",63.156939,87.972736,,"EU","RU","RU-KYA","Verkhneimbatsk","no",,,,,,,"Verhneimbatsk Airport, Аэропорт Верхнеимбатск"
 44361,"RU-0122","small_airport","Yalutorovsk Airfield",56.666335,66.248322,209,"AS","RU","RU-TYU","Yalutorovsk","no",,,,"XNTL",,,"ЬНТЛ, Аэродром Ялуторовск"
 44364,"RU-0123","small_airport","Birobidzhan Yuzhniy Airfield",48.583557,133.048811,217,"AS","RU","RU-YEV","Birobidzhan","no",,,"UHHB",,,"https://en.wikipedia.org/wiki/Birobidzhan_Yuzhniy_Airfield","УХХБ, Birobidzhan Yuzhny Airfield, Birobidzhan South Airfield, Zholty Yar Airfield, Zhelty Yar Airfield, Аэропорт Биробиджан Южный, Аэропорт Жёлтый Яр, Аэропорт Желтый Яр"
-44366,"RU-0124","closed","Birofeld Airfield",48.400002,132.783005,,"AS","RU","RU-YEV","Birofeld","no",,,,,,,"Аэродром Бирофельд"
+44366,"RU-0124","closed","Birofeld Airfield",48.400002,132.783005,253,"AS","RU","RU-YEV","Birofeld","no",,,,,,,"ЗЦ2В, Аэродром Бирофельд, ZC2W"
 44370,"RU-0125","medium_airport","Bobrovka Air Base",53.145,50.709999,140,"AS","RU","RU-SAM","Kinel","no",,,"XWWO",,,,"Аэродром Бобровка"
 44378,"RU-0126","small_airport","Borzya Zapadnaya Airfield",50.354,116.260002,,"EU","RU","RU-ZAB","Borzya","no",,,,,,,"Borzya West Airfield, Аэродром Борзя Западная"
 44379,"RU-0127","closed","Bryansk Airport",53.269328,34.336638,702,"EU","RU","RU-BRY","Bryansk","no",,,,,,,"ZA20, ЗА20, Аэропорт Брянск"
@@ -55751,6 +55751,7 @@
 601709,"RU-10133","small_airport","Batushkovo Airfield",56.234781,37.555211,100,"EU","RU","RU-MOS","Batushkovo town","no",,,,,"https://paralet.ru/",,"Batushkovo Airfield, Аэродром Батюшково"
 602171,"RU-10134","small_airport","Valunistoe (airport)",66.421687,177.582464,,"EU","RU","RU-CHU","Rudnik Valunisty","no",,,,,,,
 602186,"RU-10135","small_airport","Main runway of the Valunistoe mining complex",66.764771,164.292313,,"EU","RU","RU-CHU","Vesenny","no",,,,,,,
+602304,"RU-10136","small_airport","airdrome Verkhnee Penzhino Верхнее Пенжино",64.223127,164.242866,1093,"EU","RU","RU-KAM","Penzhinsky District","no",,,,,,,
 526855,"RU-1014","heliport","KS-8 Chikshynskaya",64.906503,56.412424,,"EU","RU","RU-KO","Chikshino","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526856,"RU-1015","heliport","KS-6 Itinskaya",65.93205,60.365549,,"EU","RU","RU-KO","Inta","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526862,"RU-1016","heliport","KS-7 Syninskaya",65.426335,58.40096,,"AS","RU","RU-KO","Synya","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
@@ -60079,7 +60080,7 @@
 40993,"SK-007","small_airport","Indira Airport",7.943978,-76.696973,20,"SA","CO","CO-ANT","Turbo","no",,,,"INA",,,"Villanueva 2"
 323648,"SK-0070","small_airport","Mokraď Airstrip",49.096416,19.733499,2589,"EU","SK","SK-ZI","Jakubovany","no",,,,,,,"Agria"
 323742,"SK-0071","small_airport","Klčov Airstrip",48.994162,20.664952,,"EU","SK","SK-PV","Klčov","no",,,,,,,
-323872,"SK-0072","small_airport","Komoča ULM",47.97054,18.040467,,"EU","SK","SK-NJ","Komoča","no",,,,"LZKOMO",,,
+323872,"SK-0072","small_airport","Komoča ULM",47.97054,18.040467,,"EU","SK","SK-NJ","Komoča","no","LZKA",,,"LZKOMO",,,
 323952,"SK-0073","small_airport","Vankovia Airstrip",48.7640939,17.526797,,"EU","SK","SK-TC","Vankovia","no",,,,,,,
 324049,"SK-0074","small_airport","Rozhanovce Airstrip",48.751817,21.328326,656,"EU","SK","SK-KI","Rozhanovce","no",,,,,,,
 324146,"SK-0075","small_airport","Tomášovce Airstrip",48.35997,19.642739,,"EU","SK","SK-BC","Tomášovce","no",,,,,,,
@@ -65185,7 +65186,7 @@
 3549,"UA30","medium_airport","Batken Airport",40.042899,70.83784,3602,"AS","KG","KG-B","Batken","yes","UCFB",,"UCFB",,"http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6","https://en.wikipedia.org/wiki/Batken_Airport","UAFB, Баткен"
 3964,"UA34","small_airport","Chardara Airport",41.2765007019043,67.97100067138672,709,"AS","KZ","KZ-YUZ","Shardara","no",,,"UA34","UA34",,,
 3966,"UA36","small_airport","Lugovoy Airport",42.972565,72.728051,2130,"AS","KZ","KZ-ZHA","Lugovoy","no",,,"UA36","XAAL",,,
-26413,"UA66","small_airport","Chirchik Airport",41.5168,69.575401,2296,"AS","UZ","UZ-TO","Chirchik","no",,,"UTTC","UA66",,,
+26413,"UA66","small_airport","Chirchik Airport",41.512264,69.574699,2296,"AS","UZ","UZ-TO","Chirchik","no","UZTC",,"UZTC",,,,"UTTC, UA66"
 6421,"UAAA","large_airport","Almaty International Airport",43.354267,77.042828,2234,"AS","KZ","KZ-ALA","Almaty","yes","UAAA","ALA","UAAA",,,"https://en.wikipedia.org/wiki/Almaty_International_Airport","Alma Ata"
 6422,"UAAH","medium_airport","Balkhash Airport",46.894246,75.004533,1446,"AS","KZ","KZ-KAR","Balkhash","yes","UAAH","BXH","UAAH",,,"https://en.wikipedia.org/wiki/Balkhash_Airport","Balqash"
 318380,"UAAL","small_airport","Usharal Airport",46.190767,80.830922,1288,"AS","KZ","KZ-JET","Usharal","yes","UAAL","USJ","UAAL",,,"https://en.wikipedia.org/wiki/Usharal_Airport","Enbekshi Airport"
@@ -65665,7 +65666,7 @@
 42924,"URMG","medium_airport","Grozny Airport",43.388106,45.699772,548,"EU","RU","RU-CE","Grozny","yes","URMG","GRV","URMG",,,"https://en.wikipedia.org/wiki/Grozny_Airport","Grozny North, Grozny Severny, Grozny, Аэропорт Грозный Северный, Аэропорт Грозный"
 6513,"URML","medium_airport","Makhachkala Uytash International Airport",42.816799,47.652302,12,"EU","RU","RU-DA","Makhachkala","yes","URML","MCX","URML",,,"https://en.wikipedia.org/wiki/Uytash_airport",
 6514,"URMM","medium_airport","Mineralnyye Vody Airport",44.225101470947266,43.08190155029297,1054,"EU","RU","RU-STA","Mineralnyye Vody","yes","URMM","MRV","URMM",,,"https://en.wikipedia.org/wiki/Mineralnye_Vody_Airport",
-6515,"URMN","medium_airport","Nalchik Airport",43.512901306152344,43.636600494384766,1461,"EU","RU","RU-KB","Nalchik","yes","URMN","NAL","URMN",,,"https://en.wikipedia.org/wiki/Nalchik_Airport",
+6515,"URMN","medium_airport","Nalchik Airport",43.512901,43.6366,1461,"EU","RU","RU-KB","Nalchik","yes","URMN","NAL","URMN",,,"https://en.wikipedia.org/wiki/Nalchik_Airport","УРМН, Нальчик"
 6516,"URMO","medium_airport","Vladikavkaz Beslan International Airport",43.205101,44.606602,1673,"EU","RU","RU-SE","Beslan","yes","URMO","OGZ","URMO",,,"https://en.wikipedia.org/wiki/Beslan_Airport","Beslan Airport, Аэропорт Беслан, Аэропорт Владикавказ"
 43689,"URMS","medium_airport","Magas Airport",43.323268,45.012568,1165,"AS","RU","RU-IN","Sunzha","yes","URMS","IGT","URMS",,,"https://en.wikipedia.org/wiki/Magas_Airport","Sleptsovskaya Airport, Ingushetiya Airport, Ingushetia Airport, Аэропорт Магас, Аэропорт Слепцовская, Аэропорт Ингушетия, Nazran"
 6517,"URMT","medium_airport","Stavropol Shpakovskoye Airport",45.10919952392578,42.11280059814453,1486,"EU","RU","RU-STA","Stavropol","yes","URMT","STW","URMT",,,"https://en.wikipedia.org/wiki/Stavropol_Shpakovskoye_Airport",
@@ -78886,7 +78887,7 @@
 41797,"UZ-0109","closed","Kukaral Sedmoy Airport",40.652401,69.197197,1039,"AS","UZ","UZ-TO","Kukaral","no",,,,,,,
 41798,"UZ-0110","closed","Quvvacha Airport",39.498299,63.711498,630,"AS","UZ","UZ-BU","Quvvacha","no",,,,,,,"Kuvacha"
 41799,"UZ-0111","closed","Kuvasay North Airport",40.379501,71.976097,2196,"AS","UZ","UZ-FA","Ualik","no",,,,,,,
-41800,"UZ-0112","small_airport","Malekskaya Airport",40.709064,68.581698,865,"AS","UZ","UZ-SI","Malekskaya","no",,,,,,,
+41800,"UZ-0112","small_airport","Malekskaya Airport",40.709064,68.581698,865,"AS","KZ","KZ-U-A","Malekskaya","no",,,,,,,
 41801,"UZ-0113","closed","Margelan Airport",40.441502,71.6745,1593,"AS","UZ","UZ-FA","Margelan","no",,,,,,,
 41802,"UZ-0114","closed","Matlha Airport",40.377899,69.183098,930,"AS","UZ","UZ-TO","Parchayuz","no",,,,,,,
 41803,"UZ-0115","closed","Mitan Airport",39.980301,66.560303,1711,"AS","UZ","UZ-SA","Kara Darya","no",,,,,,,
@@ -81283,7 +81284,6 @@
 26224,"XA99","small_airport","Flat Bush Airport",33.1343994140625,-97.60700225830078,862,"NA","US","US-TX","Decatur","no",,,"XA99","XA99",,,
 512274,"XAAP","small_airport","Priozerny Air Base",47.825,83.642,,"AS","KZ","KZ-U-A",,"no",,,"XAAP",,,,
 317272,"XBB","seaplane_base","Blubber Bay Seaplane Base",49.793958,-124.621064,0,"NA","CA","CA-BC","Blubber Bay","no",,"XBB",,,,,
-596510,"XCBA","medium_airport","Ok365comdev",10,12,12,"AS","VN","VN-NC","Hồ Chí Minh","yes","CCAA",,"XCBA","CA12","https://ok365com.dev/nap-tien-ok365/",,
 317829,"XIG","small_airport","Xinguara Municipal Airport",-7.0906,-49.9765,810,"SA","BR","BR-PA","Xinguara","no",,"XIG","SWSX","PA0150",,"https://en.wikipedia.org/wiki/Xinguara_Municipal_Airport",
 316471,"XK-0001","closed","Ferizaj Airfield",42.346508,21.194129,1916,"EU","XK","XK-05","Ferizaj","no",,,,,,"https://en.wikipedia.org/wiki/Camp_Bondsteel","Kaçanik Agricultural Airport"
 351080,"XK-0002","closed","Krusheva Airfield",42.63982,20.50275,1634,"EU","XK","XK-03","Jagodë","no",,,,,,,"Aeroporti Bujqësor Jagodë"
