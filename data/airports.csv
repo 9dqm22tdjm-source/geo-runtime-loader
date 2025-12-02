@@ -11797,6 +11797,7 @@
 601972,"AU-0791","closed","Jondaryan Airfield",-27.220673,151.605234,,"OC","AU","AU-QLD",,"no",,,,,,,
 602002,"AU-0792","closed","Irvingdale Airfield",-27.178493,151.510895,,"OC","AU","AU-QLD",,"no",,,,,,,
 602260,"AU-0793","closed","Old Maroochydore Aerodrome",-26.659521,153.096972,,"OC","AU","AU-QLD","Maroochydore","no",,,,,,,
+602365,"AU-0794","closed","Mooloolaba Airstrip",-26.691696,153.106713,,"OC","AU","AU-QLD","Mooloolaba","no",,,,,,,
 30622,"AU-AGW","small_airport","Agnew Airport",-12.1456,142.149369,160,"OC","AU","AU-QLD","Agnew","no",,"AGW","YAGN",,,"https://en.wikipedia.org/wiki/Agnew_Airport",
 30666,"AU-AYD","small_airport","Alroy Downs Airport",-19.2908,136.078995,711,"OC","AU","AU-NT","Alroy Downs","no",,"AYD","YALD",,,,
 30808,"AU-BYX","small_airport","Baniyala Airport",-13.1981,136.227005,20,"OC","AU","AU-NT","Baniyala","no",,"BYX","YBNI",,,,
@@ -13319,7 +13320,7 @@
 329782,"BR-0385","closed","Gravatá Heliport",-8.187697,-35.497589,141,"SA","BR","BR-PE","Gravatá","no",,,,,,,"SDIJ, PE0022"
 329783,"BR-0386","small_airport","Clube CÉU Airport",-22.96126,-43.659414,49,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SIAN","RJ0020",,,"Armando Nogueira Airfield"
 330639,"BR-0387","small_airport","Fazenda Poças Airport",-16.161389,-56.007778,456,"SA","BR","BR-MT","Santo Antônio do Leverger","no",,,"SWXS","MT0432",,,
-330640,"BR-0388","heliport","Interpolos Heliport",-26.847613,-49.267606,210,"SA","BR","BR-SC","Timbó","no",,,"SSIP","SSIP",,,
+330640,"BR-0388","heliport","Interpolos Heliport",-26.847613,-49.267606,210,"SA","BR","BR-SC","Timbó","no",,,"SSIP","SC0092",,,
 330642,"BR-0389","heliport","Hospital Regional do Sertão Central Heliport",-5.181512,-39.261732,768,"SA","BR","BR-CE","Quixeramobim","no",,,"SJQE","SJQE",,,
 330753,"BR-0390","heliport","Condomínio Edifício Paulista Plaza Heliport",-23.57361,-46.641769,2913,"SA","BR","BR-SP","São Paulo","no",,,"SIGO","SP0495",,,
 330755,"BR-0391","small_airport","Pista Fogoió",-5.359444,-57.520007,390,"SA","BR","BR-PA","Itaituba","no",,,"SNFG","PA0089",,,
@@ -15845,7 +15846,7 @@
 37500,"BR-2933","small_airport","Fazenda Paraíso Airport",-20.562363,-54.864178,1280,"SA","BR","BR-MS","Terenos","no",,,,,,,"SSHQ"
 37504,"BR-2934","small_airport","Fazenda Macaraí Airport",-23.413937,-54.013517,1056,"SA","BR","BR-MS","Itaquiraí","no",,,,,,,"SSHW"
 37505,"BR-2935","small_airport","Fazenda Primavera",-19.480568,-52.798395,1574,"SA","BR","BR-MS","Água Clara","no",,,,"SSIB",,,"SSIB, Fazenda Suely, SWPJ."
-37508,"BR-2936","small_airport","Fazenda Santa Maria Airport",-20.267874,-55.73184,617,"SA","BR","BR-MS","Aquidauana","no",,,,"SSIG",,,"SSIG"
+37508,"BR-2936","small_airport","Fazenda Santa Maria Airport",-20.267874,-55.73184,617,"SA","BR","BR-MS","Aquidauana","no",,,,,,,"SSIG"
 37511,"BR-2937","small_airport","Boqueirão Alegre Airport",-30.254004,-55.846174,732,"SA","BR","BR-RS","Quaraí","no",,,,"SSIM",,,"SSIM"
 37512,"BR-2938","small_airport","Candiota Airport",-31.494167327881,-53.69083404541,741,"SA","BR","BR-RS","Candiota","no",,,,"SSIO",,,"SSIO"
 37516,"BR-2939","small_airport","Fazenda Experimental Airport",-22.295927,-53.848994,1194,"SA","BR","BR-MS","Ivinhema","no",,,,,,,"SSIV"
@@ -43807,7 +43808,7 @@
 43811,"LOAP","heliport","Waidhofen an der Ybbs Hospital Helipad",47.952692,14.788011,1279,"EU","AT","AT-3","Waidhofen an der Ybbs","no","LOAP",,"LOAP",,,,
 28137,"LOAR","small_airport","Altlichtenwarth Gliderfield",48.6661,16.825,604,"EU","AT","AT-3","Altlichtenwarth","no",,,"LOAR",,"http://www.loar.at/","https://de.wikipedia.org/wiki/Flugplatz_Altlichtenwarth","Flugplatz Altlichtenwarth, Segelflugfeld Altlichtenwarth"
 29447,"LOAS","small_airport","Spitzerberg Airfield",48.099157,16.933527,623,"EU","AT","AT-3","Hundsheim","no","LOAS",,"LOAS",,,"https://en.wikipedia.org/wiki/Spitzerberg_Airport","Flugsportzentrum Spitzerberg"
-598719,"LOAT","heliport","Wiener Neustadt Air Police Base",47.835453,16.208776,927,"EU","AT","AT-3","Wiener Neustadt","no",,,"LOAT",,"https://noe.orf.at/stories/3272377/",,
+598719,"LOAT","heliport","Wiener Neustadt Air Police Base",47.83532,16.208975,927,"EU","AT","AT-3","Wiener Neustadt","no",,,"LOAT",,"https://noe.orf.at/stories/3272377/",,
 29448,"LOAU","small_airport","Stockerau Airfield",48.409121,16.191015,686,"EU","AT","AT-3","Stockerau","no","LOAU",,"LOAU",,,"https://en.wikipedia.org/wiki/Stockerau_Airfield",
 28136,"LOAV","small_airport","Vöslau-Kottingbrunn Airfield",47.965,16.26,765,"EU","AT","AT-3","Bad Vöslau","no","LOAV",,"LOAV",,"http://www.loav.at/","https://en.wikipedia.org/wiki/V%C3%B6slau_Airfield",
 514802,"LOBD","heliport","Donaustadt Hospital Heliport",48.21892,16.46347,,"EU","AT","AT-9","Wien","no",,,"LOBD","LOBD",,,
@@ -62415,23 +62416,23 @@
 37498,"SSHM","heliport","Hospital Moinho de Vento Heliport",-30.024444580078125,-51.21110916137695,253,"SA","BR","BR-RS","Porto Alegre","no",,,"SSHM",,,,
 37499,"SSHN","small_airport","Recanto das Águias Airport",-23.2450008392334,-51.87555694580078,1637,"SA","BR","BR-PR","Iguaraçu","no",,,"SSHN",,,,
 342514,"SSHO","heliport","Hospital Santa Rita Helipad",-7.126055,-34.946861,213,"SA","BR","BR-PB","Santa Rita","no",,,"SSHO","PB0019",,,
-37501,"SSHR","heliport","Horus Heliport",-26.33194351196289,-48.84916687011719,62,"SA","BR","BR-SC","Joinville","no",,,"SSHR",,,,
+37501,"SSHR","closed","Horus Heliport",-26.331964,-48.848045,43,"SA","BR","BR-SC","Joinville","no",,,,,,,"SSHR, SC0091"
 37502,"SSHS","heliport","Helisul IV Heliport",-25.612929,-54.481528,689,"SA","BR","BR-PR","Foz do Iguaçu","no",,,"SSHS","PR0136",,,
 46119,"SSHT","small_airport","Ingazeira Airport",-10.1304620248,-56.7186355591,853,"SA","BR","BR-MT","Alta Floresta","no",,,"SSHT",,,,
 37503,"SSHU","small_airport","Fazenda Centenário Airport",-19.45805549621582,-56.0452766418457,426,"SA","BR","BR-MS","Aquidauana","no",,,"SSHU",,,,
 342516,"SSHV","small_airport","Fazenda Genipapo Airport",-17.724468,-44.61594,1923,"SA","BR","BR-MG","Várzea da Palma","no",,,"SSHV","MG0183",,,
-462,"SSHX","small_airport","Aeródromo de Fazenda Jatobá",-23.9238,-55.301899,1335,"SA","BR","BR-MS","Paranhos","no",,,"SSHX","SSHX",,,
-463,"SSHZ","small_airport","Walter Bündchen Airport",-27.6383,-54.3391,1063,"SA","BR","BR-RS","Horizontina","no","SSHZ","HRZ","SSHZ","SSHZ",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Horizontina",
+462,"SSHX","small_airport","Aeródromo de Fazenda Jatobá",-23.922994,-55.300022,1335,"SA","BR","BR-MS","Paranhos","no",,,"SSHX","MS0285",,,
+463,"SSHZ","small_airport","Walter Bündchen Airport",-27.6383,-54.3391,1063,"SA","BR","BR-RS","Horizontina","no","SSHZ","HRZ","SSHZ","RS0037",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Horizontina",
 342522,"SSIA","small_airport","Fazenda Ipê Airport",-8.427943,-45.310246,1739,"SA","BR","BR-PI","Baixa Grande do Ribeiro","no",,,"SSIA","PI0037",,,
-37506,"SSIC","small_airport","APLIC Aviação Agrícola Ltda Airport",-22.30666732788086,-54.82444381713867,1405,"SA","BR","BR-MS","Dourados","no",,,"SSIC",,,,
+37506,"SSIC","small_airport","APLIC Aviação Agrícola Ltda Airport",-22.306667,-54.824444,1405,"SA","BR","BR-MS","Dourados","no",,,"SSIC","MS0286",,,
 37507,"SSIE","small_airport","Teruel Ipanema Estância Airport",-20.604145,-54.59553,1732,"SA","BR","BR-MS","Campo Grande","no",,,"SSIE","MS0002",,,
-465,"SSIF","small_airport","Fazenda Baunilha Airport",-23.560300827026367,-54.03390121459961,970,"SA","BR","BR-MS","Itaquiraí","no",,,"SSIF","SSIF",,,
+465,"SSIF","small_airport","Fazenda Baunilha Airport",-23.562109,-54.030358,958,"SA","BR","BR-MS","Itaquiraí","no",,,"SSIF","MS0287",,,
 37509,"SSIH","small_airport","Fazenda Fortaleza Airport",-20.946947,-52.721681,1296,"SA","BR","BR-MS","Brasilândia","no",,,"SNYF","MS0240",,,"SSIH"
 466,"SSIJ","small_airport","João Batista Bos Filho Airport",-28.368711,-53.846568,1197,"SA","BR","BR-RS","Ijuí","no","SSIJ","IJU","SSIJ","RS0032",,"https://en.wikipedia.org/wiki/Iju%C3%AD_Airport",
 354167,"SSIK","heliport","VIVO Heliport",-23.465628,-46.857891,2526,"SA","BR","BR-SP","Santana de Parnaíba","no",,,"SSIK","SP0751",,,
 354166,"SSIN","heliport","Sítio Costa dos Calhaus Heliport",-23.216775,-44.633209,361,"SA","BR","BR-RJ","Paraty","no",,,"SSIN","RJ0145",,,
 37513,"SSIP","small_airport","Fazenda Santa Otília Airport",-21.186742,-57.043427,833,"SA","BR","BR-MS","Porto Murtinho","no",,,"SI8B","MS0601",,,"SSIP, SWXR"
-29983,"SSIQ","small_airport","Itaqui Airport",-29.173099517822266,-56.53670120239258,230,"SA","BR","BR-RS","Itaqui","no","SSIQ","ITQ","SSIQ",,,,
+29983,"SSIQ","small_airport","Itaqui Airport",-29.171981,-56.538343,230,"SA","BR","BR-RS","Itaqui","no","SSIQ","ITQ","SSIQ","RS0045",,,
 37514,"SSIR","small_airport","Ibirubá Airport",-28.604168,-53.078888,1499,"SA","BR","BR-RS","Ibirubá","no",,,"SSIR","RS0049",,,
 30264,"SSIS","small_airport","Major José Ignácio Airport",-22.047778,-48.097222,1962,"SA","BR","BR-SP","Ibaté","no",,,"SSIS",,,,
 45619,"SSIT","heliport","Issaig I Heliport",-28.702032,-49.303132,89,"SA","BR","BR-SC","Içara","no",,,"SSIU","SC0093",,,"SSIT"
