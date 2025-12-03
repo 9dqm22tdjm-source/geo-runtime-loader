@@ -12926,7 +12926,7 @@
 351497,"BO-0015","small_airport","Nueva Esperanza Airport",-10.05245,-65.33933,344,"SA","BO","BO-N","Nueva Esperanza","no",,,,,,,
 429703,"BO-0016","heliport","Villa Alota Heliport",-21.40185,-67.59456,,"SA","BO","BO-P","Villa Alota","no",,,,,,,
 429704,"BO-0017","heliport","Culpina K Heliport",-21.26314,-67.22413,,"SA","BO","BO-P","Culpina K","no",,,,,,,
-525733,"BO-0018","small_airport","Carol Marghata Airport",-17.43685,-62.34296,885,"SA","BO","BO-S",,"no",,,"SLCH",,,,
+525733,"BO-0018","small_airport","Carol Marghata Airport",-17.436598,-62.340674,885,"SA","BO","BO-S",,"no",,,"SLCH",,,,
 534873,"BO-0019","small_airport","Pepinalito Airstrip",-18.839831,-64.620142,8136,"SA","BO","BO-H","Redención Pampa","no",,,,,,,
 39415,"BO-0020","closed","Abapó Airport",-18.63447,-62.936735,2752,"SA","BO","BO-S","Abapó","no",,,,,,,"SLAB, SLAB"
 39538,"BO-0021","small_airport","San Juan Estancias Airport",-14.162648,-64.759276,820,"SA","BO","BO-B","Cercado","no",,,,"SLJN",,,"SLJN"
@@ -32506,7 +32506,7 @@
 298761,"IT-0032","small_airport","Il Grifo Airfield",38.637255,15.94775,630,"EU","IT","IT-78","Drapia (VV)","no",,,,"VVZUN","http://www.aeroclubilgrifo.it",,"Campo di Volo Il Grifo"
 308290,"IT-0033","heliport","Castel Gandolfo Heliport",41.732928,12.658055,,"EU","IT","IT-62","Castel Gandolfo","no",,,,,,,
 308668,"IT-0034","small_airport","Giancarlo Filippi Airfield",44.414367,7.811279,1411,"EU","IT","IT-21","Mondovì (CN)","no",,,,"CN13","http://www.gruppoaeromodellisticomonregalese.it/chi_siamo.htm",,"Aviosuperficie Giancarlo Filippi"
-308671,"IT-0035","small_airport","Ivrea Montalto Dora Airfield",45.487546,7.84323,807,"EU","IT","IT-21","Montalto Dora (TO)","no",,,,"TO10","http://www.voloalto.altervista.org/",,"Aviosuperficie Ivrea Montalto Dora"
+308671,"IT-0035","small_airport","Ivrea Montalto Dora Airfield",45.487546,7.84323,810,"EU","IT","IT-21","Montalto Dora (TO)","no",,,,"TO10","http://www.voloalto.altervista.org/",,"Aviosuperficie Ivrea Montalto Dora"
 324597,"IT-0036","closed","Cassibile Airfield",36.981791,15.239755,58,"EU","IT","IT-82","Syracuse","no",,,,,,"https://en.wikipedia.org/wiki/Cassibile_Airfield",
 308673,"IT-0037","small_airport","Merlo Romano Airfield",44.834433,7.363565,1000,"EU","IT","IT-21","Garzigliana (TO)","no",,,,"TOGAR",,,"Aviosuperficie Merlo Romano"
 308674,"IT-0038","small_airport","Aviosuperficie Acqui Terme",44.677488,8.50124,430,"EU","IT","IT-21","Acqui Terme (AL)","no",,,,"ALACQ","http://www.albatrospara.it/associazione/base.php","https://it.wikipedia.org/wiki/Aviosuperficie_Acqui_Terme",
@@ -32520,7 +32520,7 @@
 308682,"IT-0046","closed","Cascina Grecia Airfield",45.353622,7.792997,354,"EU","IT","IT-21","Cuceglio (TO)","no",,,,,,,
 308683,"IT-0047","small_airport","Cascina Valentino Airfield",44.69544,7.40242,280,"EU","IT","IT-21","Envie (CN)","no",,,,"CNENV","http://www.aeromedia.it/envie.html",,"Aviosuperficie Cascina Valentino"
 308684,"IT-0048","small_airport","Castelnuovo Don Bosco Airfield",45.024444,7.966389,730,"EU","IT","IT-21","Castelnuovo Don Bosco (AT)","no",,,"LILF","AT06","http://www.aviocastelnuovo.it/",,"ICP, Aviosuperficie Castelnuovo Don Bosco"
-308685,"IT-0049","small_airport","Chavez-Marini Airfield",46.134167,8.306333,912,"EU","IT","IT-21","Masera (VB)","no",,,,"VBMAS",,,"Aviosuperficie Chavez-Marini"
+308685,"IT-0049","small_airport","Chavez-Marini Airfield",46.134167,8.306333,922,"EU","IT","IT-21","Masera (VB)","no",,,,"VBMAS",,,"VB01, Aviosuperficie Chavez-Marini"
 308686,"IT-0050","small_airport","Cossato Airfield",45.531909,8.201143,804,"EU","IT","IT-21","Cossato (BI)","no",,,,,,,
 308687,"IT-0051","small_airport","Cumiana Airfield",44.939043,7.428925,984,"EU","IT","IT-21","Cumiana (TO)","no",,,,"TOCUM",,,"Aviosuperficie Cumiana, Sky Dream Center"
 308688,"IT-0052","small_airport","Aviosuperficie Francavilla Bisio",44.729868,8.730075,525,"EU","IT","IT-21","Francavilla Bisio (AL)","no",,,,"ALFVB",,,
@@ -55755,6 +55755,7 @@
 602171,"RU-10134","small_airport","Valunistoe (airport)",66.421687,177.582464,,"EU","RU","RU-CHU","Rudnik Valunisty","no",,,,,,,
 602186,"RU-10135","small_airport","Main runway of the Valunistoe mining complex",66.764771,164.292313,,"EU","RU","RU-CHU","Vesenny","no",,,,,,,
 602304,"RU-10136","small_airport","airdrome Verkhnee Penzhino Верхнее Пенжино",64.223127,164.242866,1093,"EU","RU","RU-KAM","Penzhinsky District","no",,,,,,,
+602372,"RU-10137","closed","Staroe Churilino Airport",56.00922,49.73845,498,"EU","RU","RU-TA","Staroe Churilino","no",,,,,,,"ZE5G, Старое Чурилино, бывший, А́рский райо́н"
 526855,"RU-1014","heliport","KS-8 Chikshynskaya",64.906503,56.412424,,"EU","RU","RU-KO","Chikshino","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526856,"RU-1015","heliport","KS-6 Itinskaya",65.93205,60.365549,,"EU","RU","RU-KO","Inta","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526862,"RU-1016","heliport","KS-7 Syninskaya",65.426335,58.40096,,"AS","RU","RU-KO","Synya","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
