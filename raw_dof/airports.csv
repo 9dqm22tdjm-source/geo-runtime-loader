@@ -12926,7 +12926,7 @@
 351497,"BO-0015","small_airport","Nueva Esperanza Airport",-10.05245,-65.33933,344,"SA","BO","BO-N","Nueva Esperanza","no",,,,,,,
 429703,"BO-0016","heliport","Villa Alota Heliport",-21.40185,-67.59456,,"SA","BO","BO-P","Villa Alota","no",,,,,,,
 429704,"BO-0017","heliport","Culpina K Heliport",-21.26314,-67.22413,,"SA","BO","BO-P","Culpina K","no",,,,,,,
-525733,"BO-0018","small_airport","Carol Marghata Airport",-17.436598,-62.340674,885,"SA","BO","BO-S",,"no",,,"SLCH",,,,
+525733,"BO-0018","small_airport","Carol Marghata Airport",-17.436598,-62.340674,885,"SA","BO","BO-S",,"no","SLCH",,"SLCH",,,,
 534873,"BO-0019","small_airport","Pepinalito Airstrip",-18.839831,-64.620142,8136,"SA","BO","BO-H","Redención Pampa","no",,,,,,,
 39415,"BO-0020","closed","Abapó Airport",-18.63447,-62.936735,2752,"SA","BO","BO-S","Abapó","no",,,,,,,"SLAB, SLAB"
 39538,"BO-0021","small_airport","San Juan Estancias Airport",-14.162648,-64.759276,820,"SA","BO","BO-B","Cercado","no",,,,"SLJN",,,"SLJN"
@@ -38929,7 +38929,7 @@
 19784,"KEWK","small_airport","Newton City-County Airport",38.058200836199994,-97.2744979858,1533,"NA","US","US-KS","Newton","no","KEWK","EWK","KEWK","EWK","http://www.newtonkansas.com/index.aspx?page=40","https://en.wikipedia.org/wiki/Newton_City/County_Airport",
 3520,"KEWN","medium_airport","Coastal Carolina Regional Airport",35.0730018616,-77.04290008539999,18,"NA","US","US-NC","New Bern","yes","KEWN","EWN","KEWN","EWN",,"https://en.wikipedia.org/wiki/Craven_County_Regional_Airport",
 3521,"KEWR","large_airport","Newark Liberty International Airport",40.692501,-74.168701,18,"NA","US","US-NJ","Newark","yes","KEWR","EWR","KEWR","EWR","http://www.panynj.gov/CommutingTravel/airports/html/newarkliberty.html","https://en.wikipedia.org/wiki/Newark_Liberty_International_Airport","Manhattan, New York City, NYC"
-19785,"KEXX","small_airport","Davidson County Executive Airport",35.781101,-80.303802,733,"NA","US","US-NC","Lexington","no",,,"KEXX","EXX",,"https://en.wikipedia.org/wiki/Davidson_County_Airport",
+19785,"KEXX","small_airport","Davidson County Executive Airport",35.781101,-80.303802,733,"NA","US","US-NC","Lexington","no",,,"KEXX","EXX","https://flyhighlexington.com/","https://en.wikipedia.org/wiki/Davidson_County_Airport",
 19786,"KEYE","small_airport","Eagle Creek Airpark",39.830699920654,-86.294403076172,823,"NA","US","US-IN","Indianapolis","no",,,"KEYE","EYE",,"https://en.wikipedia.org/wiki/Eagle_Creek_Airpark","I14"
 19787,"KEYF","small_airport","Curtis L Brown Jr Field",34.60179901,-78.57929993,131,"NA","US","US-NC","Elizabethtown","no",,,"KEYF","EYF","http://elizabethtownairport.org/","https://en.wikipedia.org/wiki/Curtis_L._Brown_Jr._Field","4W1"
 3522,"KEYW","medium_airport","Key West International Airport",24.556101,-81.759598,3,"NA","US","US-FL","Key West","yes","KEYW","EYW","KEYW","EYW",,"https://en.wikipedia.org/wiki/Key_West_International_Airport",
@@ -60744,7 +60744,7 @@
 308902,"SL-0003","heliport","UN Aviation Heliport",8.48768473679,-13.288103342100001,,"AF","SL","SL-W",,"no",,,,,,,
 30799,"SL-0004","closed","Sherbro International Airport",7.53242,-12.5189,14,"AF","SL","SL-S","Bonthe","yes",,,,,,"https://en.wikipedia.org/wiki/Sherbro_International_Airport","Bonthe Airport, GFBN, BTE"
 32321,"SLAG","small_airport","Monteagudo Airport",-19.827,-63.960999,3674,"SA","BO","BO-H","El Bañado","no","SLAG","MHW","SLAG",,,"https://en.wikipedia.org/wiki/Monteagudo_Airport",
-333229,"SLAL","medium_airport","Alcantarí Airport",-19.246835,-65.149611,10184,"SA","BO","BO-H","Yamparaez","yes",,"SRE","SLAL",,,"https://en.wikipedia.org/wiki/Alcantar%C3%AD_Airport",
+333229,"SLAL","medium_airport","Alcantarí Airport",-19.246835,-65.149611,10184,"SA","BO","BO-H","Sucre","yes","SLAL","SRE","SLAL",,,"https://en.wikipedia.org/wiki/Alcantar%C3%AD_Airport","Yamparaez"
 39418,"SLAM","small_airport","Arampampa Airport",-17.883333,-66.099998,10250,"SA","BO","BO-P","Gral. Ballivian","no",,,"SLAM",,,"https://en.wikipedia.org/wiki/Arampampa_Airport",
 39417,"SLAN","small_airport","Angora Airport",-14.4323,-65.768799,731,"SA","BO","BO-B","Ballivian","no",,,"SLAN",,,"https://en.wikipedia.org/wiki/Angora_Airport",
 29662,"SLAP","small_airport","Apolo Airport",-14.7356,-68.411903,4639,"SA","BO","BO-L","Apolo","no","SLAP","APB","SLAP",,,"https://en.wikipedia.org/wiki/Apolo_Airport",
@@ -60761,9 +60761,9 @@
 39557,"SLBV","small_airport","Villa Vista Montano Airport",-13.85,-66.366669,519,"SA","BO","BO-B","De Montaño","no",,,"SLBV",,,"https://en.wikipedia.org/wiki/Villa_Vista_Airport",
 29751,"SLCA","small_airport","Camiri Airport",-20.00656,-63.527827,2614,"SA","BO","BO-S","Camiri","no","SLCA","CAM","SLCA",,,"https://en.wikipedia.org/wiki/Camiri_Airport",
 6180,"SLCB","medium_airport","Jorge Wilsterman International Airport",-17.421100616455078,-66.1771011352539,8360,"SA","BO","BO-C","Cochabamba","yes","SLCB","CBB","SLCB",,,"https://en.wikipedia.org/wiki/Jorge_Wilstermann_International_Airport",
-29802,"SLCC","small_airport","Copacabana Airport",-16.191099,-69.095596,12591,"SA","BO","BO-L","Copacabana","no",,,"SLCC",,,"https://en.wikipedia.org/wiki/Copacabana_Airport",
+29802,"SLCC","small_airport","Copacabana Airport",-16.191099,-69.095596,12591,"SA","BO","BO-L","Copacabana","no","SLCC",,"SLCC",,,"https://en.wikipedia.org/wiki/Copacabana_Airport",
 39422,"SLCD","small_airport","Cañada Airport",-20.0254,-63.0891,1954,"SA","BO","BO-S","Gutierrez","no",,,"SLCD",,,"https://en.wikipedia.org/wiki/Ca%C3%B1ada_Airport,_Bolivia",
-39421,"SLCE","small_airport","Cabezas Airport",-18.797433,-63.301611,1328,"SA","BO","BO-S","Cordillera","no",,,"SLCE",,,"https://en.wikipedia.org/wiki/Cabezas_Airport",
+39421,"SLCE","small_airport","Cabezas Airport",-18.797433,-63.301611,1328,"SA","BO","BO-S","Cordillera","no","SLCE",,"SLCE",,,"https://en.wikipedia.org/wiki/Cabezas_Airport",
 39428,"SLCG","small_airport","Charagua Airport",-19.785601,-63.1884,2040,"SA","BO","BO-S","Cordillera","no",,,"SLCG",,,"https://en.wikipedia.org/wiki/Charagua_Airport",
 39486,"SLCI","small_airport","Caigua Airport",-21.136389,-63.752778,1685,"SA","BO","BO-T","Gran Chaco","no",,,"SLCI",,,"https://en.wikipedia.org/wiki/Caigua_Airport","Carapari, Caigua"
 39492,"SLCL","small_airport","Collpani Airport",-18.891666,-66.783333,12185,"SA","BO","BO-O","Abaroa","no",,,"SLCL",,,"https://en.wikipedia.org/wiki/Challapata_Airport",
@@ -60884,9 +60884,9 @@
 39542,"SLSN","small_airport","Sanandita Airport",-21.649999618530273,-63.599998474121094,3200,"SA","BO","BO-T","Gran Chaco","no",,,"SLSN",,,,
 39468,"SLSP","small_airport","Sipuati Airport",-21.0735,-63.109501,1400,"SA","BO","BO-T","Gran Chaco","no",,,"SLSP",,,"https://en.wikipedia.org/wiki/Sipuati_Airport",
 39467,"SLSQ","small_airport","Santiago De Chiquitos Airport",-18.3458,-59.604801,1990,"SA","BO","BO-S","Santiago de Chiquitos","no",,,"SLSQ",,,"https://en.wikipedia.org/wiki/Saahaqui_Airport",
-39464,"SLSR","small_airport","Santa Rosa De Yacuma Airport",-14.0662,-66.786797,738,"SA","BO","BO-B","Santa Rosa","no","SLSR","SRB","SLSR",,,"https://en.wikipedia.org/wiki/Santa_Rosa_Airport_(Bolivia)",
+39464,"SLSR","small_airport","Santa Rosa de Yacuma Airport",-14.073072,-66.787391,738,"SA","BO","BO-B","Santa Rosa","no","SLSR","SRB","SLSR",,,"https://en.wikipedia.org/wiki/Santa_Rosa_Airport_(Bolivia)",
 39458,"SLSS","small_airport","Sunsas Airport",-18.4754,-58.2767,855,"SA","BO","BO-S","Sunsas","no",,,"SLSS",,,,
-6189,"SLSU","medium_airport","Juana Azurduy De Padilla Airport",-19.007099,-65.288696,9540,"SA","BO","BO-H","Sucre","no","SLSU",,"SLSU",,,"https://en.wikipedia.org/wiki/Juana_Azurduy_de_Padilla_International_Airport","military"
+6189,"SLSU","medium_airport","Juana Azurduy de Padilla Airport",-19.007099,-65.288696,9540,"SA","BO","BO-H","Sucre","no","SLSU",,"SLSU",,,"https://en.wikipedia.org/wiki/Juana_Azurduy_de_Padilla_International_Airport","SRE, military"
 345118,"SLSV","medium_airport","San Ignacio de Velasco Airport",-16.401239,-61.0452,1477,"SA","BO","BO-S","San Ignacio de Velasco","no",,,"SLSV",,,,
 39547,"SLTA","small_airport","Taquipirenda Airport",-20.3433,-63.1394,2340,"SA","BO","BO-S","Cordillera","no",,,"SLTA",,,"https://en.wikipedia.org/wiki/Taquipirenda_Airport",
 39552,"SLTC","small_airport","Tres Cruces Airport",-17.3604,-62.2796,880,"SA","BO","BO-S","Chiquitos","no",,,"SLTC",,,,
@@ -60894,7 +60894,7 @@
 39466,"SLTG","small_airport","Santiago Airport",-15.2278,-65.450104,1000,"SA","BO","BO-B","Moxos","no",,,"SLTG",,,"https://en.wikipedia.org/wiki/Santiago_Airport_(Bolivia)",
 30387,"SLTI","small_airport","San Matías Airport",-16.339199,-58.401901,403,"SA","BO","BO-S","San Matías","no","SLTI","MQK","SLTI",,,"https://en.wikipedia.org/wiki/San_Mat%C3%ADas_Airport",
 6190,"SLTJ","medium_airport","Capitan Oriel Lea Plaza Airport",-21.5557,-64.701302,6079,"SA","BO","BO-T","Tarija","yes","SLTJ","TJA","SLTJ",,,"https://en.wikipedia.org/wiki/Cap._Oriel_Lea_Plaza_Airport",
-39470,"SLTL","small_airport","San Cristóbal Toldos Airport",-21.175602,-67.166689,11800,"SA","BO","BO-P","Nor Lipez","no",,,"SLTL",,,"https://en.wikipedia.org/wiki/Ventilla_Airport",
+39470,"SLTL","small_airport","San Cristóbal Toldos Airport",-21.175602,-67.166689,11800,"SA","BO","BO-P","Nor Lipez","no","SLTL",,"SLTL",,,"https://en.wikipedia.org/wiki/Ventilla_Airport",
 39551,"SLTO","small_airport","Totora Airport",-17.798166275024414,-68.09349822998047,12530,"SA","BO","BO-O","Oruro","no",,,"SLTO",,,,
 6191,"SLTR","medium_airport","Teniente Av. Jorge Henrich Arauz Airport",-14.8187,-64.917999,509,"SA","BO","BO-B","Trinidad","yes","SLTR","TDD","SLTR",,,"https://en.wikipedia.org/wiki/Tte._Av._Jorge_Henrich_Arauz_Airport",
 39472,"SLTU","small_airport","Turco Airport",-18.195833206176758,-68.14199829101562,12500,"SA","BO","BO-O","Sajama","no",,,"SLTU",,,,
@@ -79545,7 +79545,7 @@
 601743,"VE-0455","heliport","Torre Oeste HLS",10.498771,-66.901984,3625,"SA","VE","VE-A","Caracas","no",,,,"SV125",,,
 601744,"VE-0456","heliport","Helicoide Heliport",10.489373,-66.910794,3028,"SA","VE","VE-A","Caracas","no",,,,"SVNJ5",,,
 601745,"VE-0457","heliport","Torre Ministerial HLS",10.503415,-66.91176,3412,"SA","VE","VE-A","Caracas","no",,,,"SVQX5",,,
-601746,"VE-0458","heliport","Torre BDV HLS",10.504432,-66.913903,3445,"SA","VE","VE-A","Caracas","no",,,,"SVGDH",,,
+601746,"VE-0458","heliport","BDV Tower Helistop",10.504432,-66.913903,3445,"NA","VE","VE-A","Caracas","no",,,,"SVGDH",,,
 601747,"VE-0459","heliport","BCV HLS",10.508177,-66.914978,3494,"SA","VE","VE-A","Caracas","no",,,,"SVMHG",,,
 601748,"VE-0460","heliport","Miraflores Heliport",10.508253,-66.920031,3067,"SA","VE","VE-A","Caracas","no",,,,"SVLX4",,,
 601749,"VE-0461","heliport","Periférico de Catia HLS",10.513832,-66.94233,3104,"SA","VE","VE-A","Caracas","no",,,,"SVZDS",,,
