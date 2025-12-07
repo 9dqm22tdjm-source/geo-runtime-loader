@@ -1737,7 +1737,7 @@
 8336,"1ID6","closed","Sligars Landing Heliport",42.584108,-114.358466,3800,"NA","US","US-ID","Kimberly","no",,,,,,,"1ID6"
 8337,"1ID7","small_airport","Fairbanks Airfield",42.587909,-114.33071,3830,"NA","US","US-ID","Eden","no",,,"1ID7","1ID7",,,
 8338,"1ID8","heliport","North Canyon Medical Center Heliport",42.921675,-114.709449,3579,"NA","US","US-ID","Gooding","no",,,"1ID8","1ID8",,,"Gooding County Memorial Hospital"
-8339,"1ID9","small_airport","Skyline STOLport",42.780601501464844,-112.1709976196289,6150,"NA","US","US-ID","Inkom","no",,,"1ID9","1ID9",,,
+8339,"1ID9","small_airport","Skyline Airport (Simiko Field)",42.780602,-112.170998,6150,"NA","US","US-ID","Inkom","no",,,"1ID9","1ID9",,,
 8340,"1II0","small_airport","Webster Airport",39.576698303222656,-85.58779907226562,910,"NA","US","US-IN","Homer","no",,,"1II0","1II0",,,
 8342,"1II3","small_airport","Davis Airport",38.957918,-87.394602,500,"NA","US","US-IN","Carlisle","no",,,"1II3","1II3",,,
 8343,"1II4","small_airport","Amy Airport",38.125099182128906,-86.16220092773438,665,"NA","US","US-IN","Corydon","no",,,"1II4","1II4",,,
@@ -9675,7 +9675,6 @@
 599122,"AE-0230","heliport","Zayed Military Hospital Heliport",24.18459,55.780014,976,"AS","AE","AE-AZ","Al Ain","no",,,,,,,
 599123,"AE-0231","heliport","Zayed Military College",24.150273,55.787056,1010,"AS","AE","AE-AZ","Al Ain","no",,,,,,,
 300319,"AE-0232","closed","Dubai Creek SPB",25.242222,55.331389,,"AS","AE","AE-DU","Dubai","no",,,,,,,"DCG"
-602430,"AE-0233","small_airport","hi88pinkk",34,111,,"AS","AE","AE-U-A",,"no",,,,,"https://hi88.pink/",,
 300307,"AEE","small_airport","Adareil Airport",10.053611,32.959444,1301,"AF","SS","SS-NU","Adar","no",,"AEE","HJAR",,,"https://en.wikipedia.org/wiki/Adareil_Airport",
 300646,"AEI","heliport","Algeciras Heliport",36.12882,-5.441079,98,"EU","ES","ES-AN","Algeciras","yes",,,"LEAG",,"https://www.aena.es/en/algeciras.html","https://en.wikipedia.org/wiki/Algeciras_Heliport",
 330359,"AEQ","small_airport","Ar Horqin Airport",43.908407,120.15099,1335,"AS","CN","CN-15","Chifeng","no",,"AEQ",,,,"https://en.wikipedia.org/wiki/Ar_Horqin_Airport",
@@ -11189,7 +11188,7 @@
 341500,"AU-0179","heliport","Spit Bay Helipad",-53.10732,73.72013,,"OC","HM","HM-U-A","Spit Bay","no",,,,,,,"YZSB"
 341735,"AU-0180","heliport","Flinders Medical Centre Helipad",-35.020027,138.568577,,"OC","AU","AU-SA","Bedford Park","no",,,,,,,
 341736,"AU-0181","heliport","Lyell McEwin Hospital Helipad",-34.748851,138.665843,,"OC","AU","AU-SA","Elizabeth Vale","no",,,,,,,
-341737,"AU-0182","small_airport","Parra Wirra Helipad",-34.678754,138.83491,,"OC","AU","AU-SA","Yattalunga","no",,,,,,,
+341737,"AU-0182","heliport","Parra Wirra Helipad",-34.678754,138.83491,967,"OC","AU","AU-SA","Yattalunga","no",,,,,,,
 341738,"AU-0183","heliport","Murray Bridge Soldiers Memorial Hospital Helipad",-35.128213,139.280722,,"OC","AU","AU-SA","Murray Bridge","no",,,,,,,
 341739,"AU-0184","heliport","Penny's Hill Helipad",-35.245791,138.551143,,"OC","AU","AU-SA","McLaren Vale","no",,,,,,,
 341740,"AU-0185","heliport","South Coast District Hospital Helipad",-35.561805,138.606714,,"OC","AU","AU-SA","Victor Harbor","no",,,,,,,
@@ -11225,7 +11224,7 @@
 350240,"AU-0215","small_airport","Hall Airport",-35.144284,149.042952,,"OC","AU","AU-NSW","Wallaroo","no",,,"YHAL",,,,
 350203,"AU-0216","small_airport","FORESTVALE AIRSTRIP",-25.805775,147.953224,,"OC","AU","AU-QLD","FORESTVALE","no",,,,,,,
 350204,"AU-0217","small_airport","Dirranbandi",-28.98134,148.054848,568,"OC","AU","AU-QLD","Dirranbandi","no",,,,,,,
-350205,"AU-0218","small_airport","Teewah airstrip",-26.316343,153.038692,25,"OC","AU","AU-QLD","Teewah","no",,,,,,,
+350205,"AU-0218","closed","Teewah airstrip",-26.314831,153.040867,25,"OC","AU","AU-QLD","Teewah","no",,,,,"https://heritage.noosa.qld.gov.au/nodes/view/26105",,
 350206,"AU-0219","small_airport","Greenfield (Cootharaba) Airfield",-26.292993,152.961724,6,"OC","AU","AU-QLD","Cootharaba","no",,,,,,,
 27595,"AU-0220","closed","Geelong Airport",-38.224998,144.332993,43,"OC","AU","AU-VIC",,"no",,,,,,"https://en.wikipedia.org/wiki/Geelong_Airport","YGLG, GEX"
 38371,"AU-0221","closed","Grovedale Airport",-38.216702,144.332993,,"OC","AU","AU-VIC",,"no",,,,,,,"YGRD"
@@ -11271,7 +11270,7 @@
 351463,"AU-0261","small_airport","Yarraden station airstrip",-14.303383,143.310943,,"OC","AU","AU-QLD","Yarraden","no",,,,,,,
 351464,"AU-0262","small_airport","Coen airstrip",-13.956517,143.182068,,"OC","AU","AU-QLD","Coen","no",,,,,,,
 351471,"AU-0263","small_airport","Mapoon Airstrip",-12.049793,141.906173,,"OC","AU","AU-QLD","Mapoon","no",,,,,,,
-351472,"AU-0264","small_airport","Skardon River Airport",-11.866259,142.008762,,"OC","AU","AU-QLD","Mapoon","no",,,,,,,
+351472,"AU-0264","small_airport","Skardon River Airport",-11.866259,142.008762,29,"OC","AU","AU-QLD","Mapoon","no","YSKR",,"YSKR",,,,
 351480,"AU-0265","small_airport","Cullulleraine airstrip private",-34.190506,141.615314,,"OC","AU","AU-VIC","Cullulleraine","no",,,,,,,
 351481,"AU-0266","small_airport","Neds Corner Airport",-34.146405,141.334734,,"OC","AU","AU-VIC","Neds Corner","no",,,,,,,
 351482,"AU-0267","small_airport","Hindmarsh Island private strip",-35.50416,138.850708,,"OC","AU","AU-SA","Hindmarsh Island","no",,,,,,,
@@ -11631,7 +11630,7 @@
 517309,"AU-0624","small_airport","Bimpero Airport",-30.29369,144.11918,322,"OC","AU","AU-NSW","Wanaaring","no",,,,,,,
 517553,"AU-0625","small_airport","Steinfeld Airfield",-34.312904,139.334915,270,"OC","AU","AU-SA","Steinfeld","no",,,,,,,"Stonefield"
 519959,"AU-0626","small_airport","Original Barnbougle Airstrip",-41.008095,147.421407,23,"OC","AU","AU-TAS","Bridport","no",,,,,,,
-519961,"AU-0627","small_airport","Cranbourn Airfield",-41.161173,147.015096,300,"OC","AU","AU-TAS","Mount Direction","no",,,,,,,"Cranbourn-Dalrymple-Mount Direction"
+519961,"AU-0627","small_airport","Cranbourn Airfield",-41.161173,147.015096,300,"OC","AU","AU-TAS","Mount Direction","no","YCRN",,"YCRN",,"https://cranbournairfield.wixsite.com/cranbournairfield/",,"Cranbourn-Dalrymple-Mount Direction"
 519968,"AU-0628","small_airport","Eagles Nest (Scottsdale)",-41.172064,147.508879,656,"OC","AU","AU-TAS","Scottsdale","no",,,,,,,
 520412,"AU-0629","closed","Eagle Farm Airport",-27.419281,153.093925,,"OC","AU","AU-QLD","Eagle Farm","no",,,,,,"https://en.wikipedia.org/wiki/Eagle_Farm_Airport",
 521280,"AU-0630","closed","RAAF Base Nabiac",-32.131498,152.434173,30,"OC","AU","AU-NSW","Nabiac","no",,,,,,"https://en.wikipedia.org/wiki/RAAF_Base_Nabiac",
@@ -11696,7 +11695,7 @@
 38501,"AU-0689","closed","Mount Cavenagh Airport",-25.963929,133.208542,1752,"OC","AU","AU-NT","Ghan","no",,,,,,,"MKV, YMVG, YMVG, MKV"
 38512,"AU-0690","closed","Newhaven Airport",-38.524667,145.327578,46,"OC","AU","AU-VIC","Newhaven","no",,,,,,,"YNHE, YNHE"
 38583,"AU-0691","closed","Sale Airport",-38.116699,147.074997,,"OC","AU","AU-VIC","Sale","no",,,,,,,"YSLT, YSLT"
-38635,"AU-0692","closed","Wodgina Airport",-21.141701,118.692001,,"OC","AU","AU-WA",,"no",,,,,,,"YWDC"
+38635,"AU-0692","closed","Wodgina Airport",-21.138731,118.692892,516,"OC","AU","AU-WA",,"no",,,,,,,"YWDC"
 38669,"AU-0693","closed","Yandicoogina Airport",-22.759701,119.226997,,"OC","AU","AU-WA",,"no",,,,,,,"YYCN, YNN"
 298786,"AU-0694","closed","Latrobe Airport",-41.2351880307,146.396169662,12,"OC","AU","AU-TAS","Latrobe","no",,,,,,,"LTB, LTB"
 309696,"AU-0695","closed","Kempsey Hospital Helicopter Landing Site",-31.067128,152.821257,68,"OC","AU","AU-NSW","Kempsey","no",,,,,,,"YXKE, YXKE, YXKE"
@@ -12282,6 +12281,7 @@
 341275,"AZ-0024","heliport","XDMX Heliport",40.3506,49.79858,540,"AS","AZ","AZ-BA","Baku","no",,,,,,,
 341276,"AZ-0025","heliport","Sangachal Oil Terminal Heliport",40.200361,49.492087,,"AS","AZ","AZ-BA","Sangachal","no",,,,,,,
 510075,"AZ-0026","heliport","Sadarak Army Border Post Helipad",39.641422,44.831085,,"AS","AZ","AZ-SAD","Sadarak","no",,,,,,,
+602448,"AZ-0027","large_airport","CM 88",0.000001,0.000002,,"AS","AZ","AZ-U-A",,"yes",,,,,,,
 16388,"AZ00","small_airport","Morton Field Ultralight Flightpark",32.80679,-113.503876,475,"NA","US","US-AZ","Dateland","no",,,"AZ00","AZ00",,,
 16389,"AZ01","small_airport","Outback Ranch Airstrip",33.847732,-113.57106,1980,"NA","US","US-AZ","Wenden","no",,,"AZ01","AZ01",,,
 16390,"AZ02","heliport","Gateway East KNXV-TV Heliport",33.454181,-111.983753,1185,"NA","US","US-AZ","Phoenix","no",,,"AZ02","AZ02",,,
@@ -43475,7 +43475,7 @@
 29421,"LIDL","small_airport","Legnago Airfield",45.129259,11.293344,30,"EU","IT","IT-34","Vangadizza (VR)","no",,,"LIDL","VR09",,"https://it.wikipedia.org/wiki/Aeroporto_di_Legnago",
 29422,"LIDP","small_airport","Pavullo Airfield",44.322399,10.8317,2244,"EU","IT","IT-45","Pavullo (MO)","no",,,"LIDP","MO12",,"https://en.wikipedia.org/wiki/Pavullo_nel_Frignano_Airport",
 4328,"LIDR","small_airport","Ravenna Airport",44.364291,12.224996,1,"EU","IT","IT-45","Ravenna (RA)","no","LIDR","RAN","LIDR","RA06","http://www.aeroclubravenna.com","https://en.wikipedia.org/wiki/Ravenna%20Airport","Foligno, Gastone Novelli, Ravenna Aero Club"
-4329,"LIDT","medium_airport","Trento-Mattarello Airport",46.0214,11.1242,610,"EU","IT","IT-32","Trento (TN)","no",,,"LIDT","TN01","http://www.aeroportocaproni.it/","http://it.wikipedia.org/wiki/Aeroporto_di_Trento-Mattarello","Gianni Caproni Trento"
+4329,"LIDT","medium_airport","Trento-Mattarello Airport",46.023333,11.125,610,"EU","IT","IT-32","Trento (TN)","no","LIDT",,"LIDT","TN01","http://www.aeroportocaproni.it/","http://it.wikipedia.org/wiki/Aeroporto_di_Trento-Mattarello","Gianni Caproni Trento"
 29423,"LIDU","small_airport","Carpi-Budrione Airfield",44.833231,10.871186,69,"EU","IT","IT-45","Carpi (MO)","no",,,"LIDU","MO10",,"http://it.wikipedia.org/wiki/Aeroporto_di_Carpi-Budrione",
 30298,"LIDV","small_airport","Prati Vecchi d'Aguscello Airfield",44.790884,11.671901,20,"EU","IT","IT-45","Ferrara (FE)","no","LIDV",,"LIDV","FE02","https://www.aeroportoaguscello.it/wp/","https://it.wikipedia.org/wiki/Aeroporto_di_Prati_Vecchi_d%27Aguscello",
 30380,"LIDW","small_airport","Luciano Narder Airfield",45.6992,12.5431,7,"EU","IT","IT-34","Campo di Pietra (TV)","no",,,"LIDW","TV03",,,"Aviosuperficie G. Carrer, Carrer, G.Carrer, Aviosuperficie Luciano Narder, Salgareda"
@@ -43495,7 +43495,7 @@
 4335,"LILE","medium_airport","Biella-Cerrione Airfield",45.4953,8.10278,920,"EU","IT","IT-21","Cerrione (BI)","no",,,"LILE","BI03","http://www.aeroportobiella.it/","https://en.wikipedia.org/wiki/Biella-Cerrione_Airfield",
 29427,"LILG","small_airport","Vergiate Airfield",45.712633,8.700714,863,"EU","IT","IT-25","Vergiate (VA)","no",,,"LILG","VA03",,"https://it.wikipedia.org/wiki/Aeroporto_di_Vergiate",
 4336,"LILH","small_airport","Voghera-Rivanazzano Airfield",44.952,9.01653,423,"EU","IT","IT-25","Voghera (PV)","no",,,"LILH","PV06","http://www.aeroportovoghera.it/presentazione.html","https://it.wikipedia.org/wiki/Aeroporto_di_Voghera-Rivanazzano",
-29428,"LILI","small_airport","Vercelli Airport",45.309935,8.417931,417,"EU","IT","IT-21","Vercelli (VC)","no","LILI",,"LILI","VC04","http://www.aeroclubvercelli.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Vercelli","Aeroporto ""Carlo del Prete"", Aeroclub Vercelli ""Marilla Rigazio"""
+29428,"LILI","small_airport","Vercelli Airport",45.311111,8.4175,417,"EU","IT","IT-21","Vercelli (VC)","no","LILI",,"LILI","VC04","http://www.aeroclubvercelli.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Vercelli","Aeroporto ""Carlo del Prete"", Aeroclub Vercelli ""Marilla Rigazio"""
 29429,"LILM","small_airport","Casale Monferrato Airfield",45.110039,8.456898,377,"EU","IT","IT-21","Casale Monferrato (AL)","no",,,"LILM","AL04","http://www.aeroclubcasale.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Casale_Monferrato",
 4337,"LILN","medium_airport","Varese-Venegono Airport",45.742199,8.888233,1100,"EU","IT","IT-25","Venegono Superiore (VA)","no","LILN",,"LILN","VA02","http://www.aeroclubvarese.it/","https://en.wikipedia.org/wiki/Varese-Venegono_Airport","QVA"
 30429,"LILO","small_airport","Caiolo Sondrio Airfield",46.154448,9.79507,899,"EU","IT","IT-25","Caiolo (SO)","no",,,"LILO","SO01",,"https://it.wikipedia.org/wiki/Aviosuperfice_di_Sondrio-Caiolo",
@@ -43567,7 +43567,7 @@
 4383,"LIRV","medium_airport","Viterbo Airport",42.430199,12.0642,992,"EU","IT","IT-62","Viterbo","no",,,"LIRV","VT03",,"https://en.wikipedia.org/wiki/Rome_Viterbo_Airport","T Fabri"
 4384,"LIRZ","medium_airport","Perugia San Francesco d'Assisi – Umbria International Airport",43.095901,12.5132,697,"EU","IT","IT-55","Perugia (PG)","yes","LIRZ","PEG","LIRZ","PG10","http://www.airport.umbria.it/","https://en.wikipedia.org/wiki/Perugia_San_Francesco_d%27Assisi_%E2%80%93_Umbria_International_Airport","Perugia San Francesco d'Assisi, Perugia Sant'Egidio Airport, Umbria International Airport"
 309714,"LIVD","small_airport","Dobbiaco-Toblach Airstrip",46.727021,12.230723,4068,"EU","IT","IT-32","Toblach (Dobbiaco) (BZ)","no",,,"LIVD","BZ04","http://www.aeroclubdobbiaco.it/","http://it.wikipedia.org/wiki/Aeroporto_di_Dobbiaco",
-308672,"LIVV","small_airport","Moncucco Airfield",45.344613,7.919072,781,"EU","IT","IT-21","Cascina Moncucco (TO)","no",,,"LIVV","TO03","http://www.flyclubbaronerosso.it/",,"Aviosuperficie Moncucco"
+308672,"LIVV","small_airport","Moncucco Airfield",45.344613,7.919072,781,"EU","IT","IT-21","Cascina Moncucco (TO)","no","LIVV",,"LIVV","TO03","http://www.flyclubbaronerosso.it/",,"Aviosuperficie Moncucco"
 29648,"LJAJ","small_airport","Ajdovščina Airfield",45.889198,13.8869,381,"EU","SI","SI-001","Ajdovščina","no",,,"LJAJ",,"http://www.aeroklub-jk-ajdovscina.si/","https://en.wikipedia.org/wiki/Ajdov%C5%A1%C4%8Dina_Airport",
 30071,"LJBL","small_airport","Lesce Airfield",46.357201,14.1739,1654,"EU","SI","SI-102","Lesce","no",,,"LJBL",,"http://www.alc-lesce.si/","https://en.wikipedia.org/wiki/Lesce-Bled_Airport",
 29721,"LJBO","small_airport","Bovec Airfield",46.329017,13.550231,1417,"EU","SI","SI-006","Bovec","no",,,"LJBO",,"http://www.bovec-airport.com/",,"LJBO, Bovec, Slovenia"
@@ -55893,7 +55893,7 @@
 35106,"RU-7978","medium_airport","Uprun Air Base",54.375,61.353298,774,"AS","RU","RU-CHE","Uvelsky","no",,,"USCU",,,"https://en.wikipedia.org/wiki/Uvelsky_(air_base)","Uvelsky Air Base, Аэродром Упрун, ЬСЦУ"
 35111,"RU-8226","closed","Vetrovoye Air Base",45.251701,148.311996,59,"AS","RU","RU-SAK","Kurilsk","yes",,,,,,"https://en.wikipedia.org/wiki/Vetrovoye","Ветровое, Shibekoro, Sopochnyy Southwest"
 35115,"RU-8363","medium_airport","Voronezh Baltimore Air Base",51.62,39.14,502,"EU","RU","RU-VOR","Voronezh","no",,,,"XUOW",,"https://en.wikipedia.org/wiki/Voronezh_Malshevo","Malshevo, Malyshevo, Voronezh Southwest, Аэродром Балтимор, ЬУОВ"
-35078,"RU-8499","medium_airport","Sharomy Air Base",54.293787,158.15094,489,"AS","RU","RU-KAM","Sharomy","no",,,,,,"https://en.wikipedia.org/wiki/Sharomy","UYEL"
+35078,"RU-8499","medium_airport","Sharomy Air Base",54.294492,158.151505,489,"AS","RU","RU-KAM","Sharomy","no",,,,"XHPN",,"https://en.wikipedia.org/wiki/Sharomy","ЬХПН, Шаромы, UYEL"
 34984,"RU-8602","medium_airport","Engels Air Base",51.480499,46.215,121,"AS","RU","RU-SAR","Saratov","no",,,,,,"https://en.wikipedia.org/wiki/Engels-2","Аэродром Энгельс"
 35099,"RU-8604","small_airport","Totskoye Air Base",52.501701,52.779999,295,"AS","RU","RU-ORE","Totskoye","no",,,,"XWOT",,"https://en.wikipedia.org/wiki/Totskoye_(air_base)","Тоцкое, ЬВОТ"
 34980,"RU-8709","closed","Dorokhovo Air Base",57.724998,36.651699,469,"EU","RU","RU-TVE","Bezhetsk","no",,,,,,"https://en.wikipedia.org/wiki/Dorokhovo_(air_base)","Bezhetsk, Dorokhov, XUED"
@@ -62235,7 +62235,7 @@
 593574,"SS8T","small_airport","Fazenda Paiabanha Airstrip",-10.350053,-47.958014,1436,"SA","BR","BR-TO","Monte do Carmo","no",,,"SS8T","TO0141",,,
 601982,"SS8U","heliport","Nosso Paraíso Heliport",-2.730356,-42.769361,13,"SA","BR","BR-MA","Barreirinhas","no",,,"SS8U","MA0208",,,
 601983,"SS8V","small_airport","Colina Aerosports Association Airport",-24.02816,-52.413006,1995,"SA","BR","BR-PR","Campo Mourão","no",,,"SS8V","PR0254",,,
-601984,"SS8W","heliport","Ibiti do Paço Heliort",-23.457885,-47.450868,1937,"SA","BR","BR-SP","Sorocaba","no",,,"SS8W","SP1486",,,
+601984,"SS8W","heliport","Ibiti do Paço Heliport",-23.457885,-47.450868,1937,"SA","BR","BR-SP","Sorocaba","no",,,"SS8W","SP1486",,,
 601987,"SS8X","small_airport","Diplomata Airstrip",-19.402583,-48.057722,2582,"SA","BR","BR-MG","Uberaba","no",,,"SS8X","MG0650",,,
 599113,"SS8Y","small_airport","Rancho Leoncini Airstrip",-14.675165,-52.384888,889,"SA","BR","BR-MT","Nova Xavantina","no",,,"SS8Y","MT1135",,,
 599112,"SS8Z","small_airport","Grupo Carreira Airport",-17.24745,-51.35928,2819,"SA","BR","BR-GO","Caiapônia","no",,,"SS8Z","GO0403",,,
@@ -65440,8 +65440,8 @@
 339646,"UHPN","small_airport","Manily Airport",62.485962,165.338917,33,"AS","RU","RU-KAM","Manily","no",,,"UHPN",,,,
 42935,"UHPO","heliport","Kozyrevsk Heliport",56.090092,159.876308,331,"AS","RU","RU-KAM","Kozyrevsk","no",,,"UHPO",,,"https://en.wikipedia.org/wiki/Kozyrevsk_Airport","УХПО, Козырёвск, Kozyrevsk Airport"
 6460,"UHPP","medium_airport","Yelizovo Airport",53.168716,158.451068,131,"AS","RU","RU-KAM","Petropavlovsk-Kamchatsky","yes","UHPP","PKC","UHPP",,,"https://en.wikipedia.org/wiki/Petropavlovsk-Kamchatsky_Airport","УХПП, Елизово"
-32520,"UHPT","small_airport","Tilichiki Airport",60.384238,166.02503,7,"EU","RU","RU-KAM","Korf","no",,,"UHPT",,,"https://en.wikipedia.org/wiki/Tilichiki_Airport","Korf Airport, Аэропорт Тиличики, Аэропорт Корф"
-44664,"UHPU","small_airport","Ust-Khayryuzovo Airport",57.099706,156.737223,,"EU","RU","RU-KAM","Ust-Khayryuzovo","no",,,"UHPU",,,,"Ust-Khairyuzovo Airport, Аэропорт Усть-Хайрюзово"
+32520,"UHPT","small_airport","Tilichiki Airport",60.384238,166.02503,7,"AS","RU","RU-KAM","Korf","no",,,"UHPT",,,"https://en.wikipedia.org/wiki/Tilichiki_Airport","УХПТ, Korf Airport, Аэропорт Тиличики, Аэропорт Корф"
+44664,"UHPU","small_airport","Ust-Khayryuzovo Airport",57.099706,156.737223,,"AS","RU","RU-KAM","Ust-Khayryuzovo","no","UHPU",,"UHPU",,,,"УХПУ, Ust-Khairyuzovo Airport, Аэропорт Усть-Хайрюзово"
 42937,"UHPX","small_airport","Nikolskoye Airport",55.178333,166.04834,49,"AS","RU","RU-KAM","Nikolskoye","no",,,"UHPX",,,"https://en.wikipedia.org/wiki/Nikolskoye_Airport","УХПЬ, Аэропорт Никольское, Bering Island, Commander Islands, Nikolsky"
 597126,"UHQC","closed","Voyampolka Airfield",58.299542,159.390621,95,"AS","RU","RU-KAM","Voyampolka","no",,,,,,,"UHQC, УХЯЦ, Воямполка"
 597129,"UHQE","small_airport","Slautnoye Airfield",63.176423,167.978281,,"AS","RU","RU-KAM","Slautnoye","no",,,"UHQE",,,,"УХЯЕ, Слаутное"
@@ -69777,6 +69777,7 @@
 602339,"US-12812","heliport","Methodist Southlake Heliport",32.957178,-97.147088,634,"NA","US","US-TX","Southlake","no",,,"TS31","TS31",,,
 602353,"US-12813","heliport","Gone Nuts Heli Base",32.081855,-96.307797,354,"NA","US","US-TX","Kerens","no",,,"XS17","XS17",,,
 602416,"US-12814","heliport","Miramar Amphitheater Expo Helipad",25.985649,-80.372103,,"NA","US","US-FL","Miramar","no",,,,,,,
+602434,"US-12815","closed","The Sandaloot Guys Airstrip",26.36103,-80.27504,,"NA","US","US-FL","Palm beach","no",,,,,,,
 334327,"US-1282","small_airport","Peavine Airport",45.724117,-117.077375,4007,"NA","US","US-OR","Enterprise","no",,,"KO62","O62",,,"B&H"
 334334,"US-1283","small_airport","Spangler Farm Airport",41.012639,-84.877694,776,"NA","US","US-IN","Fort Wayne","no",,,"22IN","22IN",,,
 334335,"US-1284","small_airport","Twin Lakes Airport",38.518522,-85.587583,663,"NA","US","US-IN","Marysville","no",,,"IN07","IN07",,,
@@ -81620,7 +81621,7 @@
 27391,"YBLL","small_airport","Bollon Airport",-28.051247,147.481799,182,"OC","AU","AU-QLD",,"no","YBLL","BLS","YBLL",,,,
 29711,"YBLM","small_airport","Blinman Airport",-31.118600845336914,138.7259979248047,1991,"OC","AU","AU-SA",,"no",,,"YBLM",,,,
 26915,"YBLN","small_airport","Busselton Margaret River Regional Airport",-33.687222,115.400278,55,"OC","AU","AU-WA","Busselton","yes","YBLN","BQB","YBLN",,"https://www.busseltonmargaretriverairport.com.au/","https://en.wikipedia.org/wiki/Busselton_Regional_Airport",
-594733,"YBLO","small_airport","Bullio Airport",-34.357532,150.16644,2133,"OC","AU","AU-NSW","Bullio","no",,,"YBLO",,,,
+594733,"YBLO","small_airport","Bullio Airport (Closed}",-34.357532,150.16644,2133,"OC","AU","AU-NSW","Bullio","no",,,"YBLO",,,,
 26916,"YBLT","small_airport","Ballarat Airport",-37.5117,143.791,1433,"OC","AU","AU-VIC",,"no","YBLT",,"YBLT",,,"https://en.wikipedia.org/wiki/Ballarat_Airport",
 27392,"YBLU","small_airport","Bellevue Airport",-27.612778,120.593889,1555,"OC","AU","AU-WA",,"no",,,"YBLU",,,"https://en.wikipedia.org/wiki/Bellevue_Airport",
 26917,"YBMA","medium_airport","Mount Isa Airport",-20.66638,139.488468,1121,"OC","AU","AU-QLD","Mount Isa","yes","YBMA","ISA","YBMA",,,"https://en.wikipedia.org/wiki/Mount_Isa_Airport",
@@ -81834,7 +81835,7 @@
 26964,"YCRG","medium_airport","Corryong Airport",-36.18280029296875,147.88800048828125,963,"OC","AU","AU-VIC",,"no","YCRG","CYG","YCRG",,,"https://en.wikipedia.org/wiki/Corryong_Airport",
 38301,"YCRK","small_airport","Christmas Creek Station Airport",-18.8728,125.934,540,"OC","AU","AU-WA","Wangkat Jungka","no",,"CXQ","YCRK",,,"https://en.wikipedia.org/wiki/Christmas_Creek_Airport",
 27484,"YCRL","small_airport","Crookwell Airport",-34.499961,149.461377,,"OC","AU","AU-NSW","Crookwell","no",,,"YCRL",,,,
-38302,"YCRN","small_airport","Cranbrook Airport",-34.283298,117.550003,,"OC","AU","AU-WA",,"no",,,"Y06T",,,,
+38302,"YCRN","small_airport","Cranbrook Airport",-34.279616,117.552545,,"OC","AU","AU-WA",,"no",,,"Y06T",,,,
 517055,"YCRO","heliport","Crown Towers Heliport",-31.962471,115.894915,10,"OC","AU","AU-WA",,"no",,,"YCRO",,,,"Crown Casino"
 27485,"YCRT","small_airport","Carrieton Airport",-32.41669845581055,138.51699829101562,,"OC","AU","AU-SA",,"no",,,"YCRT",,,,
 27486,"YCRY","small_airport","Croydon Airport",-18.225000381469727,142.25799560546875,107,"OC","AU","AU-QLD",,"no","YCRY","CDQ","YCRY",,,,
@@ -82441,7 +82442,7 @@
 517112,"YMAP","small_airport","Mapuru Airstrip",-12.255292,135.444474,101,"OC","AU","AU-NT",,"no",,,"YMAP",,,,
 309255,"YMAT","heliport","Mater Hospital Helipad",-27.485554,153.028339,205,"OC","AU","AU-QLD","Brisbane","no",,,"YMAT","YMAT",,,
 27750,"YMAU","small_airport","Mount Augusta Airport",-24.301734,116.906676,,"OC","AU","AU-WA",,"no",,,"YMAU",,,,
-27043,"YMAV","medium_airport","Avalon Airport",-38.039398,144.468994,35,"OC","AU","AU-VIC","Lara","yes","YMAV","AVV","YMAV",,"https://www.avalonairport.com.au/","https://en.wikipedia.org/wiki/Avalon_Airport","Lara, Geelong"
+27043,"YMAV","medium_airport","Melbourne Avalon International Airport",-38.040269,144.467196,35,"OC","AU","AU-VIC","Lara","yes","YMAV","AVV","YMAV",,"https://www.avalonairport.com.au/","https://en.wikipedia.org/wiki/Avalon_Airport","Lara, Geelong"
 27044,"YMAY","medium_airport","Albury Airport",-36.066758,146.959148,539,"OC","AU","AU-NSW","East Albury","yes","YMAY","ABX","YMAY",,,"https://en.wikipedia.org/wiki/Albury_Airport",
 27045,"YMBA","medium_airport","Mareeba Airport",-17.070277,145.424228,1560,"OC","AU","AU-QLD","Mareeba","no","YMBA","MRG","YMBA",,"https://msc.qld.gov.au/region/mareeba-airport-aviation-industrial-park/","https://en.wikipedia.org/wiki/Mareeba_Airfield",
 27751,"YMBD","small_airport","Murray Bridge Airport",-35.066202,139.227326,180,"OC","AU","AU-SA",,"no",,,"YMBD",,,"https://en.wikipedia.org/wiki/Murray_Bridge_Airport","Pallamana Aerodrome, Pallamanna Airfield"
@@ -83068,7 +83069,7 @@
 28006,"YTTI","small_airport","Troughton Is Airport",-13.7517,126.148003,8,"OC","AU","AU-WA",,"no",,,"YTTI",,,"https://en.wikipedia.org/wiki/Troughton_Island_Airport",
 28007,"YTUA","small_airport","Triabunna Airport",-42.51369857788086,147.8979949951172,,"OC","AU","AU-TAS",,"no",,,"YTUA",,,,
 38620,"YTUC","small_airport","Tuckabiana Airport",-27.475000381469727,118.125,,"OC","AU","AU-WA",,"no",,,"YTUC",,,,
-28008,"YTUG","small_airport","Trugananni Airport",-24.466699600219727,149.26699829101562,,"OC","AU","AU-QLD",,"no",,,"YTUG",,,,
+28008,"YTUG","small_airport","Trugananni Airport",-24.493394,149.213537,778,"OC","AU","AU-QLD",,"no",,,"YTUG",,,,
 28009,"YTUN","small_airport","Tunbridge Airport",-42.110977,147.362383,745,"OC","AU","AU-TAS","Tunbridge","no",,,"YTUN",,"https://www.soaringtasmania.org.au/",,
 38621,"YTUY","small_airport","Tully Airport",-17.934582,145.938134,,"OC","AU","AU-QLD",,"no",,,"YTUY",,,,
 38622,"YTVA","small_airport","Talavera Airport",-19.210481,143.663656,,"OC","AU","AU-QLD",,"no",,,"YTVA",,,,
