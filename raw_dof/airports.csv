@@ -17656,7 +17656,6 @@
 598718,"CA-1235","small_airport","Cedar Hill Aerodrome",45.276683,-76.327021,,"NA","CA","CA-ON","Almonte","no",,,,,,,
 599141,"CA-1236","small_airport","Morrinville Farm Airstrip",53.749288,-113.64923,2294,"NA","CA","CA-AB","Morrinville","no",,,,,,,
 600231,"CA-1237","small_airport","Val Morin Airstrip",45.991983,-74.19194,1453,"NA","CA","CA-QC","Val Morin","no",,,,,,,
-600873,"CA-1238","large_airport","(Duplicate)Toronto Lester B. Pearson International Airport",43.680585,-79.611841,,"NA","CA","CA-ON","Toronto","yes",,,,,,,
 601219,"CA-1239","seaplane_base","Shelburne Water Aerodrome",43.758,-65.323,,"NA","CA","CA-NS","Shelburne","no",,,,"CM2",,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
@@ -20060,9 +20059,10 @@
 1434,"CPM7","small_airport","Bradford Aerodrome",44.135971,-79.628688,973,"NA","CA","CA-ON","Bradford West Gwillimbury","no",,,"CPM7","CPM7",,"https://en.wikipedia.org/wiki/Bradford_Airport","PM7"
 1435,"CPN3","heliport","Moose Factory Heliport",51.2494010925293,-80.618896484375,20,"NA","CA","CA-ON","Moose Factory","no",,,"CPN3","CPN3",,,"PN3"
 1437,"CPN5","small_airport","Listowel Airport",43.742803,-80.991402,1232,"NA","CA","CA-ON","Listowel","no",,,"CPN5","CPN5",,"https://en.wikipedia.org/wiki/Listowel_Airport","NN4"
-28154,"CPN6","seaplane_base","Algoma Mills Seaplane Base",46.1833,-82.833298,602,"NA","CA","CA-ON",,"no",,,"CPN6","CPN6",,"https://en.wikipedia.org/wiki/Algoma_Mills_Water_Aerodrome",
+28154,"CPN6","seaplane_base","Algoma Mills Seaplane Base",46.1833,-82.833298,602,"NA","CA","CA-ON",,"no",,,"CPN6","CPN6",,"https://en.wikipedia.org/wiki/Algoma_Mills_Water_Aerodrome","PN6"
 1438,"CPN7","heliport","Carleton Place (District Memorial Hospital) Heliport",45.14176852959999,-76.13709926610001,436,"NA","CA","CA-ON","Carleton Place","no",,,"CPN7","CPN7",,,"PN7"
 320346,"CPN8","small_airport","London (Pioneer Airpark)",43.0975,-81.234301,980,"NA","CA","CA-ON","London","no",,,"CPN8","CPN8",,"https://en.wikipedia.org/wiki/London_(Pioneer_Airpark)_Aerodrome",
+602467,"CPN9","seaplane_base","Lake Panache Water Aerodrome",46.278,-81.337833,719,"NA","CA","CA-ON","Whitefish","no",,,"CPN9","CPN9",,"https://en.wikipedia.org/wiki/List_of_airports_in_Ontario#Whitefish/Lake_Panache_Water_Aerodrome",
 602466,"CPO2","heliport","Portage District General Hospital Heliport",49.966305,-98.282168,857,"NA","CA","CA-MB","Portage la Prairie","no",,,"CPO2","CPO2",,,
 1439,"CPP2","heliport","Collingwood General and Marine Hospital Heliport",44.499276,-80.203916,600,"NA","CA","CA-ON","Collingwood","no",,,"CPP2","CPP2","https://cgmh.on.ca/","https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#Collingwood_(General_and_Marine_Hospital)",
 314444,"CPP3","small_airport","Hoskin Airport",44.062949,-78.885807,900,"NA","CA","CA-ON","Port Perry","no",,,"CPP3","CPP3",,"https://en.wikipedia.org/wiki/Port_Perry/Hoskin_Aerodrome",
@@ -40125,7 +40125,7 @@
 20697,"KO57","small_airport","Bryant Field",38.26386,-119.222775,6468,"NA","US","US-CA","Bridgeport","no",,,,"O57",,"https://en.wikipedia.org/wiki/Bryant_Field_(airport)","KBAN"
 20698,"KO59","small_airport","Cedarville Airport",41.55270004272461,-120.16600036621094,4623,"NA","US","US-CA","Cedarville","no",,,"KO59","O59",,"https://en.wikipedia.org/wiki/Cedarville_Airport",
 20699,"KO60","small_airport","Cloverdale Municipal Airport",38.77600098,-122.9929962,277,"NA","US","US-CA","Cloverdale","no",,,"O60","O60",,"https://en.wikipedia.org/wiki/Cloverdale_Municipal_Airport",
-20700,"KO61","small_airport","Cameron Park Airport",38.683998,-120.987999,1286,"NA","US","US-CA","Cameron Park","no",,,,"O61",,"https://en.wikipedia.org/wiki/Cameron_Airpark","Cameron Airpark"
+20700,"KO61","small_airport","Cameron Airpark",38.683998,-120.987999,1286,"NA","US","US-CA","Cameron Park","no",,,,"KO61",,"https://en.wikipedia.org/wiki/Cameron_Airpark","Cameron Airpark"
 20701,"KO65","small_airport","Christman Airfield",36.112499,-98.308701,1205,"NA","US","US-OK","Okeene","no",,,,"O65",,,"OK71, Okeene Municipal Airport"
 20702,"KO69","small_airport","Petaluma Municipal Airport",38.25780106,-122.6060028,90,"NA","US","US-CA","Petaluma","no",,,"O69","O69",,"https://en.wikipedia.org/wiki/Petaluma_Municipal_Airport",
 20703,"KO70","small_airport","Westover Field Amador County Airport",38.376801,-120.793999,1690,"NA","US","US-CA","Jackson","no",,,"KJAQ","JAQ",,"https://en.wikipedia.org/wiki/Amador_County_Airport","Formerly O70"
@@ -49674,7 +49674,7 @@
 43715,"NL-0020","closed","Rijnmond Medical Center South Heliport",51.885555,4.503056,4,"EU","NL","NL-ZH","Rotterdam","no",,,,,,,"EH0019, Medisch Centrum Rijnmond Locatie Zuid"
 43716,"NL-0021","heliport","Admiral De Ruyter Hospital Heliport",51.484734,3.910425,1,"EU","NL","NL-ZL","Goes","no",,,,,,,"EH0009, Admiraal De Ruyter Ziekenhuis Helihaven, Oosterschelde Ziekenhuis Heliport"
 43717,"NL-0022","heliport","Ziekenhuis Zeeuws-Vlaanderen. Locatie De Honte Heliport",51.30833435058594,3.862499952316284,6,"EU","NL","NL-ZL","Terneuzen","no",,,,,,,"EH0021"
-45159,"NL-0023","small_airport","Malden Glidersite",51.785259,5.88099,89,"EU","NL","NL-GE","Malden","no",,,,,"http://www.nijac.nl/?pid=11",,"NijAC, gliding, Nijmegen, Groesbeek"
+45159,"NL-0023","small_airport","Malden Glider Airfield",51.785259,5.88099,89,"EU","NL","NL-GE","Heumen","no",,,,"NL0023","http://www.nijac.nl/?pid=11","https://nl.wikipedia.org/wiki/Zweefvliegveld_Malden","NijAC, gliding, Nijmegen, Groesbeek, Zweefvliegveld Malden, NĲAC"
 299505,"NL-0024","small_airport","Middenmeer Airfield",52.814876,5.021245,-14,"EU","NL","NL-NH","Middenmeer","no","EHMM",,"EHMM",,"https://www.vliegveldmiddenmeer.nl/","https://en.wikipedia.org/wiki/Middenmeer_Aerodrome",
 299506,"NL-0025","heliport","Lukkien Heliport",52.0224444444,5.62394444444,50,"EU","NL","NL-GE","Ede","no",,,,,,"https://en.wikipedia.org/wiki/Lukkien_Heliport",
 299507,"NL-0026","closed","TrafficPort Venlo Airfield",51.393056,6.062778,75,"EU","NL","NL-LI","Venlo","no",,,,,"http://www.trafficport.nl/airport.htm","https://en.wikipedia.org/wiki/TrafficPort_Venlo",
@@ -62246,6 +62246,8 @@
 599093,"SS9A","small_airport","Fazenda Horizontina Leste Auxiliary Airstrip",-7.869755,-45.736574,1545,"SA","BR","BR-MA","Tasso Fragoso","no",,,"SS9A","MA0209",,,
 602030,"SS9B","small_airport","Fazenda Petróleo Airport",-10.36332,-51.527039,1083,"SA","BR","BR-MT","Confresa","no",,,"SS9B","MT1146",,,
 599090,"SS9C","small_airport","Brejo do Caipira Airport",-21.550775,-47.977305,1677,"SA","BR","BR-SP","Guatapará","no",,,"SS9C","SP1454",,,
+602484,"SS9D","small_airport","Fazenda Dona Irilde Airport",-12.740089,-56.207315,1301,"SA","BR","BR-MT","Lucas do Rio Verde","no",,,"SS9D","MT1099",,,
+602483,"SS9E","small_airport","Fazenda Figueira Branca Airport",-10.707025,-54.835554,972,"SA","BR","BR-MT","Nova Santa Helena","no",,,"SS9E","MT1147",,,
 599089,"SS9F","heliport","Pré-Fabricar Heliport",-27.104847,-49.52455,1253,"SA","BR","BR-SC","Ibirama","no",,,"SS9F","SC0254",,,
 599087,"SS9G","heliport","Tereza Ramos General & Maternity Hospital Helipad",-27.819099,-50.334427,3123,"SA","BR","BR-SC","Lages","no",,,"SS9G","SC0167",,,
 602036,"SS9H","small_airport","Fazenda Matos Airstrip",-20.077397,-54.1925,1744,"SA","BR","BR-MS","Jaraguari","no",,,"SS9H","MS0789",,,
@@ -63176,6 +63178,7 @@
 40347,"SVYI","small_airport","El Yavi Airport",5.4583330154418945,-65.89833068847656,557,"SA","VE","VE-Z",,"no",,,"SVYI",,,,
 40348,"SVYP","small_airport","Yopita Airport",7.199999809265137,-69.31666564941406,360,"SA","VE","VE-C",,"no",,,"SVYP",,,,
 40349,"SVYT","small_airport","Yutaje Airport",5.60978,-66.110397,722,"SA","VE","VE-Z",,"no",,,"SVYU",,,,
+602481,"SW1B","heliport","Sítio Bela Vista Heliport",-22.670706,-45.881206,5282,"SA","BR","BR-U-A","Paraisópolis","no",,,"SW1B","MG0660",,,
 599808,"SW1M","heliport","Agripark Heliport",-16.518383,-43.964106,2848,"SA","BR","BR-MG","Montes Claros","no",,,"SW1M","MG0652",,,
 599811,"SW1N","heliport","Novo Horizonte Heliport",-23.006789,-46.412147,2897,"SA","BR","BR-SP","Piracaia","no",,,"SW1N","SP1488",,,
 599813,"SW1O","heliport","Juarez Filho Heliport",-27.673283,-48.672716,16,"SA","BR","BR-SC","Palhoça","no",,,"SW1O","SC0257",,,
@@ -69780,6 +69783,8 @@
 602416,"US-12814","heliport","Miramar Amphitheater Expo Helipad",25.985649,-80.372103,,"NA","US","US-FL","Miramar","no",,,,,,,
 602434,"US-12815","closed","The Sandaloot Guys Airstrip",26.36103,-80.27504,,"NA","US","US-FL","Palm beach","no",,,,,,,
 602464,"US-12816","small_airport","Coopland Landing Strip",25.522155,-80.448686,,"NA","US","US-FL","Homestead","no",,,,,,,
+602480,"US-12817","closed","Franks Landing Strip",25.961344,-80.239785,,"NA","US","US-FL","Miami Gardens","no",,,,,,,
+602482,"US-12818","seaplane_base","Macarella Seaplane Base",24.729914,-81.090775,,"NA","US","US-FL","Marathon","no",,,,,,,
 334327,"US-1282","small_airport","Peavine Airport",45.724117,-117.077375,4007,"NA","US","US-OR","Enterprise","no",,,"KO62","O62",,,"B&H"
 334334,"US-1283","small_airport","Spangler Farm Airport",41.012639,-84.877694,776,"NA","US","US-IN","Fort Wayne","no",,,"22IN","22IN",,,
 334335,"US-1284","small_airport","Twin Lakes Airport",38.518522,-85.587583,663,"NA","US","US-IN","Marysville","no",,,"IN07","IN07",,,
