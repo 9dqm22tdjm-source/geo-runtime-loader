@@ -9057,7 +9057,7 @@
 15704,"9FL4","heliport","Pasco County Mosquito Heliport",28.193424,-82.620376,40,"NA","US","US-FL","Odessa","no",,,"9FL4","9FL4",,,
 15705,"9FL5","small_airport","Shady Bend Airport",29.81410026550293,-82.92569732666016,25,"NA","US","US-FL","Bell","no",,,"9FL5","9FL5",,,
 15706,"9FL6","heliport","Land South Heliport",27.86639976501465,-81.96939849853516,136,"NA","US","US-FL","Mulberry","no",,,"9FL6","9FL6",,,
-15707,"9FL7","closed","Oasis Ranger Station - US Government Airport",25.860072,-81.034727,10,"NA","US","US-FL","Everglades City","no",,,,,,,"9FL7"
+15707,"9FL7","small_airport","Oasis Ranger Station - US Government Airport",25.860072,-81.034727,10,"NA","US","US-FL","Everglades City","no",,,,,,,"9FL7"
 15708,"9FL8","small_airport","Finlayson Farm Airport",30.616600036621094,-83.65239715576172,150,"NA","US","US-FL","Greenville","no",,,"9FL8","9FL8",,,
 15709,"9FL9","heliport","Suwannee Hospital Emergency Heliport",30.29129981994629,-83.00399780273438,94,"NA","US","US-FL","Live Oak","no",,,"9FL9","9FL9",,,
 15710,"9G0","small_airport","Buffalo Airfield",42.862,-78.716599,670,"NA","US","US-NY","Buffalo","no",,,"9G0","9G0",,"https://en.wikipedia.org/wiki/Buffalo_Airfield",
@@ -17657,6 +17657,7 @@
 599141,"CA-1236","small_airport","Morrinville Farm Airstrip",53.749288,-113.64923,2294,"NA","CA","CA-AB","Morrinville","no",,,,,,,
 600231,"CA-1237","small_airport","Val Morin Airstrip",45.991983,-74.19194,1453,"NA","CA","CA-QC","Val Morin","no",,,,,,,
 601219,"CA-1239","seaplane_base","Shelburne Water Aerodrome",43.758,-65.323,,"NA","CA","CA-NS","Shelburne","no",,,,"CM2",,,
+602538,"CA-1240","small_airport","Dominion Airpark",46.640245,-81.03301,740,"NA","CA","CA-ON","Hanmer","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -42002,7 +42003,7 @@
 13991,"KTME","small_airport","Houston Executive Airport",29.807199,-95.897903,166,"NA","US","US-TX","Houston","no",,,"KTME","TME",,"https://en.wikipedia.org/wiki/Houston_Executive_Airport","Formerly 78T"
 24915,"KTMK","small_airport","Tillamook Airport",45.4182014465,-123.814002991,36,"NA","US","US-OR","Tillamook","no","KTMK","OTK","KTMK","TMK",,"https://en.wikipedia.org/wiki/Tillamook_Airport","S47"
 21205,"KTNP","small_airport","Twentynine Palms Airport",34.133901,-115.947347,1888,"NA","US","US-CA","Twentynine Palms","no","KTNP","TNP","KTNP","TNP","http://cms.sbcounty.gov/airports/Airports/TwentyninePalms.aspx","https://en.wikipedia.org/wiki/Twentynine_Palms_Airport",
-21206,"KTNT","small_airport","Dade Collier Training and Transition Airport",25.861799240112,-80.897003173828,13,"NA","US","US-FL","Miami","no","KTNT","TNT","KTNT","TNT","http://www.miami-airport.com/dade_collier.asp","https://en.wikipedia.org/wiki/Dade-Collier_Training_and_Transition_Airport",
+21206,"KTNT","medium_airport","Dade Collier Training and Transition Airport",25.866173,-80.900488,13,"NA","US","US-FL","Collier","no","KTNT","TNT","KTNT","TNT","http://www.miami-airport.com/dade_collier.asp","https://en.wikipedia.org/wiki/Dade-Collier_Training_and_Transition_Airport",
 21207,"KTNU","small_airport","Newton Municipal Airport",41.6744,-93.021698,953,"NA","US","US-IA","Newton","no","KTNU","TNU","KTNU","TNU","http://www.newtongov.org/index.aspx?nid=189","https://en.wikipedia.org/wiki/Newton_Municipal_Airport_(Iowa)","Earl Johnson Field"
 21208,"KTNX","small_airport","Tonopah Test Range Airport",37.7988014221,-116.78099823,5549,"NA","US","US-NV","Tonopah","no","KTNX","XSD","KTNX","TNX",,"https://en.wikipedia.org/wiki/Tonopah_Test_Range_Airport",
 21209,"KTOA","small_airport","Zamperini Field",33.803398132324,-118.33999633789,103,"NA","US","US-CA","Torrance","no","KTOA","TOA","KTOA","TOA","http://www.torranceca.gov/487.htm","https://en.wikipedia.org/wiki/Zamperini_Field",
@@ -48964,7 +48965,7 @@
 42359,"NA-0094","small_airport","Twilight Airstrip",-24.167217254638672,17.989166259765625,4009,"AF","NA","NA-HA",,"no",,,,,,,
 42360,"NA-0095","small_airport","Bullsport Landig Site",-24.116666793823242,16.366666793823242,5120,"AF","NA","NA-HA",,"no",,,,,,,
 42361,"NA-0096","small_airport","Morester Landing Site",-24.116117477416992,19.977783203125,3863,"AF","NA","NA-HA",,"no",,,,,,,
-42362,"NA-0097","small_airport","Lidfontein Landing Site",-24.081666946411133,18.196666717529297,3975,"AF","NA","NA-HA",,"no",,,,,,,
+42362,"NA-0097","small_airport","Lidfontein Landing Site",-24.078646,18.184487,3975,"AF","NA","NA-HA",,"no",,,,,,,
 345910,"NA-0098","small_airport","Orutjandja Airport",-18.8839,13.481598,2477,"AF","NA","NA-KU",,"no",,,,,,,
 42364,"NA-0099","small_airport","Nabus Landing Site",-24.038333892822266,18.975000381469727,3968,"AF","NA","NA-HA",,"no",,,,,,,
 42365,"NA-0100","small_airport","Runnersrest Landing Site",-24.01333236694336,17.74471664428711,4031,"AF","NA","NA-HA",,"no",,,,,,,
@@ -81647,7 +81648,7 @@
 27391,"YBLL","small_airport","Bollon Airport",-28.051247,147.481799,182,"OC","AU","AU-QLD",,"no","YBLL","BLS","YBLL",,,,
 29711,"YBLM","small_airport","Blinman Airport",-31.118600845336914,138.7259979248047,1991,"OC","AU","AU-SA",,"no",,,"YBLM",,,,
 26915,"YBLN","small_airport","Busselton Margaret River Regional Airport",-33.687222,115.400278,55,"OC","AU","AU-WA","Busselton","yes","YBLN","BQB","YBLN",,"https://www.busseltonmargaretriverairport.com.au/","https://en.wikipedia.org/wiki/Busselton_Regional_Airport",
-594733,"YBLO","small_airport","Bullio Airport (Closed}",-34.357532,150.16644,2133,"OC","AU","AU-NSW","Bullio","no",,,"YBLO",,,,
+594733,"YBLO","closed","Bullio Airport",-34.357532,150.16644,2133,"OC","AU","AU-NSW","Bullio","no",,,,,,,"YBLO"
 26916,"YBLT","small_airport","Ballarat Airport",-37.5117,143.791,1433,"OC","AU","AU-VIC",,"no","YBLT",,"YBLT",,,"https://en.wikipedia.org/wiki/Ballarat_Airport",
 27392,"YBLU","small_airport","Bellevue Airport",-27.612778,120.593889,1555,"OC","AU","AU-WA",,"no",,,"YBLU",,,"https://en.wikipedia.org/wiki/Bellevue_Airport",
 26917,"YBMA","medium_airport","Mount Isa Airport",-20.66638,139.488468,1121,"OC","AU","AU-QLD","Mount Isa","yes","YBMA","ISA","YBMA",,,"https://en.wikipedia.org/wiki/Mount_Isa_Airport",
