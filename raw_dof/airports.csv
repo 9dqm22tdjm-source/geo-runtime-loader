@@ -9057,7 +9057,7 @@
 15704,"9FL4","heliport","Pasco County Mosquito Heliport",28.193424,-82.620376,40,"NA","US","US-FL","Odessa","no",,,"9FL4","9FL4",,,
 15705,"9FL5","small_airport","Shady Bend Airport",29.81410026550293,-82.92569732666016,25,"NA","US","US-FL","Bell","no",,,"9FL5","9FL5",,,
 15706,"9FL6","heliport","Land South Heliport",27.86639976501465,-81.96939849853516,136,"NA","US","US-FL","Mulberry","no",,,"9FL6","9FL6",,,
-15707,"9FL7","small_airport","Oasis Ranger Station - US Government Airport",25.860072,-81.034727,10,"NA","US","US-FL","Everglades City","no",,,,,,,"9FL7"
+15707,"9FL7","small_airport","Oasis Ranger Station - US Government Airport",25.860072,-81.034727,10,"NA","US","US-FL","Everglades City","no",,,"9FL7","9FL7",,,
 15708,"9FL8","small_airport","Finlayson Farm Airport",30.616600036621094,-83.65239715576172,150,"NA","US","US-FL","Greenville","no",,,"9FL8","9FL8",,,
 15709,"9FL9","heliport","Suwannee Hospital Emergency Heliport",30.29129981994629,-83.00399780273438,94,"NA","US","US-FL","Live Oak","no",,,"9FL9","9FL9",,,
 15710,"9G0","small_airport","Buffalo Airfield",42.862,-78.716599,670,"NA","US","US-NY","Buffalo","no",,,"9G0","9G0",,"https://en.wikipedia.org/wiki/Buffalo_Airfield",
@@ -25283,7 +25283,7 @@
 17264,"FA76","heliport","Nicklaus Childrens Hospital Heliport",25.7409301,-80.294641,54,"NA","US","US-FL","Miami","no",,,"FA76","FA76",,,"Miami Childrens Hospital"
 45357,"FA78","seaplane_base","Robinestte Seaplane Base",28.333,-81.25,58,"NA","US","US-FL","St Cloud","no",,,"FA78","FA78",,,
 17266,"FA79","heliport","Doan Heliport",29.16550064086914,-81.02729797363281,13,"NA","US","US-FL","South Daytona","no",,,"FA79","FA79",,,
-17268,"FA81","small_airport","Tavernaero Park Airport",25.004848,-80.533279,10,"NA","US","US-FL","Tavernier","no",,,"FA81","FA81",,,
+17268,"FA81","small_airport","Tavernaero Airport Park",25.004848,-80.533279,10,"NA","US","US-FL","Tavernier","no",,,"FA81","FA81",,,
 17270,"FA83","small_airport","Orlando North Airpark",28.72156,-81.654825,80,"NA","US","US-FL","Zellwood","no",,,"FA83","FA83",,,
 345473,"FA84","seaplane_base","Lake Tarpon Seaplane Base",28.125,-82.726944,3,"NA","US","US-FL","Palm Harbor","no",,,"FA84","FA84",,,
 341067,"FA86","small_airport","Early Bird Airport",29.21464,-82.371656,71,"NA","US","US-FL","Ocala","no",,,"FA86","FA86",,,
@@ -25994,7 +25994,7 @@
 17398,"FL28","small_airport","State Prison Field",30.05579948425293,-82.17230224609375,123,"NA","US","US-FL","Raiford","no",,,"FL28","FL28",,,
 17399,"FL29","small_airport","Hales 700 Airport",27.3612003326416,-80.5708999633789,26,"NA","US","US-FL","Fort Pierce","no",,,"FL29","FL29",,,
 17400,"FL30","heliport","HCA New Port Richey Hospital Heliport",28.235162,-82.722374,25,"NA","US","US-FL","New Port Richey","no",,,"FL30","FL30",,,
-17401,"FL31","closed","MJD Airport",25.552307,-80.555781,6,"NA","US","US-FL","Miami","no",,,,,,,"FL31"
+17401,"FL31","closed","Mjd",25.552307,-80.555781,6,"NA","US","US-FL","Miami","no",,,,,,,"FL31"
 17402,"FL32","heliport","HCA Florida Bayonet Point Hospital Heliport",28.362416,-82.688025,10,"NA","US","US-FL","Hudson","no",,,"FL32","FL32",,,"Regional Medical Center Bayonet Point Heliport"
 17403,"FL33","small_airport","Watson Flight Strip",29.66830062866211,-82.82620239257812,55,"NA","US","US-FL","Trenton","no",,,"FL33","FL33",,,
 17404,"FL34","small_airport","Eglin Test Site B6 Airport",30.631900787353516,-86.74720001220703,120,"NA","US","US-FL","Valparaiso","no",,,"FL34","FL34",,,
@@ -42003,7 +42003,7 @@
 13991,"KTME","small_airport","Houston Executive Airport",29.807199,-95.897903,166,"NA","US","US-TX","Houston","no",,,"KTME","TME",,"https://en.wikipedia.org/wiki/Houston_Executive_Airport","Formerly 78T"
 24915,"KTMK","small_airport","Tillamook Airport",45.4182014465,-123.814002991,36,"NA","US","US-OR","Tillamook","no","KTMK","OTK","KTMK","TMK",,"https://en.wikipedia.org/wiki/Tillamook_Airport","S47"
 21205,"KTNP","small_airport","Twentynine Palms Airport",34.133901,-115.947347,1888,"NA","US","US-CA","Twentynine Palms","no","KTNP","TNP","KTNP","TNP","http://cms.sbcounty.gov/airports/Airports/TwentyninePalms.aspx","https://en.wikipedia.org/wiki/Twentynine_Palms_Airport",
-21206,"KTNT","medium_airport","Dade Collier Training and Transition Airport",25.866173,-80.900488,13,"NA","US","US-FL","Collier","no","KTNT","TNT","KTNT","TNT","http://www.miami-airport.com/dade_collier.asp","https://en.wikipedia.org/wiki/Dade-Collier_Training_and_Transition_Airport",
+21206,"KTNT","small_airport","Dade Collier Training and Transition Airport",25.861788,-80.89701,13,"NA","US","US-FL","Miami","no","KTNT","TNT","KTNT","TNT","http://www.miami-airport.com/dade_collier.asp","https://en.wikipedia.org/wiki/Dade-Collier_Training_and_Transition_Airport","Everglades Jetport, Big Cypress Swamp Jetport, Alligator Alcatraz"
 21207,"KTNU","small_airport","Newton Municipal Airport",41.6744,-93.021698,953,"NA","US","US-IA","Newton","no","KTNU","TNU","KTNU","TNU","http://www.newtongov.org/index.aspx?nid=189","https://en.wikipedia.org/wiki/Newton_Municipal_Airport_(Iowa)","Earl Johnson Field"
 21208,"KTNX","small_airport","Tonopah Test Range Airport",37.7988014221,-116.78099823,5549,"NA","US","US-NV","Tonopah","no","KTNX","XSD","KTNX","TNX",,"https://en.wikipedia.org/wiki/Tonopah_Test_Range_Airport",
 21209,"KTOA","small_airport","Zamperini Field",33.803398132324,-118.33999633789,103,"NA","US","US-CA","Torrance","no","KTOA","TOA","KTOA","TOA","http://www.torranceca.gov/487.htm","https://en.wikipedia.org/wiki/Zamperini_Field",
@@ -69805,6 +69805,7 @@
 602464,"US-12816","small_airport","Coopland Landing Strip",25.522155,-80.448686,,"NA","US","US-FL","Homestead","no",,,,,,,
 602480,"US-12817","closed","Franks Landing Strip",25.961344,-80.239785,,"NA","US","US-FL","Miami Gardens","no",,,,,,,
 602482,"US-12818","seaplane_base","Macarella Seaplane Base",24.729914,-81.090775,,"NA","US","US-FL","Marathon","no",,,,,,,
+602555,"US-12819","closed","Vista View Airport",26.06698,-80.343238,,"NA","US","US-FL","Broward","no",,,,,,,
 334327,"US-1282","small_airport","Peavine Airport",45.724117,-117.077375,4007,"NA","US","US-OR","Enterprise","no",,,"KO62","O62",,,"B&H"
 334334,"US-1283","small_airport","Spangler Farm Airport",41.012639,-84.877694,776,"NA","US","US-IN","Fort Wayne","no",,,"22IN","22IN",,,
 334335,"US-1284","small_airport","Twin Lakes Airport",38.518522,-85.587583,663,"NA","US","US-IN","Marysville","no",,,"IN07","IN07",,,
@@ -81648,7 +81649,7 @@
 27391,"YBLL","small_airport","Bollon Airport",-28.051247,147.481799,182,"OC","AU","AU-QLD",,"no","YBLL","BLS","YBLL",,,,
 29711,"YBLM","small_airport","Blinman Airport",-31.118600845336914,138.7259979248047,1991,"OC","AU","AU-SA",,"no",,,"YBLM",,,,
 26915,"YBLN","small_airport","Busselton Margaret River Regional Airport",-33.687222,115.400278,55,"OC","AU","AU-WA","Busselton","yes","YBLN","BQB","YBLN",,"https://www.busseltonmargaretriverairport.com.au/","https://en.wikipedia.org/wiki/Busselton_Regional_Airport",
-594733,"YBLO","closed","Bullio Airport",-34.357532,150.16644,2133,"OC","AU","AU-NSW","Bullio","no",,,,,,,"YBLO"
+594733,"YBLO","small_airport","Bullio Airport",-34.357532,150.16644,2133,"OC","AU","AU-NSW","Bullio","no",,,"YBLO",,,,"YBLO"
 26916,"YBLT","small_airport","Ballarat Airport",-37.5117,143.791,1433,"OC","AU","AU-VIC",,"no","YBLT",,"YBLT",,,"https://en.wikipedia.org/wiki/Ballarat_Airport",
 27392,"YBLU","small_airport","Bellevue Airport",-27.612778,120.593889,1555,"OC","AU","AU-WA",,"no",,,"YBLU",,,"https://en.wikipedia.org/wiki/Bellevue_Airport",
 26917,"YBMA","medium_airport","Mount Isa Airport",-20.66638,139.488468,1121,"OC","AU","AU-QLD","Mount Isa","yes","YBMA","ISA","YBMA",,,"https://en.wikipedia.org/wiki/Mount_Isa_Airport",
