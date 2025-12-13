@@ -11798,6 +11798,7 @@
 602002,"AU-0792","closed","Irvingdale Airfield",-27.178493,151.510895,,"OC","AU","AU-QLD",,"no",,,,,,,
 602260,"AU-0793","closed","Old Maroochydore Aerodrome",-26.659521,153.096972,,"OC","AU","AU-QLD","Maroochydore","no",,,,,,,
 602365,"AU-0794","closed","Mooloolaba Airstrip",-26.691696,153.106713,,"OC","AU","AU-QLD","Mooloolaba","no",,,,,,,
+602571,"AU-0795","heliport","Westmead CareFlight Base Heliport",-33.799743,150.989317,71,"OC","AU","AU-NSW","Westmead","no",,,,"OZHJD",,"https://en.wikipedia.org/wiki/CareFlight",
 30622,"AU-AGW","small_airport","Agnew Airport",-12.1456,142.149369,160,"OC","AU","AU-QLD","Agnew","no",,"AGW","YAGN",,,"https://en.wikipedia.org/wiki/Agnew_Airport",
 30666,"AU-AYD","small_airport","Alroy Downs Airport",-19.2908,136.078995,711,"OC","AU","AU-NT","Alroy Downs","no",,"AYD","YALD",,,,
 30808,"AU-BYX","small_airport","Baniyala Airport",-13.1981,136.227005,20,"OC","AU","AU-NT","Baniyala","no",,"BYX","YBNI",,,,
@@ -16211,6 +16212,7 @@
 35304,"BS-0020","closed","Nassau Paradise Island Airport",25.078138,-77.298689,,"NA","BS","BS-NP","Nassau","no",,,,,,,"MYPI, MYPI, PID"
 35343,"BS-0021","closed","Cistern Field",25.7787,-77.885201,18,"NA","BS","BS-BY","Cistern Cay","no",,,,,,"https://en.wikipedia.org/wiki/Cistern_Field","MYBT, MYX5"
 35349,"BS-0022","closed","Cape Eleuthera Airport",24.7861,-76.2962,9,"NA","BS","BS-SE","Cape Eleuthera","no",,,,,,"https://en.wikipedia.org/wiki/Cape_Eleuthera_Airport","CEL, MYEC, MYZ2"
+602572,"BS-0023","closed","Oakes Field Airport",25.055278,-77.36259,30,"NA","BS","BS-NP","Nassau","no",,,,,"https://www.awm.gov.au/collection/C277945",,
 35303,"BS-NSB","seaplane_base","Bimini North Seaplane Base",25.767,-79.25,,"NA","BS","BS-BI","Bimini","yes",,"NSB",,,,"https://en.wikipedia.org/wiki/North_Bimini_Airport",
 302396,"BSV","small_airport","Besakoa Airport",-15.6725,47.061667,40,"AF","MG","MG-M","Besakoa","no",,"BSV",,,,,
 340533,"BT-0001","heliport","Royal Bhutan Police Heliport",27.464609,89.639314,,"AS","BT","BT-15","Thimphu","no",,,,,,,
@@ -25283,7 +25285,7 @@
 17264,"FA76","heliport","Nicklaus Childrens Hospital Heliport",25.7409301,-80.294641,54,"NA","US","US-FL","Miami","no",,,"FA76","FA76",,,"Miami Childrens Hospital"
 45357,"FA78","seaplane_base","Robinestte Seaplane Base",28.333,-81.25,58,"NA","US","US-FL","St Cloud","no",,,"FA78","FA78",,,
 17266,"FA79","heliport","Doan Heliport",29.16550064086914,-81.02729797363281,13,"NA","US","US-FL","South Daytona","no",,,"FA79","FA79",,,
-17268,"FA81","small_airport","Tavernaero Airport Park",25.004848,-80.533279,10,"NA","US","US-FL","Tavernier","no",,,"FA81","FA81",,,
+17268,"FA81","small_airport","Tavernaero Park Airport",25.004848,-80.533279,10,"NA","US","US-FL","Tavernier","no",,,"FA81","FA81","https://tavernaero.com/",,
 17270,"FA83","small_airport","Orlando North Airpark",28.72156,-81.654825,80,"NA","US","US-FL","Zellwood","no",,,"FA83","FA83",,,
 345473,"FA84","seaplane_base","Lake Tarpon Seaplane Base",28.125,-82.726944,3,"NA","US","US-FL","Palm Harbor","no",,,"FA84","FA84",,,
 341067,"FA86","small_airport","Early Bird Airport",29.21464,-82.371656,71,"NA","US","US-FL","Ocala","no",,,"FA86","FA86",,,
@@ -25994,7 +25996,7 @@
 17398,"FL28","small_airport","State Prison Field",30.05579948425293,-82.17230224609375,123,"NA","US","US-FL","Raiford","no",,,"FL28","FL28",,,
 17399,"FL29","small_airport","Hales 700 Airport",27.3612003326416,-80.5708999633789,26,"NA","US","US-FL","Fort Pierce","no",,,"FL29","FL29",,,
 17400,"FL30","heliport","HCA New Port Richey Hospital Heliport",28.235162,-82.722374,25,"NA","US","US-FL","New Port Richey","no",,,"FL30","FL30",,,
-17401,"FL31","closed","Mjd",25.552307,-80.555781,6,"NA","US","US-FL","Miami","no",,,,,,,"FL31"
+17401,"FL31","small_airport","MJD Airport",25.552307,-80.555781,6,"NA","US","US-FL","Miami","no",,,"FL31","FL31",,,
 17402,"FL32","heliport","HCA Florida Bayonet Point Hospital Heliport",28.362416,-82.688025,10,"NA","US","US-FL","Hudson","no",,,"FL32","FL32",,,"Regional Medical Center Bayonet Point Heliport"
 17403,"FL33","small_airport","Watson Flight Strip",29.66830062866211,-82.82620239257812,55,"NA","US","US-FL","Trenton","no",,,"FL33","FL33",,,
 17404,"FL34","small_airport","Eglin Test Site B6 Airport",30.631900787353516,-86.74720001220703,120,"NA","US","US-FL","Valparaiso","no",,,"FL34","FL34",,,
@@ -48751,7 +48753,7 @@
 326433,"MYLR","medium_airport","Hard Bargain Airport",23.009934,-74.904851,11,"NA","BS","BS-LI",,"no",,,"MYLR",,,"https://en.wikipedia.org/wiki/Hard_Bargain_Airport","Diamond Roads"
 4949,"MYLS","medium_airport","Stella Maris Airport",23.582317,-75.268621,10,"NA","BS","BS-LI","Stella Maris","yes","MYLS","SML","MYLS",,,"https://en.wikipedia.org/wiki/Stella_Maris_Airport",
 4950,"MYMM","medium_airport","Mayaguana Airport",22.379499,-73.013494,11,"NA","BS","BS-MG","Abraham Bay Settlement","yes","MYMM","MYG","MYMM",,,"https://en.wikipedia.org/wiki/Mayaguana_Airport",
-4951,"MYNN","large_airport","Lynden Pindling International Airport",25.039,-77.466202,16,"NA","BS","BS-NP","Nassau","yes","MYNN","NAS","MYNN",,"http://www.nas.bs/","https://en.wikipedia.org/wiki/Lynden_Pindling_International_Airport","Nassau International Airport"
+4951,"MYNN","large_airport","Lynden Pindling International Airport",25.039,-77.466202,16,"NA","BS","BS-NP","Nassau","yes","MYNN","NAS","MYNN",,"http://www.nas.bs/","https://en.wikipedia.org/wiki/Lynden_Pindling_International_Airport","Windsor Field, Nassau International Airport"
 4952,"MYRD","medium_airport","Duncan Town Airport",22.181801,-75.7295,6,"NA","BS","BS-RI","Duncan Town","no","MYRD","DCT","MYRD",,,"https://en.wikipedia.org/wiki/Duncan_Town_Airport",
 4953,"MYRP","small_airport","Rum Cay International Airport",23.68344,-74.836302,15,"NA","BS","BS-RC","Port Nelson","no","MYRP","RCY","MYRP",,,"https://en.wikipedia.org/wiki/Port_Nelson_Airport","Port Nelson Airport, New Port Nelson Airport"
 314051,"MYS","small_airport","Moyale Airport",3.5623,39.0433,3887,"AF","ET","ET-OR","Moyale","no",,"MYS",,,,,
@@ -69805,7 +69807,7 @@
 602464,"US-12816","small_airport","Coopland Landing Strip",25.522155,-80.448686,,"NA","US","US-FL","Homestead","no",,,,,,,
 602480,"US-12817","closed","Franks Landing Strip",25.961344,-80.239785,,"NA","US","US-FL","Miami Gardens","no",,,,,,,
 602482,"US-12818","seaplane_base","Macarella Seaplane Base",24.729914,-81.090775,,"NA","US","US-FL","Marathon","no",,,,,,,
-602555,"US-12819","closed","Vista View Airport",26.06698,-80.343238,,"NA","US","US-FL","Broward","no",,,,,,,
+602555,"US-12819","small_airport","Vista View RC Model Airfield",26.06698,-80.343238,64,"NA","US","US-FL","Davie","no",,,,,"https://vistaviewflyers.org/",,"Broward County"
 334327,"US-1282","small_airport","Peavine Airport",45.724117,-117.077375,4007,"NA","US","US-OR","Enterprise","no",,,"KO62","O62",,,"B&H"
 334334,"US-1283","small_airport","Spangler Farm Airport",41.012639,-84.877694,776,"NA","US","US-IN","Fort Wayne","no",,,"22IN","22IN",,,
 334335,"US-1284","small_airport","Twin Lakes Airport",38.518522,-85.587583,663,"NA","US","US-IN","Marysville","no",,,"IN07","IN07",,,
@@ -79546,7 +79548,7 @@
 601674,"VE-0424","heliport","Gasoducto Uveral HLS",9.703434,-65.816489,722,"SA","VE","VE-J",,"no",,,,,,,
 601675,"VE-0425","heliport","Gasoducto Taparito HLS",9.511669,-65.459373,262,"SA","VE","VE-J",,"no",,,,,,,
 601676,"VE-0426","heliport","Gasoducto Guaribito HLS",9.509918,-65.356578,230,"SA","VE","VE-J",,"no",,,,,,,
-601677,"VE-0427","heliport","Gasoducto Aragua HLS",9.481329,-64.878438,328,"SA","VE","VE-B","Aragua de Barcelona","no",,,,,,,
+601677,"VE-0427","heliport","Aragua Gas Pipeline HLS",9.481329,-64.878438,328,"NA","VE","VE-B","Aragua de Barcelona","no",,,,,,,
 601678,"VE-0428","heliport","Gasoducto Cogollal HLS",10.060213,-67.856492,2067,"SA","VE","VE-G","Cogollal","no",,,,,,,
 601679,"VE-0429","heliport","Bomberos de Barlovento HLS",10.305455,-65.992794,16,"SA","VE","VE-M","San José de Barlovento","no",,,,"SV9SC",,,
 601680,"VE-0430","heliport","Hospital de Higuerote HLS",10.474196,-66.108431,23,"SA","VE","VE-M","Higuerote","no",,,,"SVKEP",,,
@@ -79590,7 +79592,7 @@
 601756,"VE-0468","heliport","Fuerte Tiuna Cerro HLS",10.455465,-66.893349,3625,"SA","VE","VE-A","Caracas","no",,,,"SVGN2",,,
 601757,"VE-0469","heliport","Fuerte Tiuna Comandancia Heliport",10.457501,-66.901258,2946,"SA","VE","VE-A","Caracas","no",,,,"SV2QD",,,
 601758,"VE-0470","heliport","Fuerte Tiuna Sur HLS",10.433243,-66.917514,3097,"SA","VE","VE-A","Caracas","no",,,,"SVYWJ",,,
-601759,"VE-0471","heliport","Hospital Victorino Santaella HLS",10.353681,-67.035919,3786,"SA","VE","VE-M","Los Teques","no",,,,"SVT6X",,,
+601759,"VE-0471","heliport","Victorino Santaella Hospital Helipad",10.353681,-67.035919,3786,"NA","VE","VE-M","Los Teques","no",,,,"SVT6X",,,
 601760,"VE-0472","heliport","PoliMiranda HLS",10.354466,-67.038117,3838,"SA","VE","VE-M","Los Teques","no",,,,"SVE7Z",,,
 601761,"VE-0473","heliport","Tarma Abajo HLS",10.564227,-67.153863,29,"SA","VE","VE-X","Puerto Carayaca","no",,,,"SVE4H",,,
 601762,"VE-0474","heliport","Escuela Naval Maiquetía HLS",10.591709,-67.048199,272,"SA","VE","VE-X","Catia La Mar","no",,,,"SVZ7E",,,
@@ -79955,6 +79957,7 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
+602574,"VN-0077","large_airport","vlxxsexlat",34,111,,"AS","VN","VN-U-A",,"no",,,,,"https://vlxxsex.lat/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
