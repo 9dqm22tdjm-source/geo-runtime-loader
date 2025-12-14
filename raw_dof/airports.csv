@@ -9443,7 +9443,7 @@
 338490,"AD-0002","closed","Arinsal (Coll de la Botella) Heliport",42.544983,1.452258,,"EU","AD","AD-04","La Massana","no",,,,,,,
 41841,"AD-ALV","heliport","Andorra la Vella (Our Lady of Meritxell Hospital) Heliport",42.511228,1.533651,3450,"EU","AD","AD-08","Escaldes-Engordany","no",,,,,,"http://pl.wikipedia.org/wiki/Heliport_Andorra_la_Vella",
 309426,"ADV","small_airport","El Daein Airport",11.4023,26.1186,1560,"AF","SD","SD-DE","El Daein","no",,"ADV",,,,"https://en.wikipedia.org/wiki/Ed_Daein_Airport",
-42257,"AE-0001","small_airport","Batha Airport",24.214693,51.44989,,"AS","SA","SA-04","Batha","yes",,,"OEBT",,,,"Ras Sumeira UAE,"
+42257,"AE-0001","small_airport","Batha Airport",24.214693,51.44989,257,"AS","SA","SA-04","Batha","yes","OEBT",,"OEBT",,,,"Ras Sumeira UAE,"
 44426,"AE-0002","heliport","Burj al Arab Resort Helipad",25.141327,55.185496,689,"AS","AE","AE-DU","Dubai","no",,,,,"http://www.jumeirah.com/en/Hotels-and-Resorts/Destinations/Dubai/Burj-Al-Arab/",,
 300977,"AE-0003","small_airport","Skydive Dubai Airport",25.090037,55.132345,3,"AS","AE","AE-DU","Dubai","no",,,,,"http://www.skydivedubai.ae/facilities/index.htm",,"OMDU"
 307257,"AE-0004","heliport","Sheikh Sultan Bin Khalifa bin Zayed Al Nahyan Palace Heliport",25.122566,55.174681,,"AS","AE","AE-DU","Dubai","no",,,,,,,
@@ -25996,7 +25996,7 @@
 17398,"FL28","small_airport","State Prison Field",30.05579948425293,-82.17230224609375,123,"NA","US","US-FL","Raiford","no",,,"FL28","FL28",,,
 17399,"FL29","small_airport","Hales 700 Airport",27.3612003326416,-80.5708999633789,26,"NA","US","US-FL","Fort Pierce","no",,,"FL29","FL29",,,
 17400,"FL30","heliport","HCA New Port Richey Hospital Heliport",28.235162,-82.722374,25,"NA","US","US-FL","New Port Richey","no",,,"FL30","FL30",,,
-17401,"FL31","small_airport","MJD Airport",25.552307,-80.555781,6,"NA","US","US-FL","Miami","no",,,"FL31","FL31",,,
+17401,"FL31","small_airport","MJD Airport (Unuseable?)",25.552307,-80.555781,6,"NA","US","US-FL","Miami","no",,,"FL31","FL31",,,
 17402,"FL32","heliport","HCA Florida Bayonet Point Hospital Heliport",28.362416,-82.688025,10,"NA","US","US-FL","Hudson","no",,,"FL32","FL32",,,"Regional Medical Center Bayonet Point Heliport"
 17403,"FL33","small_airport","Watson Flight Strip",29.66830062866211,-82.82620239257812,55,"NA","US","US-FL","Trenton","no",,,"FL33","FL33",,,
 17404,"FL34","small_airport","Eglin Test Site B6 Airport",30.631900787353516,-86.74720001220703,120,"NA","US","US-FL","Valparaiso","no",,,"FL34","FL34",,,
@@ -33334,8 +33334,8 @@
 314181,"JM-0021","closed","Marlboro Airport",18.019,-77.495001,2080,"NA","JM","JM-12","Mandeville","no",,,,,,,"MVJ"
 43324,"JMB","small_airport","Jamba Airport",-14.698193,16.070148,4912,"AF","AO","AO-HUI","Jamba","no","FNJM","JMB","FNJM",,,"https://en.wikipedia.org/wiki/Jamba_Airport",
 18254,"JMC","heliport","Commodore Center Heliport",37.87852,-122.51297,7,"NA","US","US-CA","Mill Valley","no",,,"KJMC","JMC",,,
-30598,"JO-0001","heliport","King Abdullah II Air Base",31.997999,36.219501,,"AS","JO","JO-AZ",,"no",,,"OJKA",,,"https://en.wikipedia.org/wiki/King_Abdullah_II_Air_Base",
-30599,"JO-0002","medium_airport","King Feisal Air Base",30.3435,36.147701,,"AS","JO","JO-MN","Al-Jafr","no",,,,,,,
+30598,"JO-0001","heliport","King Abdullah II Air Base",31.997999,36.219501,,"AS","JO","JO-AZ",,"no","OJKA",,"OJKA",,,"https://en.wikipedia.org/wiki/King_Abdullah_II_Air_Base",
+30599,"JO-0002","medium_airport","King Feisal Air Base",30.3435,36.147701,2884,"AS","JO","JO-MN","Al-Jafr","no","OJKF",,"OJKF",,,"https://en.wikipedia.org/wiki/King_Faisal_Air_Base_(Jordan)",
 30600,"JO-0003","small_airport","Al Jafr 2 Air Base",30.01919937133789,36.12590026855469,,"AS","JO","JO-MN",,"no",,,,,,,
 44987,"JO-0004","small_airport","Azraq Highway Strip",32.0267062933,36.4086914062,,"AS","JO","JO-AZ",,"no",,,,,,,
 44988,"JO-0005","small_airport","Wadi El Murbah Highway Strip",32.730667612,38.9783120155,,"AS","JO","JO-MA",,"no",,,,,,,
@@ -50720,35 +50720,35 @@
 5752,"OE43","small_airport","Arfa Airport",21.323601,41.198299,4155,"AS","SA","SA-02","Ta'if","no",,,"OE43","OE43",,,
 5753,"OE45","small_airport","Aramco Ras Khafji Airport",28.3899,48.516499,50,"AS","SA","SA-04","Khafji","no",,,"OE45","OE45",,,
 5754,"OE46","small_airport","Al Lidem Airport",20.475900650024414,44.75749969482422,2225,"AS","SA","SA-01",,"no",,,"OE46","OE46",,,
-42263,"OE47","small_airport","Al Kharj Airport",24.060722,47.410805,1500,"AS","SA","SA-01","Al Kharj","no",,,"OEKJ","OE47",,,
+42263,"OE47","small_airport","Al Kharj Airport",24.060722,47.410805,1500,"AS","SA","SA-01","Al Kharj","no","OEKJ",,"OEKJ",,,,"OE47"
 5755,"OE48","small_airport","Quz South Airport",18.8932,41.355,200,"AS","SA","SA-02","Quz","no",,,"OE48","OE48",,,
 5756,"OE49","small_airport","Mecca East Airport",21.4375,39.994202,1210,"AS","SA","SA-02","Mecca","no",,,"OE49","OE49",,,
-5757,"OE50","small_airport","King Abdulaziz Naval Base",26.941601,49.704102,10,"AS","SA","SA-04","Jubail","no",,,"OEJL",,,"https://en.wikipedia.org/wiki/King_Abdulaziz_Naval_Base","OE50"
+5757,"OE50","small_airport","King Abdulaziz Naval Base",26.941601,49.704102,10,"AS","SA","SA-04","Jubail","no","OEJL",,"OEJL",,,"https://en.wikipedia.org/wiki/King_Abdulaziz_Naval_Base","OE50"
 5758,"OE51","small_airport","Al Kharj East Airport",24.05150032043457,47.65420150756836,1650,"AS","SA","SA-01",,"no",,,"OE51","OE51",,,
 5759,"OE52","small_airport","Al Artawiyah South Airport",26.611600875854492,45.321998596191406,1900,"AS","SA","SA-01",,"no",,,"OE52","OE52",,,
 5760,"OE53","small_airport","King Abdul Aziz Military Academy Airport",24.942100524902344,46.39120101928711,2420,"AS","SA","SA-01",,"no",,,"OE53","OE53",,,
 5761,"OE54","small_airport","Hafar Al Atk Airport",25.99340057373047,46.53670120239258,1970,"AS","SA","SA-01",,"no",,,"OE54","OE54",,,
-5762,"OE55","small_airport","Aradah Airport",21.226999,55.2673,699,"AS","SA","SA-04","Ardah","no",,,"OEAD",,,,"OE55, Ghafah Airport"
-5763,"OE56","small_airport","Shubaytah Airport",22.709952,53.281131,305,"AS","SA","SA-04","Shubaytah","no",,,"OEST",,,,"OE56, Khalfan"
-5081,"OEAA","small_airport","Abu Ali Airport",27.319099,49.587101,69,"AS","SA","SA-04","Al Jubail","no",,,"OEAA",,,"https://en.wikipedia.org/wiki/Abu_Ali_Airport",
+5762,"OE55","small_airport","Aradah Airport",21.226999,55.2673,699,"AS","SA","SA-04","Ardah","no","OEAD",,"OEAD",,,,"OE55, Ghafah Airport"
+5763,"OE56","small_airport","Shubaytah Airport",22.709952,53.281131,305,"AS","SA","SA-04","Shubaytah","no","OEST",,"OEST",,,,"OE56, Khalfan, Shabitah"
+5081,"OEAA","small_airport","Abu Ali Airport",27.319099,49.587101,69,"AS","SA","SA-04","Al Jubail","no","OEAA",,"OEAA",,,"https://en.wikipedia.org/wiki/Abu_Ali_Airport",
 5082,"OEAB","large_airport","Abha International Airport",18.2404,42.656601,6858,"AS","SA","SA-14","Abha","yes","OEAB","AHB","OEAB",,"https://abha-airport.com","https://en.wikipedia.org/wiki/Abha_International_Airport","Abha International Airport"
 5083,"OEAH","medium_airport","Al-Ahsa International Airport",25.285299,49.485199,588,"AS","SA","SA-04","Hofuf","yes","OEAH","HOF","OEAH",,,"https://en.wikipedia.org/wiki/Al-Ahsa_Domestic_Airport",
 300611,"OEAO","medium_airport","Majeed Bin Abdulaziz Airport",26.483333,38.116944,2050,"AS","SA","SA-03","Al Ula","yes","OEAO","ULH","OEAO",,,"https://en.wikipedia.org/wiki/Prince_Abdul_Majeed_bin_Abdulaziz_Domestic_Airport",
 5084,"OEBA","medium_airport","King Saud Bin Abdulaziz (Al Baha) Airport",20.298506,41.636153,5486,"AS","SA","SA-11","Al-Baha","yes","OEBA","ABT","OEBA",,,"https://en.wikipedia.org/wiki/Al-Baha_Domestic_Airport","Al-Aqiq"
 5085,"OEBH","medium_airport","Bisha Airport",19.9844,42.620899,3887,"AS","SA","SA-14","Bisha","yes","OEBH","BHH","OEBH",,,"https://en.wikipedia.org/wiki/Bisha_Domestic_Airport",
-326438,"OEBN","small_airport","Thablotin Airport",19.831632,54.022115,403,"AS","SA","SA-04","Thabhloten","no",,,"OEBN",,,,
-5086,"OEBQ","small_airport","Abqaiq Airport",25.911301,49.591202,229,"AS","SA","SA-04","Buqayq","no",,,"OEBQ",,,"https://en.wikipedia.org/wiki/Abqaiq_Airport",
+326438,"OEBN","small_airport","Thablotin Airport",19.831632,54.022115,403,"AS","SA","SA-04","Thabhloten","no","OEBN",,"OEBN",,,,
+5086,"OEBQ","small_airport","Abqaiq Airport",25.911301,49.591202,229,"AS","SA","SA-04","Buqayq","no","OEBQ",,"OEBQ",,,"https://en.wikipedia.org/wiki/Abqaiq_Airport",
 5087,"OEDF","large_airport","King Fahd International Airport",26.471201,49.797901,72,"AS","SA","SA-04","Ad Dammam","yes","OEDF","DMM","OEDF",,"https://kfia.gov.sa/","https://en.wikipedia.org/wiki/King_Fahd_International_Airport",
-5088,"OEDM","medium_airport","King Salman Abdulaziz Airport",24.4499,44.121201,3026,"AS","SA","SA-01","Dawadmi","yes",,"DWD","OEDM",,,"https://en.wikipedia.org/wiki/Dawadmi_Domestic_Airport","Al Dawadmi Airport"
+5088,"OEDM","medium_airport","King Salman Abdulaziz Airport",24.4499,44.121201,3026,"AS","SA","SA-01","Dawadmi","yes","OEDM","DWD","OEDM",,,"https://en.wikipedia.org/wiki/Dawadmi_Domestic_Airport","Al Dawadmi Airport"
 5089,"OEDR","large_airport","King Abdulaziz Air Base",26.2654,50.152,84,"AS","SA","SA-04","Dhahran","no","OEDR","DHA","OEDR",,,"https://en.wikipedia.org/wiki/King_Abdulaziz_Air_Base","Dhahran international Airport, Dhahran Air Base, Dhahran Airport, Dhahran Airfield"
 5090,"OEGN","medium_airport","Jizan Regional Airport / King Abdullah bin Abdulaziz Airport",16.9011,42.5858,20,"AS","SA","SA-09","Jizan","yes","OEGN","GIZ","OEGN",,,"https://en.wikipedia.org/wiki/Jizan_Regional_Airport","Gizan"
 5091,"OEGS","medium_airport","Gassim Airport",26.302799,43.774399,2126,"AS","SA","SA-05","Buraidah","yes","OEGS","ELQ","OEGS",,,"https://en.wikipedia.org/wiki/Gassim_Regional_Airport",
 5092,"OEGT","medium_airport","Gurayat Domestic Airport",31.412413,37.278898,1672,"AS","SA","SA-12","Gurayat","yes","OEGT","URY","OEGT",,,"https://en.wikipedia.org/wiki/Gurayat_Domestic_Airport","Guriat Airport"
 5093,"OEHL","medium_airport","Ha'il Airport",27.437901,41.686298,3331,"AS","SA","SA-06","Ha'il","yes","OEHL","HAS","OEHL",,,"https://en.wikipedia.org/wiki/Ha'il_Regional_Airport","Hail Airport"
-32088,"OEHR","small_airport","Haradh Airport",24.09653,49.22432,110,"AS","SA","SA-04","Harad","no",,,"OEHR",,,"https://en.wikipedia.org/wiki/Haradh_Airport",
-5094,"OEHW","small_airport","Hawtah Airport",22.9678,46.899502,2091,"AS","SA","SA-01","Hawtah","no",,,"OEHW",,,,
-5095,"OEJB","medium_airport","Jubail Airport",27.039,49.405102,26,"AS","SA","SA-04","Jubail","no",,"QJB","OEJB",,,"https://en.wikipedia.org/wiki/Jubail_Airport","OEJL"
-5096,"OEJF","medium_airport","King Faisal Naval Base",21.348100662231445,39.17300033569336,7,"AS","SA","SA-02","Jeddah","no",,,"OEJF",,,,
+32088,"OEHR","small_airport","Haradh Airport",24.09653,49.22432,110,"AS","SA","SA-04","Harad","no","OEHR",,"OEHR",,,"https://en.wikipedia.org/wiki/Haradh_Airport",
+5094,"OEHW","small_airport","Hawtah Airport",22.9678,46.899502,2091,"AS","SA","SA-01","Hawtah","no","OEHW",,"OEHW",,,,
+5095,"OEJB","medium_airport","Jubail Airport",27.039,49.405102,26,"AS","SA","SA-04","Jubail","no",,,"OEJB",,,"https://en.wikipedia.org/wiki/Jubail_Airport","OEJL, QJB"
+5096,"OEJF","medium_airport","King Faisal Naval Base",21.348101,39.173,7,"AS","SA","SA-02","Jeddah","no","OEJF",,"OEJF",,,,
 5097,"OEJN","large_airport","King Abdulaziz International Airport",21.6796,39.156502,48,"AS","SA","SA-02","Jeddah","yes","OEJN","JED","OEJN",,"http://www.jed-airport.com/","https://en.wikipedia.org/wiki/King_Abdulaziz_International_Airport","Mecca, Hajj"
 526432,"OEKF","small_airport","King Faisal Air Academy Airport",26.085278,45.196667,,"AS","SA","SA-01",,"no",,,"OEKF",,,,
 5098,"OEKK","medium_airport","King Khaled Military City Airport",27.9009,45.528198,1352,"AS","SA","SA-04","King Khaled Military City","yes","OEKK","KMC","OEKK",,,"https://en.wikipedia.org/wiki/King_Khaled_Military_City_Airport",
@@ -50759,34 +50759,34 @@
 5102,"OENG","medium_airport","Najran Domestic Airport",17.611401,44.419201,3982,"AS","SA","SA-10","Najran","yes","OENG","EAM","OENG",,,"https://en.wikipedia.org/wiki/Najran_Domestic_Airport",
 332512,"OENN","medium_airport","Neom Bay Airport",27.927598,35.28874,29,"AS","SA","SA-07","Sharma","yes","OENN","NUM","OENN",,,"https://en.wikipedia.org/wiki/Neom_Airport","Neom Bay, Sharma"
 32093,"OENR","small_airport","Nariya Airport",27.5,48.5,180,"AS","SA","SA-04","Nariya","no",,,"OENR",,,,
-349431,"OEOM","small_airport","Umm Al Melh Border Guards Airport",19.11176,50.127353,860,"AS","SA","SA-10","Umm Al Melh","no",,,"OEOM",,,"https://en.wikipedia.org/wiki/Umm_Al_Melh_Border_Guards_Airport",
-5103,"OEPA","medium_airport","Al Qaisumah/Hafr Al Batin Airport",28.335199,46.125099,1174,"AS","SA","SA-04","Qaisumah","yes","OEPA","AQI","OEPA",,,"https://en.wikipedia.org/wiki/Al_Qaisumah/Hafr_Al_Batin_Airport","Qaisumah Domestic Airport"
-5104,"OEPC","small_airport","Pump Station 3 Airport",25.1745,47.4884,1740,"AS","SA","SA-04","Wasea","no",,,"OEPC",,,"https://en.wikipedia.org/wiki/Pump_Station_3_Airport",
-5105,"OEPF","small_airport","Pump Station 6 Airport",24.71030044555664,44.964500427246094,2530,"AS","SA","SA-01",,"no",,,"OEPF",,,,
-5106,"OEPI","small_airport","Pump Station 9 Airport",24.276100158691406,42.143699645996094,3000,"AS","SA","SA-01",,"no",,,"OEPI",,,,
-5107,"OEPJ","small_airport","Pump Station 10 Airport",24.1072998046875,41.0359992980957,2840,"AS","SA","SA-03",,"no",,,"OEPJ",,,,
-5108,"OEPK","small_airport","Ipsa 3 Airport",27.954201,46.742599,1000,"AS","SA","SA-04","Hafar al Batin","no",,,"OEPK",,,"https://en.wikipedia.org/wiki/IPSA-3_Airport",
+349431,"OEOM","small_airport","Umm Al Melh Border Guards Airport",19.11176,50.127353,860,"AS","SA","SA-10","Umm Al Melh","no","OEOM",,"OEOM",,,"https://en.wikipedia.org/wiki/Umm_Al_Melh_Border_Guards_Airport",
+5103,"OEPA","medium_airport","Al Qaisumah/Hafr Al Batin Airport",28.335199,46.125099,1174,"AS","SA","SA-04","Qaisumah","yes","OEPA","AQI","OEPA",,,"https://en.wikipedia.org/wiki/Al_Qaisumah/Hafr_Al_Batin_Airport","HBT, Qaisumah Domestic Airport"
+5104,"OEPC","small_airport","Pump Station 3 Airport",25.1745,47.4884,1740,"AS","SA","SA-04","Wasea","no","OEPC",,"OEPC",,,"https://en.wikipedia.org/wiki/Pump_Station_3_Airport",
+5105,"OEPF","small_airport","Pump Station 6 Airport",24.7103,44.9645,2530,"AS","SA","SA-01",,"no","OEPF",,"OEPF",,,,
+5106,"OEPI","small_airport","Pump Station 9 Airport",24.2761,42.1437,3000,"AS","SA","SA-01",,"no","OEPI",,"OEPI",,,,
+5107,"OEPJ","small_airport","Pump Station 10 Airport",24.1073,41.035999,2840,"AS","SA","SA-03",,"no","OEPJ",,"OEPJ",,,,
+5108,"OEPK","small_airport","IPSA 3 Airport",27.954201,46.742599,1000,"AS","SA","SA-04","Hafar al Batin","no","OEPK",,"OEPK",,,"https://en.wikipedia.org/wiki/IPSA-3_Airport",
 5109,"OEPS","medium_airport","Prince Sultan Air Base",24.0627,47.580502,1651,"AS","SA","SA-01","Al Kharj","no","OEPS","AKH","OEPS",,,"https://en.wikipedia.org/wiki/Prince_Sultan_Air_Base","OEKH"
-5110,"OERB","small_airport","Rabigh Airport",22.7026,39.069801,22,"AS","SA","SA-02","Rabigh","no",,,"OERB",,,,
+5110,"OERB","small_airport","Rabigh Airport",22.7026,39.069801,22,"AS","SA","SA-02","Rabigh","no","OERB",,"OERB",,,,
 5111,"OERF","medium_airport","Rafha Domestic Airport",29.626399993896484,43.4906005859375,1474,"AS","SA","SA-08","Rafha","yes","OERF","RAH","OERF",,,"https://en.wikipedia.org/wiki/Rafha_Domestic_Airport",
 556165,"OERG","small_airport","Al-Rass Airport",25.669,43.54969,2417,"AS","SA","SA-05","Al-Rass","no",,,"OERG",,"https://sac.com.sa/airports/al-rass-airport___oerg/",,"alrass, arrass, arras, oerg"
 5112,"OERK","large_airport","King Khaled International Airport",24.9576,46.698799,2049,"AS","SA","SA-01","Riyadh","yes","OERK","RUH","OERK",,"https://www.kkia.sa/en/Pages/default.aspx","https://en.wikipedia.org/wiki/King_Khalid_International_Airport","Riyad"
-5113,"OERM","medium_airport","Ras Mishab Airport",28.079599,48.611,13,"AS","SA","SA-04","Al Mishab","no",,,"OERM",,,"https://en.wikipedia.org/wiki/Ras_Mishab_Airport",
+5113,"OERM","medium_airport","Ras Mishab Airport",28.079599,48.611,13,"AS","SA","SA-04","Al Mishab","no","OERM",,"OERM",,,"https://en.wikipedia.org/wiki/Ras_Mishab_Airport",
 5114,"OERR","medium_airport","Arar Domestic Airport",30.906600952148438,41.13819885253906,1813,"AS","SA","SA-08","Arar","yes","OERR","RAE","OERR",,,"https://en.wikipedia.org/wiki/Arar_Domestic_Airport",
-5115,"OERT","medium_airport","Ras Tanura Airport",26.723101,50.0308,6,"AS","SA","SA-04","Ras Tanura","no",,,"OERT",,,"https://en.wikipedia.org/wiki/Ras_Tanura_Airport",
+5115,"OERT","medium_airport","Ras Tanura Airport",26.723101,50.0308,6,"AS","SA","SA-04","Ras Tanura","no","OERT",,"OERT",,,"https://en.wikipedia.org/wiki/Ras_Tanura_Airport",
 5116,"OERY","closed","Riyadh Air Base",24.725725,46.722336,2082,"AS","SA","SA-01","Riyadh","no",,,,,,"https://en.wikipedia.org/wiki/Riyadh_Air_Base_(closed_2021)","Riyad, XXN, OERY"
-5117,"OESB","small_airport","Shaibah Airport",22.514781,53.964114,300,"AS","SA","SA-04","Shaybah","no",,,"OESB",,,"https://en.wikipedia.org/wiki/Shaybah_Airport",
+5117,"OESB","small_airport","Shaibah Airport",22.514781,53.964114,300,"AS","SA","SA-04","Shaybah","no","OESB",,"OESB",,,"https://en.wikipedia.org/wiki/Shaybah_Airport",
 5118,"OESH","medium_airport","Sharurah Domestic Airport",17.4669,47.121399,2363,"AS","SA","SA-10","Sharurah","yes","OESH","SHW","OESH",,,"https://en.wikipedia.org/wiki/Sharurah_Domestic_Airport",
 5119,"OESK","medium_airport","Al-Jawf Domestic Airport",29.78510093688965,40.099998474121094,2261,"AS","SA","SA-12","Al-Jawf","yes","OESK","AJF","OESK",,,"https://en.wikipedia.org/wiki/Al-Jawf_Domestic_Airport","Al Jouf Airport"
 5120,"OESL","small_airport","As-Sulayyil Airport",20.464701,45.619598,2021,"AS","SA","SA-01","As-Sulayyil","no","OESL","SLF","OESL",,,,
 525708,"OESS","small_airport","Soltana Al-Ghat Airport",26.000097,44.880062,2192,"AS","SA","SA-01","Al Ghat","no",,,"OESS",,,,
 5121,"OETB","medium_airport","Tabuk Airport",28.3654,36.6189,2551,"AS","SA","SA-07","Tabuk","yes","OETB","TUU","OETB",,,"https://en.wikipedia.org/wiki/Tabuk_Regional_Airport",
 5122,"OETF","medium_airport","Ta’if Regional Airport",21.483001,40.543442,4848,"AS","SA","SA-02","Ta’if","yes","OETF","TIF","OETF",,,"https://en.wikipedia.org/wiki/Ta%E2%80%99if_Regional_Airport","Taif Airport"
-5123,"OETH","small_airport","Thumamah Airport",25.212999,46.640999,1870,"AS","SA","SA-01",,"no",,,"OETH","OE44",,"https://en.wikipedia.org/wiki/Thumamah_Airport",
-5124,"OETN","medium_airport","Ras Tanajib Airport",27.8678,48.7691,30,"AS","SA","SA-04","As Saffaniyah","no",,,"OETN",,,"https://en.wikipedia.org/wiki/Ras_Tanajib_Airport",
+5123,"OETH","small_airport","Thumamah Airport",25.212979,46.640847,1870,"AS","SA","SA-01",,"no","OETH",,"OETH",,,"https://en.wikipedia.org/wiki/Thumamah_Airport","OE44"
+5124,"OETN","medium_airport","Ras Tanajib Airport",27.8678,48.7691,30,"AS","SA","SA-04","As Saffaniyah","no","OETN",,"OETN",,,"https://en.wikipedia.org/wiki/Ras_Tanajib_Airport",
 5125,"OETR","medium_airport","Turaif Domestic Airport",31.692188,38.731544,2803,"AS","SA","SA-08","Turaif","yes","OETR","TUI","OETR",,,"https://en.wikipedia.org/wiki/Turaif_Domestic_Airport",
-5126,"OEUD","small_airport","Udhailiyah Airport",25.1511001587,49.3288002014,759,"AS","SA","SA-04","Udhailiyah","no",,,"OEUD",,,"https://en.wikipedia.org/wiki/Udhayliyah_Airport",
-32094,"OEUM","small_airport","Ummlejj Airport",25.285833,37.199167,95,"AS","SA","SA-07","Umm Lejj","no",,,"OEUM",,,,"Umm Lajj"
+5126,"OEUD","small_airport","Udhailiyah Airport",25.1511,49.3288,759,"AS","SA","SA-04","Udhailiyah","no","OEUD",,"OEUD",,,"https://en.wikipedia.org/wiki/Udhayliyah_Airport",
+32094,"OEUM","small_airport","Ummlejj Airport",25.285833,37.199167,95,"AS","SA","SA-07","Umm Lejj","no","OEUM",,"OEUM",,,,"Umm Lajj"
 5127,"OEWD","medium_airport","Wadi Al Dawasir Domestic Airport",20.504299,45.1996,2062,"AS","SA","SA-01","Wadi Al Dawasir","yes","OEWD","WAE","OEWD",,,"https://en.wikipedia.org/wiki/Wadi_al-Dawasir_Domestic_Airport",
 5128,"OEWJ","medium_airport","Al Wajh Domestic Airport",26.198601,36.476398,66,"AS","SA","SA-07","Al Wajh","yes","OEWJ","EJH","OEWJ",,,"https://en.wikipedia.org/wiki/Al_Wajh_Domestic_Airport","Wedjh, Wejh"
 5129,"OEYN","medium_airport","Prince Abdul Mohsin bin Abdulaziz International Airport / Yanbu Airport",24.144199,38.0634,26,"AS","SA","SA-03","Yanbu","yes","OEYN","YNB","OEYN",,"https://gaca.gov.sa/web/en-gb/airport/prince-abdulmohsin-bin-abdulaziz-airport","https://en.wikipedia.org/wiki/Yanbu_Airport","Yenbo"
@@ -51091,10 +51091,10 @@
 5212,"OJAI","large_airport","Queen Alia International Airport",31.7226009369,35.9931983948,2395,"AS","JO","JO-AM","Amman","yes","OJAI","AMM","OJAI",,,"https://en.wikipedia.org/wiki/Queen_Alia_International_Airport",
 5213,"OJAM","medium_airport","Amman Civil (Marka International) Airport",31.9727,35.9916,2555,"AS","JO","JO-AM","Amman","yes","OJAM","ADJ","OJAM",,,"https://en.wikipedia.org/wiki/Amman_Civil_Airport","King Abdullah Air Base"
 5214,"OJAQ","medium_airport","Aqaba King Hussein International Airport",29.611600875854492,35.01810073852539,175,"AS","JO","JO-AQ","Aqaba","yes","OJAQ","AQJ","OJAQ",,,"https://en.wikipedia.org/wiki/Aqaba_Airport",
-5215,"OJHF","small_airport","Prince Hassan Air Base",32.160702,37.149399,2220,"AS","JO","JO-MA",,"no",,,"OJHF",,"http://www.rjaf.mil.jo/index.php/en/en/.html","https://en.wikipedia.org/wiki/Prince_Hassan_Air_Base","H5"
-5216,"OJHR","small_airport","H4 Air Base",32.5392,38.195,2250,"AS","JO","JO-MA",,"no",,,"OJHR",,,"https://en.wikipedia.org/wiki/H-4_Air_Base",
+5215,"OJHF","small_airport","Prince Hassan Air Base",32.160702,37.149399,2220,"AS","JO","JO-MA",,"no","OJPH",,"OJPH",,"http://www.rjaf.mil.jo/index.php/en/en/.html","https://en.wikipedia.org/wiki/Prince_Hassan_Air_Base",
+5216,"OJHR","small_airport","H4 Air Base",32.5392,38.195,2250,"AS","JO","JO-MA",,"no","OJHR",,"OJHR",,,"https://en.wikipedia.org/wiki/H-4_Air_Base",
 5218,"OJMF","small_airport","King Hussein Air College",32.3564,36.259201,2240,"AS","JO","JO-MA","Mafraq","no","OJMF","OMF","OJMF",,,"https://en.wikipedia.org/wiki/King_Hussein_Air_Base",
-3354,"OJMS","medium_airport","Muwaffaq Salti Air Base",31.8256,36.782001,1706,"AS","JO","JO-AZ","Al Azraq","no",,,"OJMS","OJ40",,"https://en.wikipedia.org/wiki/Muwaffaq_Salti_Air_Base","Shaheed Mwaffaq, Al Shaheed Muwaffaq Salti Air Base"
+3354,"OJMS","medium_airport","Muwaffaq Salti Air Base",31.8256,36.782001,1706,"AS","JO","JO-AZ","Al Azraq","no","OJMS",,"OJMS",,,"https://en.wikipedia.org/wiki/Muwaffaq_Salti_Air_Base","OJ40, Shaheed Mwaffaq, Al Shaheed Muwaffaq Salti Air Base"
 23744,"OK00","small_airport","Jacktown Airport",35.516300201416016,-97.02210235595703,954,"NA","US","US-OK","Jacktown","no",,,"OK00","OK00",,,
 23745,"OK01","small_airport","Sky Haven Airpark/Sellmeyer Field",36.42900085449219,-95.9032974243164,675,"NA","US","US-OK","Vera","no",,,"OK01","OK01",,,
 23746,"OK02","small_airport","Dick's Airport",35.110802,-97.481697,1160,"NA","US","US-OK","Washington","no",,,"OK02","OK02",,,
@@ -55984,7 +55984,7 @@
 44985,"SA-0007","small_airport","Uwayqilah Airport",30.346972527299997,42.2126054764,,"AS","SA","SA-08",,"no",,,,,,,
 317969,"SA-0008","closed","Kharmiyah Airstrip",28.1325,45.7518,1290,"AS","SA","SA-04","Ath Thybiyah","no",,,,,,,
 340207,"SA-0009","heliport","Farasan Hospital Helipad",16.69552,42.11971,,"AS","SA","SA-09","Farasan","no",,,,,,,
-326442,"SA-0010","small_airport","Khurais Airport",25.26533,48.178333,,"AS","SA","SA-04","Khurais","no",,,"OEKN",,,"https://en.wikipedia.org/wiki/Khurais_Airport",
+326442,"SA-0010","small_airport","Khurais Airport",25.26533,48.178333,,"AS","SA","SA-04","Khurais","no","OEKN",,"OEKN",,,"https://en.wikipedia.org/wiki/Khurais_Airport",
 340208,"SA-0011","heliport","King Fahd General Hospital Helipad",16.92361,42.73558,,"AS","SA","SA-09","Jizan","no",,,,,,,
 340209,"SA-0012","heliport","King Khalid University Hospital Helipad",18.07685,42.74369,,"AS","SA","SA-14","Abha","no",,,,,,,
 340210,"SA-0013","heliport","Abha Central Hospital Helipad",18.20001,42.52616,,"AS","SA","SA-14","Abha","no",,,,,,,
@@ -56027,11 +56027,11 @@
 354424,"SA-0050","heliport","Coastal helipad",16.669824,42.71177,,"AS","SA","SA-09",,"no",,,,,,,
 354425,"SA-0051","heliport","Riyah Equestrian Club Helipad (2x)",24.982528,46.782194,,"AS","SA","SA-01","Riyadh","no",,,,,,,
 354426,"SA-0052","heliport","Residential Helipad",24.988217,46.760479,,"AS","SA","SA-01","Riyadh","no",,,,,,,
-354437,"SA-0053","heliport","National Guard Helipad (38x)",24.477911,46.570712,,"AS","SA","SA-01","Riyadh","no",,,,,,,
+354437,"SA-0053","small_airport","Dirab Air Base",24.477911,46.570712,,"AS","SA","SA-01","Riyadh","no",,,,,,"https://en.wikipedia.org/wiki/Dirab_Air_Base",
 354442,"SA-0054","heliport","National Guard Residential Helipad",24.476164,46.597846,,"AS","SA","SA-01","Riyadh","no",,,,,,,
 354443,"SA-0055","heliport","Military Helipad",24.418148,46.871238,,"AS","SA","SA-01","Riyadh","no",,,,,,,
 354444,"SA-0056","heliport","SANG Airbase Helipads (4x)",24.626854,46.920248,,"AS","SA","SA-01","Riyadh","no",,,,,,,
-354445,"SA-0057","small_airport","Khashm Alan/ Riyadh Airport",24.620335,46.918402,1848,"AS","SA","SA-01","Riyadh","no",,,"OEKA",,,"https://en.wikipedia.org/wiki/Khasm_Alan_Air_Base",
+354445,"SA-0057","small_airport","Khashm Alan Air Base",24.620335,46.918402,1848,"AS","SA","SA-01","Riyadh","no",,,"OEKA",,,"https://en.wikipedia.org/wiki/Khasm_Alan_Air_Base",
 354447,"SA-0058","small_airport","Military Airport",24.665125,46.924925,,"AS","SA","SA-01","Riyadh","no",,,,,,,
 354448,"SA-0059","heliport","King Fahad Hospital Helipad",24.7503,46.854334,,"AS","SA","SA-01","Riyadh","no",,,,,,,
 354449,"SA-0060","heliport","Princess Nora bint Abdulrahman University Helipad",24.8368,46.72436,,"AS","SA","SA-01","Riyadh","no",,,,,,,
@@ -56067,7 +56067,7 @@
 30952,"SA-0091","closed","Dawadmi Domestic Airport",24.5,44.400002,3429,"AS","SA","SA-01","Dawadmi","no",,,,,,,"DWD, Prinz Salman bin Abdulaziz Airport, Dwadmi, OEDW"
 326441,"SA-0092","closed","Al Ghat Airport",26.026479,44.959166,2509,"AS","SA","SA-01","Al Ghat","no",,,,,,,"OEGH, OEGH"
 595937,"SA-0093","heliport","Al Runah Army Heliport",18.23069,42.823044,6725,"AS","SA","SA-14","Al Runah","no",,,,,,,
-597259,"SA-0094","medium_airport","King Salman Air Base",24.465259,46.659279,,"AS","SA","SA-01","Riyadh","no","OERY",,,,,"https://en.wikipedia.org/wiki/King_Salman_Air_Base",
+597259,"SA-0094","medium_airport","King Salman Air Base",24.465259,46.659279,,"AS","SA","SA-01","Riyadh","no","OESN",,"OESN",,,"https://en.wikipedia.org/wiki/King_Salman_Air_Base","OERY"
 13,"SA01","small_airport","Cachi Airport",-25.1049995422,-66.15720367429999,8232,"SA","AR","AR-A","Cachi","no",,,"SA01","CCS",,,"SA01"
 14,"SA02","small_airport","Cafayate Airport",-26.056101,-65.936897,5375,"SA","AR","AR-A","Cafayate","no",,,,"CAF",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Gilberto_Lavaque","SA02, Gilberto Lavaque"
 15,"SA03","small_airport","Villa Minetti Airport",-28.6201,-61.6038,246,"SA","AR","AR-S","Villa Minetti","no",,,"SA03","MIN",,,"SA03"
@@ -69809,6 +69809,11 @@
 602482,"US-12818","seaplane_base","Macarella Seaplane Base",24.729914,-81.090775,,"NA","US","US-FL","Marathon","no",,,,,,,
 602555,"US-12819","small_airport","Vista View RC Model Airfield",26.06698,-80.343238,64,"NA","US","US-FL","Davie","no",,,,,"https://vistaviewflyers.org/",,"Broward County"
 334327,"US-1282","small_airport","Peavine Airport",45.724117,-117.077375,4007,"NA","US","US-OR","Enterprise","no",,,"KO62","O62",,,"B&H"
+602585,"US-12820","closed","Markham Airstrip",26.12587,-80.348747,,"NA","US","US-FL","Sunset","no",,,,,,,
+602587,"US-12821","closed","AMPS RC Model - Silver Field",25.603955,-80.519988,,"NA","US","US-FL","Homestead, Miami","no",,,,,"https://www.amps-rc.com/about-us",,
+602601,"US-12822","closed","Venetian Causeway Seaplane base/Viking Airport",25.790309,-80.173116,,"NA","US","US-FL","Miami","no",,,,,,,
+602602,"US-12823","closed","Dinner Key NAF / Coast Guard Air Station Miami",25.730623,-80.229549,,"NA","US","US-FL","Dinner key","yes",,,,,,,
+602604,"US-12824","heliport","Alternate Mercy Hospital Heliport",25.738684,-80.2144,6,"NA","US","US-FL","Miami","no",,,,"FL25",,,
 334334,"US-1283","small_airport","Spangler Farm Airport",41.012639,-84.877694,776,"NA","US","US-IN","Fort Wayne","no",,,"22IN","22IN",,,
 334335,"US-1284","small_airport","Twin Lakes Airport",38.518522,-85.587583,663,"NA","US","US-IN","Marysville","no",,,"IN07","IN07",,,
 334337,"US-1285","heliport","1000 Museum Heliport",25.784189,-80.190046,709,"NA","US","US-FL","Miami","no",,,"FA10","FA10",,,
@@ -79957,7 +79962,6 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
-602574,"VN-0077","large_airport","vlxxsexlat",34,111,,"AS","VN","VN-U-A",,"no",,,,,"https://vlxxsex.lat/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
