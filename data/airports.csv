@@ -12822,18 +12822,18 @@
 30922,"BIDV","small_airport","Djúpivogur Airport",64.642372,-14.277297,9,"EU","IS","IS-7","Djúpivogur","no","BIDV","DJU","BIDV",,,"https://en.wikipedia.org/wiki/Dj%C3%BApivogur_Airport",
 119,"BIEG","medium_airport","Egilsstaðir Airport",65.2833023071289,-14.401399612426758,76,"EU","IS","IS-7","Egilsstaðir","yes","BIEG","EGS","BIEG",,,"https://en.wikipedia.org/wiki/Egilssta%C3%B0ir_Airport",
 31058,"BIFF","small_airport","Fáskrúðsfjörður Airport",64.931456,-14.047957,15,"EU","IS","IS-7","Fáskrúðsfjörður","no","BIFF","FAS","BIFF",,,"https://en.wikipedia.org/wiki/F%C3%A1skr%C3%BA%C3%B0sfj%C3%B6r%C3%B0ur_Airport","Faskrudsfjordur"
-30716,"BIFL","small_airport","Flúðir Airport",64.1427993774414,-20.326099395751953,270,"EU","IS","IS-8","Flúðir","no",,,"BIFL",,,,
+30716,"BIFL","small_airport","Flúðir Airport",64.144595,-20.327069,270,"EU","IS","IS-8","Flúðir","no","BIFL",,"BIFL",,,,
 31041,"BIFM","small_airport","Fagurhólsmýri Airport",63.874699,-16.6411,56,"EU","IS","IS-7","Fagurhólsmýri","no","BIFM","FAG","BIFM",,,"https://en.wikipedia.org/wiki/Fagurh%C3%B3lsm%C3%BDri_Airport",
 30717,"BIFZ","small_airport","Forsæti Airport",63.84816,-20.716267,32,"EU","IS","IS-8","Forsæti","no",,,"BIFZ",,,,
 31559,"BIGF","small_airport","Grundarfjörður Airport",64.991402,-23.224701,17,"EU","IS","IS-3","Grundarfjörður","no","BIGF","GUU","BIGF",,,"https://en.wikipedia.org/wiki/Grundarfj%C3%B6r%C3%B0ur_Airport",
 30719,"BIGH","small_airport","Gunnarsholt Airport",63.85329818725586,-20.262800216674805,200,"EU","IS","IS-8","Gunnarsholt","no",,,"BIGH",,,,
 31531,"BIGJ","small_airport","Gjögur Airport",65.9953,-21.3269,83,"EU","IS","IS-4","Gjögur","no","BIGJ","GJR","BIGJ",,,"https://en.wikipedia.org/wiki/Gj%C3%B6gur_Airport",
 31549,"BIGR","small_airport","Grímsey Airport",66.5458,-18.0173,66,"EU","IS","IS-6","Grímsey","yes","BIGR","GRY","BIGR",,,"https://en.wikipedia.org/wiki/Gr%C3%ADmsey_Airport",
-30720,"BIGS","small_airport","Grímsstaðir Airport",65.63249969482422,-16.148300170898438,1279,"EU","IS","IS-6","Grímsstaðir","no",,,"BIGS",,,,
-30721,"BIHE","small_airport","Herðubreiðarlindir Airport",65.188599,-16.1947,1500,"EU","IS","IS-7","Herðubreiðarlindir","no",,,"BIHE",,,"https://fr.wikipedia.org/wiki/A%C3%A9roport_du_Her%C3%B0ubrei%C3%B0arlindir",
-30722,"BIHI","small_airport","Hveravellir Airport",64.88610076904297,-19.49250030517578,2000,"EU","IS","IS-5","Hveravellir","no",,,"BIHI",,,,
+30720,"BIGS","small_airport","Grímsstaðir Airport",65.633394,-16.154178,1279,"EU","IS","IS-6","Grímsstaðir","no","BIGS",,"BIGS",,,,
+30721,"BIHE","small_airport","Herðubreiðarlindir Airport",65.190902,-16.204902,1500,"EU","IS","IS-7","Herðubreiðarlindir","no","BIHE",,"BIHE",,,"https://fr.wikipedia.org/wiki/A%C3%A9roport_du_Her%C3%B0ubrei%C3%B0arlindir","Moved marker across the river to map lpcation. ICAO per Doc 7910."
+30722,"BIHI","small_airport","Hveravellir Airport",64.886101,-19.4925,2000,"EU","IS","IS-5","Hveravellir","no","BIHI",,"BIHI",,,,
 31656,"BIHK","small_airport","Hólmavík Airport",65.704697,-21.6964,90,"EU","IS","IS-4","Hólmavík","no","BIHK","HVK","BIHK",,,"https://en.wikipedia.org/wiki/H%C3%B3lmav%C3%ADk_Airport",
-30723,"BIHL","small_airport","Hella Airport",63.83580017089844,-20.377500534057617,66,"EU","IS","IS-8","Hella","no",,,"BIHL",,,,
+30723,"BIHL","small_airport","Hella Airport",63.8358,-20.377501,66,"EU","IS","IS-8","Hella","no","BIHL",,"BIHL",,,,
 120,"BIHN","medium_airport","Hornafjörður Airport",64.295601,-15.2272,24,"EU","IS","IS-8","Höfn","yes","BIHN","HFN","BIHN",,,"https://en.wikipedia.org/wiki/Hornafj%C3%B6r%C3%B0ur_Airport",
 30724,"BIHR","small_airport","Hvolsvöllur Airport",63.752743,-20.250893,109,"EU","IS","IS-8","Hvolsvöllur","no",,,"BIHR",,,,
 30725,"BIHS","small_airport","Hrafnseyri Airport",65.75716,-23.461404,30,"EU","IS","IS-4","Hrafnseyri","no",,,"BIHS",,,,
@@ -12841,20 +12841,20 @@
 121,"BIHU","medium_airport","Húsavík Airport",65.952301,-17.426001,48,"EU","IS","IS-6","Húsavík","yes","BIHU","HZK","BIHU",,,"https://en.wikipedia.org/wiki/H%C3%BAsav%C3%ADk_Airport",
 31657,"BIHV","small_airport","Krókstaðarmelar Airport",65.270241,-20.848696,164,"EU","IS","IS-5","Hvammstangi","no",,,"BIHV",,,,"HVM"
 30728,"BIHY","small_airport","Hrísey Airport",65.989204,-18.394117,15,"EU","IS","IS-6","Hrísey","no",,,"BIHY",,,,
-30729,"BIHZ","small_airport","Húsafell Airport",64.69969940185547,-20.88360023498535,380,"EU","IS","IS-3","Húsafell","no",,,"BIHZ",,,,
+30729,"BIHZ","small_airport","Húsafell Airport",64.699773,-20.89216,380,"EU","IS","IS-3","Húsafell","no","BIHZ",,"BIHZ",,,,
 31603,"BIID","small_airport","Ingjaldssanður Airport",66.05000305175781,-23.69610023498535,70,"EU","IS","IS-4","Onundarfjörður","no",,"HLO","BIID",,,,
 122,"BIIS","medium_airport","Ísafjörður Airport",66.058098,-23.1353,8,"EU","IS","IS-4","Ísafjörður","yes","BIIS","IFJ","BIIS",,"https://www.isavia.is/en/isafjordur-airport","https://en.wikipedia.org/wiki/%C3%8Dsafj%C3%B6r%C3%B0ur_Airport",
-30731,"BIKA","small_airport","Kaldármelar Airport",64.77890014648438,-22.256900787353516,160,"EU","IS","IS-3","Kaldármelar","no",,,"BIKA",,,,
-30732,"BIKE","small_airport","Kerlingafjöll Airport",64.70500183105469,-19.410600662231445,2100,"EU","IS","IS-8","Kerlingafjöll","no",,,"BIKE",,,,
-123,"BIKF","large_airport","Keflavik International Airport",63.985001,-22.6056,171,"EU","IS","IS-2","Reykjavík","yes","BIKF","KEF","BIKF",,"https://www.isavia.is/en/keflavik-airport","https://en.wikipedia.org/wiki/Keflav%C3%ADk_International_Airport","Keflavik Naval Air Station,REK"
+30731,"BIKA","small_airport","Kaldármelar Airport",64.7789,-22.256901,160,"EU","IS","IS-3","Kaldármelar","no","BIKA",,"BIKA",,,,
+30732,"BIKE","small_airport","Kerlingafjöll Airport",64.705002,-19.410601,2100,"EU","IS","IS-8","Kerlingafjöll","no","BIKE",,"BIKE",,,,
+123,"BIKF","large_airport","Keflavik International Airport",63.985001,-22.6056,171,"EU","IS","IS-2","Reykjavík","yes","BIKF","KEF","BIKF",,"https://www.isavia.is/en/keflavik-airport","https://en.wikipedia.org/wiki/Keflav%C3%ADk_International_Airport","Keflavik Naval Air Station, REK"
 30733,"BIKJ","small_airport","Kroksfjard-Arnes Airport",65.46700286865234,-21.950000762939453,49,"EU","IS","IS-4","Kroksfjard-arnes","no",,,"BIKJ",,,,
-30734,"BIKL","small_airport","Kirkjubæjarklaustur Airport",63.792685,-18.004684,66,"EU","IS","IS-8","Kirkjubæjarklaustur","no",,,"BIKL",,,,
+30734,"BIKL","small_airport","Kirkjubæjarklaustur Airport",63.792861,-18.003531,66,"EU","IS","IS-8","Kirkjubæjarklaustur","no","BIKL",,"BIKL",,,,
 32121,"BIKP","small_airport","Kópasker Airport",66.310799,-16.4667,20,"EU","IS","IS-6","Kópasker","no","BIKP","OPA","BIKP",,,"https://en.wikipedia.org/wiki/K%C3%B3pasker_Airport",
 32246,"BIKR","small_airport","Sauðárkrókur Airport",65.73169708249999,-19.572799682599996,8,"EU","IS","IS-5","Sauðárkrókur","no","BIKR","SAK","BIKR",,,"https://en.wikipedia.org/wiki/Sau%C3%B0%C3%A1rkr%C3%B3kur_Airport",
-30735,"BIMK","small_airport","Múlakot Airport",63.71419906616211,-19.879199981689453,272,"EU","IS","IS-8","Múlakot","no",,,"BIMK",,,,
-30736,"BIMM","small_airport","Melgerðismelar Airport",65.4832992553711,-18.16670036315918,35,"EU","IS","IS-6","Melgerðismelar","no",,,"BIMM",,,,
-30738,"BIMS","small_airport","Tungubakkar Airport",64.18109893798828,-21.707799911499023,5,"EU","IS","IS-1","Tungubakkar","no",,,"BIMS",,,,
-30740,"BIND","small_airport","Nýjidalur Airport",64.72059631347656,-18.066699981689453,2625,"EU","IS","IS-8","Nýjidalur","no",,,"BIND",,,,
+30735,"BIMK","small_airport","Múlakot Airport",63.714103,-19.88121,260,"EU","IS","IS-8","Múlakot","no","BIMK",,"BIMK",,,,
+30736,"BIMM","small_airport","Melgerðismelar Airport",65.48266,-18.170106,89,"EU","IS","IS-6","Melgerðismelar","no","BIMM",,"BIMM",,,,
+30738,"BIMS","small_airport","Tungubakkar Airport",64.181754,-21.706101,5,"EU","IS","IS-1","Tungubakkar","no","BIMS",,"BIMS",,"https://fkm.is/index.php",,"Mosfellsbær"
+30740,"BIND","small_airport","Nýjidalur Airport",64.719566,-18.067031,2625,"EU","IS","IS-8","Nýjidalur","no","BIND",,"BIND",,,,
 32044,"BINF","small_airport","Norðfjörður Airport",65.131897,-13.7464,13,"EU","IS","IS-7","Norðfjörður","no","BINF","NOR","BINF",,,"https://en.wikipedia.org/wiki/Nor%C3%B0fj%C3%B6r%C3%B0ur_Airport",
 32096,"BIOF","small_airport","Ólafsfjörður Airport",66.083298,-18.6667,32,"EU","IS","IS-6","Ólafsfjörður","no","BIOF","OFJ","BIOF",,,"https://en.wikipedia.org/wiki/%C3%93lafsfj%C3%B6r%C3%B0ur_Airport",
 124,"BIPA","small_airport","Patreksfjörður Airport",65.555801,-23.965,11,"EU","IS","IS-4","Patreksfjörður","no","BIPA","PFJ","BIPA",,,"https://en.wikipedia.org/wiki/Patreksfj%C3%B6r%C3%B0ur_Airport",
@@ -12863,13 +12863,13 @@
 32205,"BIRG","small_airport","Raufarhöfn Airport",66.406403,-15.9183,39,"EU","IS","IS-6","Raufarhöfn","no","BIRG","RFN","BIRG",,,"https://en.wikipedia.org/wiki/Raufarh%C3%B6fn_Airport",
 125,"BIRK","medium_airport","Reykjavík Domestic Airport",64.128732,-21.93759,48,"EU","IS","IS-1","Reykjavík","yes","BIRK","RKV","BIRK",,,"https://en.wikipedia.org/wiki/Reykjav%C3%ADk_Airport","REK"
 31973,"BIRL","small_airport","Reykjahlíð Airport",65.6558,-16.9181,1030,"EU","IS","IS-6","Myvatn","no","BIRL","MVA","BIRL",,,"https://en.wikipedia.org/wiki/M%C3%BDvatn_Airport",
-30742,"BIRS","small_airport","Reykjanes Airport",65.91419982910156,-22.42140007019043,10,"EU","IS","IS-4","Reykjanes","no",,,"BIRS",,,,
-30743,"BISA","small_airport","Sandá Airport",65.1343994140625,-19.66309928894043,1580,"EU","IS","IS-5","Sandá","no",,,"BISA",,,,
-30744,"BISF","small_airport","Selfoss Airport",63.929199,-21.0378,45,"EU","IS","IS-8","Selfoss","no",,,"BISF",,,"https://en.wikipedia.org/wiki/Selfoss_Airport",
+30742,"BIRS","small_airport","Reykjanes Airport",65.9142,-22.4214,10,"EU","IS","IS-4","Reykjanes","no","BIRS",,"BIRS",,,,
+30743,"BISA","small_airport","Sandá Airport",65.134399,-19.663099,1580,"EU","IS","IS-5","Sandá","no",,,"BI42","BI42",,,
+30744,"BISF","small_airport","Selfoss Airport",63.929199,-21.0378,45,"EU","IS","IS-8","Selfoss","no","BISF",,"BISF",,,"https://en.wikipedia.org/wiki/Selfoss_Airport",
 30745,"BISG","small_airport","Steinasandur Airport",64.16547,-15.91334,30,"EU","IS","IS-7","Kalfatellsstadhur","no",,,"BISG",,,,
 30746,"BISH","small_airport","Stora-Holt Airport",65.4000015258789,-21.933000564575195,100,"EU","IS","IS-3","Stora-Holt","no",,,"BISH",,,,
 126,"BISI","medium_airport","Siglufjörður Airport",66.137847,-18.908157,10,"EU","IS","IS-6","Siglufjörður","no","BISI","SIJ","BISI",,,"https://en.wikipedia.org/wiki/Siglufj%C3%B6r%C3%B0ur_Airport",
-30747,"BISK","small_airport","Skógasandur Airport",63.5172,-19.489201,130,"EU","IS","IS-8","Skógar","no",,,"BISK",,,,
+30747,"BISK","small_airport","Skógasandur Airport",63.517682,-19.4925,130,"EU","IS","IS-8","Skógar","no","BISK",,"BISK",,,,
 30748,"BISN","small_airport","Svínafell Airport",64.384723,-15.371935,60,"EU","IS","IS-7","Svínafell","no",,,"BISN",,,,
 30749,"BISP","small_airport","Sprengisandur Airport",64.6541976928711,-18.49690055847168,2050,"EU","IS","IS-8","Sprengisandur","no",,,"BISP",,,,
 30750,"BISR","small_airport","Stórikroppur Airport",64.632625,-21.490859,165,"EU","IS","IS-3","Stórikroppur","no","BISR",,"BISR",,,,
@@ -32417,12 +32417,12 @@
 317284,"IRU","seaplane_base","Iranamadu Seaplane Base",9.299746,80.448627,102,"AS","LK","LK-4","Iranamadu","no",,"IRU",,,,,
 314970,"IS-0001","small_airport","Suðureyri Airstrip",66.1318,-23.544,92,"EU","IS","IS-4","Suðureyri","no",,,,"SUY",,,"SUY"
 343522,"IS-0002","heliport","Hrauneyjarfoss Heliport",64.20043,-19.25403,1241,"EU","IS","IS-8","Hella","no",,,,,,,
-356245,"IS-0003","small_airport","Skaftafell Airport",63.99948,-16.94116,249,"EU","IS","IS-8","Öræfi","no",,,"BISL",,,,
+356245,"IS-0003","small_airport","Skaftafell Airport",63.99948,-16.94116,249,"EU","IS","IS-8","Öræfi","no","BISL",,"BISL",,,,
 356246,"IS-0004","small_airport","Kárastaða Airport",64.57267,-21.89826,81,"EU","IS","IS-3","Borgarnes","no",,,,,,,
 513707,"IS-0005","small_airport","Fisfélag Airport",64.111441,-21.706037,450,"EU","IS","IS-1","Reykjavík","no",,,,,"https://fisflug.is",,
 520708,"IS-0006","closed","RAF Kaldadarnes",63.928657,-21.168423,,"EU","IS","IS-8",,"no",,,,,,"https://en.m.wikipedia.org/wiki/RAF_Kaldadarnes",
 523904,"IS-0007","closed","Patterson Field",63.958584,-22.539807,,"EU","IS","IS-2",,"no",,,,,"https://reykjanesgeopark.is/destination/patterson-airstrip/",,
-30715,"IS-0008","closed","Einholtsmelar Airport",64.24533,-20.299587,361,"EU","IS","IS-8","Einholtsmelar","no",,,,,,,"BIEH, BIEH"
+30715,"IS-0008","closed","Einholtsmelar Airport",64.24533,-20.299587,289,"EU","IS","IS-8","Einholtsmelar","no",,,,,,,"BIEH"
 30718,"IS-0009","closed","Geysir Airport",64.306592,-20.277114,350,"EU","IS","IS-8","Geysir","no",,,,,,,"BIGE, BIGE"
 30727,"IS-0010","closed","Hrauneyjarfoss Airport",64.204759,-19.264756,1200,"EU","IS","IS-8","Hrauneyjarfoss","no",,,,,,,"BIHX, BIHX"
 30737,"IS-0011","closed","Melanes Airport",65.525829,-22.409813,148,"EU","IS","IS-4","Melanes","no",,,,,,,"BIMN"
@@ -32430,6 +32430,7 @@
 308409,"IS-0013","closed","Tálknafjörður Airport",65.676037,-24.006114,115,"EU","IS","IS-4","Tálknafjörður","no",,,,,,,"BITF, BITF"
 600786,"IS-0014","small_airport","Möðrudalur",65.384167,-15.904444,1475,"EU","IS","IS-7",,"no",,,,"BI55",,,
 601841,"IS-0015","small_airport","Geitamelur Airfield",63.828479,-20.17622,,"EU","IS","IS-8",,"no",,,,,,,
+602622,"IS-0016","small_airport","Sauðárflugvöllur",64.842222,-16.036389,2200,"EU","IS","IS-U-A","Sauðár","no","BISA",,,,,,
 18170,"IS00","small_airport","Jay Schertz Farm Airport",40.84170150756836,-89.27449798583984,780,"NA","US","US-IL","Lowpoint","no",,,"IS00","IS00",,,
 18172,"IS02","small_airport","Dietchweiler Airport",40.7784,-87.791702,640,"NA","US","US-IL","Watseka","no",,,"IS02","IS02",,,
 18174,"IS08","small_airport","Curless Airport",40.263939,-90.23453,620,"NA","US","US-IL","Astoria","no",,,"IS08","IS08",,,
@@ -43372,7 +43373,7 @@
 30243,"LGPA","small_airport","Paros National Airport",37.020495,25.113195,131,"EU","GR","GR-L","Paros","yes","LGPA","PAS","LGPA",,,"https://en.wikipedia.org/wiki/New_Paros_Airport","New Paros Airport"
 4276,"LGPL","small_airport","Astypalaia Airport",36.5798988342,26.3757991791,165,"EU","GR","GR-L","Astypalaia Island","yes","LGPL","JTY","LGPL",,,"https://en.wikipedia.org/wiki/Astypalaia_Island_National_Airport",
 4277,"LGPZ","medium_airport","Aktion National Airport",38.925499,20.765301,11,"EU","GR","GR-D","Preveza","yes","LGPZ","PVK","LGPZ",,"https://www.pvk-airport.gr/en","https://en.wikipedia.org/wiki/Aktion_National_Airport","Preveza, Lefkada, Πρέβεζα, Λευκάδα"
-4278,"LGRD","small_airport","Maritsa Air Base",36.383099,28.1089,204,"EU","GR","GR-L","Rodes Island","no",,,"LGRD",,,"https://en.wikipedia.org/wiki/Rhodes_Air_Base",
+4278,"LGRD","small_airport","Maritsa Air Base",36.383099,28.1089,204,"EU","GR","GR-L","Rhodes Island","no","LGRD",,"LGRD",,,"https://en.wikipedia.org/wiki/Rhodes_Air_Base",
 4279,"LGRP","medium_airport","Diagoras Airport",36.405399,28.086201,17,"AS","GR","GR-L","Rhodes","yes","LGRP","RHO","LGRP",,"https://www.rho-airport.gr/el/","https://en.wikipedia.org/wiki/Rhodes_International_Airport",
 28104,"LGRS","small_airport","Logan Reserve Airport",-27.705986,153.109996,,"OC","AU","AU-QLD",,"no",,,"LGRS","LGRS",,,
 4280,"LGRX","medium_airport","Patras Araxos Agamemnon Airport",38.1511,21.4256,46,"EU","GR","GR-G","Patras","yes","LGRX","GPA","LGRX",,"http://www.araxos-airport.gr/","https://en.wikipedia.org/wiki/Araxos_Airport",
