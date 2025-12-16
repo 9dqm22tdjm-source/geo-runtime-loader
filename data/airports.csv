@@ -2291,7 +2291,7 @@
 8935,"23CT","heliport","Blanchette Heliport",41.7859001159668,-72.9312973022461,500,"NA","US","US-CT","Burlington","no",,,"23CT","23CT",,,
 8936,"23D","small_airport","Karlstad Municipal Airport",48.57737,-96.541348,1025,"NA","US","US-MN","Karlstad","no",,,"23D","23D",,,
 45342,"23DE","small_airport","Full Throttle Farm Airport",39.312567,-75.728983,81,"NA","US","US-DE","Clayton","no",,,"23DE","23DE",,,
-8937,"23FA","heliport","Doral Ocean Beach Resort Heliport",25.825700759887695,-80.12120056152344,6,"NA","US","US-FL","Miami Beach","no",,,"23FA","23FA",,,
+8937,"23FA","heliport","Doral Ocean Beach Resort Heliport",25.824588,-80.12246,6,"NA","US","US-FL","Miami Beach","no",,,"23FA","23FA",,,
 8939,"23FL","small_airport","Gyro Town Usa STOLport",27.68440055847168,-82.24420166015625,65,"NA","US","US-FL","Wimauma","no",,,"23FL","23FL",,,
 8940,"23GA","heliport","Hartrampf Heliport",33.989498138427734,-84.33209991455078,1038,"NA","US","US-GA","Roswell","no",,,"23GA","23GA",,,
 45371,"23GE","small_airport","Lt Landing Airport",32.383056,-83.1,286,"NA","US","US-GA","Dublin","no",,,"23GE","23GE",,,
@@ -5750,7 +5750,7 @@
 12356,"5FL8","small_airport","Chipola Airpark",30.888200759887695,-85.1677017211914,125,"NA","US","US-FL","Greenwood","no",,,"5FL8","5FL8",,,
 12358,"5G0","small_airport","Le Roy Airport",42.9814,-77.9375,780,"NA","US","US-NY","Le Roy","no",,,"5G0","5G0","http://www.leroyairport.com/","https://en.wikipedia.org/wiki/Le_Roy_Airport",
 12359,"5G2","small_airport","Indian Lake Airport",40.054199,-78.847,2442,"NA","US","US-PA","Central City","no",,,"5G2","5G2",,"https://en.wikipedia.org/wiki/Indian_Lake_Airport",
-12360,"5G3","seaplane_base","East Dakota Flying Club Seaplane Base",43.965198516799994,-97.029800415,1600,"NA","US","US-SD","Madison","no",,,"5G3",,,,
+12360,"5G3","seaplane_base","East Dakota Flying Club Seaplane Base",43.965199,-97.0298,1600,"NA","US","US-SD","Madison","no",,,"5G3",,,,"SD50"
 12361,"5G4","small_airport","Eau Claire Lakes Airport",46.348853,-91.496587,1214,"NA","US","US-WI","Barnes","no",,,"K5G4","5G4",,,
 12362,"5G8","small_airport","Greensburg Jeannette Regional Airport",40.376499,-79.608398,1188,"NA","US","US-PA","Jeannette","no",,,"5G8","5G8",,"https://en.wikipedia.org/wiki/Greensburg_Jeannette_Regional_Airport",
 12363,"5GA0","small_airport","Gable Branch Airport",33.2276,-84.544403,840,"NA","US","US-GA","Senoia","no",,,"5GA0","5GA0",,,
@@ -14854,7 +14854,7 @@
 165,"BR-1938","closed","Fazenda Itaquere Airport",-21.6546,-48.2663,2257,"SA","BR","BR-SP","Araraquara","no",,,,,,,"SDFI"
 190,"BR-1939","closed","Aeroclube Airport",-22.746482,-43.464918,164,"SA","BR","BR-RJ","Nova Iguaçu","no",,,,,,"https://pt.wikipedia.org/wiki/Aeroclube_de_Nova_Igua%C3%A7u","SDNY"
 221,"BR-1940","closed","Leda Mello Resende Airport",-21.3719,-45.4949,3050,"SA","BR","BR-MG","Três Pontas","no",,,,,,,"SIAB"
-255,"BR-1941","closed","Usina Porto Primavera Airport",-22.5256004333,-52.9721984863,1067,"SA","BR","BR-SP","Rosana","no",,,,,,,"SJDE, SBAV"
+255,"BR-1941","small_airport","Porto Primavera Airport",-22.525679,-52.972172,1071,"SA","BR","BR-SP","Rosana","no",,,"SD53","SP1448",,,
 271,"BR-1942","closed","Santo Antônio do Amparo Airport",-20.9135,-44.892899,3601,"SA","BR","BR-MG","Santo Antônio do Amparo","no",,,,,,,"SNAM, MG0011"
 280,"BR-1943","closed","Belo Jardim Airport",-8.34527,-36.4412,2100,"SA","BR","BR-PE","Belo Jardim","no",,,,,,"https://en.wikipedia.org/wiki/Belo_Jardim_Airport","SNBJ, PE0011"
 301,"BR-1944","closed","Divisa Airport",-15.519444,-40.872501,2710,"SA","BR","BR-BA","Encruzilhada","no",,,,,,,"SNDW, BA0043"
@@ -16189,6 +16189,14 @@
 600296,"BR-3275","small_airport","Andrea Airstrip",0.322621,-67.343575,256,"SA","BR","BR-AM","São Gabriel da Cachoeira,","no",,,,,,,
 600839,"BR-3276","small_airport","Fazenda Terra Preta Airport",-0.876254,-61.933147,131,"SA","BR","BR-RR","Caracaraí","no",,,"SS7C","RR0162",,,
 601991,"BR-3277","small_airport","Fazenda Anta Gorda II Airport",-13.800079,-57.179986,1765,"SA","BR","BR-MT","São José do Rio Claro","no",,,"SD19","MT1152",,,
+602638,"BR-3278","small_airport","Fazenda Leticia II Airport",-13.812739,-59.157522,2018,"SA","BR","BR-MT","Campos de Júlio","no",,,"SD51","MT1138",,,
+602640,"BR-3279","heliport","Adm. Porto de Paranaguá Helistop",-25.506419,-48.514678,49,"SA","BR","BR-U-A","Paranaguá","no",,,"SD50","PR0224",,,
+602643,"BR-3280","small_airport","Capanema Airstrip",-10.621778,-45.386297,2539,"SA","BR","BR-PI","Corrente","no",,,"SD54","PI0125",,,
+602646,"BR-3281","small_airport","Fazenda Dona Nina Airstrip",-7.963164,-46.877422,872,"SA","BR","BR-U-A","Campos Lindos","no",,,"SD55","TO0162",,,
+602647,"BR-3282","small_airport","Campo de Bagatelle Airport",-19.373892,-44.178094,2428,"SA","BR","BR-MG","Sete Lagoas","no",,,"SD58","MG0657",,,
+602652,"BR-3283","small_airport","Fazenda Princesa do Sul Airstrip",0.884157,-60.424498,349,"SA","BR","BR-U-A","Rorainópolis","no",,,"SD61","RR0166",,,
+602654,"BR-3284","small_airport","Fazenda Santa Cecília Airport",-8.591458,-51.380175,1073,"SA","BR","BR-PA","Cumaru do Norte","no",,,"SD65","PA0439",,,
+602655,"BR-3285","heliport","Shopping Mueller Helistop",-26.303274,-48.849114,78,"SA","BR","BR-SC","Joinville","no",,,"SD71","SC0259",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -51681,7 +51689,7 @@
 24030,"PA61","small_airport","Kunda Airport",40.16680145263672,-75.44960021972656,252,"NA","US","US-PA","Collegeville","no",,,"PA61","PA61",,,
 24031,"PA62","heliport","Temple University Heliport",40.00556,-75.150379,47,"NA","US","US-PA","Philadelphia","no",,,"PA62","PA62",,,
 45772,"PA63","heliport","WPXI-TV Evergreen Road Heliport",40.495057,-80.010767,1106,"NA","US","US-PA","Pittsburgh","no",,,"PA63","PA63",,,
-24033,"PA65","small_airport","Hi-Vu Airport",40.698012,-75.541592,685,"NA","US","US-PA","Coplay","no",,,"PA65","PA65",,,
+24033,"PA65","small_airport","Hi-Vu Airport",40.698012,-75.541592,685,"NA","US","US-PA","Coplay","no",,,,"PA65",,,
 24035,"PA67","heliport","Allegheny Hospitals Canonsburg Heliport",40.24720001220703,-80.19139862060547,1169,"NA","US","US-PA","Canonsburg","no",,,"PA67","PA67",,,
 24036,"PA68","small_airport","Bugs Airport",40.712943,-75.308055,430,"NA","US","US-PA","Nazareth","no",,,"PA68","PA68",,,
 24038,"PA70","small_airport","Fetters Construction Airport",40.091800689697266,-75.71080017089844,500,"NA","US","US-PA","Downingtown","no",,,"PA70","PA70",,,
@@ -57098,16 +57106,18 @@
 343918,"SD4X","heliport","Tedesco Heliport",-25.56651,-52.997222,1371,"SA","BR","BR-PR","São Jorge d'Oeste","no",,,"SD4X","PR0204",,,
 343920,"SD4Y","small_airport","Fazenda Vista Alegre Airstrip",-16.770461,-44.792445,2149,"SA","BR","BR-MG","Ibiaí","no",,,"SD4Y","MG0487",,,
 343922,"SD4Z","small_airport","Fazenda Santo Eugênio Airstrip",-19.334227,-56.720752,325,"SA","BR","BR-MS","Corumbá","no",,,"SD4Z","MS0539",,,
-24528,"SD50","small_airport","Harrold Municipal Airport",44.530899,-99.747498,1787,"NA","US","US-SD","Harrold","no",,,"SD50","SD50",,"https://en.wikipedia.org/wiki/Harrold_Municipal_Airport",
-24529,"SD52","heliport","Avera Queen of Peace Hospital Heliport",43.7140998840332,-98.00869750976562,1386,"NA","US","US-SD","Mitchell","no",,,"SD52","SD52",,,
-24530,"SD53","small_airport","Howard Field",42.90639877319336,-96.81079864501953,1250,"NA","US","US-SD","Beresford","no",,,"SD53","SD53",,,
-24531,"SD54","heliport","Avera St. Luke's Hospital Heliport",45.46187,-98.47681,1308,"NA","US","US-SD","Aberdeen","no",,,"SD54","SD54",,,"St. Luke's MRMC Heliport"
-24532,"SD55","small_airport","Winter Airfield",44.315845,-98.279141,1323,"NA","US","US-SD","Huron","no",,,"SD55","SD55",,,
+24528,"SD50","small_airport","Harrold Municipal Airport",44.530899,-99.747498,1787,"NA","US","US-SD","Harrold","no",,,,"SD50",,"https://en.wikipedia.org/wiki/Harrold_Municipal_Airport",
+24529,"SD52","heliport","Avera Queen of Peace Hospital Helistop",43.714593,-98.008161,1386,"NA","US","US-SD","Mitchell","no",,,,"SD52",,,
+24530,"SD53","small_airport","Howard Field",42.904422,-96.81076,1250,"NA","US","US-SD","Beresford","no",,,,"SD53",,,
+24531,"SD54","heliport","Avera St. Luke's Hospital Heliport",45.461866,-98.47685,1308,"NA","US","US-SD","Aberdeen","no",,,,"SD54",,,"St. Luke's MRMC"
+24532,"SD55","small_airport","Winter Airfield",44.315935,-98.279246,1323,"NA","US","US-SD","Huron","no",,,,"SD55",,,
 24534,"SD57","small_airport","W L Thompson Airport",44.566601,-100.75,2113,"NA","US","US-SD","Pierre","no",,,,"SD57",,,
-24535,"SD58","heliport","Burke Hospital Heliport",43.18190002441406,-99.29329681396484,2210,"NA","US","US-SD","Burke","no",,,"SD58","SD58",,,
-24538,"SD61","small_airport","Plihal Farms Airport",43.01019,-97.866235,1435,"NA","US","US-SD","Tyndall","no",,,"SD61","SD61",,,
-24541,"SD64","heliport","Estelline Medical Clinic Heliport",44.579527,-96.901177,1659,"NA","US","US-SD","Estelline","no",,,"SD64","SD64",,,
-24542,"SD65","small_airport","Whipple Ranch Airport",45.43769836425781,-96.99980163574219,1462,"NA","US","US-SD","Wilmot","no",,,"SD65","SD65",,,
+24535,"SD58","heliport","Burke Hospital Heliport",43.182336,-99.293697,2210,"NA","US","US-SD","Burke","no",,,,"SD58",,,
+602649,"SD59","heliport","Fazenda Terra Santa Heliport",-12.411306,-39.008278,525,"SA","BR","BR-U-A","São Gonçalo dos Campos","no",,,"SD59","BA0515",,,
+602650,"SD5C","small_airport","Fazenda Estrela Grande Airstrip",-15.15412,-50.532449,1055,"SA","BR","BR-GO","Araguapaz","no",,,"SD5C","GO0411",,,
+24538,"SD61","small_airport","Plihal Farms Airport",43.01019,-97.866235,1435,"NA","US","US-SD","Tyndall","no",,,,"SD61",,,
+24541,"SD64","closed","Estelline Medical Clinic Heliport",44.579527,-96.901177,1659,"NA","US","US-SD","Estelline","no",,,,,,,"SD64"
+24542,"SD65","small_airport","Whipple Ranch Airport",45.437698,-96.999802,1462,"NA","US","US-SD","Wilmot","no",,,,"SD65",,,
 24544,"SD67","heliport","Flandreau Medical Center Heliport",44.051601409899995,-96.5920028687,1570,"NA","US","US-SD","Flandreau","no",,,"SD67","SD67",,,
 24545,"SD68","small_airport","Flying T Airport",43.384700775146484,-103.43099975585938,3675,"NA","US","US-SD","Hot Springs","no",,,"SD68","SD68",,,
 24546,"SD69","heliport","Badlands Heliport",43.78332,-101.896261,2500,"NA","US","US-SD","Interior","no",,,"SD69","SD69",,,
@@ -57136,7 +57146,7 @@
 345152,"SD6X","small_airport","Malboro Airport",2.701879,-60.848301,269,"SA","BR","BR-RR","Boa Vista","no",,,"SD6X","RR0119",,,
 346119,"SD6Y","small_airport","Fazenda Bom Retiro Airstrip",-9.358056,-67.789722,581,"SA","BR","BR-AM","Boca do Acre","no",,,"SD6Y","AM0096",,,
 346121,"SD6Z","small_airport","VCM Airstrip",-23.220556,-50.6075,1371,"SA","BR","BR-SP","Guararapes","no",,,"SD6Z","SP1303",,,
-24548,"SD71","small_airport","Bogner Field",43.116600036621094,-103.36699676513672,3660,"NA","US","US-SD","Oelrichs","no",,,"SD71","SD71",,,
+24548,"SD71","small_airport","Bogner Field",43.1166,-103.366997,3660,"NA","US","US-SD","Oelrichs","no",,,,"SD71",,,
 24549,"SD72","small_airport","Vig Ranch Airfield",44.849998474121094,-102.58399963378906,2600,"NA","US","US-SD","Opal","no",,,"SD72","SD72",,,
 24551,"SD74","small_airport","Vander Wal Private Airport",45.99549865722656,-100.3759994506836,1955,"NA","US","US-SD","Pollock","no",,,"SD74","SD74",,,
 24553,"SD76","small_airport","Tennant Ranch Airport",45.82864,-103.940593,3090,"NA","US","US-SD","Camp Crook","no",,,"SD76","SD76",,,
@@ -57162,8 +57172,8 @@
 346964,"SD7X","small_airport","Fly Aviação Agrícola Airport",-12.139167,-56.1225,1260,"SA","BR","BR-MT","Ipiranga do Norte","no",,,"SD7X","MT0717",,,
 347117,"SD7Y","heliport","Villa Pinheiro Heliport",-23.64,-47.370278,2805,"SA","BR","BR-SP","Piedade","no",,,"SD7Y","SP1323",,,
 347119,"SD7Z","small_airport","Fazenda Tartus Airstrip",-6.252453,-47.149313,745,"SA","BR","BR-MA","Porto Franco","no",,,"SD7Z","MA0121",,,
-24557,"SD80","heliport","Mobridge Regional Hospital Heliport",45.545799255371094,-100.4489974975586,1670,"NA","US","US-SD","Mobridge","no",,,"SD80","SD80",,,
-24558,"SD81","small_airport","Vivian Airport",43.931400299072266,-100.31500244140625,1920,"NA","US","US-SD","Vivian","no",,,"SD81","SD81",,,
+24557,"SD80","heliport","Mobridge Regional Hospital Heliport",45.545711,-100.449046,1670,"NA","US","US-SD","Mobridge","no",,,,"SD80","https://www.mobridgehospital.org/locations/mrh/",,
+24558,"SD81","closed","Vivian Airport",43.9314,-100.315002,1920,"NA","US","US-SD","Vivian","no",,,,,,,"SD81"
 24560,"SD83","small_airport","Lee Airport",44.215599060058594,-97.60749816894531,1555,"NA","US","US-SD","De Smet","no",,,"SD83","SD83",,,
 45777,"SD86","heliport","Monument Health Custer Hospital Heliport",43.772601,-103.593682,5300,"NA","US","US-SD","Custer","no",,,"SD86","SD86",,,"Custer Regional Hospital"
 24562,"SD87","heliport","Platte Community Memorial Hospital Heliport",43.3843994140625,-98.83560180664062,1618,"NA","US","US-SD","Platte","no",,,"SD87","SD87",,,
@@ -58690,7 +58700,7 @@
 35869,"SIBM","heliport","Hanger ABC Heliport",-23.61706,-46.580575,2421,"SA","BR","BR-SP","São Caetano do Sul","no",,,"SIBM","SP0468",,,
 35871,"SIBO","small_airport","Sítio São Luiz Airport",-24.261562,-52.794753,1919,"SA","BR","BR-PR","Boa Esperança","no",,,"SNYY","PR0070",,,"SIBO"
 35875,"SIBS","heliport","Terminal Petrobras - São Sebastião Heliport",-23.798586,-45.400049,7,"SA","BR","BR-SP","São Sebastião","no",,,"SJPQ","SP0648",,,"SIBS"
-35876,"SIBT","heliport","Transportadora Americana II Heliport",-22.732322,-47.286186,2001,"SA","BR","BR-SP","Americana","no",,,"SIBT","SP0471",,,
+35876,"SIBT","heliport","Transportadora Americana II Heliport",-22.732279,-47.286208,2004,"SA","BR","BR-SP","Americana","no",,,"SD52","SP0471",,,"SIBT"
 223,"SIBU","small_airport","Jerônimo Sérgio Rosado Maia Airport",-6.36253,-37.756199,892,"SA","BR","BR-PB","Catolé do Rocha","no",,,"SIBU","PB0012",,,
 35877,"SIBV","small_airport","Fazenda Bela Vista Airport",-21.450333,-54.489515,1211,"SA","BR","BR-MS","Nova Alvorada do Sul","no",,,"SIBV","MS0067",,,
 224,"SIBW","small_airport","Conceição Airport",-7.55823,-38.496498,1214,"SA","BR","BR-PB","Conceição","no",,,"SIBW","PB0008",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Concei%C3%A7%C3%A3o",
@@ -61380,7 +61390,7 @@
 563113,"SNG8","heliport","Morro dos Ventos Heliport",-15.482586,-55.746758,2575,"SA","BR","BR-MT","Chapada dos Guimarães","no",,,"SNG8","MT1036",,,
 563117,"SNG9","heliport","CETRIC Heliport",-27.164667,-52.579528,2329,"SA","BR","BR-SC","Chapecó","no",,,"SNG9","SC0241",,,
 312,"SNGA","small_airport","Guarapari Airport",-20.6465,-40.491901,30,"SA","BR","BR-ES","Guarapari","yes","SNGA","GUZ","SNGA","ES0007",,"http://pt.wikipedia.org/wiki/Aeroporto_de_Guarapari",
-37089,"SNGB","small_airport","Gilbués Airport",-9.833610534667969,-45.36722183227539,1476,"SA","BR","BR-PI","Gilbués","no",,,"SNGB",,,,
+37089,"SNGB","small_airport","Gilbués Airport",-9.830924,-45.368457,1414,"SA","BR","BR-PI","Gilbués","no",,,"SD5A","PI0011",,,"SNGB"
 29922,"SNGD","small_airport","Guadalupe Airport",-6.782219886779785,-43.58219909667969,564,"SA","BR","BR-PI","Guadalupe","no","SNGD","GDP","SNGD",,,,
 46471,"SNGE","heliport","Ilha do Retiro Heliport",-8.06667,-34.90194,66,"SA","BR","BR-PE","Recife","no",,,"SNGE","SNGE",,,
 37091,"SNGF","heliport","Fazenda Manacá Heliport",-8.191389083862305,-35.504722595214844,1749,"SA","BR","BR-PE","Gravatá","no",,,"SNGF",,,,
@@ -63562,7 +63572,7 @@
 589,"SWUQ","small_airport","Surucucu Airport",2.83528,-63.646999,2854,"SA","BR","BR-RR","Alto Alegre","no",,,"SWUQ","RR0113",,"https://pt.wikipedia.org/wiki/Aeroporto_Surucucu",
 42240,"SWUR","small_airport","Fazenda Vista Verde Airport",-8.491526,-44.384519,1945,"SA","BR","BR-PI","Palmeira Do Piauí","no",,,"SWOQ","PI0044",,,"SWUR"
 38111,"SWUW","small_airport","Fazenda Okuhara Airport",-15.110948,-56.836696,807,"SA","BR","BR-MT","Barra do Bugres","no",,,"SWUW","MT0414",,,"Fazenda Santa Bárbara II, Alto Paraguai"
-323574,"SWUX","closed","Fazenda 4 Amigos Airport",-9.244835,-49.666942,604,"SA","BR","BR-TO","Abreulândia","no",,,,,,,"SWUX, TO0051"
+323574,"SWUX","small_airport","Fazenda 4 Amigos Airport",-9.244835,-49.666942,604,"SA","BR","BR-TO","Abreulândia","no",,,"SD85","TO0051",,,"SWUX"
 591,"SWUZ","small_airport","Brigadeiro Araripe Macedo Airport",-16.26174,-47.968717,3269,"SA","BR","BR-GO","Luziânia","no",,,"SWUZ","GO0025",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Luzi%C3%A2nia",
 564920,"SWVB","heliport","ICPB Heliport",-27.143296,-48.532353,18,"SA","BR","BR-SC","Porto Belo","no","SWVB",,"SWVB","SC0206",,,
 38114,"SWVC","small_airport","Vila Rica Airport",-9.981057,-51.140358,833,"SA","BR","BR-MT","Vila Rica","no","SWVC","VLP","SWVC","MT0016",,"https://en.wikipedia.org/wiki/Vila_Rica_Airport",
@@ -66298,7 +66308,7 @@
 324572,"US-0584","heliport","Dan's Apple Farm Heliport",42.621535,-82.8757,620,"NA","US","US-MI","Clinton Township","no",,,"MI21","MI21",,,
 324577,"US-0585","heliport","Marion General Hospital Heliport",31.254751,-89.805308,200,"NA","US","US-MS","Columbia","no",,,"1MS9","1MS9",,,
 324579,"US-0586","closed","King Copters Heliport",46.307675,-114.111437,3496,"NA","US","US-MT","Corvallis","no",,,,,,,"MT59"
-324589,"US-0587","small_airport","Lone Tree Airport",45.022277,-97.844861,1799,"NA","US","US-SD","Crocker","no",,,"SD59","SD59",,,
+324589,"US-0587","small_airport","Lone Tree Airport",45.022277,-97.844861,1799,"NA","US","US-SD","Crocker","no",,,,"SD59",,,
 324591,"US-0588","small_airport","K-John Airport",30.219711,-92.319794,21,"NA","US","US-LA","Crowley","no",,,"20LS","20LS",,,"John Airport"
 324601,"US-0589","small_airport","North Fox Island Airport",45.482269,-85.780422,639,"NA","US","US-MI","Northport","no",,,,"6Y3",,"https://en.wikipedia.org/wiki/Fox_Islands_(Michigan)",
 324602,"US-0590","small_airport","Bison Hill Airport",35.158382,-97.548228,1304,"NA","US","US-OK","Norman","no",,,"80OK","80OK",,,
@@ -69815,6 +69825,7 @@
 602601,"US-12822","closed","Venetian Causeway Seaplane base/Viking Airport",25.790309,-80.173116,,"NA","US","US-FL","Miami","no",,,,,,,
 602602,"US-12823","closed","Dinner Key NAF / Coast Guard Air Station Miami",25.730623,-80.229549,,"NA","US","US-FL","Dinner key","yes",,,,,,,
 602604,"US-12824","heliport","Alternate Mercy Hospital Heliport",25.738684,-80.2144,6,"NA","US","US-FL","Miami","no",,,,"FL25",,,
+602636,"US-12825","heliport","Avera Queen of Peace Hospital Heliport",43.714869,-98.005344,1307,"NA","US","US-SD","Mitchell","no",,,,"SD52",,,
 334334,"US-1283","small_airport","Spangler Farm Airport",41.012639,-84.877694,776,"NA","US","US-IN","Fort Wayne","no",,,"22IN","22IN",,,
 334335,"US-1284","small_airport","Twin Lakes Airport",38.518522,-85.587583,663,"NA","US","US-IN","Marysville","no",,,"IN07","IN07",,,
 334337,"US-1285","heliport","1000 Museum Heliport",25.784189,-80.190046,709,"NA","US","US-FL","Miami","no",,,"FA10","FA10",,,
