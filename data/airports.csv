@@ -2291,7 +2291,7 @@
 8935,"23CT","heliport","Blanchette Heliport",41.7859001159668,-72.9312973022461,500,"NA","US","US-CT","Burlington","no",,,"23CT","23CT",,,
 8936,"23D","small_airport","Karlstad Municipal Airport",48.57737,-96.541348,1025,"NA","US","US-MN","Karlstad","no",,,"23D","23D",,,
 45342,"23DE","small_airport","Full Throttle Farm Airport",39.312567,-75.728983,81,"NA","US","US-DE","Clayton","no",,,"23DE","23DE",,,
-8937,"23FA","heliport","Doral Ocean Beach Resort Heliport",25.824588,-80.12246,6,"NA","US","US-FL","Miami Beach","no",,,"23FA","23FA",,,
+8937,"23FA","heliport","Doral Ocean Beach Resort Heliport",25.824588,-80.12246,3,"NA","US","US-FL","Miami Beach","no",,,"23FA","23FA",,,
 8939,"23FL","small_airport","Gyro Town Usa STOLport",27.68440055847168,-82.24420166015625,65,"NA","US","US-FL","Wimauma","no",,,"23FL","23FL",,,
 8940,"23GA","heliport","Hartrampf Heliport",33.989498138427734,-84.33209991455078,1038,"NA","US","US-GA","Roswell","no",,,"23GA","23GA",,,
 45371,"23GE","small_airport","Lt Landing Airport",32.383056,-83.1,286,"NA","US","US-GA","Dublin","no",,,"23GE","23GE",,,
@@ -15865,7 +15865,7 @@
 37555,"BR-2950","small_airport","Fazenda Palmeira Airport",-22.543611526489,-53.429443359375,885,"SA","BR","BR-MS","Taquarussu","no",,,,"SSLF",,,"SSLF"
 37557,"BR-2951","small_airport","Fazenda Aldeia Airport",-18.216388702393,-55.158889770508,394,"SA","BR","BR-MS","Coxim","no",,,,"SSLK",,,"SSLK"
 37562,"BR-2952","small_airport","Salto Santiago Airport",-25.514133,-52.557499,2087,"SA","BR","BR-PR","Laranjeiras do Sul","no",,,,"SSLS",,,"SSLS, Rio Bonito do Iguaçu"
-37564,"BR-2953","small_airport","Fazenda Três Cerros Airport",-21.973333358765,-56.797500610352,853,"SA","BR","BR-MS","Bela Vista","no",,,,"SSLW",,,"SSLW"
+37564,"BR-2953","small_airport","Fazenda Três Cerros Airport",-21.975235,-56.802052,853,"SA","BR","BR-MS","Bela Vista","no",,,"SS94","MS0788",,,"SSLW"
 37566,"BR-2954","small_airport","Fazenda Vitória do Ivinhema Airport",-22.512005,-53.670661,1296,"SA","BR","BR-MS","Ivinhema","no",,,,"SSLZ",,,"SSLZ"
 37571,"BR-2955","small_airport","Fazenda Morrinhos Airport",-22.083889007568,-56.300556182861,1148,"SA","BR","BR-MS","Bela Vista","no",,,,"SSMI",,,"SSMI"
 37574,"BR-2956","small_airport","Fazenda Maria Luíza Airport",-23.597221374512,-54.645832061768,1083,"SA","BR","BR-MS","Iguatemi","no",,,,"SSML",,,"SSML"
@@ -27889,8 +27889,14 @@
 29565,"FYKE","small_airport","Kalahari Game Lodge Airport",-25.651100158691406,19.87809944152832,3182,"AF","NA","NA-HA",,"no",,,"FYKE",,,,
 29568,"FYKJ","small_airport","Kamanjab Airport",-19.520599,14.8233,4259,"AF","NA","NA-KU","Kamanjab","no","FYKJ",,"FYKJ",,,"https://en.wikipedia.org/wiki/Kamanjab_Airport",
 3027,"FYKM","medium_airport","Katima Mulilo Airport",-17.634258,24.176688,3144,"AF","NA","NA-CA","Mpacha","yes","FYKM","MPA","FYKM",,,"https://en.wikipedia.org/wiki/Katima_Mulilo_Airport","FYMP"
-345674,"FYKN","small_airport","Okonjima Airport",-20.86535,16.6403,5357,"AF","NA","NA-OD",,"no",,,"FYKN",,,,
+345674,"FYKN","small_airport","Okonjima Airport",-20.866986,16.639363,5357,"AF","NA","NA-OD",,"no","FYKN",,"FYKN",,,,
+602671,"FYKR","small_airport","Okorusu Mine Airstrip",-20.062512,16.725565,4613,"AF","NA","NA-U-A","Okorusu Mine","no","FYKR",,"FYKR",,,,
 3028,"FYKT","medium_airport","Keetmanshoop Airport",-26.539801,18.111401,3506,"AF","NA","NA-KA","Keetmanshoop","no","FYKT","KMP","FYKT",,,"https://en.wikipedia.org/wiki/Keetmanshoop_Airport",
+602672,"FYKU","small_airport","Kuidas Airstrip",-20.650026,13.860082,800,"AF","NA","NA-KU","Torra Conservancy","no","FYKU",,"FYKU",,,,
+602673,"FYKY","small_airport","Uitkyk Airport",-25.122049,16.265716,4040,"AF","NA","NA-HA","Uitkyk","no","FYKY",,"FYKY",,,,"Nubib Guest Farm"
+602674,"FYKZ","small_airport","Kuzikus Airstrip",-23.229516,18.3867,4417,"AF","NA","NA-OH","Kuzikus","no","FYKZ",,"FYKZ",,"https://www.kuzikus-namibia.de/en/lodge",,
+602675,"FYLO","small_airport","Lodge Okajo Airstrip",-21.727778,16.195833,4206,"AF","NA","NA-ER","Okajo Safari Lodge","no","FYLO",,"FYLO",,,,
+602676,"FYLR","small_airport","La Rochelle Airfield",-18.978958,17.86126,3873,"AF","NA","NA-OT","Tsumeb","no","FYLR",,"FYLR",,"https://larochellelodge.com/",,
 29579,"FYLS","small_airport","Lianshulu Lodge Airstrip",-18.116495,23.39346,3143,"AF","NA","NA-CA","Muneambuanas","no","FYLS","LHU","FYLS",,,,"Muneambuanas"
 3029,"FYLZ","medium_airport","Luderitz Airport",-26.687400817871094,15.242899894714355,457,"AF","NA","NA-KA","Luderitz","yes","FYLZ","LUD","FYLZ",,,"https://en.wikipedia.org/wiki/L%C3%BCderitz_Airport",
 31297,"FYMB","small_airport","Meob Bay Landing Site",-24.617235,14.697224,20,"AF","NA","NA-HA","Meob Bay","no",,,"FYMB",,,,
@@ -44473,6 +44479,7 @@
 527229,"LY-0018","small_airport","Athadi Airport",29.62058,19.64761,56,"AF","LY","LY-WA",,"no",,,,"HLATH",,,
 3227,"LY-0019","closed","Tripoli International Airport",32.663502,13.159,263,"AF","LY","LY-TB","Tripoli","no",,,,,,"https://en.wikipedia.org/wiki/Tripoli_International_Airport","Tripoli-Castel Benito Airport, RAF Castel Benito, RAF Idris, HLLT, TIP"
 29859,"LY-0020","closed","Former Sidra Airport",30.632622,18.322921,20,"AF","LY","LY-SR","Sidra","no",,,,,,,"Essider, HLSD"
+602664,"LY-0021","closed","RAF Marble Arch",30.458143,18.573589,,"AF","LY","LY-SR",,"no",,,,,,"https://en.wikipedia.org/wiki/RAF_Marble_Arch",
 30688,"LY-BCQ","medium_airport","Brak Airport",27.653,14.272,1056,"AF","LY","LY-SH","Brak","no",,"BCQ",,,,"https://en.wikipedia.org/wiki/Brak_Airport","Brach"
 30928,"LY-DNF","small_airport","Martuba Air Base",32.542,22.745001,1235,"AF","LY","LY-DR","Martuba","no",,"DNF",,,,"https://en.wikipedia.org/wiki/Martuba_Airbase","Martuba Airfield, Martubah Airport"
 1648,"LY87","small_airport","Kovin Airstrip",44.7743,20.9613,280,"EU","RS","RS-04","Kovin","no",,,,,,,
@@ -48955,7 +48962,7 @@
 42336,"NA-0071","small_airport","Keetmansh Railroad Airport",-26.593050003051758,18.1422176361084,3231,"AF","NA","NA-KA","Keetmanshoop","no",,,,,,,
 42337,"NA-0072","small_airport","Klipdrif Airstrip",-26.516666412353516,16.916667938232422,4245,"AF","NA","NA-KA",,"no",,,,,,,
 42338,"NA-0073","small_airport","Zuuberg Landing Site",-26.266666412353516,17,3645,"AF","NA","NA-KA",,"no",,,,,,,
-42339,"NA-0074","small_airport","Koes Airport",-25.937782287597656,19.12055015563965,3175,"AF","NA","NA-KA","Koes","no",,,,,,,
+42339,"NA-0074","small_airport","Koes Airport",-25.934582,19.115206,3175,"AF","NA","NA-KA","Koes","no","FYKS",,"FYKS",,,,
 42340,"NA-0075","small_airport","Tses Airstrip",-25.890283584594727,18.12638282775879,3152,"AF","NA","NA-KA","Tses","no",,,,,,,
 42342,"NA-0077","closed","Mata Mata Landing Site",-25.7677822113,20,3125,"AF","NA","NA-KA",,"no",,,,,,,
 42343,"NA-0078","small_airport","Brukkaros Landing Strip",-25.69945,18.053049,3190,"AF","NA","NA-KA","Brukkaros","no","FYBK",,"FYBK",,,,
@@ -49039,7 +49046,7 @@
 42422,"NA-0157","small_airport","Otjiwarongo Center Airport",-20.463882446289062,16.647783279418945,4850,"AF","NA","NA-OD","Otjiwarongo","no",,,,,,,
 315399,"NA-0158","small_airport","Isibis Airstrip",-23.4178,16.5075,5600,"AF","NA","NA-KH","Isibis","no",,,,,,,
 318395,"NA-0159","small_airport","Khorixas Airport",-20.366192,15.059298,3353,"AF","NA","NA-KU","Khorixas","no","FYKX",,"FYKX",,,,
-318396,"NA-0160","small_airport","Okongwati Airport",-17.43873,13.2782,,"AF","NA","NA-KU","Okongwati","no",,,,,,,
+318396,"NA-0160","small_airport","Okangwati Airport",-17.43873,13.2782,3555,"AF","NA","NA-KU","Okaongwati","no","FYKW",,"FYKW",,,,"Okanguati"
 318397,"NA-0161","small_airport","Okongo Airport",-17.565947,17.225298,,"AF","NA","NA-OW","Okongo","no",,,,,,,
 318401,"NA-0162","small_airport","Kongola Airport",-17.775197,23.307089,,"AF","NA","NA-CA","Kongola","no",,,,,,,
 318402,"NA-0163","closed","Susuwe Airport",-17.775984,23.278472,,"AF","NA","NA-CA","Kongola","no",,,,,,,
