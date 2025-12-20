@@ -16142,7 +16142,7 @@
 313745,"BR-3227","heliport","RPB Helipad",-15.7981,-47.8123,3307,"SA","BR","BR-DF","Brasilia","no",,,,"SDBX",,,"SDBX"
 316505,"BR-3228","heliport","Niely do Brasil Heliport",-22.701278,-43.46757,66,"SA","BR","BR-RJ","Nova Iguaçu","no",,,,"SWWO",,,"SWWO, RJ0170"
 319707,"BR-3229","small_airport","Fazenda Scheffer Airport",-8.343408,-65.713456,293,"SA","BR","BR-AM","Lábrea","no",,,,"SDDS",,,"SDDS"
-323529,"BR-3230","small_airport","Fazenda Santo Antônio Airport",-3.900002,-48.881387,243,"SA","BR","BR-PA","Goianésia do Pará","no",,,,"SNIL",,,"SNIL, BR-3230"
+323529,"BR-3230","small_airport","Fazenda Santo Antônio Airport",-3.900002,-48.881387,243,"SA","BR","BR-PA","Goianésia do Pará","no",,,"SD80","PA0442",,,"SNIL"
 323589,"BR-3231","heliport","Ferretti Group do Brasil Heliport",-23.605001,-47.01,3022,"SA","BR","BR-SP","Vargem Grande Paulista","no",,,,"SWFI",,,"SWFI"
 323592,"BR-3232","heliport","Compesa Heliport",-8.009756,-34.938564,,"SA","BR","BR-PE","Recife","no",,,,"SNFY",,,"SNFY"
 323596,"BR-3233","heliport","Fazenda Melado Heliport",-20.79301,-47.796186,2257,"SA","BR","BR-SP","Sales Oliveira","no",,,,"SNEX",,,"SNEX"
@@ -16197,6 +16197,8 @@
 602652,"BR-3283","small_airport","Fazenda Princesa do Sul Airstrip",0.884157,-60.424498,349,"SA","BR","BR-U-A","Rorainópolis","no",,,"SD61","RR0166",,,
 602654,"BR-3284","small_airport","Fazenda Santa Cecília Airport",-8.591458,-51.380175,1073,"SA","BR","BR-PA","Cumaru do Norte","no",,,"SD65","PA0439",,,
 602655,"BR-3285","heliport","Shopping Mueller Helistop",-26.303274,-48.849114,78,"SA","BR","BR-SC","Joinville","no",,,"SD71","SC0259",,,
+602711,"BR-3286","small_airport","Fazenda Marplen Airport",-9.620639,-63.042389,484,"SA","BR","BR-RO","Rio Crespo","no",,,"SD81","RO0118",,,
+602723,"BR-3287","small_airport","Fazenda Méquens Airstrip",-12.756159,-61.633844,697,"SA","BR","BR-RO","Pimenteiras do Oeste","no",,,"SD91","RO0105",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -39665,7 +39667,7 @@
 20316,"KL94","small_airport","Mountain Valley Airport",35.101101,-118.422997,4220,"NA","US","US-CA","Tehachapi","no",,,"KL94","L94",,"https://en.wikipedia.org/wiki/Mountain_Valley_Airport",
 20317,"KLAA","medium_airport","Southeast Colorado Regional Airport",38.066407,-102.691373,3706,"NA","US","US-CO","Lamar","no","KLAA","LAA","KLAA","LAA","http://www.ci.lamar.co.us/index.asp?Type=B_BASIC&SEC={C91FC3CC-5A83-4F9C-9AF7-A96F374C2EE5}&DE=","https://en.wikipedia.org/wiki/Lamar_Municipal_Airport_(Colorado)","Lamar Municipal"
 3627,"KLAF","medium_airport","Purdue University Airport",40.412875,-86.939363,606,"NA","US","US-IN","West Lafayette","yes","KLAF","LAF","KLAF","LAF",,"https://en.wikipedia.org/wiki/Purdue_University_Airport",
-3628,"KLAL","medium_airport","Lakeland Linder International Airport",27.987656,-82.018776,142,"NA","US","US-FL","Lakeland","yes","KLAL","LAL","KLAL","LAL",,"https://en.wikipedia.org/wiki/Lakeland_Linder_Regional_Airport",
+3628,"KLAL","medium_airport","Lakeland Linder International/Regional Airport",27.987656,-82.018776,142,"NA","US","US-FL","Lakeland","yes","KLAL","LAL","KLAL","LAL",,"https://en.wikipedia.org/wiki/Lakeland_Linder_Regional_Airport",
 20318,"KLAM","small_airport","Los Alamos Airport",35.8797988892,-106.268997192,7171,"NA","US","US-NM","Los Alamos","no","KLAM","LAM","KLAM","LAM",,"https://en.wikipedia.org/wiki/Los_Alamos_County_Airport",
 3629,"KLAN","medium_airport","Capital City Airport",42.77870178222656,-84.58740234375,861,"NA","US","US-MI","Lansing","yes","KLAN","LAN","KLAN","LAN",,"https://en.wikipedia.org/wiki/Lansing_Capital_City_Airport",
 3630,"KLAR","medium_airport","Laramie Regional Airport",41.31209945678711,-105.67500305175781,7284,"NA","US","US-WY","Laramie","yes","KLAR","LAR","KLAR","LAR",,"https://en.wikipedia.org/wiki/Laramie_Regional_Airport",
@@ -57164,6 +57166,7 @@
 24548,"SD71","small_airport","Bogner Field",43.1166,-103.366997,3660,"NA","US","US-SD","Oelrichs","no",,,,"SD71",,,
 24549,"SD72","small_airport","Vig Ranch Airfield",44.849998474121094,-102.58399963378906,2600,"NA","US","US-SD","Opal","no",,,"SD72","SD72",,,
 24551,"SD74","small_airport","Vander Wal Private Airport",45.99549865722656,-100.3759994506836,1955,"NA","US","US-SD","Pollock","no",,,"SD74","SD74",,,
+602709,"SD75","small_airport","JMG Agropecuária Airstrip",-19.023319,-45.4117,1952,"SA","BR","BR-MG","Abaeté","no",,,"SD75","MG0659",,,
 24553,"SD76","small_airport","Tennant Ranch Airport",45.82864,-103.940593,3090,"NA","US","US-SD","Camp Crook","no",,,"SD76","SD76",,,
 24555,"SD78","small_airport","Anderson Aerial Spraying Airport",43.9015007019043,-99.87889862060547,1750,"NA","US","US-SD","Kennebec","no",,,"SD78","SD78",,,
 346958,"SD7B","small_airport","Fazenda Bahia Airstrip",-0.755395,-55.053735,1578,"SA","BR","BR-PA","Alenquer","no",,,"SD7B","PA0272",,,
@@ -57215,10 +57218,11 @@
 347257,"SD8Y","small_airport","Fazenda São Pedro Airstrip",-4.8875,-47.220556,932,"SA","BR","BR-MA","Açailândia","no",,,"SD8Y","MA0120",,,
 347259,"SD8Z","small_airport","Fazenda Tocantins Airstrip",-12.729049,-54.438111,1089,"SA","BR","BR-MT","Nova Ubiratã","no",,,"SD8Z","MT0734",,,
 24565,"SD90","small_airport","Mitchell's Strip",44.467544,-103.787042,3920,"NA","US","US-SD","Spearfish","no",,,"SD90","SD90",,,
-24566,"SD91","heliport","Star Aviation Nr 1 Heliport",44.46839904785156,-103.81199645996094,4025,"NA","US","US-SD","Spearfish","no",,,"SD91","SD91",,,
+24566,"SD91","closed","Star Aviation Nr 1 Heliport",44.468399,-103.811996,4025,"NA","US","US-SD","Spearfish","no",,,,,,,"SD91"
 24567,"SD92","heliport","Telstar Heliport",43.698299407958984,-98.02149963378906,1310,"NA","US","US-SD","Mitchell","no",,,"SD92","SD92",,,
 24568,"SD93","small_airport","Gary Myers Airport",44.864200592041016,-99.60639953613281,1930,"NA","US","US-SD","Gettysburg","no",,,"SD93","SD93",,,
 24569,"SD94","small_airport","Lundin Airport",44.99300003051758,-96.47699737548828,1186,"NA","US","US-SD","Revillo","no",,,"SD94","SD94",,,
+602725,"SD95","small_airport","Fazenda Sete de Setembro Airport",-14.056831,-52.577289,1251,"SA","BR","BR-MT","Água Boa","no",,,"SD95","MT1162",,,
 24570,"SD96","heliport","Pioneer Memorial Hospital Heliport",43.1758,-97.084198,1350,"NA","US","US-SD","Viborg","no",,,"SD96","SD96",,,
 24571,"SD97","small_airport","Oller Airport",43.87779998779297,-100.36199951171875,2100,"NA","US","US-SD","Vivian","no",,,"SD97","SD97",,,
 24572,"SD98","small_airport","Barber Airport",44.462501525878906,-102.552001953125,2655,"NA","US","US-SD","Enning","no",,,"SD98","SD98",,,
@@ -57295,6 +57299,7 @@
 35447,"SDBW","heliport","Banespa República Heliport",-23.54356,-46.644634,2676,"SA","BR","BR-SP","São Paulo","yes",,,"SDBW","SP0302",,,
 29686,"SDBY","small_airport","Bariri - Aparecido O. Silva Airport",-22.069201,-48.706402,1594,"SA","BR","BR-SP","Bariri","no",,,"SDBY","SP0032",,,
 530808,"SDC0","small_airport","Santa Maria das Barreiras Airport",-8.850278,-49.725833,564,"SA","BR","BR-PA","Santa Maria das Barreiras","no",,,"SDC0","PA0369",,,
+602720,"SDC1","heliport","Comandante Wilson do Egito Coelho Heliport",-5.020642,-41.237036,755,"SA","BR","BR-PI","Buriti dos Montes","no",,,"SDC1","PI0122",,,
 346901,"SDC2","small_airport","Fazenda Onça Preta Airstrip",-9.02592,-65.927796,538,"SA","BR","BR-AM","Lábrea","no",,,"SDC2","AM0099",,,
 347387,"SDC3","small_airport","Algodoeira Santa Luzia Airport",-13.690859,-58.863761,1968,"SA","BR","BR-MT","Sapezal","no",,,"SDC3","MT0720",,,
 347855,"SDC4","small_airport","Condomínio Aeronáutico Hangar Fly Residence Airport",-9.32415,-40.47118,1253,"SA","BR","BR-PE","Petrolina","no",,,"SDC4","PE0093",,,
@@ -65243,6 +65248,7 @@
 600928,"UA-9886","heliport","Davydkovtsy Heliport",49.42165,27.149767,1168,"EU","UA","UA-68","Davydkovtsy","no",,,,,,,"UKLG, УКЛГ, Давидковтси"
 600941,"UA-9887","heliport","Kiev - Gora Heliport",50.365525,30.838816,423,"EU","UA","UA-30","Gora","no",,,,,,,"HGQ3, ХГЯ3, Гора"
 602705,"UA-9888","closed","VPP ""Grishino"" Airfield",48.302987,37.097583,610,"EU","UA","UA-14","Pokrovsk","no",,,,,,,"ZBU2, ЗБУ2, Покровськ, Гришине, Krasnoarmeysk, Hryshyne, Krasnoarmiisk"
+602726,"UA-9889","heliport","Volnovakha Forest Park Heliport",47.664945,37.435319,745,"EU","UA","UA-14","Volnovakha","no",,,,,,,"HE4S, ХЕ4С, Волноваха, Hrafske, Графське"
 3549,"UA30","medium_airport","Batken Airport",40.042899,70.83784,3602,"AS","KG","KG-B","Batken","yes","UCFB",,"UCFB",,"http://www.airport.kg/index.php?option=com_content&view=article&id=4&Itemid=6","https://en.wikipedia.org/wiki/Batken_Airport","UAFB, Баткен"
 3964,"UA34","small_airport","Chardara Airport",41.2765007019043,67.97100067138672,709,"AS","KZ","KZ-YUZ","Shardara","no",,,"UA34","UA34",,,
 3966,"UA36","small_airport","Lugovoy Airport",42.972565,72.728051,2130,"AS","KZ","KZ-ZHA","Lugovoy","no",,,"UA36","XAAL",,,
@@ -69843,6 +69849,8 @@
 602604,"US-12824","heliport","Alternate Mercy Hospital Heliport",25.738684,-80.2144,6,"NA","US","US-FL","Miami","no",,,,"FL25",,,
 602636,"US-12825","heliport","Avera Queen of Peace Hospital Heliport",43.714869,-98.005344,1307,"NA","US","US-SD","Mitchell","no",,,,"SD52",,,
 602694,"US-12826","small_airport","Miami Beach Showcase Landing Facility",25.783125,-80.128441,,"NA","US","US-FL","Miami Beach","no",,,,,,,
+602727,"US-12827","small_airport","Paradise Field",27.979791,-82.021673,,"NA","US","US-FL","Lakeland","no",,,,,,,
+602729,"US-12828","small_airport","Old Finds Bright",24.646861,-81.604165,,"NA","US","US-FL","Sugarloaf key","no",,,,,,,
 334334,"US-1283","small_airport","Spangler Farm Airport",41.012639,-84.877694,776,"NA","US","US-IN","Fort Wayne","no",,,"22IN","22IN",,,
 334335,"US-1284","small_airport","Twin Lakes Airport",38.518522,-85.587583,663,"NA","US","US-IN","Marysville","no",,,"IN07","IN07",,,
 334337,"US-1285","heliport","1000 Museum Heliport",25.784189,-80.190046,709,"NA","US","US-FL","Miami","no",,,"FA10","FA10",,,
