@@ -32745,7 +32745,7 @@
 317907,"IT-0224","small_airport","Monticchio Airfield",40.377022,17.386017,124,"EU","IT","IT-75","Taranto (TA)","no",,,,"TAPLS",,,"TA01, AirPulsano, Aviosuperficie Monticchio, Pulsano"
 317910,"IT-0225","small_airport","Aviosuperficie Artena",41.673056,12.845556,649,"EU","IT","IT-62","Artena (RM)","no",,,,"RMART",,,
 317913,"IT-0226","closed","Villa Farsetti Airfield",45.49917,12.03139,22,"EU","IT","IT-34","Santa Maria di Sala (VE)","no",,,,,,,"Ala Salese, Campo di Volo Villa Farsetti, VESMS"
-317916,"IT-0227","closed","Campo di Volo Pozzilli",41.50223,14.08533,,"EU","IT","IT-67","Pozzilli","no",,,,,,,"Le Aquile"
+317916,"IT-0227","closed","Pozzilli Airfield",41.50223,14.08533,679,"EU","IT","IT-67","Pozzilli","no",,,,,,,"LINP, Le Aquile"
 317917,"IT-0228","small_airport","Gianni Cerutti Airfield",45.34921,8.64632,393,"EU","IT","IT-21","Vespolate (NO)","no",,,,"NOVES",,,"Gianni Cerutti, Campo di Volo Gianni Cerutti"
 317976,"IT-0229","small_airport","Natile Airfield",40.59059,16.769,974,"EU","IT","IT-75","Ginosa (TA)","no",,,,"TA05",,,"Campo di Volo Natile"
 318087,"IT-0230","small_airport","Campo di Volo Pietralunga",43.450539,12.401383,2263,"EU","IT","IT-55","Pietralunga (PG)","no",,,,"PGPLU",,,
@@ -32760,7 +32760,7 @@
 318285,"IT-0239","small_airport","Esperti Airfield",40.47894,17.884616,196,"EU","IT","IT-75","Cellino San Marco (BR)","no",,,,"BRCEL","http://alimessapia.altervista.org/alimessapia/",,"BR06, AliMessapia, Esperti, Aviosuperficie Esperti"
 318909,"IT-0240","small_airport","Campo di Volo Monreale",39.583099,8.773265,,"EU","IT","IT-88","San Gavino Monreale (CA)","no",,,,"CASGA","http://campo-volo-sangavino.webnode.it",,
 318911,"IT-0241","small_airport","Aviosuperficie Agrigento",37.247222,13.654722,167,"EU","IT","IT-82","Agrigento","no",,,,"AGFAV","http://www.avioclubagrigento.it",,"Valle dei Templi"
-318914,"IT-0242","small_airport","Corte Airfield",40.107104,18.257618,262,"EU","IT","IT-75","Melpignano (LE)","no",,,"LINB","LE12","http://www.aviosuperficielecce.it","https://it.wikipedia.org/wiki/Aviosuperficie_Corte","Aviosuperficie Corte"
+318914,"IT-0242","small_airport","Corte Airfield",40.107104,18.257618,262,"EU","IT","IT-75","Melpignano (LE)","no","LINB",,"LINB","LE12","http://www.aviosuperficielecce.it","https://it.wikipedia.org/wiki/Aviosuperficie_Corte","Aviosuperficie Corte"
 318917,"IT-0243","small_airport","Fly Sabina Airfield",42.116667,12.708056,,"EU","IT","IT-62","Montelibretti (RM)","no",,,,,,,"Campo di Volo Fly Sabina"
 324617,"IT-0244","small_airport","Trike Team Cormorano",37.0994444,14.17,,"EU","IT","IT-82","Gela (CL)","no",,,,"CLGRO",,,
 318979,"IT-0245","small_airport","Val Vibrata Flying Field",42.809474,13.847142,269,"EU","IT","IT-65","Corropoli (TE)","no",,,,"TEVAL",,,"TE04, Campo di Volo ""Val Vibrata"", Avio Club Val Vibrata, Corropoli"
@@ -33090,7 +33090,7 @@
 337022,"IT-0569","small_airport","Batfly Airfield",41.343401,16.213181,6,"EU","IT","IT-75","Barletta (BT)","no",,,,,"https://www.facebook.com/pages/category/Sports-Team/BatFly-1186631891355795/",,"BT01, Campo di volo BATFLY"
 337024,"IT-0570","closed","Orta Nova Borgo Mezzanone Air Base",41.40601,15.728517,124,"EU","IT","IT-75","Foggia (FG)","no",,,,,,"https://it.wikipedia.org/wiki/Aeroporto_di_Borgo_Mezzanone","LIBO"
 337025,"IT-0571","closed","Campo di volo Marchese",41.407394,15.29284,,"EU","IT","IT-75",,"no",,,,,,,
-337039,"IT-0572","heliport","Alidaunia Foggia Heliport",41.423977,15.533971,278,"EU","IT","IT-75","Foggia","no",,,,,"https://alidaunia.it/","https://en.wikipedia.org/wiki/Alidaunia",
+337039,"IT-0572","heliport","Alidaunia Foggia Heliport",41.423974,15.533946,278,"EU","IT","IT-75","Foggia","no","LINA",,,"LINA","https://alidaunia.it/","https://en.wikipedia.org/wiki/Alidaunia",
 337041,"IT-0573","heliport","Eliporto S.G.Rotondo",41.693749,15.710771,1801,"EU","IT","IT-75","San Giovanni Rotondo","no",,,,,"https://alidaunia.it/helipad-posts/san-giovanni-rotondo","https://www.google.it/maps/place/Elisuperficie+Alidaunia/@41.6937147,15.7107778,15z/data=!4m5!3m4!1s0x0:0x1eb4e345f78bde22!8m2!3",
 337045,"IT-0574","heliport","Eliporto Peschici",41.92814,16.012815,,"EU","IT","IT-75","Peschici","yes",,,,,"https://www.peschici.com/eliporto-elisccorso-peschici/porto-eleiporto-scuole-uffici-comunali/04/",,
 337054,"IT-0575","closed","Giannutri Airfield",42.254584,11.116147,46,"EU","IT","IT-52","Isola del Giglio (GR)","no",,,,,,"https://it.wikipedia.org/wiki/Aviosuperficie_ed_elisuperficie_di_Giannutri","Aviosuperficie di Giannutri, GRXX"
@@ -33296,7 +33296,7 @@
 547730,"IT-0775","small_airport","Verolengo Airstrip",45.18612,7.98596,,"EU","IT","IT-21",,"no",,,,,,,
 549466,"IT-0776","heliport","San Rossore Helicopter Base",43.72172,10.33768,,"EU","IT","IT-52",,"no",,,,,,,
 554578,"IT-0777","small_airport","Campo Volo Trens",46.873657,11.472973,,"EU","IT","IT-32","Trens (Bolzano)","no",,,,,,,
-554674,"IT-0778","closed","Manduria Airfield",40.44383,17.63002,285,"EU","IT","IT-75","Manduria (TA)","no",,,,,,"https://en.wikipedia.org/wiki/Manduria_Airfield","Manduria Army Air Field"
+554674,"IT-0778","closed","Manduria Airfield",40.444303,17.629851,285,"EU","IT","IT-75","Manduria (TA)","no",,,,,,"https://en.wikipedia.org/wiki/Manduria_Airfield","LINM, Manduria Army Air Field"
 554756,"IT-0779","heliport","Riuniti Foggia Hospital Heliport",41.45888,15.52023,285,"EU","IT","IT-75","Foggia (FG)","no",,,,,,,
 561177,"IT-0780","small_airport","Rutor Glacier Altiport",45.632223,7.005417,10830,"EU","IT","IT-23","La Thuile (AO)","no",,,,,,,"Ghiacciaio del Rutor"
 561349,"IT-0781","small_airport","Beverino Airfield",44.19713,9.80555,171,"EU","IT","IT-42","Beverino (SP)","no",,,,,,,
@@ -33328,7 +33328,8 @@
 599222,"IT-0809","small_airport","Aviovitombola Ultralight Strip",43.17619,11.79623,,"EU","IT","IT-52",,"no",,,,,,,
 600277,"IT-0810","heliport","San Bortolo Hospital Helipad",45.555299,11.544907,180,"EU","IT","IT-34","Vicenza","no",,,,,,,
 601170,"IT-0811","small_airport","Campovolo Bellamarinafly",40.524149,17.774945,290,"EU","IT","IT-75","Torre Santa Susanna (Mesagne)","no",,,,"BR10",,,
-35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,,"EU","IT","IT-75","Tremiti Islands","yes",,,"LINI",,,"https://de.wikipedia.org/wiki/Heliport_San_Domino",
+602744,"IT-0812","closed","Mondovi Airbase",44.408333,7.820833,1339,"EU","IT","IT-21","Mondavi (CN)","no",,,,,,,"LIMY"
+35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
 18252,"JB01","small_airport","Clearwater Aero Estates Airport",43.757198,-89.652603,944,"NA","US","US-WI","Oxford","no",,,"JB01","JB01",,,"Clearwater Ranch"
@@ -43548,34 +43549,35 @@
 29430,"LILQ","small_airport","Massa Cinquale Municipal Airfield",43.98598,10.143785,13,"EU","IT","IT-52","Massa (MS)","no",,,"LILQ","MS01","http://www.aeroclubmarinadimassa.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Massa-Cinquale","QMM"
 29431,"LILR","small_airport","Cremona-Migliaro Airfield",45.168261,10.001864,161,"EU","IT","IT-25","Cremona (CR)","no",,,"LILR","CR04",,"http://it.wikipedia.org/wiki/Aeroporto_di_Cremona-Migliaro",
 44002,"LILS","heliport","Clusone Heliport",45.883888244628906,9.966388702392578,1900,"EU","IT","IT-25","Clusone","no",,,"LILS",,,,
-29432,"LILV","small_airport","Valbrembo Airfield",45.719864,9.593954,745,"EU","IT","IT-25","Carvico (BG)","no",,,"LILV","BG02",,"https://it.wikipedia.org/wiki/Aeroporto_di_Valbrembo",
-44003,"LILY","seaplane_base","Como (Idroscalo - Water Ad) Hidroport",45.814701,9.06972,663,"EU","IT","IT-25","Como (CO)","no",,,"LILY","CO02",,"https://it.wikipedia.org/wiki/Idroscalo_internazionale_di_Como",
+602742,"LILU","heliport","Ferrero Heliport",44.701988,8.020256,544,"EU","IT","IT-21","Alba (CN)","no","LILU",,"LILU",,,,
+29432,"LILV","small_airport","Valbrembo Airfield",45.719864,9.593954,745,"EU","IT","IT-25","Valbrembo (BG)","no","LILV",,"LILV","BG02",,"https://it.wikipedia.org/wiki/Aeroporto_di_Valbrembo",
+44003,"LILY","seaplane_base","Como (Idroscalo - Water Ad) Hidroport",45.814701,9.06972,663,"EU","IT","IT-25","Como (CO)","no","LILY",,"LILY","CO02",,"https://it.wikipedia.org/wiki/Idroscalo_internazionale_di_Como","QCM"
 4338,"LIMA","medium_airport","Torino-Aeritalia Airport",45.084444,7.603056,943,"EU","IT","IT-21","Torino (TO)","no","LIMA",,"LIMA","TO12","http://www.aeroclubtorino.it/index.php","https://en.wikipedia.org/wiki/Torino-Aeritalia_Airport","Torino Aero Club"
 4339,"LIMB","small_airport","Milano-Bresso Airfield",45.541389,9.202222,484,"EU","IT","IT-25","Bresso (MI)","no","LIMB",,"LIMB","MI08","http://www.aeroclubmilano.it","https://en.wikipedia.org/wiki/Bresso_Airport","Bresso, Aeroclub Milano"
 4340,"LIMC","large_airport","Milan Malpensa International Airport",45.6306,8.72811,768,"EU","IT","IT-25","Ferno (VA)","yes","LIMC","MXP","LIMC","MI12","http://www.sea-aeroportimilano.it/en/malpensa/index.phtml","https://en.wikipedia.org/wiki/Malpensa_Airport","MIL, Silvio Berlusconi"
 4341,"LIME","large_airport","Milan Bergamo Airport / Antonio Locatelli Air Base",45.670725,9.709223,782,"EU","IT","IT-25","Orio al Serio (BG)","yes","LIME","BGY","LIME","BG01","http://www.sacbo.it/","https://en.wikipedia.org/wiki/Orio_al_Serio_International_Airport","Bergamo Orio al Serio Airport, Il Caravaggio International Airport"
 4342,"LIMF","large_airport","Turin Airport",45.200802,7.64963,989,"EU","IT","IT-21","Caselle Torinese (TO)","yes","LIMF","TRN","LIMF","TO11","http://www.aeroportoditorino.it/","https://en.wikipedia.org/wiki/Turin_International_Airport","Torino-Caselle Airport, Sandro Pertini Airport, Turin-Caselle Airport"
 4343,"LIMG","medium_airport","Riviera Villanova d'Albenga International Airport",44.050598,8.12743,148,"EU","IT","IT-42","Villanova d'Albenga (SV)","no","LIMG",,"LIMG","SV01","http://www.rivierairport.it/","https://en.wikipedia.org/wiki/Villanova_d'Albenga_International_Airport","ALL, C. Panero Airport"
-333827,"LIMH","heliport","Pian Rosà Heliport",45.933422,7.709344,11443,"EU","IT","IT-23","Valtournenche","no",,,"LIMH",,,,"Testa Grigia, Theodul Glacier, Plateau Rosà"
+333827,"LIMH","heliport","Pian Rosà Heliport",45.933422,7.709344,11443,"EU","IT","IT-23","Valtournenche","no","LIMH",,"LIMH",,,,"Testa Grigia, Theodul Glacier, Plateau Rosà"
 4344,"LIMJ","large_airport","Genoa Cristoforo Colombo Airport",44.412039,8.840732,13,"EU","IT","IT-42","Genova (GE)","yes","LIMJ","GOA","LIMJ","GE01","http://www.aeroportodigenova.com/en/home/index.php","https://en.wikipedia.org/wiki/Genoa_Cristoforo_Colombo_Airport","Genova Sestri, Sestri Cristoforo Colombo Airport, Cristoforo Colombo Airport"
 4345,"LIML","medium_airport","Milano Linate Airport",45.445099,9.27674,353,"EU","IT","IT-25","Segrate (MI)","yes","LIML","LIN","LIML","MI11","http://www.sea-aeroportimilano.it/en/","https://en.wikipedia.org/wiki/Linate_Airport","E Forlanini"
-4346,"LIMN","medium_airport","Cameri Air Base [MIL]",45.529598,8.66922,586,"EU","IT","IT-21","Cameri (NO)","no",,,"LIMN","NO08","http://web.archive.org/web/20070617100034/www.aeronautica.difesa.it/CSA/CBR/53Stormo/Cennistorici.asp","http://it.wikipedia.org/wiki/Aeroporto_di_Cameri","Silvio E Natale Palli"
+4346,"LIMN","medium_airport","Cameri Air Base [MIL]",45.529598,8.66922,586,"EU","IT","IT-21","Cameri (NO)","no","LIMN",,"LIMN","NO08","http://web.archive.org/web/20070617100034/www.aeronautica.difesa.it/CSA/CBR/53Stormo/Cennistorici.asp","http://it.wikipedia.org/wiki/Aeroporto_di_Cameri","Silvio E Natale Palli"
 4347,"LIMP","medium_airport","Parma Airport",44.826351,10.29705,161,"EU","IT","IT-45","Parma (PR)","yes","LIMP","PMF","LIMP","PR03",,"https://en.wikipedia.org/wiki/Parma_Airport",
 30196,"LIMR","medium_airport","Novi Ligure Eugenio Mossi Airfield",44.779999,8.78639,607,"EU","IT","IT-21","Novi Ligure (AL)","no",,,"LIMR","AL05","http://www.voloavelanovi.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Novi_Ligure",
-4348,"LIMS","medium_airport","Piacenza San Damiano Air Base",44.913102,9.723322,456,"EU","IT","IT-45","San Damiano (PC)","no",,,"LIMS","PC08",,"https://en.wikipedia.org/wiki/Piacenza-San_Damiano_Air_Base","San Damiano, QPZ"
+4348,"LIMS","medium_airport","Piacenza San Damiano Air Base",44.91442,9.722318,456,"EU","IT","IT-45","San Damiano (PC)","no","LIMS",,"LIMS","PC08",,"https://en.wikipedia.org/wiki/Piacenza-San_Damiano_Air_Base","San Damiano, QPZ"
 4349,"LIMW","medium_airport","Aosta Corrado Gex Airport",45.738552,7.3683,1791,"EU","IT","IT-23","Saint-Christophe (AO)","no","LIMW","AOT","LIMW","AO01","http://www.avda-aosta.it/","https://en.wikipedia.org/wiki/Aosta_Airport",
 4350,"LIMZ","medium_airport","Cuneo International Airport",44.547001,7.62322,1267,"EU","IT","IT-21","Levaldigi (CN)","yes","LIMZ","CUF","LIMZ","CN03","http://www.aeroporto.cuneo.it/","https://en.wikipedia.org/wiki/Cuneo_International_Airport","Cuneo Levaldigi Airport, Turin Cuneo Airport"
-319115,"LINF","small_airport","Fermano Airfield",43.22652,13.74252,49,"EU","IT","IT-57","Fermo (FM)","no",,,"LINF","APFRM",,,"Aviosuperficie del Fermano"
-29433,"LINL","small_airport","Lecce-San Cataldo Lepore Airfield",40.35974,18.297923,59,"EU","IT","IT-75","Lecce (LE)","no",,,"LINL","LE06","http://www.aeroportolecce.it","http://it.wikipedia.org/wiki/Aeroporto_di_Lecce-San_Cataldo","Lepore, Lepore Airport, Lecce-Lepore Airport, Aeroporto ""Lepore"" di Lecce-San Cataldo"
+319115,"LINF","small_airport","Fermano Airfield",43.226774,13.743299,49,"EU","IT","IT-57","Fermo (FM)","no","LINF",,"LINF","APFRM",,,"Aviosuperficie del Fermano"
+29433,"LINL","small_airport","Lecce-San Cataldo Lepore Airfield",40.358928,18.297958,59,"EU","IT","IT-75","Lecce (LE)","no","LINL",,"LINL","LE06","http://www.aeroportolecce.it","http://it.wikipedia.org/wiki/Aeroporto_di_Lecce-San_Cataldo","Lepore, Lepore Airport, Lecce-Lepore Airport, Aeroporto ""Lepore"" di Lecce-San Cataldo"
 29443,"LIPA","medium_airport","Aviano Air Base",46.031898,12.596503,410,"EU","IT","IT-36","Aviano (PN)","no","LIPA","AVB","LIPA",,"http://www.aviano.af.mil/","https://en.wikipedia.org/wiki/Aviano_Air_Base","Pagliano e Gori Airport, LIYW"
-4352,"LIPB","medium_airport","Bolzano Airport",46.460201,11.3264,789,"EU","IT","IT-32","Bolzano (BZ)","yes","LIPB","BZO","LIPB","BZ01","http://www.abd-airport.it/en/home.htm","https://en.wikipedia.org/wiki/Bolzano_Airport","G Sabelli"
-4353,"LIPC","medium_airport","Cervia Air Base",44.224201,12.3072,18,"EU","IT","IT-45","Cervia (RA)","no",,,"LIPC","RA08",,"https://en.wikipedia.org/wiki/Cervia_Air_Base","G Cenni, Pisignano"
+4352,"LIPB","medium_airport","Bolzano Airport",46.459245,11.326125,789,"EU","IT","IT-32","Bolzano (BZ)","yes","LIPB","BZO","LIPB","BZ01","http://www.abd-airport.it/en/home.htm","https://en.wikipedia.org/wiki/Bolzano_Airport","G Sabelli, Dolomiti"
+4353,"LIPC","medium_airport","Cervia Air Base",44.224201,12.3072,18,"EU","IT","IT-45","Cervia (RA)","no","LIPC",,"LIPC","RA08",,"https://en.wikipedia.org/wiki/Cervia_Air_Base","G Cenni, Pisignano"
 29434,"LIPD","small_airport","Udine-Campoformido Airfield",46.0308,13.18225,305,"EU","IT","IT-36","Campoformido (UD)","no","LIPD",,"LIPD","UD07","https://www.aeroclubfriulano.com/","https://it.wikipedia.org/wiki/Aeroporto_di_Udine-Campoformido","UDN, Udine-Campoformido Air Base"
 4354,"LIPE","large_airport","Bologna Guglielmo Marconi Airport",44.5354,11.2887,123,"EU","IT","IT-45","Bologna","yes","LIPE","BLQ","LIPE","BO08","http://www.bologna-airport.it/?LN=UK","https://en.wikipedia.org/wiki/Bologna_Airport","Guglielmo Marconi Airport, Borgo Panigale Airport"
-29435,"LIPF","small_airport","Ferrara-San Luca Airfield",44.812328,11.613884,20,"EU","IT","IT-45","Ferrara (FE)","no",,,"LIPF","FE05",,"https://it.wikipedia.org/wiki/Aeroporto_di_Ferrara",
-29436,"LIPG","small_airport","Gorizia Duca d'Aosta Airfield",45.906898,13.5993,207,"EU","IT","IT-36","Gorizia (GO)","no",,,"LIPG","GO01","https://aeroportogorizia.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Gorizia",
+29435,"LIPF","small_airport","Ferrara-San Luca Airfield",44.812328,11.613884,20,"EU","IT","IT-45","Ferrara (FE)","no","LIPF",,"LIPF","FE05",,"https://it.wikipedia.org/wiki/Aeroporto_di_Ferrara",
+29436,"LIPG","small_airport","Gorizia Duca d'Aosta Airfield",45.906898,13.5993,207,"EU","IT","IT-36","Gorizia (GO)","no","LIPG",,"LIPG","GO01","https://aeroportogorizia.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Gorizia","QGO"
 4355,"LIPH","medium_airport","Treviso Antonio Canova Airport",45.648399,12.1944,59,"EU","IT","IT-34","Treviso (TV)","yes","LIPH","TSF","LIPH","TV01","http://www.trevisoairport.it/tsf/index.jsp?_requestid=677517&language=en","https://en.wikipedia.org/wiki/Treviso_Airport","Venice-Treviso, Treviso-Sant'Angelo"
-4356,"LIPI","medium_airport","Udine-Rivolto Air Base",45.978699,13.0493,179,"EU","IT","IT-36","Codroipo (UD)","no",,,"LIPI","UD16",,"http://it.wikipedia.org/wiki/Aeroporto_di_Rivolto","M Visentini"
+4356,"LIPI","medium_airport","Udine-Rivolto Air Base",45.978699,13.0493,179,"EU","IT","IT-36","Codroipo (UD)","no","LIPI",,"LIPI","UD16",,"http://it.wikipedia.org/wiki/Aeroporto_di_Rivolto","M Visentini"
 4357,"LIPK","medium_airport","Forlì Luigi Ridolfi Airport",44.194801,12.0701,97,"EU","IT","IT-45","Forlì (FC)","yes","LIPK","FRL","LIPK","FC03",,"https://en.wikipedia.org/wiki/Forl%C3%AC_Airport","L Ridolfi, Ronco di Forlì"
 4358,"LIPL","medium_airport","Ghedi Air Base",45.432551,10.268612,333,"EU","IT","IT-25","Ghedi (BS)","no",,,"LIPL","BS12",,"https://en.wikipedia.org/wiki/Ghedi_Air_Base","A Fusco"
 29437,"LIPM","small_airport","Modena-Marzaglia Airfield",44.631389,10.808611,184,"EU","IT","IT-45","Marzaglia (MO)","no",,,"LIPM","MO11",,"https://it.wikipedia.org/wiki/Aeroporto_di_Modena",
@@ -69850,7 +69852,8 @@
 602636,"US-12825","heliport","Avera Queen of Peace Hospital Heliport",43.714869,-98.005344,1307,"NA","US","US-SD","Mitchell","no",,,,"SD52",,,
 602694,"US-12826","small_airport","Miami Beach Showcase Landing Facility",25.783125,-80.128441,,"NA","US","US-FL","Miami Beach","no",,,,,,,
 602727,"US-12827","small_airport","Paradise Field",27.979791,-82.021673,,"NA","US","US-FL","Lakeland","no",,,,,,,
-602729,"US-12828","small_airport","Old Finds Bright",24.646861,-81.604165,,"NA","US","US-FL","Sugarloaf key","no",,,,,,,
+602729,"US-12828","seaplane_base","Old Finds Bight Seaplane base",24.646861,-81.604165,1,"NA","US","US-FL","Sugarloaf key","no",,,,,,,
+602741,"US-12829","heliport","Pigeon Key Helipad (permit needed)",24.70405,-81.155598,,"NA","US","US-FL","Pigeon Key","no",,,,,,,
 334334,"US-1283","small_airport","Spangler Farm Airport",41.012639,-84.877694,776,"NA","US","US-IN","Fort Wayne","no",,,"22IN","22IN",,,
 334335,"US-1284","small_airport","Twin Lakes Airport",38.518522,-85.587583,663,"NA","US","US-IN","Marysville","no",,,"IN07","IN07",,,
 334337,"US-1285","heliport","1000 Museum Heliport",25.784189,-80.190046,709,"NA","US","US-FL","Miami","no",,,"FA10","FA10",,,
