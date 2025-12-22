@@ -1737,7 +1737,7 @@
 8336,"1ID6","closed","Sligars Landing Heliport",42.584108,-114.358466,3800,"NA","US","US-ID","Kimberly","no",,,,,,,"1ID6"
 8337,"1ID7","small_airport","Fairbanks Airfield",42.587909,-114.33071,3830,"NA","US","US-ID","Eden","no",,,"1ID7","1ID7",,,
 8338,"1ID8","heliport","North Canyon Medical Center Heliport",42.921675,-114.709449,3579,"NA","US","US-ID","Gooding","no",,,"1ID8","1ID8",,,"Gooding County Memorial Hospital"
-8339,"1ID9","small_airport","Simiko Field",42.763785,-112.185026,6150,"NA","US","US-ID","Inkom","no",,,"1ID9","1ID9",,,"Skyline STOLport/Airport"
+8339,"1ID9","small_airport","Simko Field",42.763785,-112.185026,6150,"NA","US","US-ID","Inkom","no",,,"1ID9","1ID9",,,"Skyline STOLport / Airport"
 8340,"1II0","small_airport","Webster Airport",39.576698303222656,-85.58779907226562,910,"NA","US","US-IN","Homer","no",,,"1II0","1II0",,,
 8342,"1II3","small_airport","Davis Airport",38.957918,-87.394602,500,"NA","US","US-IN","Carlisle","no",,,"1II3","1II3",,,
 8343,"1II4","small_airport","Amy Airport",38.125099182128906,-86.16220092773438,665,"NA","US","US-IN","Corydon","no",,,"1II4","1II4",,,
@@ -46038,7 +46038,7 @@
 4840,"MUHG","medium_airport","Frank Pais International Airport",20.785600662231445,-76.31510162353516,361,"NA","CU","CU-11","Holguin","yes","MUHG","HOG","MUHG",,,"https://en.wikipedia.org/wiki/Frank_Pa%C3%ADs_Airport",
 4841,"MUKW","medium_airport","Kawama Airport",23.124001,-81.301598,16,"NA","CU","CU-04","Santa Marta","no","MUKW","VRO","MUKW",,,"https://en.wikipedia.org/wiki/Kawama_Airport","Varadero"
 4842,"MULB","small_airport","Ciudad Libertad Airport",23.093901,-82.438103,98,"NA","CU","CU-03","Havana","no",,,"MULB",,,"https://en.wikipedia.org/wiki/Ciudad_Libertad_Airport",
-4843,"MULM","medium_airport","La Coloma Airport",22.3361,-83.641899,131,"NA","CU","CU-01","Pinar del Rio","no","MULM","LCL","MULM",,,"https://en.wikipedia.org/wiki/La_Coloma_Airport",
+4843,"MULM","closed","La Coloma Airport",22.3361,-83.641899,131,"NA","CU","CU-01","Pinar del Rio","no",,,,,,"https://en.wikipedia.org/wiki/La_Coloma_Airport","MULM, LCL"
 42277,"MUMA","small_airport","Alfredo Noa Díaz Airport",20.242374,-74.148268,3,"NA","CU","CU-14","Maisí","no",,"UMA","MUMA",,,"https://en.wikipedia.org/wiki/Punta_de_Mais%C3%AD_Airport","Punta de Maisí"
 4844,"MUMG","small_airport","Managua Airport",22.9699,-82.274803,377,"NA","CU","CU-03","Managua","no",,,"MUMG",,,"https://en.wikipedia.org/wiki/Managua_Airport_(Cuba)",
 31914,"MUMJ","small_airport","Mayajigua Airport",22.23080062866211,-79.06220245361328,173,"NA","CU","CU-07","Mayajigua","no",,"MJG","MUMJ",,,,
@@ -58305,7 +58305,7 @@
 308256,"SGBA","small_airport","Aeródromo de Bella Vista Sur",-27.052393,-55.578026,650,"SA","PY","PY-7","Colonia Doctor Pastor Obligado","no",,,"SGBA",,,,
 41566,"SGBN","small_airport","Bahía Negra Airport",-20.230777,-58.170455,277,"SA","PY","PY-16","Bahía Negra","no","SGBN","BFA","SGBN",,,,
 515514,"SGCB","small_airport","Aeródromo Capitan Bado",-23.257493,-55.528057,1710,"SA","PY","PY-9","Capitan Bado","no",,,"SGCB",,,,
-6090,"SGCO","medium_airport","Aeropuerto Nacional Tte. Cnel. Carmelo Peralta",-23.440334,-57.429206,253,"SA","PY","PY-1","Concepción","no","SGCO","CIO","SGCO",,,"https://en.wikipedia.org/wiki/Teniente_Coronel_Carmelo_Peralta_Airport","Aeropuerto Nacional Tte. Cnel. Carmelo Peralta"
+6090,"SGCO","medium_airport","Lieutenant Colonel Carmelo Peralta National Airport",-23.441609,-57.427039,253,"SA","PY","PY-1","Concepción","no","SGCO","CIO","SGCO",,,"https://en.wikipedia.org/wiki/Teniente_Coronel_Carmelo_Peralta_Airport","Aeropuerto Nacional Tte. Cnel. Carmelo Peralta"
 318322,"SGCU","small_airport","Aeródromo de Curuguaty",-24.497675,-55.686307,,"SA","PY","PY-14",,"no",,,"SGCU",,,,
 515518,"SGCZ","small_airport","Aeródromo de Caazapá",-26.168958,-56.360464,470,"SA","PY","PY-6","Caazapá","no",,,"SGCZ",,,,
 29851,"SGEN","large_airport","Aeropuerto Internacional Tte. Amín Ayub González",-27.227537,-55.837584,659,"SA","PY","PY-7","Encarnación","yes","SGEN","ENO","SGEN",,,"https://en.wikipedia.org/wiki/Teniente_Amin_Ayub_Gonzalez_Airport","Aeropuerto Internacional Tte. Amin Ayub González"
@@ -63894,6 +63894,9 @@
 511691,"TD-0019","closed","Old Amdjarass Airport",16.073077,22.849005,2958,"AF","TD","TD-EE","Amdjarass","no",,,,,,,
 554086,"TD-0020","small_airport","Naramay East Airport",10.198583,16.868222,1063,"AF","TD","TD-CB","Naramay,","no",,,,,,"https://en.wikipedia.org/wiki/Naramay_East_Airport","GC0101"
 595424,"TD-0021","small_airport","Beladja Airfield",8.71386,16.40718,1322,"AF","TD","TD-LO","Beladja","no",,,,,,,"Beladjia, Belajia"
+602750,"TD-0022","small_airport","26-27 ag field",8.946674,18.540058,,"AF","TD","TD-MC",,"no",,,,,,,
+602751,"TD-0023","small_airport","G1 ag field",9.054153,18.434215,,"AF","TD","TD-MC",,"no",,,,,,,
+602752,"TD-0024","small_airport","8-9 ag field",9.033132,18.460522,,"AF","TD","TD-MC",,"no",,,,,,,
 6361,"TDCF","medium_airport","Canefield Airport",15.336693,-61.392108,13,"NA","DM","DM-10","Canefield","yes","TDCF","DCF","TDCF",,,"https://en.wikipedia.org/wiki/Canefield_Airport",
 6362,"TDPD","medium_airport","Douglas-Charles Airport",15.547,-61.299999,73,"NA","DM","DM-02","Marigot","yes","TDPD","DOM","TDPD",,,"https://en.wikipedia.org/wiki/Melville_Hall_Airport",
 24809,"TE00","heliport","Coastal Bend Hospital Heliport",27.913313,-97.159352,9,"NA","US","US-TX","Aransas Pass","no",,,"TE00","TE00",,,
@@ -69850,7 +69853,7 @@
 602602,"US-12823","closed","Dinner Key NAF / Coast Guard Air Station Miami",25.730623,-80.229549,,"NA","US","US-FL","Dinner key","yes",,,,,,,
 602604,"US-12824","heliport","Alternate Mercy Hospital Heliport",25.738684,-80.2144,6,"NA","US","US-FL","Miami","no",,,,"FL25",,,
 602636,"US-12825","heliport","Avera Queen of Peace Hospital Heliport",43.714869,-98.005344,1307,"NA","US","US-SD","Mitchell","no",,,,"SD52",,,
-602694,"US-12826","small_airport","Miami Beach Showcase Landing Facility",25.783125,-80.128441,,"NA","US","US-FL","Miami Beach","no",,,,,,,
+602694,"US-12826","small_airport","Miami Beach Showcase Landing Facility ?",25.783125,-80.128441,8,"NA","US","US-FL","Miami Beach","no",,,,,,,
 602727,"US-12827","small_airport","Paradise Field",27.979791,-82.021673,,"NA","US","US-FL","Lakeland","no",,,,,,,
 602729,"US-12828","seaplane_base","Old Finds Bight Seaplane base",24.646861,-81.604165,1,"NA","US","US-FL","Sugarloaf key","no",,,,,,,
 602741,"US-12829","heliport","Pigeon Key Helipad (permit needed)",24.70405,-81.155598,,"NA","US","US-FL","Pigeon Key","no",,,,,,,
