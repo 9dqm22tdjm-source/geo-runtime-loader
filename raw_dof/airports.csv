@@ -13134,7 +13134,7 @@
 323376,"BR-0196","small_airport","Curralinho Airstrip",-1.797103,-49.801873,14,"SA","BR","BR-PA","Curralinho","no",,,,,,,
 323380,"BR-0197","small_airport","Fazenda Chapadão Alegre Airport",-13.434996,-45.307717,2530,"SA","BR","BR-BA","Correntina","no",,,"SSDH","BA0153",,,
 323463,"BR-0198","small_airport","Fazenda Água Boa Airport",-11.176732,-57.669051,817,"SA","BR","BR-MT","Juara","no",,,"SIKX","MT0103",,,"Fazenda Santa Mônica"
-323590,"BR-0199","small_airport","Fazenda Estivado Airport",-14.422748,-56.071279,,"SA","BR","BR-MT","Diamantino","no",,,"SWEZ",,,,
+323590,"BR-0199","closed","Fazenda Estivado Airport",-14.422748,-56.071279,1473,"SA","BR","BR-MT","Diamantino","no",,,,,,,"SWEZ, MT0338"
 323661,"BR-0200","small_airport","Santa Terezinha de Goiás Airstrip",-14.453288,-49.67461,,"SA","BR","BR-GO","Santa Terezinha de Goiás","no",,,,,,,
 323662,"BR-0201","small_airport","Alto Horizonte Airport",-14.196032,-49.362951,,"SA","BR","BR-GO","Alto Horizonte","no",,,,,,,
 323673,"BR-0202","small_airport","Taipas do Tocantins Airstrip",-12.178581,-46.970934,,"SA","BR","BR-TO","Taipas do Tocantins","no",,,,,,,
@@ -15965,12 +15965,12 @@
 37842,"BR-3050","small_airport","Fazenda Água Limpa Airport",-15.289443969727,-58.530277252197,1181,"SA","BR","BR-MT","Indiavaí","no",,,,"SWDZ",,,"SWDZ"
 37843,"BR-3051","small_airport","Fazenda Araúna Airport",-11.564014,-58.02652,951,"SA","BR","BR-MT","Juara","no",,,,"SWEB",,,"SWEB"
 37846,"BR-3052","small_airport","Fazenda Duas Marias Airport",-16.833332061768,-55.669166564941,446,"SA","BR","BR-MT","Barão De Melgaço","no",,,,"SWEG",,,"SWEG"
-37849,"BR-3053","small_airport","Fazenda Santa Eulália Airport",-15.058333396912,-51.916667938232,853,"SA","BR","BR-MT","Araguaiana","no",,,,"SWEL",,,"SWEL"
-37855,"BR-3054","small_airport","Estância Santana Airport",-15.469677,-56.051903,801,"SA","BR","BR-MT","Cuiabá","no",,,,"SWER",,,"SWER"
-37861,"BR-3055","small_airport","Fazenda Santa Escolastica Airport",-16.846666,-54.458889,1145,"SA","BR","BR-MT","Pedra Preta","no",,,,"SWEX",,,"SWEX"
-37862,"BR-3056","small_airport","Fazenda Santa Fé Airport",-13.535,-48.901669,1197,"SA","BR","BR-GO","Santa Tereza De Goias","no",,,,"SWEY",,,"SWEY"
-37863,"BR-3057","small_airport","Fazenda Santa Rita de Cássia Airport",-15.2502784729,-56.481109619141,666,"SA","BR","BR-MT","Jangada","no",,,,"SWEZ",,,"SWEZ"
-37865,"BR-3058","small_airport","Fazenda Colorado Airport",-16.167221,-54.842777,1191,"SA","BR","BR-MT","Juscimeira","no",,,,"SWFC",,,"SWFC"
+37849,"BR-3053","small_airport","Fazenda Santa Eulália Airport",-15.058333,-51.916668,853,"SA","BR","BR-MT","Araguaiana","no",,,,,,,"SWEL"
+37855,"BR-3054","small_airport","Estância Santana Airport",-15.469677,-56.051903,801,"SA","BR","BR-MT","Cuiabá","no",,,,,,,"SWER"
+37861,"BR-3055","small_airport","Fazenda Santa Escolastica Airport",-16.846666,-54.458889,1145,"SA","BR","BR-MT","Pedra Preta","no",,,,,,,"SWEX"
+37862,"BR-3056","small_airport","Fazenda Santa Fé Airport",-13.535,-48.901669,1197,"SA","BR","BR-GO","Santa Tereza de Goias","no",,,,,,,"SWEY"
+37863,"BR-3057","small_airport","Fazenda Santa Rita de Cássia Airport",-15.251786,-56.481979,666,"SA","BR","BR-MT","Jangada","no",,,,,,,"SWEZ"
+37865,"BR-3058","small_airport","Fazenda Colorado Airport",-16.167221,-54.842777,1191,"SA","BR","BR-MT","Juscimeira","no",,,,,,,"SWFC"
 37866,"BR-3059","small_airport","Fazenda Tombador Airport",-11.716667175293,-58.048057556152,863,"SA","BR","BR-MT","Brasnorte","no",,,,"SWFD",,,"SWFD"
 37867,"BR-3060","small_airport","Fazenda Colen Airport",-13.314443588257,-56.112777709961,1345,"SA","BR","BR-MT","Lucas Do Rio Verde","no",,,,"SWFE",,,"SWFE"
 37868,"BR-3061","small_airport","Fazenda Figueira Branca Airport",-10.723610877991,-54.838333129883,1001,"SA","BR","BR-MT","Sinop","no",,,,"SWFF",,,"SWFF"
@@ -18671,7 +18671,7 @@
 31125,"CI-0006","closed","Ferkessédougou Airport",9.592774,-5.23344,1102,"AF","CI","CI-SV","Ferkessédougou","no",,,,,,"https://en.wikipedia.org/wiki/Ferkess%C3%A9dougou_Airport","DIFK, DIFK, FEK"
 598859,"CI-0007","closed","Bongouanou Airport",6.648528,-4.20703,705,"AF","CI","CI-LC","Bongouanou","no",,,,,,,"BGG"
 576227,"CIO2","heliport","Îles aux Oies Heliport",47.1375,-70.478333,3,"NA","CA","CA-QC","Îles aux Oies","no",,,"CIO2","CIO2",,,
-312506,"CIV","seaplane_base","Chomley Seaplane Base",55.217,-132.21,0,"NA","US","US-AK","Chomley","no",,"CIV",,,,,
+312506,"CIV","seaplane_base","Chomley Seaplane Base",55.217,-132.21,,"NA","US","US-AK","Chomley","no",,,,,,,"CIV"
 1043,"CIV2","heliport","Invermere (Hospital) Heliport",50.507211,-116.032813,2900,"NA","CA","CA-BC","Invermere","no",,,"CIV2","CIV2",,,"IV2"
 1044,"CIW2","heliport","Halifax (IWK Health Centre) Heliport",44.636994,-63.58442,223,"NA","CA","CA-NS","Halifax","no",,,"CIW2","CIW2",,"https://en.wikipedia.org/wiki/IWK_Health_Centre",
 320693,"CJA2","small_airport","Selkirk Airport",42.8068,-79.9768,592,"NA","CA","CA-ON","Selkirk","no",,,"CJA2","CJA2",,"https://en.wikipedia.org/wiki/Selkirk_Aerodrome",
@@ -22848,6 +22848,7 @@
 554285,"DZ-0052","small_airport","Zaouiet Kounta Airport",27.25148,-0.16633,892,"AF","DZ","DZ-01","Zaouiet Kounta","no",,,,,,,
 554286,"DZ-0053","small_airport","Ouled Mahmoud Airport",28.61283,0.03651,886,"AF","DZ","DZ-54","Metarfa","no",,,,,,,
 312615,"DZ-0054","closed","Skikda Airport",36.8641,6.9516,27,"AF","DZ","DZ-21","Skikda","no",,,,,,"https://en.wikipedia.org/wiki/Skikda_Airport","DABP, SKI, Philippeville Airfield"
+602771,"DZ-0055","large_airport","topnhacaii",12,111,,"AF","DZ","DZ-U-A",,"no",,,,,"https://topnhacai.ru.com/",,
 17156,"E07","small_airport","Tatum Airport",33.2611999512,-103.277000427,3986,"NA","US","US-NM","Tatum","no",,,"18T","18T",,"https://en.wikipedia.org/wiki/Tatum_Airport","NM18, E07"
 17157,"E20","seaplane_base","Lake Berryessa Seaplane Base",38.550979,-122.227682,440,"NA","US","US-CA","Napa","no",,,,"E20",,,
 17159,"E32","small_airport","Lindrith Airpark",36.29140090942383,-107.05599975585938,7202,"NA","US","US-NM","Lindrith","no",,,"E32","E32",,,
@@ -56016,7 +56017,7 @@
 340208,"SA-0011","heliport","King Fahd General Hospital Helipad",16.92361,42.73558,,"AS","SA","SA-09","Jizan","no",,,,,,,
 340209,"SA-0012","heliport","King Khalid University Hospital Helipad",18.07685,42.74369,,"AS","SA","SA-14","Abha","no",,,,,,,
 340210,"SA-0013","heliport","Abha Central Hospital Helipad",18.20001,42.52616,,"AS","SA","SA-14","Abha","no",,,,,,,
-340211,"SA-0014","small_airport","Wadi Al Musayr Airfield",28.13516,34.92503,,"AS","SA","SA-07","Gayal","no",,,,,,,"Wadi Al Asalah"
+340211,"SA-0014","closed","Wadi Al Musayr Airfield",28.13516,34.92503,,"AS","SA","SA-07","Gayal","no",,,,,,,"Wadi Al Asalah"
 340566,"SA-0015","heliport","KJO Hospital Heliport",28.419196,48.512217,43,"AS","SA","SA-04","Khafji","no",,,,,,,
 341961,"SA-0016","heliport","Arafat General Hospital Heliport",21.3508,39.9826,1024,"AS","SA","SA-02","Mecca","no",,,,,,,
 341962,"SA-0017","heliport","Taif Desert Heliport",21.415303,40.655489,4685,"AS","SA","SA-02","Ta'if","no",,,,,,,
@@ -56087,15 +56088,21 @@
 505428,"SA-0082","heliport","Saudi Aramco Duba Heliport",27.32516,35.73634,13,"AS","SA","SA-07","Duba","no",,,,,,,
 505429,"SA-0083","heliport","Duba Hospital Heliport",27.33635,35.7214,39,"AS","SA","SA-07","Duba","no",,,,,,,
 505430,"SA-0084","heliport","Al Muwalleh Heliport",27.67112,35.47936,39,"AS","SA","SA-07","Duba","no",,,,,,,
-505431,"SA-0085","heliport","Neom Community 1 Heliport",28.11236,35.11282,191,"AS","SA","SA-07","Al Khuraybah","no",,,,,,,
+505431,"SA-0085","closed","Neom Community 1 Heliport",28.11236,35.11282,191,"AS","SA","SA-07","Al Khuraybah","no",,,,,,,
 505432,"SA-0086","small_airport","Tiran Island Airfield",27.94323,34.59492,20,"AS","SA","SA-07","Jazirat Tiran","no",,,,,,,
 523457,"SA-0087","closed","Abbas Ibn Firnas Airport",21.509148,39.206085,,"AS","SA","SA-02","Jeddah","no",,,,,,"https://en.wikipedia.org/wiki/Kandara_Airport","OEJD, XZF"
 535964,"SA-0088","heliport","GSAC Jeddah",21.52329,39.214239,,"AS","SA","SA-02",,"no",,,,,,,
-574315,"SA-0090","heliport","Ras Alsheikh Hamid Heliport",28.145526,34.662163,,"AS","SA","SA-07",,"no",,,,,,,
+574315,"SA-0090","heliport","Helicopter Emergency Landing Zone No. 1",28.145526,34.662163,,"AS","SA","SA-07",,"no",,,,,,,
 30952,"SA-0091","closed","Dawadmi Domestic Airport",24.5,44.400002,3429,"AS","SA","SA-01","Dawadmi","no",,,,,,,"DWD, Prinz Salman bin Abdulaziz Airport, Dwadmi, OEDW"
 326441,"SA-0092","closed","Al Ghat Airport",26.026479,44.959166,2509,"AS","SA","SA-01","Al Ghat","no",,,,,,,"OEGH, OEGH"
 595937,"SA-0093","heliport","Al Runah Army Heliport",18.23069,42.823044,6725,"AS","SA","SA-14","Al Runah","no",,,,,,,
 597259,"SA-0094","medium_airport","King Salman Air Base",24.465259,46.659279,,"AS","SA","SA-01","Riyadh","no","OESN",,"OESN",,,"https://en.wikipedia.org/wiki/King_Salman_Air_Base","OERY"
+602754,"SA-0095","heliport","Helicopter Emergency Landing Zone No. 4",28.14528,34.90056,,"AS","SA","SA-07",,"no",,,,,,,
+602755,"SA-0096","heliport","Helicopter Emergency Landing Zone No. 5",28.141216,35.021861,,"AS","SA","SA-07",,"no",,,,,,,
+602756,"SA-0097","heliport","Helicopter Emergency Landing Zone No. 6",28.12613,35.156695,,"AS","SA","SA-07",,"no",,,,,,,
+602758,"SA-0098","heliport","Helicopter Emergency Landing Zone No. 7",28.120761,35.233369,,"AS","SA","SA-07",,"no",,,,,,,
+602759,"SA-0099","heliport","Helicopter Emergency Landing Zone No. 3",28.14588,34.83137,,"AS","SA","SA-07",,"no",,,,,,,
+602761,"SA-0100","heliport","Helicopter Emergency Landing Zone No. 2",28.159341,34.760506,,"AS","SA","SA-07",,"no",,,,,,,
 13,"SA01","small_airport","Cachi Airport",-25.1049995422,-66.15720367429999,8232,"SA","AR","AR-A","Cachi","no",,,"SA01","CCS",,,"SA01"
 14,"SA02","small_airport","Cafayate Airport",-26.056101,-65.936897,5375,"SA","AR","AR-A","Cafayate","no",,,,"CAF",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Gilberto_Lavaque","SA02, Gilberto Lavaque"
 15,"SA03","small_airport","Villa Minetti Airport",-28.6201,-61.6038,246,"SA","AR","AR-S","Villa Minetti","no",,,"SA03","MIN",,,"SA03"
@@ -63425,7 +63432,7 @@
 597353,"SWKK","heliport","Huck Heliport",-23.00857,-43.288228,328,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SWKK","RJ0161",,,
 37942,"SWKL","small_airport","Fazenda Primavera do Terebinto Airport",-12.557778358459473,-61.99611282348633,590,"SA","BR","BR-RO","Alto Alegre Dos Parecis","no",,,"SWKL",,,,
 37943,"SWKM","small_airport","Aero Agrícola Rondon Airport",-14.644166946411133,-57.50416564941406,1390,"SA","BR","BR-MT","Tangará Da Serra","no",,,"SWKM",,,,
-554,"SWKO","small_airport","Coari Airport",-4.13406,-63.132599,131,"SA","BR","BR-AM","Coari","no","SWKO","CIZ","SWKO","SWKO",,"https://en.wikipedia.org/wiki/Coari_Airport",
+554,"SWKO","small_airport","Danilson Municipal Airport",-4.13406,-63.132599,151,"SA","BR","BR-AM","Coari","no","SWKO","CIZ","SWKO","AM0010","https://aeroportocoari.com.br/","https://en.wikipedia.org/wiki/Coari_Airport","Aeroporto Municipal Danilson Cirino Aires da Silva"
 37944,"SWKP","small_airport","Chácara Veneza Airport",-15.242500305175781,-59.2852783203125,866,"SA","BR","BR-MT","Pontes E Lacerda","no",,,"SWKP",,,,
 45606,"SWKQ","small_airport","Serra da Capivara Airport",-9.083392,-42.644656,1362,"SA","BR","BR-PI","São Raimundo Nonato","no",,"NSR","SWKQ","PI0004",,"https://en.wikipedia.org/wiki/S%C3%A3o_Raimundo_Nonato_Airport",
 44443,"SWKR","small_airport","Fazenda Mangue Che II Airport",-18.670000076300003,-51.585277557400005,1752,"SA","BR","BR-GO","Itarumã","no",,,"SWKR",,,,
@@ -80005,6 +80012,7 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
+602772,"VN-0077","large_airport","topnhacaii1",23,114,,"AS","VN","VN-U-A",,"no",,,,,"https://topnhacai.ru.com/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
