@@ -7306,6 +7306,7 @@
 13963,"78B","seaplane_base","Buckhorn Camps Seaplane Base",45.65420150756836,-68.94950103759766,500,"NA","US","US-ME","Norcross/Millinocket/","no",,,"78B","78B",,,
 13964,"78CA","heliport","Broadcom Corporation Heliport",33.6598014831543,-117.76699829101562,160,"NA","US","US-CA","Irvine","no",,,"78CA","78CA",,,
 13965,"78CO","heliport","Pfister Ranch Heliport",39.17720031738281,-106.85600280761719,8000,"NA","US","US-CO","Aspen","no",,,"78CO","78CO",,,
+602965,"78FA","heliport","Sarasota Memorial Hospital Heliport",27.136842,-82.413206,14,"NA","US","US-FL","North Venice","no",,,"78FA","78FA",,,
 13966,"78FD","small_airport","Mac's Field",25.54643,-80.458535,16,"NA","US","US-FL","Homestead","no",,,"78FD","78FD",,,
 13967,"78FL","small_airport","Pomona Landing Airport",29.502199,-81.5784,50,"NA","US","US-FL","Pomona Park","no",,,"78FL","78FL",,"https://en.wikipedia.org/wiki/Pomona_Landing_Airport",
 13968,"78GA","small_airport","C&R Farm Airport",33.50429916381836,-85.01719665527344,1013,"NA","US","US-GA","Carrollton","no",,,"78GA","78GA",,,
@@ -7583,7 +7584,7 @@
 14248,"7MO2","small_airport","Bevill Airport",39.849998474121094,-91.7334976196289,710,"NA","US","US-MO","Philadelphia","no",,,"7MO2","7MO2",,,
 14249,"7MO3","small_airport","B S Ranch Airport",36.599405,-94.366297,1000,"NA","US","US-MO","Pineville","no",,,"7MO3","7MO3",,,
 14250,"7MO4","small_airport","Flintlock Field",39.43190002441406,-94.8030014038086,930,"NA","US","US-MO","Platte City","no",,,"7MO4","7MO4",,,
-14251,"7MO5","small_airport","Elton Field",39.33470153808594,-94.81269836425781,780,"NA","US","US-MO","Platte City","no",,,"7MO5","7MO5",,,
+14251,"7MO5","closed","Elton Field",39.334702,-94.812698,780,"NA","US","US-MO","Platte City","no",,,,,,,"7MO5"
 14255,"7MS1","small_airport","Eagle Crest Estates Airport",32.603484,-89.980216,280,"NA","US","US-MS","Canton","no",,,"7MS1","7MS1",,,
 324880,"7MS3","small_airport","Maidment Field",34.710888,-89.719194,370,"NA","US","US-MS","Coldwater","no",,,"7MS3","7MS3",,,
 346028,"7MS4","small_airport","Cloud 9 Airport",32.602777,-90.192781,250,"NA","US","US-MS","Canton","no",,,"7MS4","7MS4",,,
@@ -7664,6 +7665,7 @@
 14337,"7OK9","heliport","St John Heliport",36.134300231933594,-95.96640014648438,740,"NA","US","US-OK","Tulsa","no",,,"7OK9","7OK9",,,
 14338,"7OR0","small_airport","Minam Lodge Airport",45.35820007324219,-117.63400268554688,3589,"NA","US","US-OR","Cove","no",,,"7OR0","7OR0",,,
 14339,"7OR1","small_airport","Arnold Airstrip",43.4193000793457,-118.57599639892578,4140,"NA","US","US-OR","Crane","no",,,"7OR1","7OR1",,,
+602963,"7OR2","small_airport","Flying Squirrel Ranch Airport",45.492867,-117.382667,3612,"NA","US","US-OR","Lostine","no",,,"7OR2","7OR2",,,
 14342,"7OR4","small_airport","Pineridge Ranch Airport",44.311211,-121.456958,3070,"NA","US","US-OR","Sisters","no",,,"7OR4","7OR4",,,
 14343,"7OR5","heliport","Emanuel Hospital Heliport",45.5430206012,-122.670512795,160,"NA","US","US-OR","Portland","no",,,"7OR5","7OR5",,"https://en.wikipedia.org/wiki/Emanuel_Hospital_Heliport",
 14344,"7OR6","small_airport","Green Acres Air Park",45.63679885864258,-121.59100341796875,800,"NA","US","US-OR","Hood River","no",,,"7OR6","7OR6",,,
@@ -8600,7 +8602,7 @@
 15283,"90KY","small_airport","Williams Airport",37.58259963989258,-85.7332992553711,760,"NA","US","US-KY","Hodgenville","no",,,"90KY","90KY",,,
 15284,"90LA","small_airport","Sharp Field",32.61389923095703,-93.32360076904297,165,"NA","US","US-LA","Minden","no",,,"90LA","90LA",,,
 355670,"90MD","heliport","Medstar Franklin Helipad",39.351602,-76.478888,248,"NA","US","US-MD","Baltimore","no",,,"90MD","90MD",,,
-45454,"90ME","small_airport","Zinck Airport",44.523056,-70.545556,620,"NA","US","US-ME","Rumford","no",,,"90ME","90ME",,,
+45454,"90ME","small_airport","Zinck Airport",44.523303,-70.546569,620,"NA","US","US-ME","Rumford","no",,,"90ME","90ME",,,
 15286,"90MO","heliport","Golden Valley Memorial Hospital Heliport",38.389456,-93.766847,797,"NA","US","US-MO","Clinton","no",,,"90MO","90MO",,,
 45506,"90MT","heliport","Aero Heliport",46.955611,-114.127083,3300,"NA","US","US-MT","Missoula","no",,,"90MT","90MT",,,
 15287,"90NC","heliport","Pardee Memorial Hospital Heliport",35.31999969482422,-82.46690368652344,2219,"NA","US","US-NC","Hendersonville","no",,,"90NC","90NC",,,
@@ -12498,7 +12500,7 @@
 30967,"BE-0049","closed","Bassenge-Wonck Ultralight Airfield",50.778301,5.61667,367,"EU","BE","BE-WLG","Bassenge","no",,,,,,,"EBBW"
 30968,"BE-0050","closed","Saint-Remy Ultralight Airfield",50.0583,4.28194,820,"EU","BE","BE-WHT","Chimay","no",,,,,,,"EBCS"
 30970,"BE-0051","closed","Héron-Couthuin Ultralight Airfield",50.538898,5.10917,607,"EU","BE","BE-WLG","Héron","no",,,,,,,"EBHE"
-30971,"BE-0052","closed","Elsenborn Air Base",50.484489,6.183157,1830,"EU","BE","BE-WLG","Bütgenbach","no",,,,,,,"EBLB"
+30971,"BE-0052","small_airport","Elsenborn Air Base",50.484818,6.183014,1830,"EU","BE","BE-WLG","Bütgenbach","no","EBLB",,"EBLB",,,"https://en.wikipedia.org/wiki/Elsenborn-Butgenbach_Air_Base","EBLB"
 30972,"BE-0053","closed","Lierneux Microlight Airfield",50.286701,5.83639,1411,"EU","BE","BE-WLG","Lierneux","no",,,,,,,"EBLI"
 30973,"BE-0054","closed","Liernu Ultralight Airfield",50.579514,4.79153,564,"EU","BE","BE-WNA","Eghezée","no",,,,,,"https://en.wikipedia.org/wiki/Liernu_Airfield","EBLN"
 43719,"BE-0055","closed","ULB Heliport",50.811847,4.260989,108,"EU","BE","BE-BRU","Brussels","no",,,,,,,"EBUB, Université Libre de Bruxelles"
@@ -37038,7 +37040,7 @@
 18303,"K00F","small_airport","Broadus Airport",45.470462,-105.457145,3280,"NA","US","US-MT","Broadus","no",,"BDX","K00F","00F",,"https://en.wikipedia.org/wiki/Broadus_Airport",
 18304,"K00M","small_airport","Thigpen Field",31.953728,-89.23527,351,"NA","US","US-MS","Bay Springs","no",,,"K00M","00M",,,
 18305,"K00R","small_airport","Livingston Municipal Airport",30.6859,-95.017899,151,"NA","US","US-TX","Livingston","no",,,"K00R","00R","http://www.cityoflivingston-tx.com/departments/airport.asp","https://en.wikipedia.org/wiki/Livingston_Municipal_Airport_(Texas)",
-18306,"K00V","small_airport","Meadow Lake Airport",38.9458007812,-104.569999695,6874,"NA","US","US-CO","Colorado Springs","no",,,"KFLY","FLY","http://www.2mla.com/","https://en.wikipedia.org/wiki/Meadow_Lake_Airport_(Colorado)","00V"
+18306,"K00V","small_airport","Meadow Lake Airport",38.945801,-104.57,6874,"NA","US","US-CO","Colorado Springs","no","KFLY",,"KFLY","FLY","http://www.2mla.com/","https://en.wikipedia.org/wiki/Meadow_Lake_Airport_(Colorado)","00V"
 18307,"K01","small_airport","Farington Field",40.38750076293945,-95.78919982910156,932,"NA","US","US-NE","Auburn","no",,,"K01","K01",,,
 18308,"K01G","small_airport","Perry-Warsaw Airport",42.741453,-78.052646,1559,"NA","US","US-NY","Perry","no",,,"K01G","01G",,"https://en.wikipedia.org/wiki/Perry-Warsaw_Airport",
 18309,"K01M","small_airport","Tishomingo County Airport",34.490924,-88.200996,578,"NA","US","US-MS","Belmont","no",,,"K01M","01M",,,
@@ -39014,7 +39016,7 @@
 19803,"KF21","small_airport","Memphis Municipal Airport",34.739601,-100.529999,2102,"NA","US","US-TX","Memphis","no",,,"KF21","F21",,"https://en.wikipedia.org/wiki/Memphis_Municipal_Airport",
 19804,"KF22","small_airport","Perry Municipal Airport",36.385601,-97.277199,1002,"NA","US","US-OK","Perry","no",,,"KF22","F22",,"https://en.wikipedia.org/wiki/Perry_Municipal_Airport_(Oklahoma)",
 19805,"KF24","small_airport","Minden Airport",32.646,-93.298103,278,"NA","US","US-LA","Minden","no",,,"KMNE","MNE",,"https://en.wikipedia.org/wiki/Minden_Airport","F24, Minden Webster"
-19807,"KF29","small_airport","Clarence E Page Municipal Airport",35.488098,-97.823601,1354,"NA","US","US-OK","Oklahoma City","no",,,"KRCE","RCE","https://cepageairport.com/","https://en.wikipedia.org/wiki/Clarence_E._Page_Municipal_Airport","F29"
+19807,"KF29","small_airport","Clarence E Page Municipal Airport",35.488098,-97.823601,1354,"NA","US","US-OK","Oklahoma City","no","KRCE",,"KRCE","RCE","https://cepageairport.com/","https://en.wikipedia.org/wiki/Clarence_E._Page_Municipal_Airport","F29"
 19808,"KF30","small_airport","Sulphur Municipal Airport",34.52450180053711,-96.98970031738281,1051,"NA","US","US-OK","Sulphur","no",,,"KF30","F30",,,
 19809,"KF31","small_airport","Lake Texoma State Park Airport",33.99100112915039,-96.6427993774414,693,"NA","US","US-OK","Kingston","no",,,"KF31","F31",,,
 19810,"KF32","small_airport","Healdton Municipal Airport",34.249298095703125,-97.4738998413086,956,"NA","US","US-OK","Healdton","no",,,"KF32","F32",,,
@@ -39129,7 +39131,7 @@
 19900,"KFST","medium_airport","Fort Stockton Pecos County Airport",30.9157009125,-102.916000366,3011,"NA","US","US-TX","Fort Stockton","no","KFST","FST","KFST","FST",,"https://en.wikipedia.org/wiki/Fort_Stockton%E2%80%93Pecos_County_Airport","Gibbs Field, Fort Stockton Field"
 19901,"KFSU","small_airport","Fort Sumner Municipal Airport",34.4833984375,-104.217002869,4165,"NA","US","US-NM","Fort Sumner","no","KFSU","FSU","KFSU","FSU",,"https://en.wikipedia.org/wiki/Fort_Sumner_Municipal_Airport","Fort Sumner Army Airfield"
 19902,"KFSW","small_airport","Fort Madison Municipal Airport",40.659113,-91.327763,724,"NA","US","US-IA","Fort Madison","no","KFSW","FMS","KFSW","FSW",,,"K27"
-19903,"KFTG","small_airport","Colorado Air and Space Port",39.784194,-104.537639,5512,"NA","US","US-CO","Denver","no",,,"KCFO","CFO",,"https://en.wikipedia.org/wiki/Colorado_Air_and_Space_Port","Colorado Air And Space Port, KFTG, FTG, Front Range Airport"
+19903,"KFTG","small_airport","Colorado Air and Space Port",39.784194,-104.537639,5512,"NA","US","US-CO","Denver","no","KCFO",,"KCFO","CFO",,"https://en.wikipedia.org/wiki/Colorado_Air_and_Space_Port","Colorado Air And Space Port, KFTG, FTG, Front Range Airport"
 3544,"KFTK","medium_airport","Godman Army Air Field",37.907100677500004,-85.9720993042,756,"NA","US","US-KY","Fort Knox","no","KFTK","FTK","KFTK","FTK",,"https://en.wikipedia.org/wiki/Godman_Army_Airfield",
 19904,"KFTT","small_airport","Elton Hensley Memorial Airport",38.83810043334961,-92.00260162353516,886,"NA","US","US-MO","Fulton","no",,,"KFTT","FTT",,,
 3545,"KFTW","medium_airport","Fort Worth Meacham International Airport",32.819801,-97.362396,710,"NA","US","US-TX","Fort Worth","no","KFTW","FTW","KFTW","FTW","http://meacham.com/","https://en.wikipedia.org/wiki/Fort_Worth_Meacham_International_Airport",
@@ -41660,7 +41662,7 @@
 20911,"KRBE","small_airport","Rock County Airport",42.569698,-99.568398,2349,"NA","US","US-NE","Bassett","no",,,"KRBE","RBE","https://dot.nebraska.gov/media/xe2pq2gs/bassett.pdf","https://en.wikipedia.org/wiki/Rock_County_Airport",
 20912,"KRBG","small_airport","Roseburg Regional Airport",43.238800048799995,-123.356002808,529,"NA","US","US-OR","Roseburg","no","KRBG","RBG","KRBG","RBG","http://www.cityofroseburg.org/departments/airport/","https://en.wikipedia.org/wiki/Roseburg_Regional_Airport","Major General Marion E. Carl Memorial Field"
 3839,"KRBL","medium_airport","Red Bluff Municipal Airport",40.1506996155,-122.251998901,352,"NA","US","US-CA","Red Bluff","no","KRBL","RBL","KRBL","RBL",,"https://en.wikipedia.org/wiki/Red_Bluff_Municipal_Airport",
-20913,"KRBM","small_airport","Robinson Army Air Field",34.847656,-92.29949,587,"NA","US","US-AR","North Little Rock","no",,,"KRBM","RBM",,"https://en.wikipedia.org/wiki/Robinson_Army_Airfield",
+20913,"KRBM","small_airport","Robinson Army Air Field",34.847656,-92.29949,587,"NA","US","US-AR","North Little Rock","no","KRBM",,"KRBM","RBM",,"https://en.wikipedia.org/wiki/Robinson_Army_Airfield",
 20914,"KRBO","small_airport","Nueces County Airport",27.778103,-97.690098,79,"NA","US","US-TX","Robstown","no",,,"KRBO","RBO",,,"Kingsville NOLF 33"
 20915,"KRBW","small_airport","Lowcountry Regional Airport",32.921001434299995,-80.6406021118,101,"NA","US","US-SC","Walterboro","no","KRBW","RBW","KRBW","RBW","http://lowcountryairport.com/","https://en.wikipedia.org/wiki/Lowcountry_Regional_Airport","C.C. Anderson Landing Field, Walterboro AAF"
 3840,"KRCA","medium_airport","Ellsworth Air Force Base",44.14500046,-103.1039963,3276,"NA","US","US-SD","Rapid City","no","KRCA","RCA","KRCA","RCA","http://www.ellsworth.af.mil/","https://en.wikipedia.org/wiki/Ellsworth_Air_Force_Base","28th Bomb Wing"
@@ -41668,7 +41670,7 @@
 19192,"KRCM","small_airport","Skyhaven Airport",38.784199,-93.802902,798,"NA","US","US-MO","Warrensburg","no",,,"KRCM","RCM","https://www.ucmo.edu/offices/skyhaven-airport/","https://en.wikipedia.org/wiki/Skyhaven_Airport_(Missouri)","Formerly 9K4"
 301240,"KRCP","small_airport","Rooks County Regional Airport",39.346592,-99.304649,1998,"NA","US","US-KS","Stockton","no",,,"KRCP","RCP","https://rookscounty.net/airport-information","https://en.wikipedia.org/wiki/Rooks_County_Regional_Airport",
 20917,"KRCR","small_airport","Fulton County Airport",41.065601348899996,-86.18170166019999,790,"NA","US","US-IN","Rochester","no","KRCR","RCR","KRCR","RCR",,"https://en.wikipedia.org/wiki/Fulton_County_Airport_(Indiana)",
-20918,"KRCT","small_airport","Nartron Field",43.9000015259,-85.5167007446,1055,"NA","US","US-MI","Reed City","no","KRCT","RCT","KRCT","RCT",,"https://en.wikipedia.org/wiki/Nartron_Field","Miller Field"
+20918,"KRCT","small_airport","Nartron Field",43.901755,-85.51604,1055,"NA","US","US-MI","Reed City","no",,,"MI31","MI31",,"https://en.wikipedia.org/wiki/Nartron_Field","RCT, KRCT. Miller Field"
 20919,"KRCX","small_airport","Rusk County Airport",45.496799,-91.000504,1238,"NA","US","US-WI","Ladysmith","no",,,"KRCX","RCX",,"https://en.wikipedia.org/wiki/Rusk_County_Airport_(Wisconsin)",
 20920,"KRCZ","small_airport","Richmond County Airport",34.8913,-79.759598,358,"NA","US","US-NC","Rockingham","no",,,"KRCZ","RCZ","http://www.richmondnc.com/244/Airport","https://en.wikipedia.org/wiki/Richmond_County_Airport","45J, Rockingham-Hamlet Airport"
 3841,"KRDD","medium_airport","Redding Municipal Airport",40.50899887,-122.2929993,505,"NA","US","US-CA","Redding","yes","KRDD","RDD","KRDD","RDD",,"https://en.wikipedia.org/wiki/Redding_Municipal_Airport",
@@ -45123,7 +45125,7 @@
 22040,"MI27","small_airport","Haigh Airport",42.612065,-83.859102,1000,"NA","US","US-MI","Howell","no",,,"MI27","MI27",,,
 22041,"MI28","heliport","Dow Division Heliport",43.59230041503906,-84.22440338134766,635,"NA","US","US-MI","Midland","no",,,"MI28","MI28",,,
 22042,"MI29","small_airport","Gooding Airport",42.376399993896484,-83.7927017211914,920,"NA","US","US-MI","Whitmore Lake","no",,,"MI29","MI29",,,
-22044,"MI31","small_airport","Cornish Field",42.10150146484375,-85.83789825439453,910,"NA","US","US-MI","Lawton","no",,,"MI31","MI31",,,
+22044,"MI31","closed","Cornish Field",42.101501,-85.837898,910,"NA","US","US-MI","Lawton","no",,,,,,,"MI31"
 22045,"MI32","heliport","Ummc Heliport",42.2859001159668,-83.72799682617188,802,"NA","US","US-MI","Ann Arbor","no",,,"MI32","MI32",,,
 22048,"MI35","small_airport","Claucherty Airport",42.077341,-84.827599,988,"NA","US","US-MI","Litchfield","no",,,"MI35","MI35",,,
 22050,"MI37","closed","Wenning Landing Area Airport",42.758454,-82.55516,620,"NA","US","US-MI","Marine City","no",,,,,,,"MI37"
@@ -50234,7 +50236,7 @@
 507631,"NV80","heliport","Ruby 360 Lodge Heliport",40.716936,-115.415686,6820,"NA","US","US-NV","Lamoille","no",,,"NV80","NV80",,,
 508212,"NV81","heliport","Beatty Medical Clinic Heliport",36.904583,-116.760099,3333,"NA","US","US-NV","Beatty","no",,,"NV81","NV81",,,
 509231,"NV82","heliport","Dils Medical Center Heliport",37.622375,-114.513264,4419,"NA","US","US-NV","Caliente","no",,,"NV82","NV82",,,
-45519,"NV83","small_airport","Hadley Airport",38.694098,-117.146752,5744,"NA","US","US-NV","Round Mountain","no",,,"NV83","NV83",,"https://en.wikipedia.org/wiki/Hadley_Airport",
+45519,"NV83","small_airport","Hadley Airport",38.694756,-117.146838,5744,"NA","US","US-NV","Round Mountain","no",,,"NV83","NV83",,"https://en.wikipedia.org/wiki/Hadley_Airport",
 330685,"NV86","heliport","Sunrise Medical Center Heliport",36.132624,-115.135511,2037,"NA","US","US-NV","Las Vegas","no",,,"NV86","NV86",,,
 331783,"NV89","small_airport","Red Owl Ranch Airport",40.502333,-116.546769,4850,"NA","US","US-NV","Crescent Valley","no",,,"NV89","NV89",,,
 331823,"NV91","heliport","Fly Sin City #1 Heliport",35.844903,-115.5482,4331,"NA","US","US-NV","Sandy Valley","no",,,"NV91","NV91",,,
@@ -69891,6 +69893,8 @@
 602932,"US-12838","closed","Father's Love Airport",40.647423,-78.73145,1770,"NA","US","US-PA","Hastings","no",,,,,,,"61PA"
 602933,"US-12839","heliport","Desoto County Sheriff's Office Heliport",34.807584,-89.981071,370,"NA","US","US-MS","Hernando","no",,,"3MS2","3MS2",,,
 334335,"US-1284","small_airport","Twin Lakes Airport",38.518522,-85.587583,663,"NA","US","US-IN","Marysville","no",,,"IN07","IN07",,,
+602958,"US-12840","small_airport","Soggy Bottom Farm Airport",37.935267,-84.288465,912,"NA","US","US-KY","Winchester","no",,,"7KY3","7KY3",,,
+602961,"US-12841","small_airport","Buckhorn Airport",36.559792,-92.204918,781,"NA","US","US-MO","Bakersfield","no",,,"7MO5","7MO5",,,
 334337,"US-1285","heliport","1000 Museum Heliport",25.784189,-80.190046,709,"NA","US","US-FL","Miami","no",,,"FA10","FA10",,,
 334338,"US-1286","heliport","St Francis Medical Center Heliport",32.49866,-92.113999,100,"NA","US","US-LA","Monroe","no",,,"LS90","LS90",,,
 334340,"US-1287","heliport","Ringgold County Heliport",40.719904,-94.22236,1218,"NA","US","US-IA","Mountt Ayr","no",,,"IA49","IA49",,,
