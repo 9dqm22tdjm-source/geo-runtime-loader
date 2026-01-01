@@ -4811,7 +4811,7 @@
 11401,"4F1","small_airport","Westport Airport / Keystone Airpark",36.222301,-96.3461,900,"NA","US","US-OK","Westport","no",,,,"4F1",,"https://en.wikipedia.org/wiki/Westport_Airport_(Oklahoma)",
 347064,"4FA0","heliport","Orlando Health Lake Mary Heliport",28.768868,-81.349924,75,"NA","US","US-FL","Lake Mary","no",,,"4FA0","4FA0",,,
 557860,"4FA2","small_airport","Croom A Chobee Airport",28.625752,-82.141351,65,"NA","US","US-FL","Bushnell","no",,,"4FA2","4FA2",,,
-11402,"4FA3","small_airport","Tranquility Bay Strip",26.643400192260742,-82.1178970336914,8,"NA","US","US-FL","Fort Myers","no",,,"4FA3","4FA3",,,
+11402,"4FA3","closed","Tranquility Bay Strip",26.647938,-82.113919,8,"NA","US","US-FL","Fort Myers","no",,,,,,,"4FA3"
 567712,"4FA4","heliport","George Skoko Heliport",24.595869,-81.681438,11,"NA","US","US-FL","Key West","no",,,"4FA4","4FA4",,,
 334262,"4FA7","seaplane_base","Lake Panasoffkee Seaplane Base",28.798722,-82.11575,39,"NA","US","US-FL","Lake Panasoffkee","no",,,"4FA7","4FA7",,,
 356199,"4FA9","heliport","North Port Fire Rescue Station 86 Heliport",27.048778,-82.337528,11,"NA","US","US-FL","North Port","no",,,"4FA9","4FA9",,,
@@ -5538,7 +5538,7 @@
 12135,"57ME","small_airport","Dyer's Landing Airport",43.91780090332031,-70.85440063476562,441,"NA","US","US-ME","Fryeburg","no",,,"57ME","57ME",,,
 12137,"57MN","seaplane_base","Namakan Seaplane Base",48.40679931640625,-92.66680145263672,1119,"NA","US","US-MN","Ray","no",,,"57MN","57MN",,,
 344902,"57MT","small_airport","Flying K Field",46.201911,-114.083029,4085,"NA","US","US-MT","Hamilton","no",,,"57MT","57MT",,,
-12139,"57NC","small_airport","Sossamon Field",35.426498,-83.458199,1940,"NA","US","US-NC","Bryson City","no",,,"57NC","57NC",,,
+12139,"57NC","closed","Sossamon Field",35.426498,-83.458199,1940,"NA","US","US-NC","Bryson City","no",,,,,,,"57NC"
 12140,"57ND","small_airport","Odegaard Airport",46.610507,-97.060487,1020,"NA","US","US-ND","Kindred","no",,,"57ND","57ND",,,
 12141,"57NE","small_airport","Cole Memorial Airport",42.924293,-101.693657,3259,"NA","US","US-NE","Merriman","no",,,"57NE","57NE",,,
 505268,"57NH","heliport","Berry Pond Heliport",43.763025,-71.389231,575,"NA","US","US-NH","Moultonborough","no",,,"57NH","57NH",,,
@@ -10071,6 +10071,7 @@
 5035,"AQ-0013","closed","McMurdo Station Ice Runway",-77.854391,166.464387,1,"AN","AQ","AQ-U-A","McMurdo Station","no",,,,,,"https://en.wikipedia.org/wiki/Ice_Runway","NZIR, NZIR"
 5048,"AQ-0014","closed","McMurdo Station Pegasus Field",-77.963402,166.524994,18,"AN","AQ","AQ-U-A","McMurdo Station","no",,,,,,"https://en.wikipedia.org/wiki/Pegasus_blue_ice_runway","NZPG, NZPG"
 597882,"AQ-0015","closed","Byrd Station",-80.0147,-119.5656,5097,"AN","AQ","AQ-U-A","Marie Byrd Land","no",,,,,,"https://en.wikipedia.org/wiki/Byrd_Station","NBY"
+603000,"AQ-0016","medium_airport","Grandfather Skiway",-77.530242,-31.827393,,"AN","AQ","AQ-U-A","Antartica","no",,,,,,,
 336951,"AQBC","medium_airport","Boulder Clay Runway",-74.739373,164.03539,672,"AN","AQ","AQ-U-A","Zucchelli Station","no",,,"AQBC",,,"https://en.wikipedia.org/wiki/Zucchelli_Station",
 16294,"AQY","small_airport","Girdwood-Alyeska Airport",60.968774,-149.119792,150,"NA","US","US-AK","Girdwood","no",,"AQY",,"AQY",,"https://en.wikipedia.org/wiki/Girdwood_Airport",
 35333,"AR-0001","small_airport","Cullen Airport",-52.88574,-68.414956,132,"SA","AR","AR-V","Cullen","no",,,,,,,
@@ -21064,7 +21065,7 @@
 1938,"CYVO","medium_airport","Val-d'Or Airport",48.0532989502,-77.7827987671,1107,"NA","CA","CA-QC","Val-d'Or","yes","CYVO","YVO","CYVO",,"http://www.arvo.qc.ca/","https://en.wikipedia.org/wiki/Val-d'Or_Airport",
 1939,"CYVP","medium_airport","Kuujjuaq Airport",58.096099853515625,-68.4269027709961,129,"NA","CA","CA-QC","Kuujjuaq","yes","CYVP","YVP","CYVP",,,"https://en.wikipedia.org/wiki/Kuujjuaq_Airport",
 1940,"CYVQ","medium_airport","Norman Wells Airport",65.28160095214844,-126.7979965209961,238,"NA","CA","CA-NT","Norman Wells","yes","CYVQ","YVQ","CYVQ",,,"https://en.wikipedia.org/wiki/Norman_Wells_Airport",
-1941,"CYVR","large_airport","Vancouver International Airport",49.193901062,-123.183998108,14,"NA","CA","CA-BC","Vancouver","yes","CYVR","YVR","CYVR",,"http://www.yvr.ca/","https://en.wikipedia.org/wiki/Vancouver_International_Airport",
+1941,"CYVR","large_airport","Vancouver International Airport",49.193901,-123.183998,14,"NA","CA","CA-BC","Vancouver","yes","CYVR","YVR","CYVR",,"http://www.yvr.ca/","https://en.wikipedia.org/wiki/Vancouver_International_Airport",
 1942,"CYVT","small_airport","Buffalo Narrows Airport",55.8418998718,-108.417999268,1423,"NA","CA","CA-SK","Buffalo Narrows","no","CYVT","YVT","CYVT",,,"https://en.wikipedia.org/wiki/Buffalo_Narrows_Airport","YVT"
 1943,"CYVV","medium_airport","Wiarton Airport",44.7458,-81.107201,729,"NA","CA","CA-ON","Wiarton","yes","CYVV","YVV","CYVV",,"http://wiartonairport.ca/","https://en.wikipedia.org/wiki/Wiarton_Airport",
 1944,"CYVZ","small_airport","Deer Lake Airport",52.655613,-94.061208,1092,"NA","CA","CA-ON","Deer Lake","yes","CYVZ","YVZ","CYVZ",,,"https://en.wikipedia.org/wiki/Deer_Lake_Airport_(Ontario)",
@@ -29671,6 +29672,8 @@
 602211,"GB-1341","heliport","Bishopsgate House Heliport",51.4365,-0.59276,259,"EU","GB","GB-ENG","Egham, Surrey","no",,,,,,,
 602212,"GB-1342","heliport","Harefield Hospital Heliport",51.60734,-0.48456,282,"EU","GB","GB-ENG","Uxbridge, Greater London","no",,,,,,,
 602990,"GB-1343","heliport","Windsor/Ascot Heliport",51.540965,-0.673344,198,"EU","GB","GB-ENG","Burnham, Buckinghamshire","no",,,,,,,"Groverfield Hotel"
+602991,"GB-1344","heliport","Broadoaks Country House Heliport",54.401592,-2.917709,351,"EU","GB","GB-ENG","Windermere, Cumbria","no",,,,,,,
+602992,"GB-1345","heliport","Lainston House Hotel Heliport",51.082346,-1.368216,350,"EU","GB","GB-ENG","Winchester, Hampshire","no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO, EG42"
@@ -69899,6 +69902,7 @@
 334335,"US-1284","small_airport","Twin Lakes Airport",38.518522,-85.587583,663,"NA","US","US-IN","Marysville","no",,,"IN07","IN07",,,
 602958,"US-12840","small_airport","Soggy Bottom Farm Airport",37.935267,-84.288465,912,"NA","US","US-KY","Winchester","no",,,"7KY3","7KY3",,,
 602961,"US-12841","small_airport","Buckhorn Airport",36.559792,-92.204918,781,"NA","US","US-MO","Bakersfield","no",,,"7MO5","7MO5",,,
+603001,"US-12842","seaplane_base","Antiques Seaplane Landers",25.194457,-80.56459,,"NA","US","US-FL","Florida Keys","no",,,,,,,
 334337,"US-1285","heliport","1000 Museum Heliport",25.784189,-80.190046,709,"NA","US","US-FL","Miami","no",,,"FA10","FA10",,,
 334338,"US-1286","heliport","St Francis Medical Center Heliport",32.49866,-92.113999,100,"NA","US","US-LA","Monroe","no",,,"LS90","LS90",,,
 334340,"US-1287","heliport","Ringgold County Heliport",40.719904,-94.22236,1218,"NA","US","US-IA","Mountt Ayr","no",,,"IA49","IA49",,,
