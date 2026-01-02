@@ -15864,8 +15864,8 @@
 37504,"BR-2934","small_airport","Fazenda Macaraí Airport",-23.413937,-54.013517,1056,"SA","BR","BR-MS","Itaquiraí","no",,,,,,,"SSHW"
 37505,"BR-2935","small_airport","Fazenda Primavera",-19.480568,-52.798395,1574,"SA","BR","BR-MS","Água Clara","no",,,,"SSIB",,,"SSIB, Fazenda Suely, SWPJ."
 37508,"BR-2936","small_airport","Fazenda Santa Maria Airport",-20.267874,-55.73184,617,"SA","BR","BR-MS","Aquidauana","no",,,,,,,"SSIG"
-37511,"BR-2937","small_airport","Boqueirão Alegre Airport",-30.254004,-55.846174,732,"SA","BR","BR-RS","Quaraí","no",,,,"SSIM",,,"SSIM"
-37512,"BR-2938","small_airport","Candiota Airport",-31.494167327881,-53.69083404541,741,"SA","BR","BR-RS","Candiota","no",,,,"SSIO",,,"SSIO"
+37511,"BR-2937","small_airport","Boqueirão Alegre Airport",-30.254004,-55.846174,732,"SA","BR","BR-RS","Quaraí","no",,,,,,,"SSIM"
+37512,"BR-2938","small_airport","Candiota Airport",-31.494567,-53.691949,741,"SA","BR","BR-RS","Candiota","no",,,,,,,"SSIO"
 37516,"BR-2939","small_airport","Fazenda Experimental Airport",-22.295927,-53.848994,1194,"SA","BR","BR-MS","Ivinhema","no",,,,,,,"SSIV"
 37525,"BR-2940","small_airport","Fazenda Jamaica Airport",-19.347778,-53.77,1706,"SA","BR","BR-MS","Camapuã","no",,,,,,,"SSJL"
 37528,"BR-2941","small_airport","Jaguarão Airport",-32.540558,-53.384167,66,"SA","BR","BR-RS","Jaguarão","no",,,,,,,"SSJR"
@@ -15876,8 +15876,8 @@
 37547,"BR-2946","small_airport","Fazenda Pião Airport",-23.406944,-55.226665,1542,"SA","BR","BR-MS","Amambaí","no",,,,"SSKL",,,"SSKL"
 37548,"BR-2947","small_airport","Independência Airport",-20.476110458374,-55.833610534668,544,"SA","BR","BR-MS","Anastácio","no",,,,"SSKO",,,"SSKO"
 37551,"BR-2948","small_airport","Retiro São João Airport",-22.396511,-55.490542,1738,"SA","BR","BR-MS","Ponta Porã","no",,,,"SSKV",,,"SSKV"
-37553,"BR-2949","small_airport","Fazenda Laguna Carem Airport",-22.673332,-55.236667,1755,"SA","BR","BR-MS","Laguna Carapã","no",,,,"SSLC",,,"SSLC"
-37555,"BR-2950","small_airport","Fazenda Palmeira Airport",-22.543611526489,-53.429443359375,885,"SA","BR","BR-MS","Taquarussu","no",,,,"SSLF",,,"SSLF"
+37553,"BR-2949","small_airport","Fazenda Laguna Carem Airport",-22.673332,-55.236667,1755,"SA","BR","BR-MS","Laguna Carapã","no",,,,,,,"SSLC"
+37555,"BR-2950","small_airport","Fazenda Palmeira Airport",-22.530745,-53.431263,885,"SA","BR","BR-MS","Taquarussu","no",,,,,,,"SSLF"
 37557,"BR-2951","small_airport","Fazenda Aldeia Airport",-18.216388702393,-55.158889770508,394,"SA","BR","BR-MS","Coxim","no",,,,"SSLK",,,"SSLK"
 37562,"BR-2952","small_airport","Salto Santiago Airport",-25.514133,-52.557499,2087,"SA","BR","BR-PR","Laranjeiras do Sul","no",,,,"SSLS",,,"SSLS, Rio Bonito do Iguaçu"
 37564,"BR-2953","small_airport","Fazenda Três Cerros Airport",-21.975235,-56.802052,853,"SA","BR","BR-MS","Bela Vista","no",,,"SS94","MS0788",,,"SSLW"
@@ -30302,7 +30302,7 @@
 17635,"HI25","small_airport","Kaalaiki Airstrip",19.122507,-155.578398,1964,"OC","US","US-HI","Naalehu","no",,,"HI25","HI25",,,
 17636,"HI27","small_airport","Upper Paauilo Airstrip",20.028196,-155.388162,1520,"OC","US","US-HI","Paauilo","no",,,"HI27","HI27",,,
 17637,"HI28","small_airport","Pahala Airstrip",19.215392,-155.468559,1195,"OC","US","US-HI","Pahala","no",,,"HI28","HI28",,,
-17640,"HI32","small_airport","Pepeekeo Airstrip",19.846582,-155.106872,675,"OC","US","US-HI","Pepeekeo","no",,,"HI32","HI32",,,
+17640,"HI32","closed","Pepeekeo Airstrip",19.846582,-155.106872,675,"NA","US","US-HI","Pepeekeo","no",,,,,,,"HI32"
 17641,"HI33","small_airport","Haiku Airstrip",21.966071,-159.426963,385,"OC","US","US-HI","Lihue","no",,,"HI33","HI33",,,"Puhi Airstrip"
 17642,"HI38","heliport","The Queen's Medical Center Heliport",21.308197,-157.853645,102,"OC","US","US-HI","Honolulu","no",,,"HI38","HI38",,,
 17643,"HI40","heliport","Kuakini Medical Center Heliport",21.32111,-157.85669,175,"OC","US","US-HI","Honolulu","no",,,"HI40","HI40",,,
@@ -69903,6 +69903,8 @@
 602958,"US-12840","small_airport","Soggy Bottom Farm Airport",37.935267,-84.288465,912,"NA","US","US-KY","Winchester","no",,,"7KY3","7KY3",,,
 602961,"US-12841","small_airport","Buckhorn Airport",36.559792,-92.204918,781,"NA","US","US-MO","Bakersfield","no",,,"7MO5","7MO5",,,
 603001,"US-12842","seaplane_base","Antiques Seaplane Landers",25.194457,-80.56459,,"NA","US","US-FL","Florida Keys","no",,,,,,,
+603015,"US-12843","closed","Salty Cove STOLPort",24.601392,-81.669145,,"NA","US","US-FL","Big Coppit Key","no",,,,,,,
+603016,"US-12844","heliport","Fishermen Dock Pad",24.595943,-81.67548,,"NA","US","US-FL","Key West","no",,,,,,,
 334337,"US-1285","heliport","1000 Museum Heliport",25.784189,-80.190046,709,"NA","US","US-FL","Miami","no",,,"FA10","FA10",,,
 334338,"US-1286","heliport","St Francis Medical Center Heliport",32.49866,-92.113999,100,"NA","US","US-LA","Monroe","no",,,"LS90","LS90",,,
 334340,"US-1287","heliport","Ringgold County Heliport",40.719904,-94.22236,1218,"NA","US","US-IA","Mountt Ayr","no",,,"IA49","IA49",,,
@@ -80049,6 +80051,7 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
+603013,"VN-0077","small_airport","8s8seucom",41,10,,"AS","VN","VN-U-A","india","no",,,,,,,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
