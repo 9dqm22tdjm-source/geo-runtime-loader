@@ -5538,7 +5538,7 @@
 12135,"57ME","small_airport","Dyer's Landing Airport",43.91780090332031,-70.85440063476562,441,"NA","US","US-ME","Fryeburg","no",,,"57ME","57ME",,,
 12137,"57MN","seaplane_base","Namakan Seaplane Base",48.40679931640625,-92.66680145263672,1119,"NA","US","US-MN","Ray","no",,,"57MN","57MN",,,
 344902,"57MT","small_airport","Flying K Field",46.201911,-114.083029,4085,"NA","US","US-MT","Hamilton","no",,,"57MT","57MT",,,
-12139,"57NC","closed","Sossamon Field",35.426498,-83.458199,1940,"NA","US","US-NC","Bryson City","no",,,,,,,"57NC"
+12139,"57NC","small_airport","Sossamon Field (Unused)",35.426498,-83.458199,1940,"NA","US","US-NC","Bryson City","no",,,"57NC","57NC","https://smokymountainnews.com/archives/item/33325-developers-discuss-potential-bryson-city-airfield-plans",,"57NC"
 12140,"57ND","small_airport","Odegaard Airport",46.610507,-97.060487,1020,"NA","US","US-ND","Kindred","no",,,"57ND","57ND",,,
 12141,"57NE","small_airport","Cole Memorial Airport",42.924293,-101.693657,3259,"NA","US","US-NE","Merriman","no",,,"57NE","57NE",,,
 505268,"57NH","heliport","Berry Pond Heliport",43.763025,-71.389231,575,"NA","US","US-NH","Moultonborough","no",,,"57NH","57NH",,,
@@ -7307,7 +7307,7 @@
 13964,"78CA","heliport","Broadcom Corporation Heliport",33.6598014831543,-117.76699829101562,160,"NA","US","US-CA","Irvine","no",,,"78CA","78CA",,,
 13965,"78CO","heliport","Pfister Ranch Heliport",39.17720031738281,-106.85600280761719,8000,"NA","US","US-CO","Aspen","no",,,"78CO","78CO",,,
 602965,"78FA","heliport","Sarasota Memorial Hospital Heliport",27.136842,-82.413206,14,"NA","US","US-FL","North Venice","no",,,"78FA","78FA",,,
-13966,"78FD","small_airport","Mac's Field",25.54643,-80.458535,16,"NA","US","US-FL","Homestead","no",,,"78FD","78FD",,,
+13966,"78FD","small_airport","Mac's Field / Goldstein Landing Strip",25.546814,-80.465076,16,"NA","US","US-FL","Homestead","no",,,"78FD","78FD",,,
 13967,"78FL","small_airport","Pomona Landing Airport",29.502199,-81.5784,50,"NA","US","US-FL","Pomona Park","no",,,"78FL","78FL",,"https://en.wikipedia.org/wiki/Pomona_Landing_Airport",
 13968,"78GA","small_airport","C&R Farm Airport",33.50429916381836,-85.01719665527344,1013,"NA","US","US-GA","Carrollton","no",,,"78GA","78GA",,,
 13969,"78I","small_airport","Pam's Place Airport",39.500801,-86.691902,795,"NA","US","US-IN","Cloverdale","no",,,"K78I","78I",,"https://en.wikipedia.org/wiki/Pam's_Place_Airport","5II0"
@@ -8019,6 +8019,7 @@
 14696,"85OK","heliport","Red Stevenson Property Heliport",36.4833984375,-95.00019836425781,765,"NA","US","US-OK","Tijuana","no",,,"85OK","85OK",,,
 14698,"85OR","small_airport","Allen's Airstrip",42.404598236083984,-121.04900360107422,4410,"NA","US","US-OR","Bly","no",,,"85OR","85OR",,,
 14700,"85PN","small_airport","Kiski Airport",40.579200744628906,-79.60530090332031,1280,"NA","US","US-PA","Vandergrift","no",,,"85PN","85PN",,,
+603046,"85SC","heliport","Roper St Francis Berkeley Hospital Heliport",33.067925,-80.096058,74,"NA","US","US-SC","Summerville","no",,,"85SC","85SC",,,
 14702,"85TE","small_airport","Old Kingsbury Aerodrome",29.634199142456055,-97.81169891357422,560,"NA","US","US-TX","Kingsbury","no",,,"85TE","85TE",,,
 14704,"85TX","small_airport","Rutherford Ranch Airport",30.077699661254883,-97.9655990600586,983,"NA","US","US-TX","Buda","no",,,"85TX","85TX",,,
 14705,"85U","small_airport","Soldier Bar US Forest Service Airport",45.104486,-114.799404,4190,"NA","US","US-ID","Soldier Bar","no",,,,"85U",,,
@@ -30302,7 +30303,7 @@
 17635,"HI25","small_airport","Kaalaiki Airstrip",19.122507,-155.578398,1964,"OC","US","US-HI","Naalehu","no",,,"HI25","HI25",,,
 17636,"HI27","small_airport","Upper Paauilo Airstrip",20.028196,-155.388162,1520,"OC","US","US-HI","Paauilo","no",,,"HI27","HI27",,,
 17637,"HI28","small_airport","Pahala Airstrip",19.215392,-155.468559,1195,"OC","US","US-HI","Pahala","no",,,"HI28","HI28",,,
-17640,"HI32","closed","Pepeekeo Airstrip",19.846582,-155.106872,675,"NA","US","US-HI","Pepeekeo","no",,,,,,,"HI32"
+17640,"HI32","closed","Pepeekeo Airstrip",19.846402,-155.107021,675,"NA","US","US-HI","Pepeekeo","no",,,,,,,"HI32"
 17641,"HI33","small_airport","Haiku Airstrip",21.966071,-159.426963,385,"OC","US","US-HI","Lihue","no",,,"HI33","HI33",,,"Puhi Airstrip"
 17642,"HI38","heliport","The Queen's Medical Center Heliport",21.308197,-157.853645,102,"OC","US","US-HI","Honolulu","no",,,"HI38","HI38",,,
 17643,"HI40","heliport","Kuakini Medical Center Heliport",21.32111,-157.85669,175,"OC","US","US-HI","Honolulu","no",,,"HI40","HI40",,,
@@ -69848,7 +69849,6 @@
 334321,"US-1279","heliport","West Street Property Heliport",43.987683,-73.25274,181,"NA","US","US-VT","Cornwall","no",,,"VT24","VT24",,,"Quesnel Farm"
 601956,"US-12790","closed","Harvley Rod STOLPort",25.388542,-80.68192,,"NA","US","US-FL","Everglades","no",,,,,,,
 602038,"US-12792","closed","Hercton Port",25.497535,-80.490453,,"NA","US","US-FL","Homestead","no",,,,,,,"KNSA, NSA"
-602058,"US-12793","small_airport","Goldstein Landing Strip",25.546817,-80.465595,,"NA","US","US-FL","Homestead","no",,,,,,,
 602059,"US-12794","small_airport","Homestead Aerobatics STOL (not real)",25.524512,-80.524539,,"NA","US","US-FL","Homestead","no",,,,,,,
 602061,"US-12795","small_airport","Blue Creek Airfield",29.092027,-96.060247,67,"NA","US","US-TX","El Campo","no",,,,,,,
 602062,"US-12796","heliport","Tolk Generating Station Heliport",34.18252,-102.568111,3747,"NA","US","US-TX","Earth","no",,,,,,,
@@ -69905,7 +69905,13 @@
 603001,"US-12842","seaplane_base","Antiques Seaplane Landers",25.194457,-80.56459,,"NA","US","US-FL","Florida Keys","no",,,,,,,
 603015,"US-12843","closed","Salty Cove STOLPort",24.601392,-81.669145,,"NA","US","US-FL","Big Coppit Key","no",,,,,,,
 603016,"US-12844","heliport","Fishermen Dock Pad",24.595943,-81.67548,,"NA","US","US-FL","Key West","no",,,,,,,
+603036,"US-12845","small_airport","Hugos STOLPort",25.519863,-80.442152,,"NA","US","US-FL","Naranja","no",,,,,,,
+603037,"US-12846","small_airport","Vilhen Landing Strip",25.518316,-80.436187,,"NA","US","US-FL","Naranja","no",,,,,,,
+603038,"US-12847","seaplane_base","Biscayne Park Airport",25.882933,-80.159597,,"NA","US","US-FL","Miami","no",,,,,,,
+603039,"US-12848","small_airport","Redland field",25.546158,-80.458868,,"NA","US","US-FL","Miami","no",,,,,,,
+603041,"US-12849","seaplane_base","Chalkes Seaplane base",24.55897,-81.815186,,"NA","US","US-FL","Key West","no",,,,,,,
 334337,"US-1285","heliport","1000 Museum Heliport",25.784189,-80.190046,709,"NA","US","US-FL","Miami","no",,,"FA10","FA10",,,
+603044,"US-12850","small_airport","Chrome Moddelers STOL Club / Pipsqueak Eagles Field",25.434554,-80.548024,,"NA","US","US-FL","Miami","no",,,,,,,
 334338,"US-1286","heliport","St Francis Medical Center Heliport",32.49866,-92.113999,100,"NA","US","US-LA","Monroe","no",,,"LS90","LS90",,,
 334340,"US-1287","heliport","Ringgold County Heliport",40.719904,-94.22236,1218,"NA","US","US-IA","Mountt Ayr","no",,,"IA49","IA49",,,
 334343,"US-1288","heliport","Prudential Center Helipor",40.733244,-74.171947,150,"NA","US","US-NJ","Newark","no",,,"NJ03","NJ03",,,
@@ -80051,7 +80057,6 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
-603013,"VN-0077","small_airport","8s8seucom",41,10,,"AS","VN","VN-U-A","india","no",,,,,,,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
