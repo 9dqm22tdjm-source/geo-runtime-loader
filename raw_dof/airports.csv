@@ -12838,14 +12838,14 @@
 118,"BIBD","small_airport","Bildudalur Airport",65.641296,-23.5462,18,"EU","IS","IS-4","Bildudalur","no","BIBD","BIU","BIBD",,,"https://en.wikipedia.org/wiki/B%C3%ADldudalur_Airport",
 30700,"BIBF","small_airport","Borgarfjörður eystri Airport",65.516769,-13.81578,80,"EU","IS","IS-7","Borgarfjörður eystri","no","BIBF","BGJ","BIBF",,,,
 30713,"BIBI","small_airport","Baeir Airport",66.097838,-22.569713,60,"EU","IS","IS-4","Baeir","no",,,"BIBI",,,,
-30759,"BIBK","small_airport","Bakkafjörður Airport",66.02189636230469,-14.824399948120117,14,"EU","IS","IS-6","Bakkafjörður","no","BIBK","BJD","BIBK",,,,
+30759,"BIBK","closed","Bakkafjörður Airport",66.021896,-14.8244,14,"EU","IS","IS-6","Bakkafjörður","no",,,,,,,"BIBK, BJD"
 30771,"BIBL","small_airport","Blönduós Airport",65.644997,-20.2875,131,"EU","IS","IS-5","Blönduós","no","BIBL","BLO","BIBL",,,"https://en.wikipedia.org/wiki/Bl%C3%B6ndu%C3%B3s_Airport",
 30789,"BIBR","small_airport","Búðardalur Airport",65.074583,-21.802193,131,"EU","IS","IS-3","Búðardalur","no","BIBR",,"BIBR",,,,
 30807,"BIBV","small_airport","Breiðdalsvík Airport",64.790037,-14.043927,8,"EU","IS","IS-7","Breiðdalsvík","no","BIBV","BXV","BIBV",,,"https://en.wikipedia.org/wiki/Brei%C3%B0dalsv%C3%ADk_Airport",
-30714,"BIDA","small_airport","Dagverðará Airport",64.744617,-23.726521,130,"EU","IS","IS-3","Dagverðará","no",,,"BIDA",,,,
+30714,"BIDA","closed","Dagverðará Airport",64.744617,-23.726521,130,"EU","IS","IS-3","Dagverðará","no",,,,,,,"BIDA"
 30922,"BIDV","small_airport","Djúpivogur Airport",64.642372,-14.277297,9,"EU","IS","IS-7","Djúpivogur","no","BIDV","DJU","BIDV",,,"https://en.wikipedia.org/wiki/Dj%C3%BApivogur_Airport",
 119,"BIEG","medium_airport","Egilsstaðir Airport",65.2833023071289,-14.401399612426758,76,"EU","IS","IS-7","Egilsstaðir","yes","BIEG","EGS","BIEG",,,"https://en.wikipedia.org/wiki/Egilssta%C3%B0ir_Airport",
-31058,"BIFF","small_airport","Fáskrúðsfjörður Airport",64.931456,-14.047957,15,"EU","IS","IS-7","Fáskrúðsfjörður","no","BIFF","FAS","BIFF",,,"https://en.wikipedia.org/wiki/F%C3%A1skr%C3%BA%C3%B0sfj%C3%B6r%C3%B0ur_Airport","Faskrudsfjordur"
+31058,"BIFF","closed","Fáskrúðsfjörður Airport",64.931456,-14.047957,15,"EU","IS","IS-7","Fáskrúðsfjörður","no",,,,,,"https://en.wikipedia.org/wiki/F%C3%A1skr%C3%BA%C3%B0sfj%C3%B6r%C3%B0ur_Airport","Faskrudsfjordur, BIFF, FAS"
 30716,"BIFL","small_airport","Flúðir Airport",64.144595,-20.327069,270,"EU","IS","IS-8","Flúðir","no","BIFL",,"BIFL",,,,
 31041,"BIFM","small_airport","Fagurhólsmýri Airport",63.874699,-16.6411,56,"EU","IS","IS-7","Fagurhólsmýri","no","BIFM","FAG","BIFM",,,"https://en.wikipedia.org/wiki/Fagurh%C3%B3lsm%C3%BDri_Airport",
 30717,"BIFZ","small_airport","Forsæti Airport",63.84816,-20.716267,32,"EU","IS","IS-8","Forsæti","no",,,"BIFZ",,,,
@@ -12861,12 +12861,12 @@
 120,"BIHN","medium_airport","Hornafjörður Airport",64.295601,-15.2272,24,"EU","IS","IS-8","Höfn","yes","BIHN","HFN","BIHN",,,"https://en.wikipedia.org/wiki/Hornafj%C3%B6r%C3%B0ur_Airport",
 30724,"BIHR","small_airport","Hvolsvöllur Airport",63.752743,-20.250893,109,"EU","IS","IS-8","Hvolsvöllur","no",,,"BIHR",,,,
 30725,"BIHS","small_airport","Hrafnseyri Airport",65.75716,-23.461404,30,"EU","IS","IS-4","Hrafnseyri","no",,,"BIHS",,,,
-30726,"BIHT","small_airport","Holt Airport",66.0141804294,-23.4416913986,10,"EU","IS","IS-4","Flateyri","no",,"FLI","BIHT",,,,
-121,"BIHU","medium_airport","Húsavík Airport",65.952301,-17.426001,48,"EU","IS","IS-6","Húsavík","yes","BIHU","HZK","BIHU",,,"https://en.wikipedia.org/wiki/H%C3%BAsav%C3%ADk_Airport",
+30726,"BIHT","closed","Holt Airport",66.01418,-23.441691,10,"EU","IS","IS-4","Flateyri","no",,,,,,,"BIHT, FLI"
+121,"BIHU","medium_airport","Húsavík Airport",65.952301,-17.426001,48,"EU","IS","IS-6","Húsavík","no","BIHU","HZK","BIHU",,,"https://en.wikipedia.org/wiki/H%C3%BAsav%C3%ADk_Airport",
 31657,"BIHV","small_airport","Krókstaðarmelar Airport",65.270241,-20.848696,164,"EU","IS","IS-5","Hvammstangi","no",,,"BIHV",,,,"HVM"
 30728,"BIHY","small_airport","Hrísey Airport",65.989204,-18.394117,15,"EU","IS","IS-6","Hrísey","no",,,"BIHY",,,,
 30729,"BIHZ","small_airport","Húsafell Airport",64.699773,-20.89216,380,"EU","IS","IS-3","Húsafell","no","BIHZ",,"BIHZ",,,,
-31603,"BIID","small_airport","Ingjaldssanður Airport",66.05000305175781,-23.69610023498535,70,"EU","IS","IS-4","Onundarfjörður","no",,"HLO","BIID",,,,
+31603,"BIID","closed","Ingjaldssanður Airport",66.050003,-23.6961,70,"EU","IS","IS-4","Onundarfjörður","no",,,,,,,"BIID, HLO"
 122,"BIIS","medium_airport","Ísafjörður Airport",66.058098,-23.1353,8,"EU","IS","IS-4","Ísafjörður","yes","BIIS","IFJ","BIIS",,"https://www.isavia.is/en/isafjordur-airport","https://en.wikipedia.org/wiki/%C3%8Dsafj%C3%B6r%C3%B0ur_Airport",
 30731,"BIKA","small_airport","Kaldármelar Airport",64.7789,-22.256901,160,"EU","IS","IS-3","Kaldármelar","no","BIKA",,"BIKA",,,,
 30732,"BIKE","small_airport","Kerlingafjöll Airport",64.705002,-19.410601,2100,"EU","IS","IS-8","Kerlingafjöll","no","BIKE",,"BIKE",,,,
@@ -12880,8 +12880,8 @@
 30738,"BIMS","small_airport","Tungubakkar Airport",64.181754,-21.706101,5,"EU","IS","IS-1","Tungubakkar","no","BIMS",,"BIMS",,"https://fkm.is/index.php",,"Mosfellsbær"
 30740,"BIND","small_airport","Nýjidalur Airport",64.719566,-18.067031,2625,"EU","IS","IS-8","Nýjidalur","no","BIND",,"BIND",,,,
 32044,"BINF","small_airport","Norðfjörður Airport",65.131897,-13.7464,13,"EU","IS","IS-7","Norðfjörður","no","BINF","NOR","BINF",,,"https://en.wikipedia.org/wiki/Nor%C3%B0fj%C3%B6r%C3%B0ur_Airport",
-32096,"BIOF","small_airport","Ólafsfjörður Airport",66.083298,-18.6667,32,"EU","IS","IS-6","Ólafsfjörður","no","BIOF","OFJ","BIOF",,,"https://en.wikipedia.org/wiki/%C3%93lafsfj%C3%B6r%C3%B0ur_Airport",
-124,"BIPA","small_airport","Patreksfjörður Airport",65.555801,-23.965,11,"EU","IS","IS-4","Patreksfjörður","no","BIPA","PFJ","BIPA",,,"https://en.wikipedia.org/wiki/Patreksfj%C3%B6r%C3%B0ur_Airport",
+32096,"BIOF","closed","Ólafsfjörður Airport",66.083298,-18.6667,32,"EU","IS","IS-6","Ólafsfjörður","no",,,,,,"https://en.wikipedia.org/wiki/%C3%93lafsfj%C3%B6r%C3%B0ur_Airport","BIOF, OFJ"
+124,"BIPA","closed","Patreksfjörður Airport",65.555801,-23.965,11,"EU","IS","IS-4","Patreksfjörður","no",,,,,,"https://en.wikipedia.org/wiki/Patreksfj%C3%B6r%C3%B0ur_Airport","BIPA, PFJ"
 32207,"BIRE","small_airport","Reykhólar Airport",65.45262908935547,-22.20611572265625,60,"EU","IS","IS-4","Reykhólar","no","BIRE","RHA","BIRE",,,,
 30741,"BIRF","medium_airport","Rif Airport",64.9114,-23.823099,18,"EU","IS","IS-3","Rif","no","BIRF","OLI","BIRF",,,"https://en.wikipedia.org/wiki/Rif_Airport",
 32205,"BIRG","small_airport","Raufarhöfn Airport",66.406403,-15.9183,39,"EU","IS","IS-6","Raufarhöfn","no","BIRG","RFN","BIRG",,,"https://en.wikipedia.org/wiki/Raufarh%C3%B6fn_Airport",
@@ -12889,7 +12889,7 @@
 31973,"BIRL","small_airport","Reykjahlíð Airport",65.6558,-16.9181,1030,"EU","IS","IS-6","Myvatn","no","BIRL","MVA","BIRL",,,"https://en.wikipedia.org/wiki/M%C3%BDvatn_Airport",
 30742,"BIRS","small_airport","Reykjanes Airport",65.9142,-22.4214,10,"EU","IS","IS-4","Reykjanes","no","BIRS",,"BIRS",,,,
 30743,"BISA","small_airport","Sandá Airport",65.134399,-19.663099,1580,"EU","IS","IS-5","Sandá","no",,,"BI42","BI42",,,
-30744,"BISF","medium_airport","Selfoss Airport",63.929199,-21.0378,45,"EU","IS","IS-8","Selfoss","no","BISF",,"BISF",,,"https://en.wikipedia.org/wiki/Selfoss_Airport",
+30744,"BISF","small_airport","Selfoss Airport",63.929199,-21.0378,45,"EU","IS","IS-8","Selfoss","no","BISF",,"BISF",,,"https://en.wikipedia.org/wiki/Selfoss_Airport",
 30745,"BISG","small_airport","Steinasandur Airport",64.16547,-15.91334,30,"EU","IS","IS-7","Kalfatellsstadhur","no",,,"BISG",,,,
 30746,"BISH","small_airport","Stora-Holt Airport",65.4000015258789,-21.933000564575195,100,"EU","IS","IS-3","Stora-Holt","no",,,"BISH",,,,
 126,"BISI","medium_airport","Siglufjörður Airport",66.137847,-18.908157,10,"EU","IS","IS-6","Siglufjörður","no","BISI","SIJ","BISI",,,"https://en.wikipedia.org/wiki/Siglufj%C3%B6r%C3%B0ur_Airport",
@@ -17140,7 +17140,7 @@
 321422,"CA-0679","closed","Gogama Airport",47.684536,-81.719822,1145,"NA","CA","CA-ON","Gogama","no",,,,,,,"PK4, PK4"
 321897,"CA-0680","closed","Colonsay Airport",51.9683,-105.9067,1737,"NA","CA","CA-SK","Colonsay","no",,,,,,,"Colonsay South, KH3"
 350875,"CA-0681","closed","St. André-Avellin (Old Aerodrome)",45.802801,-75.054098,607,"NA","CA","CA-QC","St. André-Avellin","no",,,,,"https://www.elp.ca",,
-323244,"CA-0682","small_airport","Brechin / Skywagon City Airfield",44.569964,-79.233377,,"NA","CA","CA-ON","Brechin","no",,,,,,,
+323244,"CA-0682","small_airport","Brechin / Skywagon City Airfield",44.569964,-79.233377,721,"NA","CA","CA-ON","Brechin","no",,,,,,,
 323245,"CA-0683","seaplane_base","Brechin / Ronan Waterdrome",44.569697,-79.2237,,"NA","CA","CA-ON","Brechin","no",,,,,,,
 323246,"CA-0684","small_airport","Brechin / Ronan Aircraft Airfield",44.570564,-79.224504,740,"NA","CA","CA-ON","Brechin","no",,,"CDU7","CDU7","http://www.dougronan.com/index.htm","https://en.wikipedia.org/wiki/Brechin/Ronan_Aircraft_Aerodrome",
 324910,"CA-0685","closed","Kuujjuaq Water Aerodrome",58.085,-68.4,3,"NA","CA","CA-QC","Kuujjuaq","no",,,,,,,"SQ7, SQ7"
@@ -24379,7 +24379,7 @@
 319105,"ENHO","heliport","Hopen Heliport",76.508067,25.014337,,"EU","NO","NO-21",,"no",,,"ENHO",,,,
 29955,"ENHS","small_airport","Hokksund Airfield",59.759927,9.919506,30,"EU","NO","NO-33","Øvre Eiker","no",,,"ENHS",,"https://enhs.no/home/flyplassen/","https://no.wikipedia.org/wiki/Hokksund_flyplass",
 29939,"ENHT","small_airport","Hattfjelldal Airfield",65.594704,13.9892,689,"EU","NO","NO-18","Hattfjelldal","no",,,"ENHT",,,"https://en.wikipedia.org/wiki/Hattfjelldal_Airport",
-29261,"ENHV","medium_airport","Honningsvåg Airport, Valan",71.009697,25.983601,44,"EU","NO","NO-56","Honningsvåg","yes","ENHV","HVG","ENHV",,"https://avinor.no/en/airport/honningsvag-airport/","https://en.wikipedia.org/wiki/Valan_Airport",
+29261,"ENHV","medium_airport","Honningsvåg Airport, Valan",71.009697,25.983601,44,"EU","NO","NO-56","Honningsvåg","yes","ENHV","HVG","ENHV",,"https://avinor.no/en/airport/honningsvag-airport/","https://en.wikipedia.org/wiki/Valan_Airport","North Cape Airport"
 319103,"ENHX","heliport","Haugesund Heliport, Haugesund Hospital",59.408763,5.279548,,"EU","NO","NO-11","Haugesund","no",,,"ENHX",,,,
 301115,"ENJA","small_airport","Jan Mayensfield",70.944117,-8.652074,39,"EU","NO","NO-22",,"no",,,"ENJA",,"http://www.jan-mayen.no/","https://en.wikipedia.org/wiki/Jan_Mayensfield","Jan Mayen"
 29988,"ENJB","small_airport","Jarlsberg Airfield",59.299232,10.369844,92,"EU","NO","NO-39","Tønsberg","no",,,"ENJB",,"https://www.jarlsbergluftsportssenter.no/","https://en.wikipedia.org/wiki/T%C3%B8nsberg_Airport,_Jarlsberg",
@@ -24989,6 +24989,8 @@
 600479,"ES-0371","heliport","Bellús Reservoir Heliport",38.938572,-0.48264,543,"EU","ES","ES-VC","Bellús","no",,,,,,,"Embalse de Bellús"
 600498,"ES-0372","heliport","Helipuerto de Emergencias de Alzira",39.155154,-0.44138,,"EU","ES","ES-VC","Alzira","no",,,,,,,
 602850,"ES-0373","heliport","Villarrobledo Health Center Helipad",39.264834,-2.593504,2352,"EU","ES","ES-CM","Villarrobledo","no",,,,"LEJFZ",,,
+604256,"ES-0374","heliport","Palma Hospital Heliport",39.583853,2.631692,195,"EU","ES","ES-IB","Palma de Mallorca","no",,,,,,,
+604257,"ES-0375","heliport","Naval Station Heliport",39.54745,2.619789,60,"EU","ES","ES-IB","Palma de Mallorca","no",,,,,,,
 599574,"ESAN","heliport","Norra Alvsborgs County Hospital Heliport",58.319006,12.26819,312,"EU","SE","SE-Q","Trollhättan","no","ESEN",,"ESAN","NAL",,,
 2643,"ESCF","medium_airport","Malmen Air Base",58.397666,15.522422,308,"EU","SE","SE-E","Linköping","no","ESCF",,"ESCF",,,"https://en.wikipedia.org/wiki/Malmen_Airbase",
 2645,"ESCM","small_airport","Ärna Air Base",59.897301,17.5886,68,"EU","SE","SE-C","Uppsala","no","ESCM",,"ESCM",,,"https://en.wikipedia.org/wiki/%C3%84rna",
@@ -32491,7 +32493,7 @@
 597143,"IR-0187","heliport","Karaj",35.879646,50.891459,,"AS","IR","IR-U-A",,"no",,,,,,,
 3352,"IR-OI24","small_airport","Gonbad-e Kavus Airport",37.246101,55.095901,107,"AS","IR","IR-27","Gonbad-e Kavus","no",,,,"OI24",,,
 317284,"IRU","seaplane_base","Iranamadu Seaplane Base",9.299746,80.448627,102,"AS","LK","LK-4","Iranamadu","no",,"IRU",,,,,
-314970,"IS-0001","small_airport","Suðureyri Airstrip",66.1318,-23.544,92,"EU","IS","IS-4","Suðureyri","no",,,,"SUY",,,"SUY"
+314970,"IS-0001","closed","Suðureyri Airport",66.1318,-23.544,92,"EU","IS","IS-4","Suðureyri","no",,,,,,,"SUY, BISU"
 343522,"IS-0002","heliport","Hrauneyjarfoss Heliport",64.20043,-19.25403,1241,"EU","IS","IS-8","Hella","no",,,,,,,
 356245,"IS-0003","small_airport","Skaftafell Airport",63.99948,-16.94116,249,"EU","IS","IS-8","Öræfi","no","BISL",,"BISL",,,,
 356246,"IS-0004","small_airport","Kárastaða Airport",64.57267,-21.89826,81,"EU","IS","IS-3","Borgarnes","no",,,,,,,
@@ -32507,6 +32509,7 @@
 600786,"IS-0014","small_airport","Möðrudalur",65.384167,-15.904444,1475,"EU","IS","IS-7",,"no",,,,"BI55",,,
 601841,"IS-0015","small_airport","Geitamelur Airfield",63.828479,-20.17622,,"EU","IS","IS-8",,"no",,,,,,,
 602622,"IS-0016","small_airport","Sauðárflugvöllur",64.842222,-16.036389,2200,"EU","IS","IS-U-A","Sauðár","no","BISA",,,,,,
+604251,"IS-0017","closed","Seyðisfjörður Airport",65.291666,-13.850477,,"EU","IS","IS-7","Seyðisfjörður","no",,,,,,,"BISJ, SEJ"
 18170,"IS00","small_airport","Jay Schertz Farm Airport",40.84170150756836,-89.27449798583984,780,"NA","US","US-IL","Lowpoint","no",,,"IS00","IS00",,,
 18172,"IS02","small_airport","Dietchweiler Airport",40.7784,-87.791702,640,"NA","US","US-IL","Watseka","no",,,"IS02","IS02",,,
 18174,"IS08","small_airport","Curless Airport",40.263939,-90.23453,620,"NA","US","US-IL","Astoria","no",,,"IS08","IS08",,,
@@ -37963,7 +37966,7 @@
 19237,"KADS","small_airport","Addison Airport",32.9686012268,-96.8364028931,644,"NA","US","US-TX","Dallas","no","KADS","ADS","KADS","ADS",,"https://en.wikipedia.org/wiki/Addison_Airport",
 19238,"KADT","small_airport","Atwood-Rawlins City-County Airport",39.841209,-101.043248,2991,"NA","US","US-KS","Atwood","no",,,"KADT","ADT",,"https://en.wikipedia.org/wiki/Atwood–Rawlins_County_City–County_Airport",
 19239,"KADU","small_airport","Audubon County Airport",41.701401,-94.920502,1287,"NA","US","US-IA","Audubon","no",,,"KADU","ADU",,"https://en.wikipedia.org/wiki/Audubon_County_Airport",
-3364,"KADW","large_airport","Joint Base Andrews",38.810799,-76.866997,280,"NA","US","US-MD","Camp Springs","no","KADW","ADW","KADW","ADW","http://www.jba.af.mil/","https://en.wikipedia.org/wiki/Joint_Base_Andrews","Andrews Air Force Base"
+3364,"KADW","medium_airport","Joint Base Andrews",38.810799,-76.866997,280,"NA","US","US-MD","Camp Springs","no","KADW","ADW","KADW","ADW","http://www.jba.af.mil/","https://en.wikipedia.org/wiki/Joint_Base_Andrews","Andrews Air Force Base"
 19240,"KAE","seaplane_base","Kake Seaplane Base",56.973,-133.945999,,"NA","US","US-AK","Kake","yes",,"KAE",,"KAE",,"https://en.wikipedia.org/wiki/Kake_Seaplane_Base",
 19242,"KAEG","medium_airport","Double Eagle II Airport",35.145199,-106.794998,5837,"NA","US","US-NM","Albuquerque","no",,,"KAEG","AEG",,"https://en.wikipedia.org/wiki/Double_Eagle_II_Airport",
 19243,"KAEJ","small_airport","Central Colorado Regional Airport",38.812906,-106.120062,7946,"NA","US","US-CO","Buena Vista","no",,,"KAEJ","AEJ","https://www.buenavistaairport.com/","https://en.wikipedia.org/wiki/Central_Colorado_Regional_Airport",
@@ -38229,7 +38232,7 @@
 19422,"KBWC","small_airport","Brawley Municipal Airport",32.99290085,-115.5169983,-128,"NA","US","US-CA","Brawley","no","KBWC","BWC","KBWC","BWC",,"https://en.wikipedia.org/wiki/Brawley_Municipal_Airport",
 19423,"KBWD","small_airport","Brownwood Regional Airport",31.793600082399998,-98.9564971924,1387,"NA","US","US-TX","Brownwood","no","KBWD","BWD","KBWD","BWD",,"https://en.wikipedia.org/wiki/Brownwood_Regional_Airport",
 3434,"KBWG","medium_airport","Bowling Green Warren County Regional Airport",36.964500427199994,-86.41970062259999,547,"NA","US","US-KY","Bowling Green","no","KBWG","BWG","KBWG","BWG",,"https://en.wikipedia.org/wiki/Bowling_Green-Warren_County_Regional_Airport",
-3435,"KBWI","large_airport","Baltimore/Washington International Thurgood Marshall Airport",39.1754,-76.668297,146,"NA","US","US-MD","Baltimore","yes","KBWI","BWI","KBWI","BWI","https://www.bwiairport.com/","https://en.wikipedia.org/wiki/Baltimore/Washington_International_Airport","WAS, United States, Marshall"
+3435,"KBWI","large_airport","Baltimore/Washington International Thurgood Marshall Airport",39.1754,-76.668297,146,"NA","US","US-MD","Baltimore","yes","KBWI","BWI","KBWI","BWI","https://www.bwiairport.com/","https://en.wikipedia.org/wiki/Baltimore/Washington_International_Airport","WAS, Friendship International"
 19424,"KBWP","small_airport","Harry Stern Airport",46.2440986633,-96.6073989868,968,"NA","US","US-ND","Wahpeton","no","KBWP","WAH","KBWP","BWP",,"https://en.wikipedia.org/wiki/Harry_Stern_Airport",
 322146,"KBWW","small_airport","Bowman Regional Airport",46.165519,-103.30075,2965,"NA","US","US-ND","Bowman","no",,"BWM","KBWW","BWW","http://www.bowmannd.com/county/departments/airport-authority/","https://en.wikipedia.org/wiki/Bowman_Municipal_Airport",
 19425,"KBXA","small_airport","George R Carr Memorial Air Field",30.813699722299997,-89.8649978638,119,"NA","US","US-LA","Bogalusa","no","KBXA","BXA","KBXA","BXA",,,
@@ -38382,7 +38385,7 @@
 19533,"KCOM","small_airport","Coleman Municipal Airport",31.841100692699996,-99.4036026001,1697,"NA","US","US-TX","Coleman","no","KCOM","COM","KCOM","COM","http://www.cityofcolemantx.us/airport.html","https://en.wikipedia.org/wiki/Coleman_Municipal_Airport",
 19534,"KCON","medium_airport","Concord Municipal Airport",43.20270157,-71.50229645,342,"NA","US","US-NH","Concord","no","KCON","CON","KCON","CON","http://www.concordnh.gov/facilities/facility/details/Concord-Municipal-Airport-31","https://en.wikipedia.org/wiki/Concord_Municipal_Airport",
 19535,"KCOQ","small_airport","Cloquet Carlton County Airport",46.701099,-92.503601,1279,"NA","US","US-MN","Cloquet","no",,,"KCOQ","COQ",,"https://en.wikipedia.org/wiki/Cloquet_Carlton_County_Airport",
-3463,"KCOS","medium_airport","City of Colorado Springs Municipal Airport",38.805801,-104.700996,6187,"NA","US","US-CO","Colorado Springs","yes","KCOS","COS","KCOS","COS","https://flycos.coloradosprings.gov/","https://en.wikipedia.org/wiki/Colorado_Springs_Airport",
+3463,"KCOS","large_airport","City of Colorado Springs Municipal Airport",38.805801,-104.700996,6187,"NA","US","US-CO","Colorado Springs","yes","KCOS","COS","KCOS","COS","https://flycos.coloradosprings.gov/","https://en.wikipedia.org/wiki/Colorado_Springs_Airport","Peterson SFB, Colorado Springs Airport"
 19536,"KCOT","small_airport","Cotulla-La Salle County Airport",28.45669937,-99.22029877,474,"NA","US","US-TX","Cotulla","no","KCOT","COT","KCOT","COT","http://www.cotullaairport.com/","https://en.wikipedia.org/wiki/Cotulla%E2%80%93La_Salle_County_Airport",
 3464,"KCOU","medium_airport","Columbia Regional Airport",38.8181,-92.219597,889,"NA","US","US-MO","Columbia","yes","KCOU","COU","KCOU","COU",,"https://en.wikipedia.org/wiki/Columbia_Regional_Airport",
 19537,"KCPC","small_airport","Columbus County Municipal Airport",34.27289963,-78.71499634,99,"NA","US","US-NC","Whiteville","no",,,"KCPC","CPC",,"https://en.wikipedia.org/wiki/Columbus_County_Municipal_Airport",
@@ -54057,7 +54060,7 @@
 5610,"RJSI","medium_airport","Iwate Hanamaki Airport",39.4286,141.134995,297,"AS","JP","JP-03","Hanamaki","yes","RJSI","HNA","RJSI",,,"https://en.wikipedia.org/wiki/Hanamaki_Airport","Morioka"
 5611,"RJSK","medium_airport","Akita Airport",39.615601,140.218994,313,"AS","JP","JP-05","Akita","yes","RJSK","AXT","RJSK",,,"https://en.wikipedia.org/wiki/Akita_Airport",
 5612,"RJSM","medium_airport","Misawa Airport / Misawa Air Base",40.703201,141.367996,119,"AS","JP","JP-02","Misawa","yes","RJSM","MSJ","RJSM",,,"https://en.wikipedia.org/wiki/Misawa_Air_Base",
-5613,"RJSN","large_airport","Niigata Airport",37.954166,139.112189,29,"AS","JP","JP-15","Niigata","yes","RJSN","KIJ","RJSN",,"https://niigata-airport.gr.jp","https://en.wikipedia.org/wiki/Niigata_Airport","新潟空港"
+5613,"RJSN","large_airport","Niigata Airport",37.954166,139.112189,29,"AS","JP","JP-15","Niigata","yes","RJSN","KIJ","RJSN",,"https://niigata-airport.gr.jp","https://en.wikipedia.org/wiki/Niigata_Airport","新潟空港, 新潟"
 32216,"RJSO","small_airport","JMSDF Ōminato Base",41.232808,141.132171,24,"AS","JP","JP-02","Mutsu","no",,,"RJSO",,,"https://en.wikipedia.org/wiki/JMSDF_Ōminato_Base",
 5614,"RJSR","medium_airport","Odate Noshiro Airport",40.191898,140.371002,292,"AS","JP","JP-05","Kitaakita","yes","RJSR","ONJ","RJSR",,,"https://en.wikipedia.org/wiki/Odate-Noshiro_Airport",
 5615,"RJSS","large_airport","Sendai Airport",38.139702,140.917007,15,"AS","JP","JP-04","Natori","yes","RJSS","SDJ","RJSS",,,"https://en.wikipedia.org/wiki/Sendai_Airport",
@@ -65653,7 +65656,7 @@
 42998,"UIAR","small_airport","Chara Airport",56.913334,118.269997,2201,"AS","RU","RU-ZAB","Chara","no",,"CZR","UIAR",,,"https://en.wikipedia.org/wiki/Chara_Airport","Chara Kyust-Kemda"
 335244,"UIAU","small_airport","Yumurchen Airport",53.6195,114.034,,"EU","RU","RU-ZAB",,"no",,,"UIAU",,,,
 335245,"UIAY","small_airport","Usugli Airport",52.659388,115.242634,,"EU","RU","RU-ZAB",,"no",,,"UIAY",,,,
-6464,"UIBB","medium_airport","Bratsk Airport",56.370601654052734,101.697998046875,1610,"AS","RU","RU-IRK","Bratsk","yes","UIBB","BTK","UIBB",,,"https://en.wikipedia.org/wiki/Bratsk_Airport","Аэропорт Братск"
+6464,"UIBB","medium_airport","Bratsk Airport",56.3696,101.701822,1610,"AS","RU","RU-IRK","Bratsk","yes","UIBB","BTK","UIBB",,,"https://en.wikipedia.org/wiki/Bratsk_Airport","Аэропорт Братск"
 546416,"UIBE","heliport","Erema Airfield",60.386978,107.786278,902,"EU","RU","RU-IRK","Erema","no",,,"UIBE","UIBE",,,"УИБЕ, Ерема"
 32523,"UIBS","small_airport","Ust-Ilimsk Airport",58.136101,102.565002,1339,"AS","RU","RU-IRK","Ust-Ilimsk","no","UIBS","UIK","UIBS",,,"https://en.wikipedia.org/wiki/Ust-Ilimsk_Airport",
 42931,"UIBV","medium_airport","Zheleznogorsk Airport",56.487701,104.106003,1946,"AS","RU","RU-IRK","Zheleznogorsk-Ilimsky","no",,,"UIBV",,,"https://en.wikipedia.org/wiki/Zheleznogorsk_Airport","Аэропорт Железногорск"
@@ -78951,7 +78954,7 @@
 31690,"UUBI","medium_airport","Ivanovo South Airport",56.93939971923828,40.940799713134766,410,"EU","RU","RU-IVA","Ivanovo","yes","UUBI","IWA","UUBI",,,"https://en.wikipedia.org/wiki/Ivanovo_Yuzhny_Airport","Ivanovo Yuzhniy Airport, Ivanovo Yuzhny Airport, Аэропорт Иваново Южный"
 32241,"UUBK","medium_airport","Staroselye Airport",58.104198,38.929401,423,"EU","RU","RU-YAR","Rybinsk","yes","UUBK","RYB","UUBK",,,"https://en.wikipedia.org/wiki/Staroselye_Airport","Аэропорт Староселье, ЬУБК"
 44648,"UUBN","small_airport","Zmeyevo Airfield",56.914691,35.935672,472,"EU","RU","RU-TVE","Tver","no",,,"UUBN",,,"https://ru.wikipedia.org/wiki/%D0%97%D0%BC%D0%B5%D1%91%D0%B2%D0%BE_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)","Zmeevo Airport, Zmeyovo Airport, Аэропорт Змеево, Аэропорт Змеёво"
-26393,"UUBP","medium_airport","Bryansk Airport",53.214199,34.176399,663,"EU","RU","RU-BRY","Bryansk","yes","UUBP","BZK","UUBP",,"http://www.airport.bryansk.ru/","https://en.wikipedia.org/wiki/Bryansk_International_Airport","Аэропорт Брянск, УУБП"
+26393,"UUBP","medium_airport","Bryansk International Airport",53.214199,34.176399,663,"AS","RU","RU-BRY","Bryansk","yes","UUBP","BZK","UUBP",,"https://bzk.aero/","https://en.wikipedia.org/wiki/Bryansk_International_Airport","Аэропорт Брянск, УУБП"
 335153,"UUBQ","small_airport","Sharya Airport",58.391989,45.554466,120,"EU","RU","RU-KOS",,"yes",,,"UUBQ",,,,
 31838,"UUBS","small_airport","Smolensk South Airport",54.745,32.065,820,"EU","RU","RU-SMO","Smolensk","no","UUBS",,"UUBS",,,"https://en.wikipedia.org/wiki/Smolensk_South_Airport","Smolensk Yuzhny Airport, Аэропорт Смоленск Южный, УУБС"
 42967,"UUBW","large_airport","Zhukovsky International Airport",55.553299,38.150002,377,"AS","RU","RU-MOS","Moscow","yes","UUBW","ZIA","UUBW",,"http://zia.aero/","https://en.wikipedia.org/wiki/Zhukovsky_International_Airport","Аэропорт Раменское, Zhukovsky Air Base, Gromov Flight Research Institute, Лётно-исследовательский институт имени М. М. Громова, ЛИИ, Ramenskoye, Ramenskoye Airport"
@@ -84061,12 +84064,12 @@
 31753,"ZA-KIG","small_airport","Koingnaas Airport",-30.187136,17.282706,228,"AF","ZA","ZA-NC","Koingnaas","no",,"KIG",,,,,
 27188,"ZBAA","large_airport","Beijing Capital International Airport",40.080101013183594,116.58499908447266,116,"AS","CN","CN-11","Beijing","yes","ZBAA","PEK","ZBAA",,"http://en.bcia.com.cn/","https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport","BJS, Bejing, Peking, Olympics"
 330820,"ZBAD","large_airport","Beijing Daxing International Airport",39.501289,116.413967,98,"AS","CN","CN-11","Beijing","yes","ZBAD","PKX","ZBAD",,,"https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport",
-32006,"ZBBB","medium_airport","Beijing Xijiao Airport",39.958592,116.256765,164,"AS","CN","CN-11","Beijing","no","ZBBB",,"ZBBB",,,"https://en.wikipedia.org/wiki/Beijing_Xijiao_Airport","BJS, Beijing City Airport"
+32006,"ZBBB","medium_airport","Beijing Xijiao Airport",39.958592,116.256765,164,"AS","CN","CN-11","Beijing","no","ZBBB",,"ZBBB",,,"https://en.wikipedia.org/w/index.php?title=Beijing_Xijiao_Airport&oldid=1173024518","BJS, Beijing City Airport"
 327347,"ZBCD","medium_airport","Chengde Puning Airport",41.1225,118.073889,,"AS","CN","CN-13","Chengde","yes","ZBCD","CDE","ZBCD",,,"https://en.wikipedia.org/wiki/Chengde_Puning_Airport",
 30829,"ZBCF","medium_airport","Chifeng Yulong Airport",42.159723,118.840971,2018,"AS","CN","CN-15","Chifeng","yes","ZBCF","CIF","ZBCF",,,"https://en.wikipedia.org/wiki/Chifeng_Yulong_Airport",
 30830,"ZBCZ","small_airport","Changzhi Wangcun Airport",36.247501,113.125999,,"AS","CN","CN-14","Changzhi","yes","ZBCZ","CIH","ZBCZ",,,"https://en.wikipedia.org/wiki/Changzhi_Wangcun_Airport",
 318174,"ZBDH","medium_airport","Qinhuangdao Beidaihe Airport",39.666384,119.061384,46,"AS","CN","CN-13","Qinhuangdao (Changli)","yes","ZBDH","BPE","ZBDH",,,"https://en.wikipedia.org/wiki/Qinhuangdao_Beidaihe_Airport",
-300513,"ZBDS","medium_airport","Ordos Ejin Horo Airport",39.493514,109.8599,4557,"AS","CN","CN-15","Ordos","yes","ZBDS","DSN","ZBDS",,,"https://en.wikipedia.org/wiki/Ordos_Ejin_Horo_Airport","Dongsheng"
+300513,"ZBDS","large_airport","Ordos Ejin Horo International Airport",39.493514,109.8599,4557,"AS","CN","CN-15","Ordos","yes","ZBDS","DSN","ZBDS",,,"https://en.wikipedia.org/wiki/Ordos_Ejin_Horo_Airport","Dongsheng, 鄂尔多斯"
 30876,"ZBDT","large_airport","Datong Yungang International Airport",40.06139,113.480509,3442,"AS","CN","CN-14","Datong","yes","ZBDT","DAT","ZBDT",,,"https://en.wikipedia.org/wiki/Datong_Yungang_Airport",
 300671,"ZBER","medium_airport","Erenhot Saiwusu International Airport",43.424079,112.091081,3301,"AS","CN","CN-15","Erenhot","yes","ZBER","ERL","ZBER",,,"https://en.wikipedia.org/wiki/Erenhot_Saiwusu_International_Airport","Saiwusu Airport"
 315854,"ZBES","medium_airport","Arxan Yi'ershi Airport",47.3106,119.9117,2925,"AS","CN","CN-15","Arxan","yes","ZBES","YIE","ZBES",,,"https://en.wikipedia.org/wiki/Arxan_Yi%27ershi_Airport",
@@ -84095,7 +84098,7 @@
 300455,"ZBYC","large_airport","Yuncheng Yanhu International Airport",35.117823,111.034023,1242,"AS","CN","CN-61","Yuncheng (Yanhu)","yes","ZBYC","YCU","ZBYC",,,"https://en.wikipedia.org/wiki/Yuncheng_Zhangxiao_Airport","Yuncheng Guangong Airport"
 27193,"ZBYN","large_airport","Taiyuan Wusu International Airport",37.746899,112.627998,2575,"AS","CN","CN-14","Taiyuan","yes","ZBYN","TYN","ZBYN",,,"https://en.wikipedia.org/wiki/Taiyuan_Wusu_International_Airport",
 314499,"ZBYZ","medium_airport","Bayannur Tianjitai Airport",40.926,107.7428,3400,"AS","CN","CN-15","Bavannur","yes","ZBYZ","RLK","ZBYZ",,,"https://en.wikipedia.org/wiki/Bayannur_Tianjitai_Airport",
-44100,"ZBZJ","medium_airport","Zhangjiakou Ningyuan Airport",40.738602,114.930278,2347,"AS","CN","CN-13","Zhangjiakou","yes","ZBZJ","ZQZ","ZBZJ",,,"https://en.wikipedia.org/wiki/Zhangjiakou_Ningyuan_Airport","Zhangjiakou Air Base, 张家口宁远机场, ZZHA"
+44100,"ZBZJ","medium_airport","Zhangjiakou Ningyuan Airport",40.738602,114.930278,2347,"AS","CN","CN-13","Zhangjiakou","yes","ZBZJ","ZQZ","ZBZJ",,,"https://en.wikipedia.org/wiki/Zhangjiakou_Ningyuan_Airport","Zhangjiakou Air Base, 张家口宁远机场, ZZHA, 张家口"
 323666,"ZBZL","medium_airport","Zhalantun Genghis Khan Airport",47.865942,122.768662,928,"AS","CN","CN-15","Zhalantun","yes","ZBZL","NZL","ZBZL",,,"https://en.wikipedia.org/wiki/Zhalantun_Chengjisihan_Airport","Chengjisihan"
 352767,"ZDM","heliport","Ramallah Heliport",31.91123,35.20756,2858,"AS","PS","PS-RBH","Ramallah","no",,"ZDM",,,,,
 512273,"ZEZ4","small_airport","Urdzhar East Airport",47.0767,81.7867,,"AS","KZ","KZ-U-A",,"no",,,"ZEZ4",,,,
@@ -84104,7 +84107,7 @@
 30825,"ZGCD","medium_airport","Changde Taohuayuan Airport",28.9189,111.639999,128,"AS","CN","CN-43","Changde (Dingcheng)","yes","ZGCD","CGD","ZGCD",,,"https://en.wikipedia.org/wiki/Changde_Taohuayuan_Airport",
 300890,"ZGCJ","medium_airport","Huaihua Zhijiang Airport",27.443087,109.704666,882,"AS","CN","CN-43","Huaihua","yes","ZGCJ","HJJ","ZGCJ",,,"https://en.wikipedia.org/wiki/Zhijiang_Airport","Chihkiang Airfield"
 352634,"ZGCZ","medium_airport","Chenzhou Beihu Airport",25.753419,112.845404,1071,"AS","CN","CN-43","Chenzhou","yes","ZGCZ","HCZ","ZGCZ",,,"https://en.wikipedia.org/wiki/Chenzhou_Beihu_Airport",
-30958,"ZGDY","small_airport","Zhangjiajie Hehua International Airport",29.1028,110.443001,8530,"AS","CN","CN-43","Zhangjiajie (Yongding)","yes","ZGDY","DYG","ZGDY",,,"https://en.wikipedia.org/wiki/Zhangjiajie_Hehua_Airport","Dayong Airport"
+30958,"ZGDY","large_airport","Zhangjiajie Hehua International Airport",29.104749,110.442786,8530,"AS","CN","CN-43","Zhangjiajie (Yongding)","yes","ZGDY","DYG","ZGDY",,,"https://en.wikipedia.org/wiki/Zhangjiajie_Hehua_Airport","Dayong Airport, 张家界, 张家界荷花国际机场，荷花"
 44139,"ZGFS","medium_airport","Foshan Shadi Airport",23.0825,113.070833,6,"AS","CN","CN-44","Foshan (Nanhai)","yes","ZGFS","FUO","ZGFS",,,"https://en.wikipedia.org/wiki/Foshan_Shadi_Airport","Guangzhou Shadi Air Base"
 27194,"ZGGG","large_airport","Guangzhou Baiyun International Airport",23.392401,113.299004,50,"AS","CN","CN-44","Guangzhou (Huadu)","yes","ZGGG","CAN","ZGGG",,"http://www.baiyunairport.com/english/index.jsp","https://en.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport",
 27195,"ZGHA","large_airport","Changsha Huanghua International Airport",28.189199,113.220001,217,"AS","CN","CN-43","Changsha (Changsha)","yes","ZGHA","CSX","ZGHA",,,"https://en.wikipedia.org/wiki/Changsha_Huanghua_International_Airport","长沙黄花国际机场"
@@ -84120,15 +84123,15 @@
 32400,"ZGOW","medium_airport","Jieyang Chaoshan International Airport",23.552,116.5033,,"AS","CN","CN-44","Jieyang (Rongcheng)","yes","ZGOW","SWA","ZGOW",,,"https://en.wikipedia.org/wiki/Jieyang_Chaoshan_International_Airport",
 30593,"ZGSD","medium_airport","Zhuhai Jinwan Airport",22.006399,113.375999,23,"AS","CN","CN-44","Zhuhai (Jinwan)","yes","ZGSD","ZUH","ZGSD",,,"https://en.wikipedia.org/wiki/Zhuhai_Jinwan_Airport",
 327446,"ZGSY","medium_airport","Shaoyang Wugang Airport",26.806123,110.641042,1444,"AS","CN","CN-43","Shaoyang (Wugang)","yes","ZGSY","WGN","ZGSY",,,"https://en.wikipedia.org/wiki/Shaoyang_Wugang_Airport",
-27198,"ZGSZ","large_airport","Shenzhen Bao'an International Airport",22.639299,113.810997,13,"AS","CN","CN-44","Shenzhen (Bao'an)","yes","ZGSZ","SZX","ZGSZ",,"http://eng.szairport.com/","https://en.wikipedia.org/wiki/Shenzhen_Bao'an_International_Airport","Baoan, Huangtian Airport"
+27198,"ZGSZ","large_airport","Shenzhen Bao'an International Airport",22.639474,113.803262,13,"AS","CN","CN-44","Shenzhen","yes","ZGSZ","SZX","ZGSZ",,"https://www.szairport.com/szairporten/index.shtml","https://en.wikipedia.org/wiki/Shenzhen_Bao'an_International_Airport","Baoan, Huangtian Airport, 深圳, 深圳宝安国际机场"
 336110,"ZGWZ","medium_airport","Wuzhou Xijiang Airport",23.40316,111.09331,357,"AS","CN","CN-45","Tangbu","yes","ZGWZ","WUZ","ZGWZ","WUZ",,"https://en.wikipedia.org/wiki/Wuzhou_Xijiang_Airport",
 32701,"ZGXN","small_airport","Xingning Air Base",24.1492,115.758003,,"AS","CN","CN-44","Meizhou (Xingning)","no","ZGXN","XIN","ZGXN",,,"https://en.wikipedia.org/wiki/Xingning_Air_Base",
 514411,"ZGXX","small_airport","Xiangxi Biancheng Airport",28.4972,109.5218,,"AS","CN","CN-43","Xiangxi","yes","ZGXX","DXJ","ZGXX",,,"https://en.wikipedia.org/wiki/Xiangxi_Biancheng_Airport",
 351135,"ZGYJ","small_airport","Yangjiang Heshan Airport",21.961895,112.102408,33,"AS","CN","CN-44","Yangjiang","no",,,"ZGYJ",,,,
-344100,"ZGYL","medium_airport","Yulin Fumian Airport",22.438056,110.120833,328,"AS","CN","CN-45","Yùlín","yes","ZGYL","YLX","ZGYL",,,"https://en.wikipedia.org/wiki/Yulin_Fumian_Airport",
+344100,"ZGYL","medium_airport","Yulin Fumian Airport",22.433042,110.119996,328,"AS","CN","CN-45","Yulin","yes","ZGYL","YLX","ZGYL",,,"https://en.wikipedia.org/wiki/Yulin_Fumian_Airport",
 325171,"ZGYY","medium_airport","Yueyang Sanhe Airport",29.311699,113.281574,230,"AS","CN","CN-43","Yueyang (Yueyanglou)","yes","ZGYY","YYA","ZGYY","YYA",,"https://en.wikipedia.org/wiki/Yueyang_Sanhe_Airport",
 31874,"ZGZH","medium_airport","Liuzhou Bailian Airport / Bailian Air Base",24.2075,109.390999,295,"AS","CN","CN-45","Liuzhou (Liujiang)","yes","ZGZH","LZH","ZGZH",,,"https://en.wikipedia.org/wiki/Liuzhou_Bailian_Airport","Liujiang-Liuzhou Air Base"
-354995,"ZGZJ","medium_airport","Zhanjiang Wuchuan Airport",21.481667,110.590278,,"AS","CN","CN-44","Zhanjiang","yes","ZGZJ","ZHA","ZGZJ",,,"https://en.wikipedia.org/wiki/Zhanjiang_Wuchuan_Airport",
+354995,"ZGZJ","large_airport","Zhanjiang Wuchuan International Airport",21.481667,110.590278,,"AS","CN","CN-44","Zhanjiang","yes","ZGZJ","ZHA","ZGZJ",,,"https://en.wikipedia.org/wiki/Zhanjiang_Wuchuan_Airport",
 30670,"ZHAY","small_airport","Anyang Yindu Airport",36.1339,114.344002,,"AS","CN","CN-41","Anyang","no","ZHAY","AYN","ZHAY",,,"https://en.wikipedia.org/wiki/Anyang_Airport",
 27199,"ZHCC","large_airport","Zhengzhou Xinzheng International Airport",34.526497,113.849165,495,"AS","CN","CN-41","Zhengzhou","yes","ZHCC","CGO","ZHCC",,,"https://en.wikipedia.org/wiki/Zhengzhou_Xinzheng_International_Airport","Xinzheng Airport"
 347108,"ZHEC","large_airport","Ezhou Huahu Airport",30.341178,115.03926,86,"AS","CN","CN-42","Ezhou","yes","ZHEC","EHU","ZHEC",,,"https://en.wikipedia.org/wiki/Ezhou_Huahu_Airport","EHU, ZHEC"
@@ -84164,7 +84167,7 @@
 333096,"ZLHB","small_airport","Haibei Qilian Airport",38.008068,100.645065,10377,"AS","CN","CN-63","Haibei (Qilian)","yes","ZLHB","HBQ","ZLHB",,,"https://en.wikipedia.org/wiki/Qilian_Airport",
 319417,"ZLHX","medium_airport","Huatugou Airport",38.201645,90.837843,2945,"AS","CN","CN-63","Mengnai","yes","ZLHX","HTT","ZLHX",,,"https://en.wikipedia.org/wiki/Huatugou_Airport",
 31659,"ZLHZ","small_airport","Hanzhong Chenggu Airport",33.133527,107.203817,,"AS","CN","CN-61","Hanzhong (Chenggu)","yes","ZLHZ","HZG","ZLHZ",,,"https://en.wikipedia.org/wiki/Hanzhong_Chenggu_Airport",
-298989,"ZLIC","medium_airport","Yinchuan Hedong International Airport",38.322758,106.393214,3743,"AS","CN","CN-64","Yinchuan","yes","ZLIC","INC","ZLIC",,"http://www.ningxiaairport.com/","https://en.wikipedia.org/wiki/Yinchuan_Hedong_International_Airport",
+298989,"ZLIC","large_airport","Yinchuan Hedong International Airport",38.322758,106.393214,3743,"AS","CN","CN-64","Yinchuan","yes","ZLIC","INC","ZLIC",,"https://ningxia.cwag.com/","https://en.wikipedia.org/wiki/Yinchuan_Hedong_International_Airport","银川, 银川河东国际机场，宁夏"
 301010,"ZLJC","small_airport","Jinchang Jinchuan Airport",38.542222,102.348333,4740,"AS","CN","CN-62","Jinchang","yes","ZLJC","JIC","ZLJC",,,"https://en.wikipedia.org/wiki/Jinchang_Jinchuan_Airport",
 31699,"ZLJQ","large_airport","Jiayuguan International Airport",39.859052,98.339344,5112,"AS","CN","CN-62","Jiayuguan","yes","ZLJQ","JGN","ZLJQ",,,"https://en.wikipedia.org/wiki/Jiayuguan_Airport",
 27204,"ZLLL","large_airport","Lanzhou Zhongchuan International Airport",36.515202,103.620003,6388,"AS","CN","CN-62","Lanzhou (Yongdeng)","yes","ZLLL","LHW","ZLLL",,"http://lzzcairport.com/Home/Index","https://en.wikipedia.org/wiki/Lanzhou_Airport","ZGC, Datong Air Base, 兰州中川国际机场"
@@ -84177,7 +84180,7 @@
 32709,"ZLXN","large_airport","Xining Caojiabao International Airport",36.52775,102.040215,7119,"AS","CN","CN-63","Haidong (Huzhu Tu Autonomous County)","yes","ZLXN","XNN","ZLXN",,,"https://en.wikipedia.org/wiki/Xining_Caojiabao_International_Airport","Caojiabu, Caojiapu"
 27205,"ZLXY","large_airport","Xi'an Xianyang International Airport",34.447102,108.751999,1572,"AS","CN","CN-61","Xianyang (Weicheng)","yes","ZLXY","XIY","ZLXY",,"http://www.xxia.com/","https://en.wikipedia.org/wiki/Xi'an_Xianyang_International_Airport","西安咸阳国际机场, Xian"
 336112,"ZLYA","medium_airport","Yan'an Nanniwan Airport",36.479413,109.464083,,"AS","CN","CN-61","Yan'an (Baota)","yes","ZLYA","ENY","ZLYA","ENY",,"https://en.wikipedia.org/wiki/Yan%27an_Nanniwan_Airport",
-32563,"ZLYL","small_airport","Yulin Yuyang Airport",38.35971,109.590927,3891,"AS","CN","CN-61","Yulin","yes","ZLYL","UYN","ZLYL",,"http://www.cwag-yl.com/","https://en.wikipedia.org/wiki/Yulin_Yuyang_Airport",
+32563,"ZLYL","medium_airport","Yulin Yuyang Airport",38.35971,109.590927,3891,"AS","CN","CN-61","Yulin","yes","ZLYL","UYN","ZLYL",,"http://www.cwag-yl.com/","https://en.wikipedia.org/wiki/Yulin_Yuyang_Airport",
 300516,"ZLYS","medium_airport","Yushu Batang Airport",32.836389,97.036389,12816,"AS","CN","CN-63","Yushu (Batang)","yes","ZLYS","YUS","ZLYS",,,"https://en.wikipedia.org/wiki/Yushu_Batang_Airport",
 308462,"ZLZW","medium_airport","Zhongwei Shapotou Airport",37.573125,105.154454,4088,"AS","CN","CN-64","Zhongwei (Shapotou)","yes","ZLZW","ZHY","ZLZW",,,"https://en.wikipedia.org/wiki/Zhongwei_Shapotou_Airport",
 44221,"ZLZY","medium_airport","Zhangye Ganzhou Airport",38.801899,100.675003,5280,"AS","CN","CN-62","Zhangye (Ganzhou)","yes","ZLZY","YZY","ZLZY",,,"https://en.wikipedia.org/wiki/Zhangye_Ganzhou_Airport","Zhangye Southeast Air Base, 张掖甘州机场"
@@ -84301,7 +84304,7 @@
 27221,"ZSNJ","large_airport","Nanjing Lukou International Airport",31.735032,118.865949,49,"AS","CN","CN-32","Nanjing","yes","ZSNJ","NKG","ZSNJ",,,"https://en.wikipedia.org/wiki/Nanjing_Lukou_International_Airport",
 32048,"ZSNT","medium_airport","Nantong Xingdong International Airport",32.073566,120.980076,16,"AS","CN","CN-32","Nantong (Tongzhou)","yes","ZSNT","NTG","ZSNT",,,"https://en.wikipedia.org/wiki/Nantong_Xingdong_Airport",
 27222,"ZSOF","medium_airport","Hefei Xinqiao International Airport",31.98779,116.9769,207,"AS","CN","CN-34","Hefei","yes","ZSOF","HFE","ZSOF",,,"https://en.wikipedia.org/wiki/Hefei_Xinqiao_International_Airport",
-27223,"ZSPD","large_airport","Shanghai Pudong International Airport",31.1434,121.805,13,"AS","CN","CN-31","Shanghai (Pudong)","yes","ZSPD","PVG","ZSPD",,"https://www.shanghaiairport.com/index.html","https://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport",
+27223,"ZSPD","large_airport","Shanghai Pudong International Airport",31.1434,121.805,13,"AS","CN","CN-31","Shanghai (Pudong)","yes","ZSPD","PVG","ZSPD",,"https://www.shairport.com/enpd/","https://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport","上海, 上海浦东国际机场, 浦东"
 342096,"ZSQD","large_airport","Qingdao Jiaodong International Airport",36.361953,120.088171,30,"AS","CN","CN-37","Qingdao (Jiaozhou)","yes","ZSQD","TAO","ZSQD",,,"https://en.wikipedia.org/wiki/Qingdao_Jiaodong_International_Airport",
 31705,"ZSQZ","large_airport","Quanzhou Jinjiang International Airport",24.795855,118.588599,39,"AS","CN","CN-35","Quanzhou","yes","ZSQZ","JJN","ZSQZ",,,"https://en.wikipedia.org/wiki/Quanzhou_Jinjiang_International_Airport","Jinjiang Air Base, Chin Chiang, Qingyang"
 32235,"ZSRG","medium_airport","Rugao Air Base",32.258341,120.501131,,"AS","CN","CN-32","Rugao (Nantong)","no","ZSRG","RUG","ZSRG",,,,
@@ -84309,7 +84312,7 @@
 300863,"ZSSH","medium_airport","Huai'an Lianshui International Airport",33.790833,119.125,28,"AS","CN","CN-32","Huai'an","yes","ZSSH","HIA","ZSSH",,,"https://en.wikipedia.org/wiki/Huai'an_Lianshui_International_Airport",
 316774,"ZSSM","medium_airport","Sanming Shaxian Airport",26.4263,117.8336,830,"AS","CN","CN-35","Sanming (Sha)","yes","ZSSM","SQJ","ZSSM",,,"https://en.wikipedia.org/wiki/Sanming_Shaxian_Airport",
 316767,"ZSSR","medium_airport","Shangrao Sanqingshan Airport",28.3797,117.9643,340,"AS","CN","CN-36","Shangrao (Hengfeng)","yes","ZSSR","SQD","ZSSR",,,"https://en.wikipedia.org/wiki/Shangrao_Sanqingshan_Airport",
-27225,"ZSSS","large_airport","Shanghai Hongqiao International Airport",31.198104,121.33426,10,"AS","CN","CN-31","Shanghai (Minhang)","yes","ZSSS","SHA","ZSSS",,,"https://en.wikipedia.org/wiki/Shanghai_Hongqiao_International_Airport",
+27225,"ZSSS","large_airport","Shanghai Hongqiao International Airport",31.198104,121.33426,10,"AS","CN","CN-31","Shanghai (Minhang)","yes","ZSSS","SHA","ZSSS",,"http://www.shairport.com/enhq/index.html","https://en.wikipedia.org/wiki/Shanghai_Hongqiao_International_Airport","上海, 上海虹桥, 上海虹桥国际机场"
 32420,"ZSSZ","medium_airport","Suzhou Guangfu Airport",31.2631,120.401001,,"AS","CN","CN-32","Suzhou","no","ZSSZ","SZV","ZSSZ",,,"https://en.wikipedia.org/wiki/Suzhou_Guangfu_Airport",
 32489,"ZSTX","medium_airport","Tunxi International Airport",29.733299255371094,118.25599670410156,,"AS","CN","CN-34","Huangshan","yes","ZSTX","TXN","ZSTX",,,"https://en.wikipedia.org/wiki/Huangshan_Tunxi_International_Airport",
 348698,"ZSWA","medium_airport","Wuhu Xuanzhou Airport",31.1045,118.66687,80,"AS","CN","CN-34","Wuhu","yes","ZSWA","WHA","ZSWA","WHA",,"https://en.wikipedia.org/wiki/Wuhu_Xuanzhou_Airport",
@@ -84481,7 +84484,7 @@
 31576,"ZYHE","medium_airport","Heihe Aihui Airport",50.171621,127.308884,1047,"AS","CN","CN-23","Heihe","yes","ZYHE","HEK","ZYHE",,,"https://en.wikipedia.org/wiki/Heihe_Aihui_Airport",
 301009,"ZYJD","medium_airport","Daxing'anling Elunchun Airport",50.371389,124.1175,1205,"AS","CN","CN-23","Jiagedaqi","yes","ZYJD","JGD","ZYJD",,,"https://en.wikipedia.org/wiki/Daxing%27anling_Elunchun_Airport","Jagdaqi, Jiagedaqi"
 31701,"ZYJL","small_airport","Jilin Ertaizi Airport",44.002652,126.395244,,"AS","CN","CN-22","Jilin","no","ZYJL","JIL","ZYJL",,,"https://en.wikipedia.org/wiki/Jilin_Ertaizi_Airport",
-27239,"ZYJM","medium_airport","Jiamusi Dongjiao Airport",46.843399,130.464996,262,"AS","CN","CN-23","Jiamusi","yes","ZYJM","JMU","ZYJM",,,"https://en.wikipedia.org/wiki/Jiamusi_Dongjiao_Airport",
+27239,"ZYJM","medium_airport","Jiamusi Songjiang International Airport",46.842793,130.46426,262,"AS","CN","CN-23","Jiamusi","yes","ZYJM","JMU","ZYJM",,"https://www.cah.com.cn/content/2023/03-09/7039420142224150528.html","https://en.wikipedia.org/wiki/Jiamusi_Dongjiao_Airport","Jiamusi Dongjiao Airport, 佳木斯, 佳木斯东郊机场, 佳木斯松江机场"
 327450,"ZYJS","medium_airport","Jiansanjiang Shidi Airport",47.108248,132.65792,,"AS","CN","CN-23","Jiansanjiang","yes","ZYJS","JSJ","ZYJS",,,"https://en.wikipedia.org/wiki/Jiansanjiang_Airport",
 313337,"ZYJX","medium_airport","Jixi Xingkaihu Airport",45.293,131.193,760,"AS","CN","CN-23","Jixi","yes","ZYJX","JXA","ZYJX",,,"https://en.wikipedia.org/wiki/Jixi_Xingkaihu_Airport",
 339959,"ZYJZ","medium_airport","Jinzhou Bay Airport",40.936032,121.277114,,"AS","CN","CN-21","Jinzhou (Linghai)","yes","ZYJZ","JNZ","ZYJZ",,,"https://en.wikipedia.org/wiki/Jinzhou_Bay_Airport",
@@ -84489,13 +84492,13 @@
 335272,"ZYLY","small_airport","Liaoyang Air Base",41.277976,123.078729,57,"AS","CN","CN-21","Liaoyang","no",,,"ZYLY",,,,
 27240,"ZYMD","medium_airport","Mudanjiang Hailang International Airport",44.525172,129.568634,883,"AS","CN","CN-23","Mudanjiang","yes","ZYMD","MDG","ZYMD",,,"https://en.wikipedia.org/wiki/Mudanjiang_Hailang_International_Airport","Mudanjiang"
 301193,"ZYMH","medium_airport","Mohe Gulian Airport",52.916871,122.422759,1836,"AS","CN","CN-23","Mohe","yes","ZYMH","OHE","ZYMH",,,"https://en.wikipedia.org/wiki/Mohe_Gulian_Airport",
-27241,"ZYQQ","medium_airport","Qiqihar Sanjiazi Airport",47.239601135253906,123.91799926757812,477,"AS","CN","CN-23","Qiqihar","yes","ZYQQ","NDG","ZYQQ",,,"https://en.wikipedia.org/wiki/Qiqihar_Airport",
+27241,"ZYQQ","large_airport","Qiqihar Sanjiazi Airport",47.229969,123.914179,477,"AS","CN","CN-23","Qiqihar","yes","ZYQQ","NDG","ZYQQ",,,"https://en.wikipedia.org/wiki/Qiqihar_Airport","齐齐哈尔, 齐齐哈尔三家子机场"
 525154,"ZYSD","small_airport","Suifenhe Dongning Airport",44.453889,130.843889,1407,"AS","CN","CN-23","Suifenhe","no","ZYSD","HSF","ZYSD",,,"https://en.wikipedia.org/wiki/Suifenhe_Dongning_Airport",
 327451,"ZYSQ","medium_airport","Songyuan Chaganhu Airport",44.931143,124.552121,459,"AS","CN","CN-22","Qian Gorlos Mongol Autonomous County","yes","ZYSQ","YSQ","ZYSQ",,,"https://en.wikipedia.org/wiki/Songyuan_Chaganhu_Airport",
 307017,"ZYTH","small_airport","Da Hinggan Ling Targen Airport",52.224444,124.720222,1240,"AS","CN","CN-23","Tahe","no",,,"ZYTH",,,,"Tahe"
 27242,"ZYTL","large_airport","Dalian Zhoushuizi International Airport",38.965719,121.538477,107,"AS","CN","CN-21","Dalian (Ganjingzi)","yes","ZYTL","DLC","ZYTL",,"https://dlairport.com","https://en.wikipedia.org/wiki/Dalian_Zhoushuizi_International_Airport","Dalian Air Base"
 307013,"ZYTN","medium_airport","Tonghua Sanyuanpu Airport",42.048435,125.733963,1347,"AS","CN","CN-22","Tonghua","yes","ZYTN","TNH","ZYTN",,,"https://en.wikipedia.org/wiki/Tonghua_Sanyuanpu_Airport","Tonghua Liuhe Airport"
-27243,"ZYTX","large_airport","Shenyang Taoxian International Airport",41.639801,123.483002,198,"AS","CN","CN-21","Hunnan, Shenyang","yes","ZYTX","SHE","ZYTX",,,"https://en.wikipedia.org/wiki/Shenyang_Taoxian_International_Airport",
+27243,"ZYTX","large_airport","Shenyang Taoxian International Airport",41.6398,123.483668,198,"AS","CN","CN-21","Shenyang","yes","ZYTX","SHE","ZYTX",,,"https://en.wikipedia.org/wiki/Shenyang_Taoxian_International_Airport","沈阳, 沈阳桃仙国际机场"
 44182,"ZYXC","medium_airport","Xingcheng Air Base",40.580328,120.700374,30,"AS","CN","CN-21","Huludao (Xingcheng)","no","ZYXC","XEN","ZYXC",,,,
 600625,"ZYYC","small_airport","Yichun Airport",47.717936,128.830519,798,"AS","CN","CN-23","Yichun","no","ZYYC",,"ZYYC",,,,"LDS"
 27244,"ZYYJ","medium_airport","Yanji Chaoyangchuan Airport",42.8828010559,129.451004028,624,"AS","CN","CN-22","Yanji","yes","ZYYJ","YNJ","ZYYJ",,,"https://en.wikipedia.org/wiki/Yanji_Chaoyangchuan_Airport",
