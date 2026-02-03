@@ -21537,14 +21537,14 @@
 2049,"DAAE","large_airport","Soummam–Abane Ramdane Airport",36.712547,5.069909,20,"AF","DZ","DZ-06","Béjaïa","yes","DAAE","BJA","DAAE","BJ1",,"https://en.wikipedia.org/wiki/Abane_Ramdane_Airport","Béjaïa, Soummam"
 314958,"DAAF","small_airport","Aoulef Airport",27.0624,1.1111,1017,"AF","DZ","DZ-01","Aoulef","no",,,"DAAF",,,,
 2050,"DAAG","large_airport","Houari Boumediene Airport",36.693886,3.214531,82,"AF","DZ","DZ-16","Algiers","yes","DAAG","ALG","DAAG",,,"https://en.wikipedia.org/wiki/Houari_Boumediene_Airport","Algiers, Maison Blanche"
-2051,"DAAJ","large_airport","Djanet Inedbirene Airport",24.285448,9.463652,3176,"AF","DZ","DZ-56","Djanet","yes","DAAJ","DJG","DAAJ",,,"https://en.wikipedia.org/wiki/Djanet_Inedbirene_Airport","Tiska Djanet Airport"
+2051,"DAAJ","large_airport","Tiska Djanet Airport",24.285448,9.463652,3176,"AF","DZ","DZ-56","Djanet","yes","DAAJ","DJG","DAAJ",,,"https://en.wikipedia.org/wiki/Djanet_Inedbirene_Airport","Djanet Inedbirene Airport"
 2052,"DAAK","medium_airport","Boufarik Air Base",36.545799,2.87611,335,"AF","DZ","DZ-09","Boufarik","no","DAAK",,"DAAK",,,"https://en.wikipedia.org/wiki/Boufarik_Airport","QFD"
 30872,"DAAM","small_airport","Telerghma Airport",36.1087,6.3646,2484,"AF","DZ","DZ-43","Telerghma","no","DAAM",,"DAAM",,,"https://en.wikipedia.org/wiki/Telergma_Airport",
 2053,"DAAN","small_airport","Reggane Air Base",26.712418,0.288219,955,"AF","DZ","DZ-01","Reggane","no","DAAN",,"DAAN",,,"https://en.wikipedia.org/wiki/Reggane_Airport",
 2054,"DAAP","medium_airport","Illizi Takhamalt Airport",26.723499,8.62265,1778,"AF","DZ","DZ-33","Illizi","yes","DAAP","VVZ","DAAP",,,"https://en.wikipedia.org/wiki/Illizi_Airport",
 2055,"DAAQ","small_airport","Ain Oussera Airport",35.525398,2.87871,2132,"AF","DZ","DZ-17","Ain Oussera","no","DAAQ",,"DAAQ",,,"https://en.wikipedia.org/wiki/A%C3%AFn_Oussera_Airport",
 32193,"DAAS","medium_airport","Ain Arnat Airport",36.178488,5.329909,3360,"AF","DZ","DZ-19","Sétif","yes","DAAS","QSF","DAAS",,"https://www.egsa-constantine.dz/setif.html","https://en.wikipedia.org/wiki/Ain_Arnat_Airport","Sétif International Airport, 8 Mai 45 Airport"
-2056,"DAAT","medium_airport","Aguenar – Hadj Bey Akhamok Airport",22.811501,5.45108,4518,"AF","DZ","DZ-11","Tamanrasset","yes","DAAT","TMR","DAAT",,,"https://en.wikipedia.org/wiki/Tamanrasset_Airport",
+2056,"DAAT","large_airport","Aguenar – Hadj Bey Akhamok Airport",22.810992,5.450832,4518,"AF","DZ","DZ-11","Tamanrasset","yes","DAAT","TMR","DAAT",,,"https://en.wikipedia.org/wiki/Tamanrasset_Airport",
 2057,"DAAV","large_airport","Jijel Ferhat Abbas Airport",36.794125,5.873652,36,"AF","DZ","DZ-18","Tahir","yes","DAAV","GJL","DAAV",,,"https://en.wikipedia.org/wiki/Jijel_Ferhat_Abbas_Airport",
 30873,"DAAW","small_airport","Bordj Omar Driss Airport",28.136042,6.836156,1207,"AF","DZ","DZ-33","Bordj Omar Driss","no","DAAW",,"DAAW",,,"https://en.wikipedia.org/wiki/Bordj_Omar_Driss_Airport",
 312616,"DAAX","small_airport","Chéraga Airport",36.7782,2.9284,396,"AF","DZ","DZ-16","Chéraga","no","DAAX",,"DAAX",,,,
@@ -64190,6 +64190,7 @@
 601967,"TH-0059","closed","Chiang Klang Airport",19.293955,100.857266,,"AS","TH","TH-55",,"no",,,,,,"https://en.wikipedia.org/wiki/Chiang_Klang_Airport",
 601968,"TH-0060","closed","Kan Emergency Landing Ground",18.665639,100.767031,,"AS","TH","TH-55",,"no",,,,,,,
 603364,"TH-0061","small_airport","Navy 3M Aviation Airfield",12.835402,100.925318,,"AS","TH","TH-20","Sattahip","no",,,,,,,
+604415,"TH-0062","small_airport","Ayudthaya Airfield",14.276916,100.647792,,"AS","TH","TH-14","Bang Pa-In","no",,,,,,,
 313984,"THW","seaplane_base","Trincomalee Harbor Waterdrome",8.56,81.22,0,"AS","LK","LK-5","Trincomalee","no",,"THW",,,,,
 6369,"TIST","large_airport","Cyril E. King Airport",18.337091,-64.977251,23,"NA","VI","VI-ST","Charlotte Amalie","yes","TIST","STT","TIST","STT","http://www.viport.com/airports.html","https://en.wikipedia.org/wiki/Cyril_E._King_Airport","Harry S. Truman Airport"
 6370,"TISX","large_airport","Henry E. Rohlsen Airport",17.701413,-64.802608,74,"NA","VI","VI-SC","Christiansted","yes","TISX","STX","TISX","STX","https://www.viport.com/herastx","https://en.wikipedia.org/wiki/Henry_E._Rohlsen_Airport","St Croix"
@@ -80270,7 +80271,7 @@
 26602,"VOAT","medium_airport","Agatti Airport",10.8237,72.176003,14,"AS","IN","IN-LD","Agatti","yes","VOAT","AGX","VOAT",,,"https://en.wikipedia.org/wiki/Agatti_Aerodrome",
 26603,"VOBG","medium_airport","HAL Airport",12.95,77.668198,2912,"AS","IN","IN-KA","Bangalore","no",,,"VOBG",,,"https://en.wikipedia.org/wiki/HAL_Bangalore_International_Airport","Bengaluru, Hindustan Airport, HAL Airport, Hindustan Aeronautics"
 26604,"VOBI","medium_airport","Bellary Airport",15.162799835205078,76.88279724121094,30,"AS","IN","IN-KA","Bellary","no","VOBI","BEP","VOBI",,,"https://en.wikipedia.org/wiki/Bellary_Airport","Jindal Vijayanagar, Vijaynagar"
-35145,"VOBL","large_airport","Kempegowda International Airport Bengaluru",13.1979,77.706299,3000,"AS","IN","IN-KA","Bangaluru","yes","VOBL","BLR","VOBL",,"http://www.bengaluruairport.com/home/home.jspx","https://en.wikipedia.org/wiki/Kempegowda_International_Airport","Bangalore"
+35145,"VOBL","large_airport","Kempegowda International Airport Bengaluru",13.1979,77.706299,3000,"AS","IN","IN-KA","Bengaluru","yes","VOBL","BLR","VOBL",,"http://www.bengaluruairport.com/home/home.jspx","https://en.wikipedia.org/wiki/Kempegowda_International_Airport","Bangalore"
 26605,"VOBR","medium_airport","Bidar Airport / Bidar Air Force Station",17.9081,77.487099,2178,"AS","IN","IN-KA","Bidar","no","VOBR","IXX","VOBR",,,"https://en.wikipedia.org/wiki/Bidar_Airport",
 26606,"VOBZ","large_airport","Vijayawada International Airport",16.530011,80.804888,82,"AS","IN","IN-AP","Vijayawada","yes","VOBZ","VGA","VOBZ",,"https://www.aai.aero/en/airports/vijayawada","https://en.wikipedia.org/wiki/Vijayawada_Airport",
 26607,"VOCB","large_airport","Coimbatore International Airport",11.03,77.043404,1324,"AS","IN","IN-TN","Coimbatore","yes","VOCB","CJB","VOCB",,"http://www.airportsindia.org.in/allAirports/coimbatore_generalinfo.jsp","https://en.wikipedia.org/wiki/Coimbatore_Airport",
@@ -80328,7 +80329,7 @@
 26633,"VRMG","large_airport","Gan International Airport",-0.692975,73.152627,6,"AS","MV","MV-01","Gan","yes","VRMG","GAN","VRMG",,"https://ganairport.com","https://en.wikipedia.org/wiki/Gan_International_Airport","Addu City, Gan Airport"
 26634,"VRMH","large_airport","Hanimaadhoo International Airport",6.743235,73.167072,4,"AS","MV","MV-23","Haa Dhaalu Atoll","yes","VRMH","HAQ","VRMH",,,"https://en.wikipedia.org/wiki/Hanimaadhoo_Internatioal_Airport",
 26635,"VRMK","medium_airport","Kadhdhoo Airport",1.8591699600219727,73.52189636230469,4,"AS","MV","MV-05","Kadhdhoo","yes","VRMK","KDO","VRMK",,,"https://en.wikipedia.org/wiki/Kadhdhoo_Airport",
-26636,"VRMM","large_airport","Malé International Airport",4.191830158233643,73.52909851074219,6,"AS","MV","MV-MLE","Malé","yes","VRMM","MLE","VRMM",,"http://www.airports.com.mv/","https://en.wikipedia.org/wiki/Mal%C3%A9_International_Airport",
+26636,"VRMM","large_airport","Velana International Airport",4.19183,73.529099,6,"AS","MV","MV-MLE","Malé","yes","VRMM","MLE","VRMM",,"https://www.airports.com.mv/","https://en.wikipedia.org/wiki/Mal%C3%A9_International_Airport","Malé International Airport"
 308991,"VRMO","small_airport","Kooddoo Airport",0.7324,73.4336,29,"AS","MV","MV-27","Huvadhu Atoll","yes","VRMO","GKK","VRMO",,,"https://en.wikipedia.org/wiki/Kooddoo_Airport",
 26637,"VRMT","medium_airport","Kaadedhdhoo Airport",0.488131,72.996902,2,"AS","MV","MV-28","Huvadhu Atoll","yes","VRMT","KDM","VRMT",,,"https://en.wikipedia.org/wiki/Kaadedhdhoo_Domestic_Airport",
 330376,"VRMU","small_airport","Dhaalu Atoll Airport",2.666075,72.887118,6,"AS","MV","MV-17","Kudahuvadhoo","no","VRMU","DDD","VRMU",,,"https://en.wikipedia.org/wiki/Dhaalu_Airport",
