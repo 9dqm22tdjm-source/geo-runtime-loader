@@ -25175,6 +25175,7 @@
 316528,"ET-0013","closed","Degah Bur Airport",8.234,43.5673,3550,"AF","ET","ET-SO","Degah Bur","no",,,,,,,"HADB, HADB, DGC"
 347322,"ET-0014","closed","Buno Bedelle Airport",8.447604,36.341035,6560,"AF","ET","ET-OR","Bedelle","no",,,,,,,"XBL, XBL"
 599255,"ET-0015","closed","Bulchi Airport",6.288333,36.886667,4500,"AF","ET","ET-SN","Sawla","no",,,,,,,"BCY, HABU, Felege Neway, Bulk’ī"
+604510,"ET-0016","closed","Bishoftu International Airport(Under Construction)",8.697235,38.798834,,"AF","ET","ET-OR","Bishoftu","no",,,,,,"https://en.wikipedia.org/wiki/Bishoftu_International_Airport",
 31534,"ET-GLC","small_airport","Geladi Airport",6.984439849849999,46.4213981628,1383,"AF","ET","ET-SO","Geladi","no",,"GLC","HAGL",,,,
 32294,"ET-SHC","small_airport","Shire Inda Selassie Airport",14.075699,38.273592,6207,"AF","ET","ET-TI","Shire Inda Selassie","yes",,"SHC","HASR",,,"https://en.wikipedia.org/wiki/Shire_Airport","Indaselassie, Indasilase"
 300112,"ET31","heliport","Sheridan Barracks Landing Area",47.482778,11.066944,2362,"EU","DE","DE-BY","Garmisch-Partenkirchen","no",,,,,,,
@@ -30070,6 +30071,7 @@
 600275,"GR-0106","heliport","Poros Heliport",37.505836,23.457475,16,"EU","GR","GR-I","Poros","no",,,,,,,"Πόρος"
 601163,"GR-0107","heliport","Nea Roda (Ierissos) landing spot",40.377698,23.924441,,"EU","GR","GR-B",,"no",,,,,,,"helipad, landing spot"
 601166,"GR-0108","heliport","Sani Resort Helicopter Landing Spot",40.100461,23.310443,,"EU","GR","GR-B",,"no",,,,,,,
+604508,"GR-0109","medium_airport","(Duplicate)Kasteli Hellenic Air Force Base",35.191341,25.326588,,"AS","GR","GR-M","Kasteli","no",,,,,,"https://en.wikipedia.org/wiki/Kasteli_Airport#History_as_an_Air_Force_Base",
 311387,"GRC","small_airport","Grand Cess Airport",4.571,-8.2076,28,"AF","LR","LR-GK","Grand Cess","no",,"GRC",,,,,
 342429,"GS-0001","heliport","Grytviken Emergency Helipad",-54.2824,-36.5095,27,"AN","GS","GS-U-A","Grytviken","no",,,,,,,
 42230,"GT-0001","small_airport","Chiquimula Airport",14.83092,-89.520938,1484,"NA","GT","GT-CQ","Chiquimula","no",,"CIQ","MGCQ",,,"https://en.wikipedia.org/wiki/Chiquimula_Airport",
@@ -30235,7 +30237,7 @@
 30865,"HCMC","small_airport","Candala Airport",11.495627,49.909816,30,"AF","SO","SO-BR","Candala","no","HCMC","CXN","HCMC",,,"https://en.wikipedia.org/wiki/Candala_Airport","Qandala"
 302296,"HCMD","small_airport","Baardheere Airport",2.330195,42.311802,396,"AF","SO","SO-GE","Baardheere","no","HCMD","BSY","HCMD",,,"https://en.wikipedia.org/wiki/Bardera_Airport","Bardera"
 31571,"HCME","small_airport","Eil Airport",8.104,49.82,879,"AF","SO","SO-NU","Eyl","no","HCME","HCM","HCME",,,"https://en.wikipedia.org/wiki/Eyl_Airport","Eyl"
-30792,"HCMF","small_airport","Bosaso / Bender Qassim International Airport",11.275235,49.139231,3,"AF","SO","SO-BR","Bosaso","yes","HCMF","BSA","HCMF",,,"https://en.wikipedia.org/wiki/Bosaso_Airport",
+30792,"HCMF","large_airport","Bender Qassim International Airport",11.275235,49.139231,3,"AF","SO","SO-BR","Bosaso","yes","HCMF","BSA","HCMF",,,"https://en.wikipedia.org/wiki/Bosaso_Airport",
 31552,"HCMG","small_airport","Gardo Airport",9.545975,49.119148,2632,"AF","SO","SO-BR","Gardo","no","HCMG","GSR","HCMG",,,"https://en.wikipedia.org/wiki/Qardho_Airport",
 3171,"HCMH","large_airport","Egal International Airport",9.514082,44.083469,4471,"AF","SO","SO-WO","Hargeisa","yes","HCMH","HGA","HCMH",,,"https://en.wikipedia.org/wiki/Hargeisa_International_Airport","Madaarka Caalamiga a ee Cigaal, مطار هرجيسا إيغال الدولية‎)"
 3172,"HCMI","medium_airport","Berbera Airport",10.385035,44.936723,30,"AF","SO","SO-WO","Berbera","yes","HCMI","BBO","HCMI",,,"https://en.wikipedia.org/wiki/Berbera_Airport",
@@ -39369,7 +39371,7 @@
 20001,"KGZH","small_airport","Evergreen Regional Airport/Middleton Field",31.4158,-87.043999,259,"NA","US","US-AL","Evergreen","no",,,"KGZH","GZH","http://www.evergreenal.org/middleton-field.html","https://en.wikipedia.org/wiki/Middleton_Field","39J, Middleton Field"
 319542,"KGZN","small_airport","Gregory M. Simmons Memorial Airport",32.367348,-99.023642,1711,"NA","US","US-TX","Cisco","no",,,"KGZN","GZN",,,
 20002,"KGZS","small_airport","Abernathy Field",35.153702,-87.056801,685,"NA","US","US-TN","Pulaski","no",,,"KGZS","GZS",,"https://en.wikipedia.org/wiki/Abernathy_Field",
-339963,"KH-0001","small_airport","Dara Sakor International Airport",10.914244,103.226652,60,"AS","KH","KH-9","Ta Noun","no",,"DSY","VDDS",,"http://darasakor-airport.com/en/","https://en.wikipedia.org/wiki/Dara_Sakor_International_Airport","Krong Khemara Phoumin, អាកាសយានដ្ឋានអន្តរជាតិតារាសាគរ"
+339963,"KH-0001","large_airport","Dara Sakor International Airport",10.914244,103.226652,60,"AS","KH","KH-9","Ta Noun","yes",,"DSY","VDDS",,"https://darasakor-airport.com/en/","https://en.wikipedia.org/wiki/Dara_Sakor_International_Airport","Krong Khemara Phoumin, អាកាសយានដ្ឋានអន្តរជាតិតារាសាគរ"
 342098,"KH-0002","large_airport","Techo International Airport",11.359987,104.921272,20,"AS","KH","KH-8","Phnom Penh (Boeng Khyang)","yes","VDTI","KTI","VDTI",,"https://www.techoairport.com.kh/","https://en.wikipedia.org/wiki/Techo_International_Airport_(Cambodia)",
 26476,"KH-0003","closed","Siem Reap International Airport",13.410676,103.812074,60,"AS","KH","KH-17","Siem Reap","no",,,,,"http://www.cambodia-airports.com/siemreap/en","https://en.wikipedia.org/wiki/Siem_Reap_International_Airport","REP, VDSR"
 31781,"KH-0004","closed","Kratie Airport",12.489017,106.05469,102,"AS","KH","KH-10","Kratie","no",,,,,,"https://en.wikipedia.org/wiki/Krati%C3%A9_Airport","KTI, VDKT"
@@ -43478,7 +43480,7 @@
 4287,"LGST","medium_airport","Sitia Airport",35.21609878540039,26.101299285888672,376,"EU","GR","GR-M","Crete Island","yes","LGST","JSH","LGST",,,"https://en.wikipedia.org/wiki/Sitia_Public_Airport",
 4289,"LGSY","small_airport","Skiros Airport",38.9676017761,24.4871997833,44,"EU","GR","GR-H","Skiros Island","yes","LGSY","SKU","LGSY",,,"https://en.wikipedia.org/wiki/Skyros_Island_National_Airport",
 4290,"LGTG","medium_airport","Tanagra Air Base",38.339802,23.565001,495,"EU","GR","GR-H","Tanagra","no",,,"LGTG",,,"https://en.wikipedia.org/wiki/Tanagra_Air_Base",
-4291,"LGTL","small_airport","Kasteli Airport",35.192001,25.327,1180,"EU","GR","GR-M","Crete Island","no",,,"LGTL",,,"https://en.wikipedia.org/wiki/Kasteli_Airport","Καστελίου"
+4291,"LGTL","closed","Kasteli International Airport(Under Construction)",35.172803,25.313068,1180,"AS","GR","GR-M","Crete Island","no",,,,,"https://www.heraklion-airport.gr/en/the-new-airport","https://en.wikipedia.org/wiki/Kasteli_Airport","Καστελίου, LGTL"
 4292,"LGTP","small_airport","Tripolis Air Base",37.530602,22.403601,2113,"EU","GR","GR-J","Trípoli","no",,,"LGTP",,,"https://en.wikipedia.org/wiki/Tripoli_Airport_(Greece)",
 4293,"LGTS","large_airport","Thessaloniki Macedonia International Airport",40.51928,22.970009,22,"EU","GR","GR-B","Thessaloniki","yes","LGTS","SKG","LGTS",,"https://www.skg-airport.gr/en","https://en.wikipedia.org/wiki/Thessaloniki_Airport","Makedonia. Macedonia. Salonica"
 4294,"LGTT","small_airport","Tatoi Airport",38.108898,23.7838,785,"EU","GR","GR-I","Tatoi","no",,,"LGTT",,,"https://en.wikipedia.org/wiki/Tatoi_Airport",
@@ -45282,7 +45284,7 @@
 355972,"MM-0011","heliport","Zin Bar Heliport",14.679519,98.35862,2474,"AS","MM","MM-05","Yebyu","no",,,,,,,
 32622,"MM-0012","closed","Sedoktayar Airport",20.444466,94.242377,500,"AS","MM","MM-03","Sedoktayar","no",,,,,,,"VYSO, VYSO"
 603355,"MM-0013","closed","Hanthawaddy International Airport (Under Construction)",17.300476,96.427308,,"AS","MM","MM-02","Bago","no",,,,,,"https://en.wikipedia.org/wiki/Hanthawaddy_International_Airport","Bago, ဟံသာဝတီအပြည်ပြည်ဆိုင်ရာလေဆိပ်"
-4864,"MM10","small_airport","Isla Cedros Airport",28.039031,-115.189419,98,"NA","MX","MX-BCN","Cedros Island","yes",,,"MMCD","ICD",,"https://en.wikipedia.org/wiki/Isla_de_Cedros_Airport","MM10"
+4864,"MM10","small_airport","Isla Cedros Airport",28.039031,-115.189419,98,"NA","MX","MX-BCN","Cedros Island","yes","MMCD",,"MMCD","ICD",,"https://en.wikipedia.org/wiki/Isla_de_Cedros_Airport","MM10"
 4865,"MM11","small_airport","El Durangueño Airport",24.418301,-104.886001,8202,"NA","MX","MX-DUR","Canatlan","no",,,,"DAG",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Rancho_El_Durangue%C3%B1o","MM11, Rancho El Durangueno Airport"
 4866,"MM12","small_airport","Bacubirito Airport",25.815701,-107.907997,591,"NA","MX","MX-SIN","Sinaloa de Leyva","no",,,"MM12","BCU",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Bacubirito",
 4867,"MM13","small_airport","Camargo Airport",27.5989,-105.103996,4265,"NA","MX","MX-CHH","Santa Rosalia de Camargo","no",,,,"CCA",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Ciudad_Camargo","MM13, Ciudad Camargo Southeast Airport"
@@ -45338,7 +45340,7 @@
 43060,"MMCC","small_airport","Ciudad Acuña New International Airport",29.333662,-101.100555,1410,"NA","MX","MX-COA","Ciudad Acuña","no","MMCC","ACN","MMCC","EFN",,"https://en.wikipedia.org/wiki/Ciudad_Acu%C3%B1a_International_Airport",
 4694,"MMCE","medium_airport","Ciudad del Carmen International Airport",18.65369987487793,-91.79900360107422,10,"NA","MX","MX-CAM","Ciudad del Carmen","yes","MMCE","CME","MMCE",,,"https://en.wikipedia.org/wiki/Ciudad_del_Carmen_International_Airport",
 4695,"MMCG","small_airport","Aeropuerto Municipal de Nuevo Casas Grandes",30.3974,-107.875,4850,"NA","MX","MX-CHH","Nuevo Casas Grandes","no","MMCG","NCG","MMCG","NCG",,"https://en.wikipedia.org/wiki/Nuevo_Casas_Grandes_Municipal_Airport",
-4696,"MMCH","small_airport","Chilpancingo National Airport",17.574111,-99.515374,4199,"NA","MX","MX-GRO","Chilpancingo","no",,,"MMCH","CHG",,"https://en.wikipedia.org/wiki/Chilpancingo_National_Airport",
+4696,"MMCH","small_airport","Chilpancingo National Airport",17.574111,-99.515374,4199,"NA","MX","MX-GRO","Chilpancingo","no","MMCH",,"MMCH","CHG",,"https://en.wikipedia.org/wiki/Chilpancingo_National_Airport",
 4697,"MMCL","large_airport","Bachigualato Federal International Airport",24.76504,-107.475228,108,"NA","MX","MX-SIN","Culiacán","yes","MMCL","CUL","MMCL",,,"https://en.wikipedia.org/wiki/Bachigualato_Federal_International_Airport","Federal de Bachigualato International Airport, Culiacán International Airport"
 4698,"MMCM","medium_airport","Chetumal International Airport",18.504985,-88.328018,39,"NA","MX","MX-ROO","Chetumal","yes","MMCM","CTM","MMCM",,"http://chetumal.asa.gob.mx/wb/webasa/chetumal_aeropuertos","https://en.wikipedia.org/wiki/Chetumal_International_Airport","Aeropuerto Internacional de Chetumal"
 4699,"MMCN","medium_airport","Ciudad Obregón International Airport",27.39259910583496,-109.83300018310547,243,"NA","MX","MX-SON","Ciudad Obregón","yes","MMCN","CEN","MMCN",,"http://obregon.asa.gob.mx/wb/webasa/obregon_aeropuertos","https://en.wikipedia.org/wiki/Ciudad_Obreg%C3%B3n_International_Airport",
@@ -45363,7 +45365,7 @@
 4712,"MMHC","small_airport","Tehuacán National Airport",18.49722,-97.42011,5509,"NA","MX","MX-PUE","Tehuacán","no","MMHC","TCN","MMHC",,,"https://en.wikipedia.org/wiki/Tehuac%C3%A1n_Airport",
 4713,"MMHO","large_airport","General Ignacio L. Pesqueira International Airport",29.092811,-111.053015,627,"NA","MX","MX-SON","Hermosillo","yes","MMHO","HMO","MMHO",,,"https://en.wikipedia.org/wiki/Hermosillo_International_Airport",
 4714,"MMIA","medium_airport","Licenciado Miguel de la Madrid International Airport",19.277,-103.577002,2467,"NA","MX","MX-COL","Colima","yes","MMIA","CLQ","MMIA","COL",,"https://en.wikipedia.org/wiki/Lic._Miguel_de_la_Madrid_Airport","Aeropuerto Internacional Licenciado Miguel de la Madrid, Colima Airport"
-4715,"MMIM","small_airport","Isla Mujeres National Airport",21.245962,-86.740365,7,"NA","MX","MX-ROO","Isla Mujeres","no","MMIM","ISJ","MMIM",,,"https://en.wikipedia.org/wiki/Isla_Mujeres_National_Airport","Aeropuerto Nacional de Isla Mujeres"
+4715,"MMIM","small_airport","Isla Mujeres National Airport",21.245962,-86.740365,16,"NA","MX","MX-ROO","Isla Mujeres","no","MMIM","ISJ","MMIM",,,"https://en.wikipedia.org/wiki/Isla_Mujeres_National_Airport","Aeropuerto Nacional de Isla Mujeres"
 4716,"MMIO","large_airport","Plan De Guadalupe International Airport",25.53786,-100.928346,4778,"NA","MX","MX-COA","Saltillo","yes","MMIO","SLW","MMIO",,,"https://en.wikipedia.org/wiki/Plan_de_Guadalupe_International_Airport","Saltillo International Airport"
 4717,"MMIT","medium_airport","General Antonio Cárdenas Rodríguez National Airport / Ixtepec Air Base",16.445961,-95.093708,164,"NA","MX","MX-OAX","Ixtepec","yes","MMIT","IZT","MMIT",,,"https://en.wikipedia.org/wiki/Ixtepec_Airport","Aeropuerto Nacional General Antonio Cárdenas Rodríguez"
 4718,"MMJA","medium_airport","El Lencero Airport",19.475107,-96.797008,3127,"NA","MX","MX-VER","Emiliano Zapata","no","MMJA","JAL","MMJA",,,"https://en.wikipedia.org/wiki/El_Lencero_Airport","Xalapa"
@@ -46564,7 +46566,7 @@
 322969,"MX-0410","small_airport","Cuixmala Airport",19.379351,-104.987386,36,"NA","MX","MX-JAL","La Huerta","no",,,,"CIX",,,
 322970,"MX-0411","heliport","Helipuerto Comisión Nacional de Seguridad",19.316187,-99.22046,8110,"NA","MX","MX-DIF","Magdalena Contreras","no",,,,"PFP","http://www.cns.gob.mx/portalWebApp/wlp.c?__c=7f9",,"Pedregal Tower"
 322980,"MX-0412","small_airport","San Luis de Ocosingo Airport",16.891884,-92.054834,3035,"NA","MX","MX-CHP","Ocosingo","no",,,,"OCO",,,
-323046,"MX-0413","small_airport","Air Station No. 8 Loma Bonita",18.023333,-95.853611,174,"NA","MX","MX-OAX","Loma Bonita","no",,,,,,"https://es.wikipedia.org/wiki/Estaci%C3%B3n_a%C3%A9rea_n.%C2%B0_8_Loma_Bonita","MX67"
+323046,"MX-0413","small_airport","Air Station No. 8 Loma Bonita",18.023333,-95.853611,174,"NA","MX","MX-OAX","Loma Bonita","no","MMLB",,"MMLB","LMB",,"https://es.wikipedia.org/wiki/Estaci%C3%B3n_a%C3%A9rea_n.%C2%B0_8_Loma_Bonita","MX67"
 323390,"MX-0414","small_airport","Tayoltita Airport",24.109686,-105.922812,1837,"NA","MX","MX-DUR","San Dimas","no",,,,"TAY",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Tayoltita",
 323391,"MX-0415","small_airport","Topía Airport",25.210781,-106.569451,5738,"NA","MX","MX-DUR","Topía","no",,,,"TOP",,,
 323392,"MX-0416","small_airport","Canelas Airstrip",25.128263,-106.552689,,"NA","MX","MX-DUR","Canelas","no",,,,"CAN",,,
@@ -52024,7 +52026,7 @@
 330829,"PE-0009","small_airport","San Lorenzo Airport",-4.824369,-76.56032,433,"SA","PE","PE-LOR","San Lorenzo","no",,,"SPQM",,,"https://en.wikipedia.org/wiki/San_Lorenzo_Airport,_Peru",
 333783,"PE-0010","small_airport","Pativilca Airstrip",-10.705015,-77.800884,144,"SA","PE","PE-LIM","Pativilca","no",,,,,,,
 333784,"PE-0011","small_airport","Patao Airport",-10.714039,-77.746854,381,"SA","PE","PE-LIM","Barranca","no",,,,,,,
-342110,"PE-0012","closed","Chinchero International Airport (under construction)",-13.3915,-72.069,12169,"SA","PE","PE-CUS","Chinchero","no",,,,,,"https://en.wikipedia.org/wiki/Chinchero_International_Airport",
+342110,"PE-0012","closed","Chinchero International Airport (Under Construction)",-13.3915,-72.069,12169,"SA","PE","PE-CUS","Chinchero","no",,,,,,"https://en.wikipedia.org/wiki/Chinchero_International_Airport",
 351487,"PE-0013","heliport","Pucallpa Air Force Heliport",-8.3515,-74.5819,505,"SA","PE","PE-UCA","Pucallpa","no",,,,,,,
 351488,"PE-0014","small_airport","Misión SAM Airport",-8.35681,-74.66043,486,"SA","PE","PE-UCA","Pucallpa","no",,,,,,,
 351489,"PE-0015","heliport","Puerto Anapati Heliport",-11.92859,-73.9877,1496,"SA","PE","PE-JUN","Puerto Anapati","no",,,,,,,
@@ -56271,7 +56273,7 @@
 312682,"SAM","small_airport","Salamo Airport",-9.6701,150.7903,30,"OC","PG","PG-MBA","Salamo","no",,"SAM",,"SAO",,"https://en.wikipedia.org/wiki/Salamo_Airport","Fergusson Is."
 29889,"SAMA","small_airport","General Alvear Airport",-35.058899,-67.692802,1489,"SA","AR","AR-M","General Alvear","no",,,"SAMA","GNA",,"https://en.wikipedia.org/wiki/General_Alvear_Airport",
 41551,"SAMC","small_airport","Cristo Redentor Airport",-32.807300567599995,-70.06819915770001,10477,"SA","AR","AR-M","Cristo Redentor","no",,,"SAMC","CRI",,,
-5786,"SAME","large_airport","Governor Francisco Gabrielli International Airport",-32.831699,-68.7929,2310,"SA","AR","AR-M","Mendoza","yes","SAME","MDZ","SAME","DOZ","https://www.aeropuertosargentina.com/en/MDZ\","https://en.wikipedia.org/wiki/Governor_Francisco_Gabrielli_International_Airport","El Plumerillo International Airport"
+5786,"SAME","large_airport","Governor Francisco Gabrielli International Airport",-32.831699,-68.7929,2310,"SA","AR","AR-M","Mendoza","yes","SAME","MDZ","SAME","DOZ","https://www.aeropuertosargentina.com/en/MDZ","https://en.wikipedia.org/wiki/Governor_Francisco_Gabrielli_International_Airport","El Plumerillo International Airport"
 41552,"SAMH","small_airport","Valle Hermoso Airport",-35.1461982727,-70.2053985596,2500,"SA","AR","AR-M","Valle Hermoso","no",,,"SAMH","VHE",,,
 41553,"SAMJ","small_airport","Jachal Airport",-30.248242,-68.764791,3790,"SA","AR","AR-J","Jachal","no",,,"SAMJ","JAC",,"https://en.wikipedia.org/wiki/J%C3%A1chal_Airport",
 41554,"SAML","small_airport","Punta De Vacas Airport",-32.854599,-69.760498,7906,"SA","AR","AR-M","Punta de Vacas","no",,,"SAML","PDV",,"https://en.wikipedia.org/wiki/Punta_de_Vacas_Heliport",
@@ -60834,7 +60836,7 @@
 6128,"SKLG","small_airport","Caucaya Airport",-0.182278,-74.7708,573,"SA","CO","CO-PUT","Puerto Leguízamo","yes","SKLG","LQM","SKLG","LQM",,"https://en.wikipedia.org/wiki/Caucay%C3%A1_Airport",
 6129,"SKLM","medium_airport","Jorge Isaac Airport",11.2325,-72.4901,281,"SA","CO","CO-LAG","La Mina-Maicao","no","SKLM","MCJ","SKLM","LMA",,"https://en.wikipedia.org/wiki/Jorge_Isaacs_Airport",
 31844,"SKLP","small_airport","La Pedrera Airport",-1.324882,-69.581294,590,"SA","CO","CO-AMA","La Pedrera","yes","SKLP","LPD","SKLP","LPD",,"https://en.wikipedia.org/wiki/La_Pedrera_Airport",
-6130,"SKLT","medium_airport","Alfredo Vásquez Cobo International Airport",-4.191147,-69.942003,277,"NA","CO","CO-AMA","Leticia","yes","SKLT","LET","SKLT","LET",,"https://en.wikipedia.org/wiki/V%C3%A1squez_Cobo_International_Airport",
+6130,"SKLT","medium_airport","Alfredo Vásquez Cobo International Airport",-4.191147,-69.942003,277,"SA","CO","CO-AMA","Leticia","yes","SKLT","LET","SKLT","LET",,"https://en.wikipedia.org/wiki/V%C3%A1squez_Cobo_International_Airport",
 6131,"SKMA","small_airport","Major Justino Mariño Cuesto Air Base",4.727953,-74.2756,8325,"SA","CO","CO-CUN","Madrid","no",,,"SKMA",,,"https://en.wikipedia.org/wiki/Major_Justino_Mari%C3%B1o_Cuesto_Air_Base",
 41082,"SKMB","small_airport","Timbiqui Airport",2.778569,-77.668045,145,"SA","CO","CO-CAU","Timbiqui","no","SKMB","TBD","SKMB","TBD",,"https://en.wikipedia.org/wiki/Timbiqui_Airport",
 6132,"SKMD","medium_airport","Enrique Olaya Herrera Airport",6.219686,-75.590597,4949,"SA","CO","CO-ANT","Medellín","yes","SKMD","EOH","SKMD","EOH",,"https://en.wikipedia.org/wiki/Enrique_Olaya_Herrera_International_Airport",
@@ -80497,7 +80499,7 @@
 26702,"VVPB","medium_airport","Phu Bai International Airport",16.400628,107.703094,48,"AS","VN","VN-NC","Huế","yes","VVPB","HUI","VVPB",,,"https://en.wikipedia.org/wiki/Phu_Bai_International_Airport","Phubai"
 26703,"VVPC","medium_airport","Phu Cat Airport",13.955,109.042,80,"AS","VN","VN-SCC","Quy Nohn","yes","VVPC","UIH","VVPC",,"https://vietnamairport.vn/phucatairport/","https://en.wikipedia.org/wiki/Phu_Cat_Airport","Phucat"
 26704,"VVPK","medium_airport","Pleiku Airport",14.004500389099121,108.01699829101562,2434,"AS","VN","VN-CH","Pleiku","yes","VVPK","PXU","VVPK",,,"https://en.wikipedia.org/wiki/Pleiku_Air_Base",
-26705,"VVPQ","large_airport","Phú Quốc International Airport",10.167759,103.995451,37,"AS","VN","VN-SW","Phu Quoc Island","yes","VVPQ","PQC","VVPQ",,"https://sunwairport.vn","https://en.wikipedia.org/wiki/Phu_Quoc_International_Airport",
+26705,"VVPQ","large_airport","Phú Quốc International Airport",10.169783,103.99353,37,"AS","VN","VN-SW","Phu Quoc Island","yes","VVPQ","PQC","VVPQ",,"https://sunwairport.vn","https://en.wikipedia.org/wiki/Phu_Quoc_International_Airport",
 26706,"VVPR","small_airport","Phan Rang Airport",11.6335,108.952003,101,"AS","VN","VN-SCC","Phan Rang","no","VVPR","PHA","VVPR",,,"https://en.wikipedia.org/wiki/Phan_Rang_Air_Base",
 32580,"VVRG","medium_airport","Rach Gia Airport",9.95802997234,105.132379532,7,"AS","VN","VN-SW","Rach Gia","yes","VVRG","VKG","VVRG",,,"https://en.wikipedia.org/wiki/Rach_Gia_Airport",
 26707,"VVTH","medium_airport","Dong Tac Airport",13.0496,109.334,20,"AS","VN","VN-SCC","Tuy Hoa","yes","VVTH","TBB","VVTH",,,"https://en.wikipedia.org/wiki/%C4%90%C3%B4ng_T%C3%A1c_(Tuy_Hoa)_Airport",
