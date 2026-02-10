@@ -16027,7 +16027,7 @@
 37909,"BR-3080","small_airport","Fazenda São Jorge Airport",-17.524061,-54.821186,1683,"SA","BR","BR-MT","Itiquira","no",,,,,,,"SWIJ"
 37913,"BR-3081","small_airport","Fazenda Triângulo Airport",-17.621323,-50.142009,1562,"SA","BR","BR-GO","Edéia","no",,,,,,,"SWIO"
 37924,"BR-3082","small_airport","Fazenda Januarinho Airport",-15.050278,-57.500557,755,"SA","BR","BR-MT","Salto do Céu","no",,,,,,,"SWJJ"
-37925,"BR-3083","small_airport","Fazenda São Paulo Airport",-14.980438,-51.333375,984,"SA","BR","BR-GO","Britânia","no",,,,"SWJK",,,"SWJK"
+37925,"BR-3083","small_airport","Fazenda São Paulo Airport",-14.980438,-51.333375,876,"SA","BR","BR-GO","Britânia","no",,,"SNP6","GO0394",,,"SWJK"
 37930,"BR-3084","small_airport","Fazenda União Airport",-11.948888778687,-54.515556335449,1180,"SA","BR","BR-MT","Santa Carmen","no",,,,"SWJR",,,"SWJR"
 37931,"BR-3085","small_airport","Fazenda Samambaia Airport",-15.486111,-51.269444,692,"SA","BR","BR-GO","Jussara","no",,,,"SWJS",,,"SWJS"
 37933,"BR-3086","small_airport","Juruena Airport",-10.305833,-58.489445,525,"SA","BR","BR-MT","Juruena","no",,"JRN",,"SWJU",,"https://en.wikipedia.org/wiki/Juruena_Airport","SWJU"
@@ -19289,7 +19289,7 @@
 318233,"CN-0058","closed","Donggang (Gongxingdun) Airport",39.948964,124.145162,,"AS","CN","CN-21","Dandong (Chengguan)","no",,,,,,"https://en.wikipedia.org/wiki/Gongxingdun_Airport",
 44137,"CN-0059","small_airport","Guangzhou East Airfield",23.1647,113.369003,,"AS","CN","CN-44","Guangzhou (Tianhe)","no",,,,,,,
 318340,"CN-0060","small_airport","Haibei Airport",36.990726,100.857505,,"AS","CN","CN-63","Haibei (Haiyan)","no",,,,,,,
-323881,"CN-0062","small_airport","Bazhong Enyang Airport",31.73842,106.644872,1804,"AS","CN","CN-51","Bazhong (Enyang)","yes","ZUBZ","BZX","ZUBZ","BZX",,"https://en.wikipedia.org/wiki/Bazhong_Enyang_Airport",
+323881,"CN-0062","medium_airport","Bazhong Enyang Airport",31.73842,106.644872,1804,"AS","CN","CN-51","Bazhong","yes","ZUBZ","BZX","ZUBZ","BZX",,"https://en.wikipedia.org/wiki/Bazhong_Enyang_Airport",
 44141,"CN-0063","medium_airport","Guiping Mengxu Air Base",23.330799,110.009003,171,"AS","CN","CN-45","Guiping (Guigang)","no",,,,,,,
 44142,"CN-0064","closed","Haikou Dayingshan (Haikou City) Airport",20.0189,110.347,,"AS","CN","CN-46","Haikou (Meilan)","no",,,,,,,
 323882,"CN-0065","closed","Hanzhong Xiguan Airport",33.063599,107.008003,1660,"AS","CN","CN-61","Hanzhong (Hantai)","no",,,,,,"https://en.wikipedia.org/wiki/Hanzhong_Xiguan_Airport","HZG, ZLHZ"
@@ -19467,7 +19467,7 @@
 350946,"CN-0250","small_airport","Yancheng Jianhu General Airport",33.42127,119.72231,5,"AS","CN","CN-32","Yancheng","no",,,,,,,
 350947,"CN-0251","heliport","Binhai Eastern General Heliport",39.05072,117.73315,,"AS","CN","CN-12","Binhai","no",,,,,,,
 350948,"CN-0252","small_airport","Xueye Aeronautics Technology Sports Park",36.43788,117.56978,770,"AS","CN","CN-37","Laiwu","no",,,,,,,
-350949,"CN-0253","small_airport","Jiande Qiandaohu General Airport",29.360905,119.180829,249,"AS","CN","CN-33","Hangzhou","no",,"JDE",,,,,
+350949,"CN-0253","medium_airport","Jiande Qiandaohu General Airport",29.360905,119.180829,249,"AS","CN","CN-33","Hangzhou","no",,"JDE",,,,,
 350950,"CN-0254","closed","Nanning Lingli General Airport (under construction)",22.8519,108.7806,233,"AS","CN","CN-45","Nanning","no",,,,,,,
 350951,"CN-0255","small_airport","Xinchang Wanfeng General Airport",29.4535,121.0104,682,"AS","CN","CN-33","Shaoxing","no",,,,,,,
 350952,"CN-0256","small_airport","Xi'an Aerospace Base General Airport",34.13324,108.9848,1824,"AS","CN","CN-61","Xi'an (Chang'an)","no",,,,,,,
@@ -19679,7 +19679,7 @@
 595941,"CN-0470","small_airport","Zhuzhou Lusong Airport",27.771768,113.207248,231,"AS","CN","CN-43","Zhuzhou","no",,,,,,,
 597654,"CN-0471","small_airport","Hump Tongyong Aviation",30.846557,103.61043,2074,"AS","CN","CN-51","Dujiangyan City Chengdu","no",,,,,,,
 597727,"CN-0472","small_airport","Rizhao City Lanshan General Airport",35.087326,119.300545,3,"AS","CN","CN-37","Lanshan","no",,,,,,,"Andongwei"
-597730,"CN-0473","small_airport","Jiande Hospital Heliport",29.345012,119.198245,177,"AS","CN","CN-33","Hangzhou","no",,,,,,,
+597730,"CN-0473","heliport","Jiande Hospital Heliport",29.345012,119.198245,177,"AS","CN","CN-33","Hangzhou","no",,,,,,,
 597737,"CN-0474","heliport","Houma Army Heliport",35.663868,111.407621,1432,"AS","CN","CN-14","Houma","no",,,,,,,
 597937,"CN-0475","closed","Xi'an Xiguan Airport",34.249,108.894999,,"AS","CN","CN-61",,"no",,,,,,"https://en.wikipedia.org/wiki/Xi%27an_Xiguan_Airport",
 598595,"CN-0476","medium_airport","Bengbu Tenghu Airport (U.C.)",33.165808,117.057295,72,"AS","CN","CN-34","Bengbu","no","ZSBA","BFY","ZSBA",,,"https://en.wikipedia.org/wiki/Bengbu_Tenghu_Airport","蚌埠腾湖机场"
@@ -50567,7 +50567,7 @@
 29870,"NZFT","small_airport","Flat Point Aerodrome",-41.243385,175.960228,46,"OC","NZ","NZ-WGN","Flat Point","no",,,"NZFT",,,,
 340683,"NZFX","small_airport","Phoenix Airfield",-77.956389,166.766667,18,"AN","AQ","AQ-U-A","McMurdo Station","no",,,"NZFX",,,"https://en.wikipedia.org/wiki/Phoenix_Airfield",
 29886,"NZGA","small_airport","Galatea Airfield",-38.4039,176.744003,594,"OC","NZ","NZ-BOP",,"no",,,"NZGA",,,"https://en.wikipedia.org/wiki/Galatea_Aerodrome",
-29913,"NZGB","small_airport","Great Barrier Aerodrome",-36.24140167236328,175.4720001220703,20,"OC","NZ","NZ-AUK","Claris","no","NZGB","GBZ","NZGB",,,"https://en.wikipedia.org/wiki/Great_Barrier_Aerodrome",
+29913,"NZGB","small_airport","Great Barrier Aerodrome",-36.241402,175.472,20,"OC","NZ","NZ-AUK","Claris","yes","NZGB","GBZ","NZGB",,,"https://en.wikipedia.org/wiki/Great_Barrier_Aerodrome",
 29901,"NZGC","small_airport","Gore3 Airport",-46.1567,168.897995,200,"OC","NZ","NZ-STL",,"no",,,"NZGC",,,"https://en.wikipedia.org/wiki/Gore_Aerodrome",
 319531,"NZGH","heliport","Glacier Country Heliport",-43.38722,170.18,457,"OC","NZ","NZ-WTC","Franz Josef Glacier","no",,,"NZGH",,,,
 44808,"NZGI","heliport","Garden City Heliport",-43.49330139160156,172.54800415039062,89,"OC","NZ","NZ-CAN","Christchurch","no",,,"NZGI",,,,
@@ -50609,7 +50609,7 @@
 44834,"NZJZ","heliport","Taupo Hospital Heliport",-38.69860076904297,176.0989990234375,1349,"OC","NZ","NZ-WKO","Taupo","no",,,"NZJZ",,,,
 30021,"NZKC","small_airport","Kelly Field",-37.256099700927734,175.07200622558594,52,"OC","NZ","NZ-WKO",,"no",,,"NZKC",,,,
 44819,"NZKD","small_airport","Motu Kaikoura Island Aerodrome",-36.1781005859375,175.32400512695312,400,"OC","NZ","NZ-AUK","Kaikoura Island","no",,,"NZKD",,,,
-30547,"NZKE","small_airport","Waiheke Island Aerodrome",-36.808899,175.085999,226,"OC","NZ","NZ-AUK","Waiheke Island","no","NZKE","WIK","NZKE",,,"https://en.wikipedia.org/wiki/Waiheke_Island_Aerodrome","Carsons, Reeve"
+30547,"NZKE","small_airport","Waiheke Island Aerodrome",-36.808899,175.085999,445,"OC","NZ","NZ-AUK","Waiheke Island","no","NZKE","WIK","NZKE",,,"https://en.wikipedia.org/wiki/Waiheke_Island_Aerodrome","Carsons, Reeve"
 30002,"NZKF","small_airport","Kaipara Flats Airport",-36.40639877319336,174.58700561523438,112,"OC","NZ","NZ-AUK",,"no",,,"NZKF",,,,
 44812,"NZKH","heliport","Kenepuru Hospital Heliport",-41.14500045776367,174.8350067138672,89,"OC","NZ","NZ-WGN","Wellington","no",,,"NZKH",,,,
 30001,"NZKI","small_airport","Kaikoura Airport",-42.424999,173.604996,20,"OC","NZ","NZ-CAN",,"no","NZKI","KBZ","NZKI",,,"https://en.wikipedia.org/wiki/Kaikoura_Airport",
@@ -50661,7 +50661,7 @@
 429845,"NZOR","heliport","Oamaru Hospital Heliport",-45.099344,170.967479,13,"OC","NZ","NZ-OTA","Oamaru","no",,,"NZOR",,,,
 329325,"NZOT","small_airport","Otaki Airport",-40.785582,175.1513,114,"OC","NZ","NZ-WGN","Otaki","yes",,,"NZOT",,,,
 5047,"NZOU","medium_airport","Oamaru Airport",-44.970001,171.082001,99,"OC","NZ","NZ-OTA",,"no","NZOU","OAM","NZOU",,,"https://en.wikipedia.org/wiki/Oamaru_Aerodrome",
-30208,"NZOX","small_airport","Okiwi Station Airport",-36.1464,175.419006,10,"OC","NZ","NZ-AUK",,"no",,,"NZOX",,,"https://en.wikipedia.org/wiki/Okiwi_Airfield",
+30208,"NZOX","small_airport","Okiwi Station Airport",-36.1464,175.419006,10,"OC","NZ","NZ-AUK",,"yes",,,"NZOX",,,"https://en.wikipedia.org/wiki/Okiwi_Airfield",
 30232,"NZPA","small_airport","Paihia Private Airport",-35.28219985961914,174.09100341796875,20,"OC","NZ","NZ-NTL",,"no",,,"NZPA",,,,
 30300,"NZPH","small_airport","Pudding Hill Aerodrome",-43.594200134277344,171.531005859375,1558,"OC","NZ","NZ-CAN",,"no",,,"NZPH",,,,
 30242,"NZPI","small_airport","Parakai Aerodrome",-36.651901,174.436005,49,"OC","NZ","NZ-AUK",,"no",,,"NZPI",,,"https://en.wikipedia.org/wiki/West_Auckland_Airport",
@@ -53112,6 +53112,7 @@
 595637,"PK-0091","heliport","Army Medical Corps Center Lawn Emergency Helipad",34.15998,73.22833,3934,"AS","PK","PK-KP","Abbottabad","no",,,,,,,
 601075,"PK-0092","medium_airport","Mai Bakhtawar International Airport",24.846862,70.096109,182,"AS","PK","PK-SD","Islamkot","no",,,,,,"https://en.wikipedia.org/wiki/Mai_Bakhtawar_International_Airport","Mithi"
 604062,"PK-0093","heliport","Muzaffarabad Airport Helipad",34.341521,73.505268,,"AS","PK","PK-JK","Muzaffarabad","no",,,,,,,
+604557,"PK-0094","heliport","SUPARCO Heliport",24.917811,66.924606,85,"AS","PK","PK-SD","Karachi,","no",,,,,,"https://en.wikipedia.org/wiki/SUPARCO",
 41628,"PK-BHC","small_airport","Bhurban Heliport",33.96099853515625,73.4520034790039,5750,"AS","PK","PK-KP","Bhurban","no",,"BHC",,,,,
 41629,"PK-CWP","small_airport","Campbellpore Airport",33.766700744628906,72.36689758300781,1175,"AS","PK","PK-PB","Campbellpore","no",,"CWP",,,,,
 41630,"PK-GRT","small_airport","Gujrat Airport",32.62826,74.067287,760,"AS","PK","PK-PB","Gujrat","no",,"GRT",,,,,
@@ -56963,7 +56964,7 @@
 39259,"SCQL","small_airport","El Boco Airport",-32.851112,-71.246391,459,"SA","CL","CL-VS","Quillota","no",,,"SCQL",,"https://clubaereoquillota.cl/","https://en.wikipedia.org/wiki/El_Boco_Airport",
 39260,"SCQM","small_airport","Las Quemas Airport",-40.638332,-73.127792,250,"SA","CL","CL-LL","Osorno","no",,,"SCQM",,,"https://en.wikipedia.org/wiki/Osorno_Airport",
 45072,"SCQO","small_airport","Quitralco Airport",-45.580556,-73.225556,46,"SA","CL","CL-AI","Aysén","no",,,"SCQO",,,,
-314783,"SCQP","medium_airport","La Araucanía Airport",-38.9259,-72.6515,333,"SA","CL","CL-AR","Temuco","yes","SCQP","ZCO","SCQP",,,"https://en.wikipedia.org/wiki/La_Araucan%C3%ADa_International_Airport",
+314783,"SCQP","large_airport","La Araucanía International Airport",-38.9259,-72.6515,333,"SA","CL","CL-AR","Temuco","yes","SCQP","ZCO","SCQP",,,"https://en.wikipedia.org/wiki/La_Araucan%C3%ADa_International_Airport",
 39261,"SCQR","small_airport","Los Morros Airport",-36.122624,-72.804916,7,"SA","CL","CL-NB","Cobquecura","no",,,"SCQR",,,"https://en.wikipedia.org/wiki/Los_Morros_Airport",
 6035,"SCQT","small_airport","LasTacas Airport",-30.096399,-71.364098,140,"SA","CL","CL-CO","Quebrada Las Tacas","no",,,"SCQT",,,"https://en.wikipedia.org/wiki/Las_Tacas_Airport",
 39262,"SCQW","small_airport","Quemchi Airport",-42.152779,-73.516945,393,"SA","CL","CL-LL","Quemchi","no",,,"SCQW",,,"https://en.wikipedia.org/wiki/Quemchi_Airport",
@@ -60875,7 +60876,7 @@
 6151,"SKPP","medium_airport","Guillermo León Valencia Airport",2.454359,-76.609253,5687,"SA","CO","CO-CAU","Popayán","yes","SKPP","PPN","SKPP","PPN",,"https://en.wikipedia.org/wiki/Guillermo_Leon_Valencia_Airport",
 6152,"SKPQ","medium_airport","German Olano Air Base",5.48361,-74.6574,566,"SA","CO","CO-CUN","La Dorada","no","SKPQ","PAL","SKPQ","PQE",,"https://en.wikipedia.org/wiki/Captain_Germ%C3%A1n_Olano_Moreno_Air_Base","Palanquero Airport"
 6153,"SKPR","small_airport","Puerto Berrio Airport",6.46034,-74.4105,445,"SA","CO","CO-ANT","Puerto Berrio","no","SKPR","PBE","SKPR","PBE",,"https://en.wikipedia.org/wiki/Morela_Airport",
-6154,"SKPS","medium_airport","Antonio Nariño Airport",1.39625,-77.2915,5951,"SA","CO","CO-NAR","Chachagüí","yes","SKPS","PSO","SKPS","PSO",,"https://en.wikipedia.org/wiki/Antonio_Nari%C3%B1o_Airport","Pasto"
+6154,"SKPS","medium_airport","Antonio Nariño Airport",1.396722,-77.29093,5951,"NA","CO","CO-NAR","Chachagüí","yes","SKPS","PSO","SKPS","PSO",,"https://en.wikipedia.org/wiki/Antonio_Nari%C3%B1o_Airport","Pasto"
 6155,"SKPV","medium_airport","El Embrujo Airport",13.357461,-81.357977,10,"NA","CO","CO-SAP","Providencia","yes","SKPV","PVA","SKPV","PVA",,"https://en.wikipedia.org/wiki/El_Embrujo_Airport",
 6156,"SKPZ","medium_airport","Paz De Ariporo Airport",5.87615,-71.8866,900,"SA","CO","CO-CAS","Paz De Ariporo","no","SKPZ","PZA","SKPZ","PZA",,"https://en.wikipedia.org/wiki/Paz_de_Ariporo_Airport",
 6157,"SKQU","medium_airport","Mariquita Airport",5.21256,-74.8836,1531,"SA","CO","CO-TOL","Mariquita","no","SKQU","MQU","SKQU","MQU",,"https://en.wikipedia.org/wiki/Mariquita_Airport",
@@ -61720,6 +61721,11 @@
 37210,"SNOW","small_airport","Fazenda Turmalina Airport",-21.982995,-50.972232,1378,"SA","BR","BR-SP","Rancharia","no",,,"SNOW","SP0232",,,"Martinópolis"
 364,"SNOX","small_airport","Oriximiná Airport",-1.71408,-55.836201,262,"SA","BR","BR-PA","Oriximiná","no","SNOX","ORX","SNOX","SNOX",,"https://en.wikipedia.org/wiki/Oriximin%C3%A1_Airport",
 366,"SNOZ","small_airport","Coronel Alexandre Raposo Airport",-2.52097,-44.1213,154,"SA","BR","BR-MA","Paço Do Lumiar","no",,,"SNOZ","SNOZ",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Pa%C3%A7o_do_Lumiar",
+604574,"SNP2","heliport","N1 Meia Praia Heliport",-27.124925,-48.604935,13,"SA","BR","BR-SC","Itapema","no",,,"SNP2","SC0247",,,
+604573,"SNP3","small_airport","Fazenda Conquista Airport",-21.984981,-56.152444,1022,"SA","BR","BR-MS","Bela Vista","no",,,"SNP3","MS0761",,,
+604576,"SNP4","small_airport","Fazenda Continental Airport",-11.494939,-55.205919,1191,"SA","BR","BR-MT","Cláudia","no",,,"SNP4","MT1104",,,
+604578,"SNP5","small_airport","Fazenda São Pedro Airport",-18.770234,-56.512008,358,"SA","BR","BR-MS","Corumbá","no",,,"SNP5","MS0793",,,
+604581,"SNP7","small_airport","Fazenda Reata Airport",-10.568011,-55.962094,919,"SA","BR","BR-MT","Nova Canaã do Norte","no",,,"SNP7","MT1103",,,
 367,"SNPA","small_airport","Pará de Minas Airport",-19.8426,-44.6012,2753,"SA","BR","BR-MG","Pará de Minas","no",,,"SNPA","MG0052",,,
 368,"SNPC","small_airport","Picos Airport",-7.061385,-41.525871,1099,"SA","BR","BR-PI","Picos","no","SNPC","PCS","SNPC","PI0009",,"https://en.wikipedia.org/wiki/Picos_Airport",
 369,"SNPD","small_airport","Patos de Minas Airport",-18.672673,-46.491292,2794,"SA","BR","BR-MG","Patos de Minas","no","SNPD","POJ","SNPD","MG0010",,"https://en.wikipedia.org/wiki/Patos_de_Minas_Airport","Pedro Pereira dos Santos"
@@ -62132,7 +62138,7 @@
 39651,"SPSJ","small_airport","San José de Sisa Airport",-6.616489887237549,-76.68840026855469,1200,"SA","PE","PE-SAM","El Dorado","no",,,"SPSJ",,,,
 39652,"SPSL","small_airport","Lamas Airport",-6.416666507720947,-76.53333282470703,2600,"SA","PE","PE-SAM","Lamas","no",,,"SPSL",,,,
 39653,"SPSN","small_airport","Shapaja Airport",-6.5797200202941895,-76.26280212402344,700,"SA","PE","PE-SAM","Shapaja","no",,,"SPSN",,,,
-6236,"SPSO","medium_airport","Captain Renán Elías Olivera International Airport",-13.7449,-76.220299,39,"SA","PE","PE-ICA","Pisco","no","SPSO","PIO","SPSO",,,"https://en.wikipedia.org/wiki/Capit%C3%A1n_FAP_Ren%C3%A1n_El%C3%ADas_Olivera_Airport","Capitán FAP Renán Elías Olivera"
+6236,"SPSO","large_airport","Captain Renán Elías Olivera International Airport",-13.7449,-76.220299,39,"SA","PE","PE-ICA","Pisco","no","SPSO","PIO","SPSO",,,"https://en.wikipedia.org/wiki/Capit%C3%A1n_FAP_Ren%C3%A1n_El%C3%ADas_Olivera_Airport","Capitán FAP Renán Elías Olivera"
 39654,"SPSS","small_airport","Masisea Airport",-8.61142,-74.309962,522,"SA","PE","PE-UCA","Masisea","no",,,"SPSS",,,,
 6237,"SPST","medium_airport","Cadete FAP Guillermo Del Castillo Paredes Airport",-6.508739948272705,-76.37319946289062,869,"SA","PE","PE-SAM","Tarapoto","yes","SPST","TPP","SPST",,,"https://en.wikipedia.org/wiki/Cad._FAP_Guillermo_del_Castillo_Paredes_Airport",
 39655,"SPSY","small_airport","Shiringayoc Airport",-11.898,-69.0625,856,"SA","PE","PE-MDD","Shiringayoc","no","SPSY","SYC","SPSY",,,,
@@ -62146,7 +62152,7 @@
 32376,"SPTR","small_airport","Tournavista Airport",-8.922406,-74.715234,649,"SA","PE","PE-HUC","Tournavista","no",,,"SPTR",,,,
 6239,"SPTU","medium_airport","Padre Aldamiz International Airport",-12.6135997772,-69.2285995483,659,"SA","PE","PE-MDD","Puerto Maldonado","yes","SPTU","PEM","SPTU",,,"https://en.wikipedia.org/wiki/Padre_Aldamiz_International_Airport","Puerto Maldonado International Airport"
 39658,"SPUC","small_airport","Huamachuco Airport",-7.81808,-78.02834,10367,"SA","PE","PE-LAL","Huamachuco","no",,,"SPUC",,,"https://en.wikipedia.org/wiki/Huamachuco_Airport",
-6240,"SPUR","medium_airport","Capitán FAP Guillermo Concha Iberico International Airport",-5.20574998856,-80.61640167239999,120,"SA","PE","PE-PIU","Piura","yes","SPUR","PIU","SPUR",,,"https://en.wikipedia.org/wiki/Cap._FAP_Guillermo_Concha_Iberico_International_Airport",
+6240,"SPUR","medium_airport","PAF Captain Guillermo Concha Iberico International Airport",-5.20575,-80.616402,120,"SA","PE","PE-PIU","Piura","yes","SPUR","PIU","SPUR",,,"https://en.wikipedia.org/wiki/Cap._FAP_Guillermo_Concha_Iberico_International_Airport",
 39659,"SPVA","small_airport","Hacienda El Valor Airport",-5.672621,-78.644257,,"SA","PE","PE-AMA","El Valor","no",,,"SPVA",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_El_Valor",
 39607,"SPVI","small_airport","Vicco Airport",-10.847844,-76.246956,13464,"SA","PE","PE-PAS","Vicco","no",,,"SPVI",,,"https://en.wikipedia.org/wiki/Vicco_Airport",
 32377,"SPVL","small_airport","Caraveli Airport",-15.77904,-73.36176,5675,"SA","PE","PE-ARE","Caraveli","no",,,"SPVL",,,,
@@ -62245,6 +62251,7 @@
 595638,"SS-0067","closed","Natinga Airstrip",4.30506,34.07833,,"AF","SS","SS-EE","Natinga","no",,,,,,,
 600774,"SS0L","heliport","Parque São Lourenço II Heliport",-22.766792,-47.245392,2041,"SA","BR","BR-SP","Nova Odessa","no",,,"SS0L","SP1227",,,
 45926,"SS1","seaplane_base","North Country Seaplane Base",46.369833,-91.798,1000,"NA","US","US-WI","Solon Springs","no",,,"SS1","SS1",,,
+604571,"SS1L","small_airport","Fazenda Laguna Airstrip",-14.724292,-45.409781,1867,"SA","BR","BR-GO","Barro Alto","no",,,"SS1L","GO0421",,,
 600776,"SS1P","small_airport","Fazenda Formosa Principal Airstrip",-10.706835,-45.409719,2513,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SS1P","BA0121",,,
 565162,"SS22","small_airport","Fazenda Pintassilgo Airport",-11.63365,-56.181522,1247,"SA","BR","BR-MT","Tabaporã","no",,,"SS22","MT1082",,,
 565167,"SS23","small_airport","Aero Zolet Airstrip",-28.860255,-51.334424,2495,"SA","BR","BR-RS","Antônio Prado","no",,,"SS23","RS0214",,,
@@ -67531,7 +67538,7 @@
 13434,"US-10573","closed","Vliet Airport",40.742704,-74.95858,460,"NA","US","US-NJ","Washington","no",,,,,,,"6NJ1"
 13437,"US-10574","closed","Griffin Associates Heliport",39.972099,-74.919601,68,"NA","US","US-NJ","Moorestown","no",,,,,,,"6NJ4"
 13441,"US-10575","closed","Lance Airport",40.591801,-74.791298,275,"NA","US","US-NJ","Whitehouse Station","no",,,,,,,"6NJ8, 6NJ8"
-13442,"US-10576","closed","Bridgeport-Cahill Field",39.795874,-75.342264,15,"NA","US","US-NJ","Bridgeport","no",,,,,,,"6NJ9, 6NJ9"
+13442,"US-10576","closed","Bridgeport-Cahill Field",39.795874,-75.342264,15,"NA","US","US-NJ","Bridgeport","no",,,,,,,"6NJ9, Bridgeport Airport, N83"
 13445,"US-10577","closed","Casey's Airport",42.756401,-78.175598,1600,"NA","US","US-NY","Warsaw","no",,,,,,,"6NK1"
 13466,"US-10578","closed","R C Ford Field",41.705101,-83.828796,700,"NA","US","US-OH","Berkey","no",,,,,,,"6OH3"
 13473,"US-10579","closed","Derecsky Airport",41.375853,-81.253541,1185,"NA","US","US-OH","Chagrin Falls","no",,,,,,,"6OI0"
@@ -70089,6 +70096,10 @@
 604280,"US-12903","small_airport","Promised Landings Airport",30.31164,-90.835818,7,"NA","US","US-LA","Prairieville","no",,,"74LA","74LA",,,
 604295,"US-12904","heliport","GOH Greens Landing",41.921138,-76.526165,784,"NA","US","US-PA","Milan","no",,,"PA85","PA85",,,
 604316,"US-12905","small_airport","Frontier Airport",37.581944,-78.357933,470,"NA","US","US-VA","Dillwyn","no",,,"VG44","VG44",,,
+604559,"US-12906","closed","Ocean County Airport/Osbornville Airport",40.04,-74.114,13,"NA","US","US-U-A","Osbornville","no",,,,,,,"Brick Airport, Osbornville, Osbornville Airport, Huppert's Airport"
+604562,"US-12907","closed","Red Bank Airport",40.327,-74.08,43,"NA","US","US-NJ","Red Bank","no",,,,,,"https://www.airfields-freeman.com/NJ/Airfields_NJ_E.htm#redbank","Red Bank"
+604564,"US-12908","closed","Rudy's Airport",39.555,-75.064,88,"NA","US","US-NJ","Vineland","no",,,,,,,"Rudy's Airport, Rudy, 25N"
+604565,"US-12909","closed","Piney Hollow Airfield",39.593029,-74.901261,90,"NA","US","US-NJ","Monroe","no",,,,,,,"80N, Piney Hollow"
 334347,"US-1291","small_airport","Porcupine Ridge Airport",34.511795,-108.037748,7540,"NA","US","US-NM","Pie Town","no",,,"NM30","NM30",,,
 334351,"US-1292","closed","Brentwood Ambulatory Care Center Heliport",41.3163,-81.568889,868,"NA","US","US-OH","Northfield","no",,,,,,,"80OI"
 334352,"US-1293","heliport","George Washington University Hospital Heliport",38.900903,-77.051132,174,"NA","US","US-DC","Washington","no",,,"24DC","24DC",,,
@@ -84131,7 +84142,7 @@
 323217,"ZBXZ","small_airport","Xinzhou Wutaishan Airport",38.597456,112.969173,2527,"AS","CN","CN-14","Xinzhou","yes","ZBXZ","WUT","ZBXZ",,,"https://en.wikipedia.org/wiki/Xinzhou_Wutaishan_Airport",
 300455,"ZBYC","large_airport","Yuncheng Yanhu International Airport",35.117823,111.034023,1242,"AS","CN","CN-61","Yuncheng (Yanhu)","yes","ZBYC","YCU","ZBYC",,,"https://en.wikipedia.org/wiki/Yuncheng_Zhangxiao_Airport","Yuncheng Guangong Airport"
 27193,"ZBYN","large_airport","Taiyuan Wusu International Airport",37.746899,112.627998,2575,"AS","CN","CN-14","Taiyuan","yes","ZBYN","TYN","ZBYN",,,"https://en.wikipedia.org/wiki/Taiyuan_Wusu_International_Airport",
-314499,"ZBYZ","medium_airport","Bayannur Tianjitai Airport",40.926,107.7428,3400,"AS","CN","CN-15","Bavannur","yes","ZBYZ","RLK","ZBYZ",,,"https://en.wikipedia.org/wiki/Bayannur_Tianjitai_Airport",
+314499,"ZBYZ","medium_airport","Bayannur Tianjitai Airport",40.926358,107.74093,3400,"AS","CN","CN-15","Bayannur","yes","ZBYZ","RLK","ZBYZ",,,"https://en.wikipedia.org/wiki/Bayannur_Tianjitai_Airport",
 44100,"ZBZJ","medium_airport","Zhangjiakou Ningyuan Airport",40.738602,114.930278,2347,"AS","CN","CN-13","Zhangjiakou","yes","ZBZJ","ZQZ","ZBZJ",,,"https://en.wikipedia.org/wiki/Zhangjiakou_Ningyuan_Airport","Zhangjiakou Air Base, 张家口宁远机场, ZZHA, 张家口"
 323666,"ZBZL","medium_airport","Zhalantun Genghis Khan Airport",47.865942,122.768662,928,"AS","CN","CN-15","Zhalantun","yes","ZBZL","NZL","ZBZL",,,"https://en.wikipedia.org/wiki/Zhalantun_Chengjisihan_Airport","Chengjisihan"
 352767,"ZDM","heliport","Ramallah Heliport",31.91123,35.20756,2858,"AS","PS","PS-RBH","Ramallah","no",,"ZDM",,,,,
@@ -84303,10 +84314,10 @@
 327447,"ZPCW","medium_airport","Cangyuan Washan Airport",23.276331,99.373169,,"AS","CN","CN-53","Lincang (Cangyuan)","yes","ZPCW","CWJ","ZPCW",,,"https://en.wikipedia.org/wiki/Cangyuan_Washan_Airport",
 30925,"ZPDL","medium_airport","Dali Fengyi Airport",25.649401,100.319,7050,"AS","CN","CN-53","Dali (Xiaguan)","yes","ZPDL","DLU","ZPDL",,,"https://en.wikipedia.org/wiki/Dali_Airport","Dali Air Base"
 30916,"ZPDQ","medium_airport","Diqing Shangri-La Airport",27.7936,99.6772,10761,"AS","CN","CN-53","Diqing (Shangri-La)","yes","ZPDQ","DIG","ZPDQ",,,"https://en.wikipedia.org/wiki/Diqing_Shangri-La_Airport",
-27213,"ZPJH","medium_airport","Xishuangbanna Gasa International Airport",21.974648,100.762224,1815,"AS","CN","CN-53","Jinghong (Gasa)","yes","ZPJH","JHG","ZPJH",,,"https://en.wikipedia.org/wiki/Xishuangbanna_Gasa_International_Airport","Sipsong Panna"
+27213,"ZPJH","large_airport","Xishuangbanna Gasa International Airport",21.974648,100.762224,1815,"AS","CN","CN-53","Jinghong (Gasa)","yes","ZPJH","JHG","ZPJH",,,"https://en.wikipedia.org/wiki/Xishuangbanna_Gasa_International_Airport","Sipsong Panna"
 327448,"ZPJM","medium_airport","Lancang Jingmai Airport",22.417733,99.784012,,"AS","CN","CN-53","Pu'er (Lancang)","yes","ZPJM","JMJ","ZPJM",,,"https://en.wikipedia.org/wiki/Lancang_Jingmai_Airport",
 44116,"ZPLC","medium_airport","Lincang Boshang Airport",23.7381,100.025002,6230,"AS","CN","CN-53","Lincang","yes","ZPLC","LNJ","ZPLC",,,"https://en.wikipedia.org/wiki/Lincang_Airport","Lintsang Airfield"
-31828,"ZPLJ","medium_airport","Lijiang Sanyi International Airport",26.68,100.246002,7359,"AS","CN","CN-53","Lijiang (Gucheng)","yes","ZPLJ","LJG","ZPLJ",,,"https://en.wikipedia.org/wiki/Lijiang_Sanyi_Airport","Yunlong Air Base"
+31828,"ZPLJ","large_airport","Lijiang Sanyi International Airport",26.677483,100.244944,7359,"AS","CN","CN-53","Lijiang","yes","ZPLJ","LJG","ZPLJ",,,"https://en.wikipedia.org/wiki/Lijiang_Sanyi_Airport","Yunlong Air Base, 丽江三义机场"
 31862,"ZPMS","medium_airport","Dehong Mangshi International Airport",24.4011,98.5317,2890,"AS","CN","CN-53","Dehong (Mangshi)","yes","ZPMS","LUM","ZPMS",,,"https://en.wikipedia.org/wiki/Dehong_Mangshi_Airport",
 27214,"ZPPP","large_airport","Kunming Changshui International Airport",25.110313,102.936743,6903,"AS","CN","CN-53","Kunming","yes","ZPPP","KMG","ZPPP",,,"https://en.wikipedia.org/wiki/Kunming_Changshui_International_Airport",
 32417,"ZPSM","small_airport","Pu'er Simao Airport",22.793301,100.959,,"AS","CN","CN-53","Pu'er","yes","ZPSM","SYM","ZPSM",,,"https://en.wikipedia.org/wiki/Pu%27er_Simao_Airport",
@@ -84361,7 +84372,7 @@
 315853,"ZSYC","medium_airport","Yichun Mingyueshan Airport",27.8025,114.3062,430,"AS","CN","CN-36","Yichun","yes","ZSYC","YIC","ZSYC",,,"https://en.wikipedia.org/wiki/Yichun_Mingyueshan_Airport",
 35316,"ZSYN","medium_airport","Yancheng Nanyang International Airport",33.425833,120.203056,10,"AS","CN","CN-32","Yancheng (Tinghu)","yes","ZSYN","YNZ","ZSYN",,,"https://en.wikipedia.org/wiki/Yancheng_Nanyang_International_Airport",
 332096,"ZSYT","large_airport","Yantai Penglai International Airport",37.659724,120.978124,154,"AS","CN","CN-37","Yantai","yes","ZSYT","YNT","ZSYT",,"http://www.ytairport.com.cn/","https://en.wikipedia.org/wiki/Yantai_Penglai_International_Airport",
-32726,"ZSYW","medium_airport","Yiwu Airport",29.342095,120.03116,262,"AS","CN","CN-33","Jinhua (Yiwu)","yes","ZSYW","YIW","ZSYW",,,"https://en.wikipedia.org/wiki/Yiwu_Airport",
+32726,"ZSYW","large_airport","Yiwu Airport",29.342095,120.03116,262,"AS","CN","CN-33","Yiwu/Jinhua","yes","ZSYW","YIW","ZSYW",,,"https://en.wikipedia.org/wiki/Yiwu_Airport","Jinhua"
 31624,"ZSZS","medium_airport","Zhoushan Putuoshan Airport",29.9342,122.362,3,"AS","CN","CN-33","Zhoushan","yes","ZSZS","HSN","ZSZS",,,"https://en.wikipedia.org/wiki/Zhoushan_Putuoshan_Airport",
 300545,"ZUAL","medium_airport","Ngari Gunsa Airport",32.09794,80.053971,14022,"AS","CN","CN-54","Shiquanhe","yes","ZUAL","NGQ","ZUAL",,,"https://en.wikipedia.org/wiki/Ngari_Gunsa_Airport","Ali Airport"
 300785,"ZUAS","medium_airport","Anshun Huangguoshu Airport",26.260556,105.873333,4812,"AS","CN","CN-52","Anshun (Xixiu)","yes","ZUAS","AVA","ZUAS",,,"https://en.wikipedia.org/wiki/Anshun_Huangguoshu_Airport",
