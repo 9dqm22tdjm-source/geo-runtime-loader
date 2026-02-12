@@ -9465,6 +9465,7 @@
 41025,"ACM","small_airport","Arica Airport",-2.143713,-71.75935,316,"SA","CO","CO-AMA","Arica","no",,"ACM",,,,"https://en.wikipedia.org/wiki/Arica_Airport_(Colombia)",
 318235,"AD-0001","heliport","Terra Guindaldes Heliport",42.546257,1.51916,,"EU","AD","AD-04","La Massana","no",,,,,,,
 338490,"AD-0002","closed","Arinsal (Coll de la Botella) Heliport",42.544983,1.452258,,"EU","AD","AD-04","La Massana","no",,,,,,,
+604637,"AD-0003","medium_airport","baccaratshh",35,35,,"EU","AD","AD-02",,"no",,,,,"https://baccarat.sh/",,
 41841,"AD-ALV","heliport","Andorra la Vella (Our Lady of Meritxell Hospital) Heliport",42.511228,1.533651,3450,"EU","AD","AD-08","Escaldes-Engordany","no",,,,,,"http://pl.wikipedia.org/wiki/Heliport_Andorra_la_Vella",
 309426,"ADV","small_airport","El Daein Airport",11.4023,26.1186,1560,"AF","SD","SD-DE","El Daein","no",,"ADV",,,,"https://en.wikipedia.org/wiki/Ed_Daein_Airport",
 42257,"AE-0001","small_airport","Batha Airport",24.214693,51.44989,257,"AS","SA","SA-04","Batha","yes","OEBT",,"OEBT",,,,"Ras Sumeira UAE,"
@@ -16235,6 +16236,7 @@
 603692,"BR-3289","heliport","IFB Heliport",-16.695601,-49.199358,2313,"SA","BR","BR-GO","Goiânia","no",,,"SD18","GO0378",,,
 603702,"BR-3290","small_airport","DWG Guarda-Mor Airport",-17.760798,-47.110088,2083,"SA","BR","BR-MG","Guarda-Mor","no",,,"SD17","MG0649",,,
 604208,"BR-3291","small_airport","Fazenda Sol Nascente",-12.23826,-54.731654,1142,"SA","BR","BR-U-A","Feliz Natal","no",,,"SN10","MT1076",,,
+604632,"BR-3292","heliport","Pousada Cavaleiro dos Pirineus Heliport",-15.836269,-48.949078,2630,"SA","BR","BR-GO","Pirenópolis","no",,,"SD20","GO0408",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -23327,7 +23329,7 @@
 28609,"EDMI","small_airport","Illertissen Airfield",48.235,10.1377,1680,"EU","DE","DE-BY","Illertissen","no",,,"EDMI",,"http://www.lvi-illertissen.de","https://de.wikipedia.org/wiki/Flugplatz_Illertissen",
 28613,"EDMJ","small_airport","Jesenwang Airfield",48.174366,11.125363,1860,"EU","DE","DE-BY","Jesenwang","no",,,"EDMJ",,,"https://de.wikipedia.org/wiki/Flugplatz_Jesenwang",
 28619,"EDMK","small_airport","Kempten-Durach Airfield",47.691944,10.338056,2339,"EU","DE","DE-BY","Durach","no",,,"EDMK",,,"https://de.wikipedia.org/wiki/Flugplatz_Kempten-Durach",
-28630,"EDML","small_airport","Landshut Airfield",48.511665,12.033333,1312,"EU","DE","DE-BY","Landshut","no",,,"EDML",,"https://www.landen-in-landshut.de/","https://de.wikipedia.org/wiki/Flugplatz_Landshut","QLG "
+28630,"EDML","medium_airport","Landshut Airfield",48.512019,12.034865,1312,"EU","DE","DE-BY","Landshut","no","EDML","QLG","EDML",,"https://www.landen-in-landshut.de/","https://de.wikipedia.org/wiki/Flugplatz_Landshut",
 2251,"EDMN","small_airport","Mindelheim-Mattsies Airfield",48.106945,10.525,1857,"EU","DE","DE-BY","Tussenhausen","no","EDMN",,,,,"https://de.wikipedia.org/wiki/Flugplatz_Mindelheim-Mattsies","GrobAircraft"
 2252,"EDMO","medium_airport","Oberpfaffenhofen Airport",48.081402,11.2831,1947,"EU","DE","DE-BY","Weßling","no","EDMO","OBF","EDMO",,"http://www.edmo-airport.de","https://de.wikipedia.org/wiki/Flugplatz_Oberpfaffenhofen","Weßling"
 28746,"EDMP","small_airport","Vilsbiburg Airfield",48.426109,12.345278,1450,"EU","DE","DE-BY","Vilsbiburg","no",,,"EDMP",,,"https://de.wikipedia.org/wiki/Flugplatz_Vilsbiburg",
@@ -26383,13 +26385,13 @@
 2976,"FQMD","medium_airport","Mueda Airport",-11.6729,39.563099,2789,"AF","MZ","MZ-P","Mueda","no","FQMD","MUD","FQMD",,,"https://en.wikipedia.org/wiki/Mueda_Airport",
 2977,"FQMP","medium_airport","Mocímboa da Praia Airport",-11.3618,40.3549,89,"AF","MZ","MZ-P","Mocímboa da Praia","no","FQMP","MZB","FQMP",,,"https://en.wikipedia.org/wiki/Moc%C3%ADmboa_da_Praia_Airport",
 2978,"FQMR","small_airport","Marrupa Airport",-13.2251,37.552101,2480,"AF","MZ","MZ-A","Marrupa","no","FQMR",,"FQMR",,,"https://en.wikipedia.org/wiki/Marrupa_Airport",
-2979,"FQNC","small_airport","Nacala Airport",-14.4882,40.7122,410,"AF","MZ","MZ-N","Nacala","no","FQNC","MNC","FQNC",,,"https://en.wikipedia.org/wiki/Nacala_Airport",
-2980,"FQNP","medium_airport","Nampula Airport",-15.105600357055664,39.28179931640625,1444,"AF","MZ","MZ-N","Nampula","yes","FQNP","APL","FQNP",,,"https://en.wikipedia.org/wiki/Nampula_Airport",
+2979,"FQNC","medium_airport","Nacala International Airport",-14.4882,40.7122,410,"AF","MZ","MZ-N","Nacala","yes","FQNC","MNC","FQNC",,,"https://en.wikipedia.org/wiki/Nacala_Airport",
+2980,"FQNP","large_airport","Nampula Airport",-15.1056,39.281799,1444,"AF","MZ","MZ-N","Nampula","yes","FQNP","APL","FQNP",,,"https://en.wikipedia.org/wiki/Nampula_Airport",
 2981,"FQPB","medium_airport","Pemba Airport",-12.993302,40.524867,331,"AF","MZ","MZ-P","Pemba","yes","FQPB","POL","FQPB",,,"https://en.wikipedia.org/wiki/Pemba_Airport","Porto Amelia"
 30279,"FQPO","small_airport","Ponta do Ouro Airport",-26.826913,32.838444,92,"AF","MZ","MZ-L","Ponta do Ouro","no","FQPO","PDD","FQPO",,,"https://en.wikipedia.org/wiki/Ponta_do_Ouro_Airport",
 2982,"FQQL","medium_airport","Quelimane Airport",-17.855499267578125,36.86909866333008,36,"AF","MZ","MZ-Q","Quelimane","yes","FQQL","UEL","FQQL",,,"https://en.wikipedia.org/wiki/Quelimane_Airport",
 2983,"FQSG","small_airport","Songo Airport",-15.6027,32.773201,2904,"AF","MZ","MZ-T","Songo","no","FQSG",,"FQSG",,,"https://en.wikipedia.org/wiki/Songo_Airport",
-2984,"FQTT","medium_airport","Chingozi Airport",-16.104799270629883,33.640201568603516,525,"AF","MZ","MZ-T","Tete","yes","FQTT","TET","FQTT",,,"https://en.wikipedia.org/wiki/Chingozi_Airport",
+2984,"FQTT","large_airport","Tete Airport",-16.104799,33.640202,525,"AF","MZ","MZ-T","Tete","yes","FQTT","TET","FQTT",,,"https://en.wikipedia.org/wiki/Chingozi_Airport","Chingozi Airport, Matundo Airport"
 2985,"FQUG","small_airport","Ulongwe Airport",-14.7046,34.352402,4265,"AF","MZ","MZ-T","Ulongwe","no","FQUG",,"FQUG",,,"https://en.wikipedia.org/wiki/Ulongwe_Airport",
 2986,"FQVL","medium_airport","Vilankulo Airport",-22.018400192260742,35.31330108642578,46,"AF","MZ","MZ-I","Vilanculo","yes","FQVL","VNX","FQVL",,,"https://en.wikipedia.org/wiki/Vilankulo_Airport","Vilanculos Airport"
 32579,"FQXA","small_airport","Xai-Xai Chongoene Airport",-24.892909,33.753024,291,"AF","MZ","MZ-G","Xai-Xai","yes","FQXA","VJB","FQXA",,,"https://en.wikipedia.org/wiki/Xai-Xai_Chongoene_Airport",
@@ -51468,7 +51470,7 @@
 5251,"OPFA","large_airport","Faisalabad International Airport",31.364923,72.995319,591,"AS","PK","PK-PB","Faisalabad","yes","OPFA","LYP","OPFA",,"http://www.faisalabadairport.com.pk/","https://en.wikipedia.org/wiki/Faisalabad_International_Airport","OPLF"
 342092,"OPGD","large_airport","New Gwadar International Airport",25.296733,62.498822,61,"AS","PK","PK-BA","Gurandani","yes","OPGW","GWD","OPGW",,"https://paa.gov.pk/airport/gwadar","https://en.wikipedia.org/wiki/New_Gwadar_International_Airport","Feroz Khan Noon"
 5253,"OPGT","medium_airport","Gilgit Airport",35.918800354003906,74.33360290527344,4796,"AS","PK","PK-GB","Gilgit","yes","OPGT","GIL","OPGT",,,"https://en.wikipedia.org/wiki/Gilgit_Airport",
-5252,"OPGW","medium_airport","Gwadar International Airport",25.232391,62.327671,36,"AS","PK","PK-BA","Gwadar","no","OPGD",,"OPGD",,,"https://en.wikipedia.org/wiki/Gwadar_International_Airport","GWD"
+5252,"OPGW","closed","Gwadar International Airport",25.23298,62.328735,36,"AS","PK","PK-BA","Gwadar","no",,,,,,"https://en.wikipedia.org/wiki/Gwadar_International_Airport","GWD, OPGD"
 333692,"OPIS","large_airport","Islamabad International Airport",33.549,72.82566,1761,"AS","PK","PK-PB","Attock","yes","OPIS","ISB","OPIS",,"http://www.islamabadairport.com.pk/","https://en.wikipedia.org/wiki/Islamabad_International_Airport",
 5254,"OPJA","medium_airport","Shahbaz Air Base",28.28420066833496,68.44969940185547,185,"AS","PK","PK-SD","Jacobabad","no","OPJA","JAG","OPJA",,,"https://en.wikipedia.org/wiki/Jacobabad_Airbase",
 41616,"OPKA","small_airport","Cape Monz Airport",24.828406,66.666029,40,"AS","PK","PK-SD","Cape Monz","no","OPKA",,"OPKA",,,,
@@ -51502,14 +51504,14 @@
 5271,"OPQS","small_airport","Dhamial Army Airbase",33.5602,73.033203,1581,"AS","PK","PK-PB","Rawalpindi","no",,,"OPQS",,,"https://en.wikipedia.org/wiki/Dhamial_Army_Airbase","Qasim Airport"
 5272,"OPQT","large_airport","Quetta International Airport",30.2514,66.937798,5267,"AS","PK","PK-BA","Quetta","yes","OPQT","UET","OPQT",,,"https://en.wikipedia.org/wiki/Quetta_International_Airport",
 5273,"OPRK","medium_airport","Shaikh Zaid Airport",28.383899688720703,70.27960205078125,271,"AS","PK","PK-PB","Rahim Yar Khan","yes","OPRK","RYK","OPRK",,,"https://en.wikipedia.org/wiki/Shaikh_Zayed_International_Airport","Rahim Yar Khan Airport"
-5274,"OPRN","small_airport","PAF Base Nur Khan",33.616699,73.099197,1668,"AS","PK","PK-PB","Rawalpindi","no",,,"OPRN",,,"https://en.wikipedia.org/wiki/PAF_Base_Nur_Khan","ISB, Chaklala Air Base, Islamabad International Airport, Islamabad, Benazir Bhutto International Airport, Pakistan Air Force Base Nur Khan"
+5274,"OPRN","medium_airport","PAF Base Nur Khan (Benazir Bhutto International Airport)",33.616699,73.099197,1668,"AS","PK","PK-PB","Rawalpindi","no",,,"OPRN",,,"https://en.wikipedia.org/wiki/PAF_Base_Nur_Khan","ISB, Chaklala Air Base, Islamabad, Benazir Bhutto International Airport, Pakistan Air Force Base Nur Khan"
 32125,"OPRQ","medium_airport","Rafiqui Air Base",30.758100509643555,72.28250122070312,492,"AS","PK","PK-PB","Shorkot","no",,,"OPRQ",,,"https://en.wikipedia.org/wiki/Rafiqui_Airbase",
 5275,"OPRS","medium_airport","Risalpur Air Base",34.08110046386719,71.97260284423828,1050,"AS","PK","PK-KP","Risalpur","no",,,"OPRS",,,"https://en.wikipedia.org/wiki/Risalpur_Airbase",
 5276,"OPRT","medium_airport","Rawalakot Airport",33.849701,73.798103,5479,"AS","PK","PK-JK","Rawalakot","no","OPRT","RAZ","OPRT",,,"https://en.wikipedia.org/wiki/Rawalakot_Airport",
 32251,"OPSB","small_airport","Sibi Airport",29.571199,67.8479,436,"AS","PK","PK-BA","Sibi","no","OPSB","SBQ","OPSB",,,"https://en.wikipedia.org/wiki/Sibi_Airport",
 5277,"OPSD","large_airport","Skardu International Airport",35.33866,75.538648,7316,"AS","PK","PK-GB","Skardu","yes","OPSD","KDU","OPSD",,"https://skarduairport.com","https://en.wikipedia.org/wiki/Skardu_Airport",
 5278,"OPSF","medium_airport","Faisal Air Base",24.87420082092285,67.11849975585938,29,"AS","PK","PK-SD","Karachi","no",,,"OPSF",,,"https://en.wikipedia.org/wiki/Faisal_Airbase",
-5279,"OPSK","medium_airport","Sukkur Airport",27.722000122070312,68.79170227050781,196,"AS","PK","PK-SD","Mirpur Khas","yes","OPSK","SKZ","OPSK",,,"https://en.wikipedia.org/wiki/Sukkur_Airport",
+5279,"OPSK","medium_airport","Begum Nusrat Bhutto International Airport Sukkur",27.722,68.791702,196,"AS","PK","PK-SD","Sukkur","yes","OPSK","SKZ","OPSK",,,"https://en.wikipedia.org/wiki/Begum_Nusrat_Bhutto_International_Airport","Sukkur Airport"
 30590,"OPSN","medium_airport","Sehwan Sharif Airport",26.473101,67.717201,121,"AS","PK","PK-SD","Sehwan Sharif","no","OPSN","SYW","OPSN",,,"https://en.wikipedia.org/wiki/Sehwan_Sharif_Airport",
 32290,"OPSR","medium_airport","Mushaf Air Base",32.04859924316406,72.66500091552734,614,"AS","PK","PK-PB","Sargodha","no","OPSR","SGI","OPSR",,,"https://en.wikipedia.org/wiki/Mushaf_Airbase","BHW"
 5280,"OPSS","medium_airport","Saidu Sharif Airport",34.813599,72.352798,3183,"AS","PK","PK-KP","Saidu Sharif","no","OPSS","SDT","OPSS",,,"https://en.wikipedia.org/wiki/Saidu_Sharif_Airport",
@@ -51519,7 +51521,7 @@
 32458,"OPTA","small_airport","Tarbela Dam Airport",33.9860992432,72.61139678960001,1114,"AS","PK","PK-KP","Tarbela","no","OPTA","TLB","OPTA",,,"https://en.wikipedia.org/wiki/Tarbela_Dam_Airport",
 5282,"OPTH","small_airport","Talhar Airport",24.84149932861328,68.8384017944336,28,"AS","PK","PK-SD","Badin","no","OPTH","BDN","OPTH",,,,
 41626,"OPTT","small_airport","Taftan Airport",28.96419906616211,61.595401763916016,2742,"AS","PK","PK-BA","Taftan","no",,"TFT","OPTT",,,,
-5283,"OPTU","medium_airport","Turbat International Airport",25.986400604248047,63.03020095825195,498,"AS","PK","PK-BA","Turbat","yes","OPTU","TUK","OPTU",,,"https://en.wikipedia.org/wiki/Turbat_Airport",
+5283,"OPTU","large_airport","Turbat International Airport",25.984767,63.028856,498,"AS","PK","PK-BA","Turbat","yes","OPTU","TUK","OPTU",,,"https://en.wikipedia.org/wiki/Turbat_Internatioal_Airport",
 5284,"OPWN","small_airport","Wana Airport",32.3046989440918,69.57039642333984,4550,"AS","PK","PK-KP","Waana","no","OPWN","WAF","OPWN",,,,
 5285,"OPZB","medium_airport","Zhob Airport",31.358400344848633,69.4636001586914,4728,"AS","PK","PK-BA","Fort Sandeman","yes","OPZB","PZH","OPZB",,,"https://en.wikipedia.org/wiki/Zhob_Airport",
 23851,"OR00","small_airport","Flying K Ranch Airport",45.433933,-122.873709,350,"NA","US","US-OR","Beaverton","no",,,"OR00","OR00",,,
@@ -56573,7 +56575,7 @@
 5968,"SBRP","medium_airport","Leite Lopes Airport",-21.134314,-47.774053,1805,"SA","BR","BR-SP","Ribeirão Preto","yes","SBRP","RAO","SBRP","SP0004","https://www.daesp.sp.gov.br/aeroporto-estadual-de-ribeirao-preto-dr-leite-lopes/","https://en.wikipedia.org/wiki/Leite_Lopes_Airport",
 299169,"SBRR","small_airport","Barreirinhas National Airport",-2.756644,-42.803187,40,"SA","BR","BR-MA","Barreirinhas","yes",,"BRB","SSRS","MA0008",,"https://en.wikipedia.org/wiki/Barreirinhas_Airport","SBRR"
 5969,"SBSC","medium_airport","Santa Cruz Air Force Base",-22.9324,-43.719101,10,"SA","BR","BR-RJ","Rio de Janeiro","no",,"SNZ","SBSC","RJ9003",,"https://en.wikipedia.org/wiki/Santa_Cruz_Air_Force_Base","Santa Cruz AB, Bartolomeu de Gusmão Airport"
-313262,"SBSG","large_airport","Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport",-5.768539,-35.366419,272,"SA","BR","BR-RN","Natal","yes",,"NAT","SBSG","RN0001","http://www.natal.aero","https://en.wikipedia.org/wiki/Greater_Natal_International_Airport","Greater Natal International Airport, Augusto Severo International Airport"
+313262,"SBSG","large_airport","Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport",-5.769822,-35.36661,273,"SA","BR","BR-RN","Natal","yes",,"NAT","SBSG","RN0001","http://www.natal.aero","https://en.wikipedia.org/wiki/Greater_Natal_International_Airport","Greater Natal International Airport, Augusto Severo International Airport"
 580,"SBSI","small_airport","Presidente João Batista Figueiredo Airport",-11.885001,-55.586109,1227,"SA","BR","BR-MT","Sinop","yes","SBSI","OPS","SBSI","MT0002",,"https://en.wikipedia.org/wiki/Sinop_Airport_(Brazil)","SWSI"
 5970,"SBSJ","medium_airport","Professor Urbano Ernesto Stumpf Airport",-23.2292,-45.8615,2120,"SA","BR","BR-SP","São José Dos Campos","yes","SBSJ","SJK","SBSJ","SP0008",,"https://en.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos_Regional_Airport",
 5971,"SBSL","large_airport","Marechal Cunha Machado International Airport",-2.586386,-44.235008,178,"SA","BR","BR-MA","São Luís","yes","SBSL","SLZ","SBSL","MA0001","https://www.ccraeroportos.com.br/sao-luis-ma","https://en.wikipedia.org/wiki/Marechal_Cunha_Machado_International_Airport",
@@ -57136,6 +57138,7 @@
 603727,"SD1C","small_airport","Fazenda Indiana Airstrip",-17.632492,-54.295199,1741,"SA","BR","BR-MT","Itiquira","no",,,"SD1C","MT1158",,,
 603729,"SD1F","small_airport","Fazenda Marupiara Airport",-2.755831,-48.526283,174,"SA","BR","BR-PA","Tailândia","no",,,"SD1F","PA0443",,,
 603731,"SD1G","heliport","Época Helistop",-19.900615,-44.064971,3014,"SA","BR","BR-MG","Contagem","no",,,"SD1G","MG0653",,,
+604617,"SD1H","heliport","Pingo do Mula Heliport",-20.234335,-46.314938,2528,"SA","BR","BR-MG","São Roque de Minas","no",,,"SD1H","MG0569",,,
 603732,"SD1I","small_airport","Fazenda São João Agroer Airport",-13.486176,-53.945414,1526,"SA","BR","BR-MT","Gaúcha do Norte","no",,,"SD1I","MT1160",,,
 603734,"SD1J","small_airport","Fazenda São Joaquim Airstrip",3.482131,-61.1345,344,"SA","BR","BR-RR","Amajari","no",,,"SD1J","RR0170",,,
 603736,"SD1K","small_airport","Fazenda Ranchinho Airstrip",-19.530461,-53.536425,1591,"SA","BR","BR-MS","Camapuã","no",,,"SD1K","MS0794",,,
@@ -57143,6 +57146,9 @@
 603741,"SD1M","small_airport","Fazenda Rio Branco Airport",-21.659571,-55.699957,1736,"SA","BR","BR-MS","Maracaju","no",,,"SD1M","MS0747",,,
 603743,"SD1N","small_airport","Fazenda Novo Horizonte Airport",-20.008833,-56.325761,551,"SA","BR","BR-MS","Miranda","no",,,"SD1N","MS0270",,,
 603744,"SD1P","small_airport","Fazenda Agropecuária Rio da Prata Airport",-1.208081,-48.162119,110,"SA","BR","BR-PA","Santa Izabel do Pará","no",,,"SD1P","PA0436",,,
+604626,"SD1Q","small_airport","Rincão dos Sonhos Airstrip",-21.238397,-56.529461,1056,"SA","BR","BR-MS","Bonito","no",,,"SD1Q","MS0784",,,
+604628,"SD1R","small_airport","Fazenda Reginatto Airstrip",-10.744547,-45.657328,2510,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SD1R","BA0516",,,
+604630,"SD1S","small_airport","Fazenda Muralha Airstrip",-12.797181,-60.650064,1112,"SA","BR","BR-RO","Chupinguaia","no",,,"SD1S","RO0117",,,
 603746,"SD1T","heliport","Boaventura Energy Complex Heliport",-22.648654,-42.863714,49,"SA","BR","BR-RJ","Itaboraí","no",,,"SD1T","RJ0276",,,
 603749,"SD1U","small_airport","Cruzeiro do Sul Airport",-28.269354,-48.888011,36,"SA","BR","BR-SC","Imaruí","no",,,"SD1U","SC0207",,,
 603840,"SD1V","small_airport","Fazenda Lago Azul Airstrip",-13.998115,-50.799759,844,"SA","BR","BR-GO","Nova Crixás","no",,,"SD1V","GO0418",,,
@@ -57284,6 +57290,7 @@
 345152,"SD6X","small_airport","Malboro Airport",2.701879,-60.848301,269,"SA","BR","BR-RR","Boa Vista","no",,,"SD6X","RR0119",,,
 346119,"SD6Y","small_airport","Fazenda Bom Retiro Airstrip",-9.358056,-67.789722,581,"SA","BR","BR-AM","Boca do Acre","no",,,"SD6Y","AM0096",,,
 346121,"SD6Z","small_airport","VCM Airstrip",-23.220556,-50.6075,1371,"SA","BR","BR-SP","Guararapes","no",,,"SD6Z","SP1303",,,
+604619,"SD70","small_airport","Fazenda Vitória Airport",-19.615596,-54.976424,1230,"SA","BR","BR-MS","Rio Negro","no",,,"SD70","MS0431",,,
 24548,"SD71","small_airport","Bogner Field",43.1166,-103.366997,3660,"NA","US","US-SD","Oelrichs","no",,,,"SD71",,,
 24549,"SD72","small_airport","Vig Ranch Airfield",44.849998474121094,-102.58399963378906,2600,"NA","US","US-SD","Opal","no",,,"SD72","SD72",,,
 24551,"SD74","small_airport","Vander Wal Private Airport",45.99549865722656,-100.3759994506836,1955,"NA","US","US-SD","Pollock","no",,,"SD74","SD74",,,
