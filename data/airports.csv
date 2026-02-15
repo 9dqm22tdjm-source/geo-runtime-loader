@@ -10523,7 +10523,7 @@
 42856,"AR-0434","small_airport","La Carlota Airport",-33.450000762900004,-63.3499984741,505,"SA","AR","AR-X","La Carlota","no",,,,"LCT",,,
 42857,"AR-0435","small_airport","La Chacra Airport",-34.81255,-62.522467,357,"SA","AR","AR-B","Ameghino","no",,,"SA50","ALC",,,
 42858,"AR-0436","small_airport","La Esmeralda Airport",-29.9939,-57.8378,265,"SA","AR","AR-W","Libertad","no",,,,"LLE",,,
-42859,"AR-0437","small_airport","La Lucía Airport",-33.0119,-61.0608,239,"SA","AR","AR-S","Pujato","no",,,,"PLL",,,
+42859,"AR-0437","small_airport","La Lucía Airport",-33.011274,-61.061372,239,"SA","AR","AR-S","Pujato","no",,,,"PLL",,,
 42860,"AR-0438","small_airport","La Madrugada Airport",-38.0036,-59.3489,449,"SA","AR","AR-B","Juan N. Fernández","no",,,,"LMD",,,
 42861,"AR-0439","small_airport","La Mariela Airport",-35.7828,-61.9342,282,"SA","AR","AR-B","Pehuajó","no",,,,"PJO",,,
 42862,"AR-0440","small_airport","La Zulema Airport",-32.4897,-62.6714,423,"SA","AR","AR-X","Bell Ville","no",,,,"ZLM",,,
@@ -10535,7 +10535,7 @@
 42868,"AR-0446","small_airport","Pedro Ferrari Airport",-32.9278,-62.4336,354,"SA","AR","AR-X","Monte Buey","no",,,,"MBF",,,
 42869,"AR-0447","small_airport","Petrazzini Airport",-38.3478,-60.2761,350,"SA","AR","AR-B","Tres Arroyos","no",,,,"YOP",,,
 42870,"AR-0448","small_airport","Aeródromo Petruk",-27.0878,-58.6694,177,"SA","AR","AR-H","Las Palmas","no",,,,"LPP",,,
-42871,"AR-0449","small_airport","Pettilep Airport",-33.005,-61.0194,200,"SA","AR","AR-S","Pujato","no",,,,"PUP",,,
+42871,"AR-0449","small_airport","Pettilep Airport",-33.008645,-61.016929,200,"SA","AR","AR-S","Pujato","no",,,,"PUP",,,
 42872,"AR-0450","small_airport","Pettilep II Airport",-32.8039,-60.7989,180,"SA","AR","AR-S","Ricardone","no",,,,"PEP",,,
 42873,"AR-0451","small_airport","Puerta De Avalos Airport",-24.314679,-65.247198,3904,"SA","AR","AR-Y","Jujuy","no",,,,"PDA",,,
 42874,"AR-0452","small_airport","Pulverizaciones M.H. Airport",-27.4831,-61.6486,318,"SA","AR","AR-H","Gancedo","no",,,,"GDO",,,
@@ -52252,6 +52252,7 @@
 343858,"PG-0158","closed","Amboin Airstrip",-4.605642,143.485308,87,"OC","PG","PG-ESW","Amboin","no",,,,,,,"AMG, AMG"
 355167,"PG-0159","closed","Nutuve Airport",-5.35485,151.6695,1100,"OC","PG","PG-EBR","Parakaman","no",,,,,,,"Nuiuve, NUT"
 356247,"PG-0160","closed","Ningerum Airstrip",-5.669808,141.143214,299,"OC","PG","PG-WPD","Ningerum","no",,,,,,,"NGR, NGR, NIN"
+604688,"PG-0161","small_airport","Pambwa Airstrip",-11.402966,154.011701,18,"OC","PG","PG-MBA","Pambwa Station","no",,"PAW",,,,,
 30657,"PG-ATP","small_airport","Tadji Airport",-3.198192,142.430964,33,"OC","PG","PG-SAN","Aitape","no",,"TAJ","AYTJ","TAD",,"https://en.wikipedia.org/wiki/Tadji_Airport",
 35181,"PG-IHU","small_airport","Ihu Airport",-7.89756,145.395996,70,"OC","PG","PG-GPK","Ihu","no",,"IHU","AYIH","IHU",,"https://en.wikipedia.org/wiki/Ihu_Airport",
 31693,"PG-JAQ","small_airport","Jacquinot Bay Airport",-5.6525,151.507004,136,"OC","PG","PG-EBR","Jacquinot Bay","no",,"JAQ","AYJB","JCB",,"https://en.wikipedia.org/wiki/Jacquinot_Bay_Airport",
@@ -60884,7 +60885,7 @@
 6153,"SKPR","small_airport","Puerto Berrio Airport",6.46034,-74.4105,445,"SA","CO","CO-ANT","Puerto Berrio","no","SKPR","PBE","SKPR","PBE",,"https://en.wikipedia.org/wiki/Morela_Airport",
 6154,"SKPS","medium_airport","Antonio Nariño Airport",1.396722,-77.29093,5951,"SA","CO","CO-NAR","Chachagüí","yes","SKPS","PSO","SKPS","PSO",,"https://en.wikipedia.org/wiki/Antonio_Nari%C3%B1o_Airport","Pasto"
 6155,"SKPV","medium_airport","El Embrujo Airport",13.357461,-81.357977,10,"NA","CO","CO-SAP","Providencia","yes","SKPV","PVA","SKPV","PVA",,"https://en.wikipedia.org/wiki/El_Embrujo_Airport",
-6156,"SKPZ","medium_airport","Paz De Ariporo Airport",5.87615,-71.8866,900,"SA","CO","CO-CAS","Paz De Ariporo","no","SKPZ","PZA","SKPZ","PZA",,"https://en.wikipedia.org/wiki/Paz_de_Ariporo_Airport",
+6156,"SKPZ","medium_airport","Paz de Ariporo Airport",5.876146,-71.886671,900,"NA","CO","CO-CAS","Paz de Ariporo","no","SKPZ","PZA","SKPZ","PZA",,"https://en.wikipedia.org/wiki/Paz_de_Ariporo_Airport",
 6157,"SKQU","medium_airport","Mariquita Airport",5.21256,-74.8836,1531,"SA","CO","CO-TOL","Mariquita","no","SKQU","MQU","SKQU","MQU",,"https://en.wikipedia.org/wiki/Mariquita_Airport",
 35319,"SKRA","small_airport","Tarapacá Airport",-2.895802,-69.749762,253,"SA","CO","CO-AMA","Tarapacá","yes","SKRA","TCD","SKRA",,,"https://en.wikipedia.org/wiki/Tarapac%C3%A1_Airport",
 6158,"SKRG","large_airport","Jose Maria Córdova International Airport",6.16454,-75.4231,6955,"SA","CO","CO-ANT","Medellín","yes","SKRG","MDE","SKRG","MDE",,"https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_C%C3%B3rdova_International_Airport",
@@ -61131,7 +61132,7 @@
 323763,"SMHA","small_airport","Henri Alwies Airstrip",5.831891,-55.636875,22,"SA","SR","SR-SA","Antongron","no",,,"SMHA",,,"https://en.wikipedia.org/wiki/Henri_Alwies_Airstrip",
 507093,"SMHP","heliport","Gummels Heliport",5.858887,-55.193117,49,"SA","SR","SR-PM","Paramaribo","no",,,"SMHP",,,"https://en.wikipedia.org/wiki/Gummels_Heliport","Kwatta"
 323764,"SMJA","small_airport","Jarikaba Airstrip",5.826389,-55.3375,19,"SA","SR","SR-SA","Jarikaba","no",,,"SMJA",,,"https://en.wikipedia.org/wiki/Jarikaba_Airstrip",
-6195,"SMJP","large_airport","Johan Adolf Pengel International Airport",5.45283,-55.187801,59,"SA","SR","SR-PR","Zandery","yes","SMJP","PBM","SMJP",,"http://www.japi-airport.com","https://en.wikipedia.org/wiki/Johan_Adolf_Pengel_International_Airport","Zanderij, JAP International Airport, JAPI Airport, JAPIA, ZY Airport"
+6195,"SMJP","large_airport","Johan Adolf Pengel International Airport",5.45283,-55.187801,59,"SA","SR","SR-PR","Paramaribo","yes","SMJP","PBM","SMJP",,"http://www.japi-airport.com","https://en.wikipedia.org/wiki/Johan_Adolf_Pengel_International_Airport","Zandery, Zanderij, JAP International Airport, JAPI Airport, JAPIA, ZY Airport"
 32328,"SMKA","small_airport","Kabalebo Airport",4.406617,-57.223678,535,"SA","SR","SR-SI","Kabalebo","no",,,"SMKA",,,"https://en.wikipedia.org/wiki/Kabalebo_Airstrip",
 32329,"SMKE","small_airport","Kayser Airport",3.094343,-56.472702,849,"SA","SR","SR-SI","Kayserberg","no",,,"SMKE",,,"https://en.wikipedia.org/wiki/Kayser_Airstrip",
 323757,"SMLA","small_airport","Lawa Anapaike Airstrip",3.410484,-54.028294,373,"SA","SR","SR-SI","Anapaike","no",,,"SMLA",,,"https://en.wikipedia.org/wiki/Lawa_Anapaike_Airstrip","Kamalasoela"
@@ -62775,7 +62776,7 @@
 490,"SSPI","small_airport","Paranavaí Airport",-23.089899,-52.488499,1526,"SA","BR","BR-PR","Paranavaí","no","SSPI","PVI","SSPI","SSPI",,"https://en.wikipedia.org/wiki/Paranava%C3%AD_Airport",
 492,"SSPL","small_airport","Palmeira das Missões Airport",-27.9018001556,-53.32970047,2083,"SA","BR","BR-RS","Palmeira Da Missões","no",,,"SSPL","SSPL",,,
 493,"SSPM","small_airport","Porto Murtinho Airport",-21.7096,-57.880199,260,"SA","BR","BR-MS","Porto Murtinho","no","SSPM",,"SSPM","SSPM",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Porto_Murtinho",
-494,"SSPN","small_airport","Paranaíba Airport",-19.651199340820312,-51.19940185546875,1446,"SA","BR","BR-MS","Paranaíba","no","SSPN","PBB","SSPN","SSPN",,,
+494,"SSPN","small_airport","Paranaíba Airport",-19.651199,-51.199402,1446,"SA","BR","BR-MS","Paranaíba","no","SSPN","PBB","SSPN","MS0010",,,
 37610,"SSPO","small_airport","Aplicação Aviação Agrícola II Airport",-22.009166717499998,-54.789722442599995,1165,"SA","BR","BR-MS","Itaporã","no",,,"SSPO",,,,
 44568,"SSPQ","small_airport","Santa Rosa do Purus Airport",-9.446646,-70.483364,751,"SA","BR","BR-AC","Santa Rosa do Purus","no",,,"SSRA","AC0011",,,"SSPQ"
 45563,"SSPR","small_airport","Porto Walter Airport",-8.276196,-72.7458,651,"SA","BR","BR-AC","Porto Walter","no",,,"SDL4","AC0008",,,"SIRW, SSPR, SWPV"
@@ -65455,7 +65456,7 @@
 318183,"UASZ","small_airport","Zaysan Airport",47.487491,84.887675,1877,"AS","KZ","KZ-VOS","Zaysan","yes",,"SZI","UASZ",,,"https://en.wikipedia.org/wiki/Zaysan_Airport","Zaisan"
 32502,"UATA","small_airport","Aralsk Airport",46.829572,61.612444,223,"AS","KZ","KZ-KZY","Aralsk","no","UATA",,"UATA",,,"https://kk.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%BB_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D1%8B","Aral'sk Airport, Аэропорт Аральск"
 6436,"UATE","large_airport","Aktau International Airport",43.860093,51.09086,73,"AS","KZ","KZ-MAN","Aktau","yes","UATE","SCO","UATE",,"http://aktau-airport.kz/","https://en.wikipedia.org/wiki/Aktau_Airport","Akshukyr"
-6437,"UATG","large_airport","Atyrau International Airport",47.121318,51.820343,-72,"AS","KZ","KZ-ATY","Atyrau","yes","UATG","GUW","UATG",,,"https://en.wikipedia.org/wiki/Atyrau_Airport",
+6437,"UATG","large_airport","Atyrau International Airport",47.121318,51.820343,-72,"AS","KZ","KZ-ATY","Atyrau","yes","UATG","GUW","UATG",,"https://guw.aero","https://en.wikipedia.org/wiki/Atyrau_Airport",
 44391,"UATR","medium_airport","Shalkar Airport",47.904999,59.619999,561,"AS","KZ","KZ-AKT","Shalkar","no",,,"UATR",,,"https://kk.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BB%D2%9B%D0%B0%D1%80_%D3%99%D1%83%D0%B5%D0%B6%D0%B0%D0%B9%D1%8B","Chelkar, Аэропорт Челкар, Аэропорт Шалкар"
 6438,"UATT","large_airport","Aktobe International Airport",50.248116,57.204144,738,"AS","KZ","KZ-AKT","Aktobe","yes","UATT","AKX","UATT",,,"https://en.wikipedia.org/wiki/Aktobe_Airport","Aktyubinsk Airport, Aktubinsk Airport, Аэропорт Актюбинск"
 351217,"UATZ","small_airport","Tengiz Airport",46.301673,53.427308,-78,"AS","KZ","KZ-ATY","Tengiz","no",,,"UATZ",,,,"TCOV"
@@ -80947,7 +80948,7 @@
 32462,"WBKM","small_airport","Tomanggong Airport",5.40257,118.65763,26,"AS","MY","MY-12","Tomanggong","yes","WBKM","TMG","WBKM",,,"https://en.wikipedia.org/wiki/Tommanggong_Airport",
 31550,"WBKN","small_airport","Long Pasia Airport",4.409756,115.724473,3175,"AS","MY","MY-12","Long Miau","no","WBKN","GSA","WBKN",,,"https://en.wikipedia.org/wiki/Long_Pasia_Airport",
 32352,"WBKO","small_airport","Sepulot Airport",4.732999801635742,116.46700286865234,800,"AS","MY","MY-12","Sepulot","no","WBKO","SPE","WBKO",,,,
-41321,"WBKP","small_airport","Pamol Airport",5.996571,117.404795,36,"AS","MY","MY-12","Pamol","no","WBKP","PAY","WBKP",,,,
+41321,"WBKP","small_airport","Pamol Airport",5.996571,117.404795,36,"AS","MY","MY-12","Pamol","no","WBKP","PAY","WBKP",,,"https://ceb.wikipedia.org/wiki/Pamol_Airport",
 32219,"WBKR","small_airport","Ranau Airport",5.957793,116.680191,1800,"AS","MY","MY-12","Ranau","no","WBKR","RNU","WBKR",,,,
 26816,"WBKS","medium_airport","Sandakan Airport",5.900899887084961,118.05899810791016,46,"AS","MY","MY-12","Sandakan","yes","WBKS","SDK","WBKS",,,"https://en.wikipedia.org/wiki/Sandakan_Airport",
 31785,"WBKT","small_airport","Kudat Airport",6.924111,116.837068,10,"AS","MY","MY-12","Kudat","yes","WBKT","KUD","WBKT",,,"https://en.wikipedia.org/wiki/Kudat_Airport",
