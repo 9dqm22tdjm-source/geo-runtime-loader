@@ -12846,7 +12846,7 @@
 30710,"BIAL","small_airport","Álftaver Airport",63.53979,-18.44374,160,"EU","IS","IS-8","Álftaver","no",,,"BIAL",,,,
 117,"BIAR","large_airport","Akureyri International Airport",65.656573,-18.072018,6,"EU","IS","IS-6","Akureyri","yes","BIAR","AEY","BIAR",,"https://www.innanlandsflugvellir.is/en/akureyri-airport/","https://en.wikipedia.org/wiki/Akureyri_Airport",
 30712,"BIBA","small_airport","Bakki Airport",63.556099,-20.137501,45,"EU","IS","IS-8","Bakki","no","BIBA",,"BIBA",,,"https://en.wikipedia.org/wiki/Bakki_Airport",
-118,"BIBD","small_airport","Bildudalur Airport",65.641296,-23.5462,18,"EU","IS","IS-4","Bildudalur","no","BIBD","BIU","BIBD",,,"https://en.wikipedia.org/wiki/B%C3%ADldudalur_Airport",
+118,"BIBD","medium_airport","Bildudalur Airport",65.641296,-23.5462,18,"EU","IS","IS-4","Bildudalur","no","BIBD","BIU","BIBD",,,"https://en.wikipedia.org/wiki/B%C3%ADldudalur_Airport",
 30700,"BIBF","small_airport","Borgarfjörður eystri Airport",65.516769,-13.81578,80,"EU","IS","IS-7","Borgarfjörður eystri","no","BIBF","BGJ","BIBF",,,,
 30713,"BIBI","small_airport","Baeir Airport",66.097838,-22.569713,60,"EU","IS","IS-4","Baeir","no",,,"BIBI",,,,
 30759,"BIBK","closed","Bakkafjörður Airport",66.021896,-14.8244,14,"EU","IS","IS-6","Bakkafjörður","no",,,,,,,"BIBK, BJD"
@@ -12894,10 +12894,10 @@
 32096,"BIOF","closed","Ólafsfjörður Airport",66.083298,-18.6667,32,"EU","IS","IS-6","Ólafsfjörður","no",,,,,,"https://en.wikipedia.org/wiki/%C3%93lafsfj%C3%B6r%C3%B0ur_Airport","BIOF, OFJ"
 124,"BIPA","closed","Patreksfjörður Airport",65.555801,-23.965,11,"EU","IS","IS-4","Patreksfjörður","no",,,,,,"https://en.wikipedia.org/wiki/Patreksfj%C3%B6r%C3%B0ur_Airport","BIPA, PFJ"
 32207,"BIRE","small_airport","Reykhólar Airport",65.45262908935547,-22.20611572265625,60,"EU","IS","IS-4","Reykhólar","no","BIRE","RHA","BIRE",,,,
-30741,"BIRF","medium_airport","Rif Airport",64.9114,-23.823099,18,"EU","IS","IS-3","Rif","no","BIRF","OLI","BIRF",,,"https://en.wikipedia.org/wiki/Rif_Airport",
+30741,"BIRF","small_airport","Rif Airport",64.911377,-23.818205,18,"EU","IS","IS-3","Rif","no","BIRF","OLI","BIRF",,,"https://en.wikipedia.org/wiki/Rif_Airport",
 32205,"BIRG","small_airport","Raufarhöfn Airport",66.406403,-15.9183,39,"EU","IS","IS-6","Raufarhöfn","no","BIRG","RFN","BIRG",,,"https://en.wikipedia.org/wiki/Raufarh%C3%B6fn_Airport",
 125,"BIRK","medium_airport","Reykjavík Domestic Airport",64.128732,-21.93759,48,"EU","IS","IS-1","Reykjavík","yes","BIRK","RKV","BIRK",,,"https://en.wikipedia.org/wiki/Reykjav%C3%ADk_Airport","REK"
-31973,"BIRL","small_airport","Reykjahlíð Airport",65.6558,-16.9181,1030,"EU","IS","IS-6","Myvatn","no","BIRL","MVA","BIRL",,,"https://en.wikipedia.org/wiki/M%C3%BDvatn_Airport",
+31973,"BIRL","medium_airport","Mývatn Airport",65.6558,-16.9181,1030,"EU","IS","IS-6","Myvatn","no","BIRL","MVA","BIRL",,,"https://en.wikipedia.org/wiki/M%C3%BDvatn_Airport","Reykjahlíð"
 30742,"BIRS","small_airport","Reykjanes Airport",65.9142,-22.4214,10,"EU","IS","IS-4","Reykjanes","no","BIRS",,"BIRS",,,,
 30743,"BISA","small_airport","Sandá Airport",65.134399,-19.663099,1580,"EU","IS","IS-5","Sandá","no",,,"BI42","BI42",,,
 30744,"BISF","small_airport","Selfoss Airport",63.929199,-21.0378,45,"EU","IS","IS-8","Selfoss","no","BISF",,"BISF",,,"https://en.wikipedia.org/wiki/Selfoss_Airport",
@@ -12913,13 +12913,13 @@
 30752,"BISV","small_airport","Skálavatn Airport",64.115301,-18.785153,2000,"EU","IS","IS-8","Skálavatn","no","BISV",,"BISV",,,,
 32436,"BITE","small_airport","Þingeyri Airport",65.8703,-23.559999,65,"EU","IS","IS-4","Þingeyri","no","BITE","TEY","BITE",,,"https://en.wikipedia.org/wiki/%C3%9Eingeyri_Airport","Thingeyri"
 30754,"BITM","small_airport","Þórsmörk Airport",63.689999,-19.563101,600,"EU","IS","IS-8","Þórsmörk","no","BITM",,"BITM",,,,"Thórsmörk, Thorsmork"
-127,"BITN","small_airport","Þórshöfn Airport",66.218498,-15.3356,65,"EU","IS","IS-6","Þórshöfn","yes","BITN","THO","BITN",,,"https://en.wikipedia.org/wiki/Thorshofn_Airport","Thorshofn"
+127,"BITN","small_airport","Þórshöfn Airport",66.218459,-15.334739,65,"EU","IS","IS-6","Þórshöfn","yes","BITN","THO","BITN",,,"https://en.wikipedia.org/wiki/Thorshofn_Airport","Thorshofn"
 30755,"BITO","small_airport","Thorisos Airport",64.354373,-18.836514,1840,"EU","IS","IS-8","Thorisos","no",,,"BITO",,,,
 30757,"BIVA","small_airport","Vatnsnes Airport",64.03309631347656,-20.651100158691406,,"EU","IS","IS-8","Vatnsnes","no",,,"BIVA",,,,
 44001,"BIVH","small_airport","Varmahlid Airport",65.55694580078125,-19.428056716918945,27,"EU","IS","IS-5","Varmahlid","no",,,"BIVH",,,,
 30758,"BIVI","small_airport","Vík Airport",63.4217,-18.8883,100,"EU","IS","IS-8","Vík","no","BIVI",,"BIVI",,,,
 128,"BIVM","medium_airport","Vestmannaeyjar Airport",63.42430114746094,-20.278900146484375,326,"EU","IS","IS-8","Vestmannaeyjar","no","BIVM","VEY","BIVM",,,"https://en.wikipedia.org/wiki/Vestmannaeyjar_Airport",
-32593,"BIVO","small_airport","Vopnafjörður Airport",65.720596,-14.8506,16,"EU","IS","IS-7","Vopnafjörður","yes","BIVO","VPN","BIVO",,,"https://en.wikipedia.org/wiki/Vopnafj%C3%B6r%C3%B0ur_Airport",
+32593,"BIVO","medium_airport","Vopnafjörður Airport",65.720596,-14.8506,16,"EU","IS","IS-7","Vopnafjörður","yes","BIVO","VPN","BIVO",,,"https://en.wikipedia.org/wiki/Vopnafj%C3%B6r%C3%B0ur_Airport",
 323997,"BJ-0001","large_airport","Tourou International Airport",9.391186,2.507311,,"AF","BJ","BJ-BO","Parakou","yes",,,,,,,
 300790,"BJE","small_airport","Baleela Airport",11.199444444400001,28.5230555556,1690,"AF","SD","SD-13","Baleela Base Camp","no",,"BJE",,,,,
 300791,"BJQ","small_airport","Bahja Airport",19.8730555556,56.067777777799996,515,"AS","OM","OM-WU","Bahja","no",,"BJQ",,,,,
@@ -39999,7 +39999,7 @@
 20506,"KMHR","medium_airport","Sacramento Mather Airport",38.554744,-121.297989,98,"NA","US","US-CA","Sacramento","no","KMHR","MHR","KMHR","MHR","http://www.sacramento.aero/mhr/","https://en.wikipedia.org/wiki/Sacramento_Mather_Airport",
 3684,"KMHT","medium_airport","Manchester-Boston Regional Airport",42.932598,-71.435699,266,"NA","US","US-NH","Manchester","yes","KMHT","MHT","KMHT","MHT","https://flymanchester.com","https://en.wikipedia.org/wiki/Manchester-Boston_Regional_Airport","Manchester Airport"
 20507,"KMHV","small_airport","Mojave Airport",35.05939865,-118.1520004,2801,"NA","US","US-CA","Mojave","no","KMHV","MHV","KMHV","MHV",,"https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port",
-3685,"KMIA","large_airport","Miami International Airport",25.7932,-80.290604,8,"NA","US","US-FL","Miami","yes","KMIA","MIA","KMIA","MIA","http://www.miami-airport.com/","https://en.wikipedia.org/wiki/Miami_International_Airport","MFW, South Florida, Wilcox Field"
+3685,"KMIA","large_airport","Miami International Airport",25.796011,-80.289751,8,"NA","US","US-FL","Miami","yes","KMIA","MIA","KMIA","MIA","https://www.miami-airport.com/","https://en.wikipedia.org/wiki/Miami_International_Airport","MFW, South Florida, Wilcox Field, Pan American Field"
 3686,"KMIB","medium_airport","Minot Air Force Base",48.4156,-101.358002,1667,"NA","US","US-ND","Minot","no","KMIB","MIB","KMIB","MIB","http://www.minot.af.mil/","https://en.wikipedia.org/wiki/Minot_Air_Force_Base","5th Bomb Wing, 91st Space Wing"
 20508,"KMIC","small_airport","Crystal Airport",45.062,-93.353897,869,"NA","US","US-MN","Minneapolis","no","KMIC","MIC","KMIC","MIC",,"https://en.wikipedia.org/wiki/Crystal_Airport_(Minnesota)",
 3687,"KMIE","medium_airport","Delaware County Johnson Field",40.242298,-85.395897,937,"NA","US","US-IN","Muncie","no","KMIE","MIE","KMIE","MIE",,"https://en.wikipedia.org/wiki/Delaware_County_Airport",
@@ -43000,7 +43000,7 @@
 517081,"LEXE","heliport","Sabadell Police Heliport",41.553818,2.066398,785,"EU","ES","ES-CT","Sabadell","no",,,"LEXE",,,,
 4047,"LEXJ","medium_airport","Seve Ballesteros-Santander Airport",43.427101,-3.82001,16,"EU","ES","ES-CB","Santander","yes","LEXJ","SDR","LEXJ",,"https://www.aena.es/en/seve-ballesteros-santander.html","https://en.wikipedia.org/wiki/Santander_Airport",
 533121,"LEZA","heliport","C.I. de Laza Heliport",42.069044,-7.474941,1950,"EU","ES","ES-GA","Verín","no",,,"LEZA",,,,
-4048,"LEZG","large_airport","Zaragoza Airport",41.666199,-1.04155,863,"AF","ES","ES-AR","Zaragoza","yes","LEZG","ZAZ","LEZG",,"https://www.aena.es/en/zaragoza.html","https://en.wikipedia.org/wiki/Zaragoza_Airport",
+4048,"LEZG","large_airport","Zaragoza Airport",41.666199,-1.04155,863,"EU","ES","ES-AR","Zaragoza","yes","LEZG","ZAZ","LEZG",,"https://www.aena.es/en/zaragoza.html","https://en.wikipedia.org/wiki/Zaragoza_Airport","Zaragoza Air Base"
 4049,"LEZL","large_airport","Seville Airport",37.417999,-5.89311,112,"AF","ES","ES-AN","Seville","yes","LEZL","SVQ","LEZL",,"https://www.aena.es/en/seville.html","https://en.wikipedia.org/wiki/Seville_Airport","Sevilla, Sevilla Airport"
 355322,"LEZO","heliport","Lozoyuela Heliport",40.93602,-3.62504,3517,"EU","ES","ES-MD","C. del Altillo","no",,,"LEZO",,,,
 2987,"LF50","small_airport","Aérodrome privé de Soucelles",47.580399,-0.412269,255,"EU","FR","FR-PDL","Soucelles","no",,,,"LF4925",,,"Angers"
@@ -43429,7 +43429,7 @@
 4242,"LFTW","medium_airport","Nîmes-Arles-Camargue Airport",43.757401,4.41635,309,"EU","FR","FR-OCC","Nîmes/Garons","yes","LFTW","FNI","LFTW",,"https://www.nimes.aeroport.fr/en","https://en.wikipedia.org/wiki/N%C3%AEmes-Arles-Camargue_Airport",
 4243,"LFTZ","small_airport","La Môle Airport",43.205399,6.482,59,"EU","FR","FR-PAC","Saint-Tropez","yes","LFTZ","LTT","LFTZ",,"https://www.sainttropez.aeroport.fr/en","https://en.wikipedia.org/wiki/La_M%C3%B4le_%E2%80%93_Saint-Tropez_Airport","Golfe du Saint-Tropez, Saint-Tropez"
 4244,"LFVM","small_airport","Miquelon Airport",47.095501,-56.380299,10,"NA","PM","PM-ML","Miquelon","yes","LFVM","MQC","LFVM",,,"https://en.wikipedia.org/wiki/Miquelon_Airport",
-4245,"LFVP","large_airport","Saint-Pierre Pointe-Blanche Airport",46.762651,-56.17499,27,"NA","PM","PM-SP","Saint-Pierre","yes","LFVP","FSP","LFVP",,,"https://en.wikipedia.org/wiki/Saint-Pierre_Airport",
+4245,"LFVP","medium_airport","Saint-Pierre Pointe-Blanche Airport",46.762651,-56.17499,27,"NA","PM","PM-SP","Saint-Pierre","yes","LFVP","FSP","LFVP",,,"https://en.wikipedia.org/wiki/Saint-Pierre_Airport",
 4246,"LFXA","medium_airport","Ambérieu Air Base (BA 278)",45.987301,5.32844,823,"EU","FR","FR-ARA","Ambérieu","no",,,"LFXA",,,"https://en.wikipedia.org/wiki/Amb%C3%A9rieu-en-Bugey_Air_Base",
 29012,"LFXB","small_airport","Saintes Thénac Airfield",45.7019,-0.636111,118,"EU","FR","FR-NAQ",,"no",,,"LFXB",,,,
 29018,"LFXQ","small_airport","Coëtquidan Air Base",47.943056,-2.185872,499,"EU","FR","FR-BRE","Guer","no",,,"LFXQ",,,,
@@ -73273,7 +73273,7 @@
 345363,"US-4436","small_airport","Fitzsimmons Airport",30.48204,-90.17711,26,"NA","US","US-LA","Covington","no",,,,,,,
 345367,"US-4437","heliport","AdventHealth Tampa Heliport",28.07043,-82.42225,41,"NA","US","US-FL","Tampa","no",,,,"3FA1",,,
 345368,"US-4438","closed","Tamiami Airport",25.750271,-80.374174,7,"NA","US","US-FL","Miami","no",,,,,,,
-345369,"US-4439","closed","Pan American Field",25.8047,-80.27667,7,"NA","US","US-FL","Miami","no",,,,,,,
+345369,"US-4439","closed","International Pan American Airport",25.727976,-80.234931,7,"NA","US","US-FL","Miami","no",,,,,,"https://en.wikipedia.org/wiki/International_Pan_American_Airport",
 345370,"US-4440","seaplane_base","Lake Eustis Seaplane Base",28.81283,-81.74813,60,"NA","US","US-FL","Tavares","no",,,,,,,
 345373,"US-4441","small_airport","Covered S Ranch Airport",32.921602,-101.04983,2454,"NA","US","US-TX","Snyder","no",,,"XS36","XS36",,,"Fullerville, ""Fuller Brothers L P Ranch"""
 345374,"US-4442","heliport","Osowaw Boulevard Residential Helipad",28.44989,-82.66402,5,"NA","US","US-FL","Spring Hill","no",,,,,,,
