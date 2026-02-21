@@ -12992,7 +12992,7 @@
 307256,"BR-0019","heliport","Fazenda Boa Vista Heliport",-23.361168,-47.568752,1877,"SA","BR","BR-SP","Porto Feliz","no",,,"SJBM","SP0598",,,
 539746,"BR-0020","heliport","Semp Toshiba Jordanésia Heliport",-23.331697,-46.837288,2421,"SA","BR","BR-SP","Cajamar","no",,,"SSZJ","SP0793",,,
 349788,"BR-0021","heliport","Praia Grande Heliport",-20.037825,-40.17903,52,"SA","BR","BR-ES","Fundão","no",,,"SWUM","ES0024",,,
-313736,"BR-0022","small_airport","Fazenda Vale Verde",-10.256456,-58.259247,883,"SA","BR","BR-MT","Nova Bandeirantes","no",,,,,,,"SWTH, Fazenda Trescinco Juruena, Alta Floresta"
+313736,"BR-0022","small_airport","Fazenda Vale Verde",-10.257651,-58.259103,817,"SA","BR","BR-MT","Nova Bandeirantes","no",,,"SND3","MT1059",,,"SWTH, Fazenda Trescinco Juruena, Alta Floresta"
 313737,"BR-0023","small_airport","Bonfim Airport",3.3621,-59.8239,296,"SA","BR","BR-RR","Bonfim","no",,,,,,,
 314974,"BR-0024","small_airport","Fazenda Montenegro Airport",-0.2525,-49.52,27,"SA","BR","BR-PA","Chaves","no",,,,,,,
 314975,"BR-0025","small_airport","Punto do Carmo Airport",-0.218,-49.764,50,"SA","BR","BR-PA","Chaves","no",,,,,,,
@@ -14689,7 +14689,7 @@
 36870,"BR-1735","small_airport","Fazenda Guanabara Airport",-21.122742,-54.44674,1450,"SA","BR","BR-MS","Nova Alvorada Do Sul","no",,,,,,,
 36896,"BR-1736","small_airport","Jauá Airport",-12.809597,-38.248258,76,"SA","BR","BR-BA","Camaçari","no",,,,,,,"SJUK, SNEE"
 37070,"BR-1737","small_airport","Jauá Airport",-12.809597,-38.248258,76,"SA","BR","BR-BA","Camaçari","no",,,,,,,"SJUK, SNEE"
-36403,"BR-1738","small_airport","Fazenda Santa Ana Airport",-13.005234,-61.240443,847,"SA","BR","BR-RO","Corumbiara","no",,,,"SD22",,,"SIZN, SD22"
+36403,"BR-1738","small_airport","Fazenda Santa Ana Airport",-13.005234,-61.240443,847,"SA","BR","BR-RO","Corumbiara","no",,,"SD22","RO0015",,,"SIZN"
 136,"BR-1739","small_airport","Aeródromo de Campo Formoso",-10.4955,-40.4874,2805,"SA","BR","BR-BA","Campo Formoso","no",,,,"SD27",,,"SWCG, JMF Airport, SB26"
 37777,"BR-1740","small_airport","Carneirinho Agroindustrial Airport",-19.810105,-50.781629,1421,"SA","BR","BR-MG","Carneirinho","no",,,,"SD43",,,"SSZY, SD43"
 504961,"BR-1741","small_airport","Vila Uirapuru Airport",-14.296646,-49.920337,1180,"SA","BR","BR-GO","Uirapuru","no",,,,,,,
@@ -15177,7 +15177,7 @@
 30221,"BR-2226","small_airport","Fazenda São João Airport",-20.7456,-47.933601,2172,"SA","BR","BR-SP","Orlândia","no",,,,,,,"SDSJ"
 30247,"BR-2227","small_airport","Pastos Bons Airport",-6.66694,-44.0839,197,"SA","BR","BR-MA","Pastos Bons","no",,,,,,,"SNPB"
 30297,"BR-2228","small_airport","Propriá Airport",-10.25612,-36.80237,164,"SA","BR","BR-SE","Propriá","no",,,,,,,"SNOP"
-30392,"BR-2229","small_airport","Ismael Nunes Airport",-28.245505,-49.897702,4462,"SA","BR","BR-SC","São Joaquim","no",,,,"SC0020",,,"SSSQ"
+30392,"BR-2229","small_airport","Ismael Nunes Airport",-28.24552,-49.897648,4678,"SA","BR","BR-SC","São Joaquim","no",,,"SND4","SC0020",,,"SSSQ"
 30468,"BR-2230","small_airport","Tanque Novo Airport",-13.54133,-42.475591,2464,"SA","BR","BR-BA","Tanque Novo","no",,,,"SSQM",,,
 30481,"BR-2231","small_airport","Umberto Bosaipo Regional Airport",-15.5564,-53.075298,1460,"SA","BR","BR-MT","Tesouro","no",,,,,,"http://pt.wikipedia.org/wiki/Aeroporto_de_Tesouro","SWRU, Meruri Airport"
 30492,"BR-2232","small_airport","Três Passos Airport",-27.512734,-53.898302,1503,"SA","BR","BR-RS","Três Passos","no",,,,,,,"SSTO"
@@ -16239,6 +16239,8 @@
 603702,"BR-3290","small_airport","DWG Guarda-Mor Airport",-17.760798,-47.110088,2083,"SA","BR","BR-MG","Guarda-Mor","no",,,"SD17","MG0649",,,
 604208,"BR-3291","small_airport","Fazenda Sol Nascente",-12.23826,-54.731654,1142,"SA","BR","BR-U-A","Feliz Natal","no",,,"SN10","MT1076",,,
 604632,"BR-3292","heliport","Pousada Cavaleiro dos Pirineus Heliport",-15.836269,-48.949078,2630,"SA","BR","BR-GO","Pirenópolis","no",,,"SD20","GO0408",,,
+604825,"BR-3293","small_airport","Fazenda Santa Rita Boa Vista Airport.",-22.504191,-52.084378,975,"SA","BR","BR-SP","Mirante do Paranapanema","no",,,"SN97","SP1471",,,
+604826,"BR-3294","small_airport","Fazenda São Gabriel Airport",-12.211495,-46.749025,1302,"SA","BR","BR-TO","Ponte Alta do Bom Jesus","no",,,"SN98","TO0139",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -29722,6 +29724,7 @@
 603999,"GB-1347","closed","Samlesbury Aerodrome",53.773281,-2.569377,249,"EU","GB","GB-ENG","Balderstone, Lancashire","no",,,,,,"https://en.wikipedia.org/wiki/Samlesbury_Aerodrome","BAE Systems"
 604408,"GB-1348","small_airport","Fowler's Field Airstrip",51.000764,-0.444937,94,"EU","GB","GB-ENG","Billingshurst, West Sussex","no",,,,,,,
 604409,"GB-1349","small_airport","Fowler's Field Airstrip",51.000764,-0.444937,,"EU","GB","GB-ENG","Billingshurst","no",,,,,,,
+604830,"GB-1350","small_airport","Old Meldrum",57.39204,-2.385107,,"EU","GB","GB-SCT",,"no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO, EG42"
@@ -30184,7 +30187,7 @@
 17614,"H80","small_airport","Field of Dreams Airport",44.3650016784668,-83.76249694824219,830,"NA","US","US-MI","Hale","no",,,"H80","H80",,,
 316236,"H81","small_airport","River Falls Airport",35.0825,-101.7541,3588,"NA","US","US-TX","Amarillo","no",,,"H81","H81","http://riverfalls.tc/Airport.html",,"81XA"
 17615,"H97","small_airport","Pawnee Municipal Airport",36.377209,-96.805285,875,"NA","US","US-OK","Pawnee","no",,,,"H97",,,
-3157,"HAAB","large_airport","Addis Ababa Bole International Airport",8.97789,38.799301,7630,"AF","ET","ET-AA","Addis Ababa","yes","HAAB","ADD","HAAB",,"http://www.ethiopianairports.com","https://en.wikipedia.org/wiki/Bole_International_Airport","Haile Selassie I, Bole International Airport"
+3157,"HAAB","large_airport","Addis Ababa Bole International Airport",8.97789,38.799301,7630,"AF","ET","ET-AA","Addis Ababa","yes","HAAB","ADD","HAAB",,"http://www.ethiopianairports.com","https://en.wikipedia.org/wiki/Addis_Ababa_Bole_International_Airport","Haile Selassie I, Bole International Airport"
 31564,"HAAD","small_airport","Adaba Airport",7.022953,39.273162,7896,"AF","ET","ET-OR","Adaba","no","HAAD",,"HAAD",,,,
 3158,"HAAL","small_airport","Lideta Army Airport",9.003685,38.725498,7749,"AF","ET","ET-AA","Addis Ababa","no","HAAL",,"HAAL",,,"https://en.wikipedia.org/wiki/Lideta_Army_Airport",
 3159,"HAAM","medium_airport","Arba Minch Airport",6.03939,37.5905,3901,"AF","ET","ET-SN","Arba Minch","yes","HAAM","AMH","HAAM",,,"https://en.wikipedia.org/wiki/Arba_Minch_Airport","Gantar, Minghi"
@@ -30847,7 +30850,7 @@
 42489,"HTUT","small_airport","Utete Airport",-7.999667,38.760234,208,"AF","TZ","TZ-19","Utete","no",,,"HTUT",,,,
 42490,"HTUV","small_airport","Uvinza Airport",-5.090771,30.406772,563,"AF","TZ","TZ-08","Uvinza","no",,,"HTUV",,,,
 31650,"HTWK","small_airport","West Kilimanjaro Airport",-3.05,37,4300,"AF","TZ","TZ-09","West Kilimanjaro","no",,,"HTWK",,,"https://en.wikipedia.org/wiki/West_Kilimanjaro_Airstrip",
-3260,"HTZA","large_airport","Abeid Amani Karume International Airport",-6.22202,39.224899,54,"AF","TZ","TZ-07","Zanzibar","yes","HTZA","ZNZ","HTZA",,,"https://en.wikipedia.org/wiki/Zanzibar_International_Airport","HTAK, Zanzibar Airport, Kiembi Samaki"
+3260,"HTZA","large_airport","Abeid Amani Karume International Airport",-6.22202,39.224899,54,"AF","TZ","TZ-07","Zanzibar","yes","HTZA","ZNZ","HTZA",,,"https://en.wikipedia.org/wiki/Abeid_Amani_Karume_International_Airport","HTAK, Zanzibar Airport, Kiembi Samaki"
 43981,"HU-0001","small_airport","Kákahalom Airfield",46.803936,20.527838,256,"EU","HU","HU-BE","Szarvas","no",,,"LHSV",,,"https://hu.wikipedia.org/wiki/K%C3%A1kai-Szarvasi_rep%C3%BCl%C5%91t%C3%A9r","Szarvas-Káka"
 43983,"HU-0002","medium_airport","Kalocsa-Foktő Airfield",46.55149,18.942299,299,"EU","HU","HU-BK","Kalocsa","no","LHKA",,"LHKA",,"http://www.aeroportkalocsa.hu","https://hu.wikipedia.org/wiki/Kalocsai_rep%C3%BCl%C5%91t%C3%A9r",
 43985,"HU-0003","small_airport","Matkópuszta Airfield",46.800343,19.68257,367,"EU","HU","HU-BK","Matkópuszta","no",,,"LHMP",,"http://www.matkoairport.hu/",,
@@ -45344,10 +45347,10 @@
 4920,"MM81","small_airport","Estación Aeronaval de Isla Socorro",18.775949,-110.930972,1085,"NA","MX","MX-COL","Archipiélago de Revillagigedo","no",,,"MM81","MM81","https://www.gob.mx/semar","https://es.m.wikipedia.org/wiki/Archipiélago_de_Revillagigedo",
 4921,"MM82","small_airport","Laguna Del Rey Airport",27.0238,-103.375,3450,"NA","MX","MX-COA",,"no",,,,"LRY",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Laguna_del_Rey","MM82"
 4922,"MM84","small_airport","Parral Airport",26.9221,-105.781998,6020,"NA","MX","MX-CHH","Hidalgo Del Parral","no",,,"MM84","FCO",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Hidalgo_del_Parral","Campo De Aviacion Parral"
-4688,"MMAA","large_airport","General Juan N. Álvarez International Airport",16.757126,-99.753113,16,"NA","MX","MX-GRO","Acapulco","yes","MMAA","ACA","MMAA",,"https://www.oma.aero/es/pasajeros/acapulco/","https://en.wikipedia.org/wiki/General_Juan_N._%C3%81lvarez_International_Airport","Acapulco International Airport"
+4688,"MMAA","large_airport","General Juan N. Álvarez International Airport",16.757126,-99.753113,16,"NA","MX","MX-GRO","Acapulco","yes","MMAA","ACA","MMAA",,"https://www.oma.aero/es/pasajeros/acapulco/","https://en.wikipedia.org/wiki/Acapulco_International_Airport","Acapulco International Airport"
 4689,"MMAL","small_airport","Agualeguas National Airport",26.334,-99.542397,676,"NA","MX","MX-NLE","Agualeguas","no",,,"MMAL","AGL",,"https://es.wikipedia.org/wiki/Aeropuerto_Nacional_de_Agualeguas","Aeropuerto Nacional de Agualeguas"
 4690,"MMAN","medium_airport","Del Norte International Airport",25.865601,-100.237,1476,"NA","MX","MX-NLE","Monterrey","no","MMAN","NTR","MMAN","ADN",,"https://en.wikipedia.org/wiki/Del_Norte_International_Airport","BAM 14 Monterrey/Apodaca"
-4691,"MMAS","large_airport","Aguascalientes International Airport",21.699589,-102.318372,6112,"NA","MX","MX-AGU","Aguascalientes","yes","MMAS","AGU","MMAS",,"https://www.aeropuertosgap.com.mx/es/aguascalientes.html","https://en.wikipedia.org/wiki/Lic._Jes%C3%BAs_Ter%C3%A1n_Peredo_International_Airport","Jesús Terán Peredo International Airport, Licenciado Jesús Terán Peredo, Aeropuerto Internacional Jesús Terán Peredo"
+4691,"MMAS","large_airport","Aguascalientes International Airport",21.699589,-102.318372,6112,"NA","MX","MX-AGU","Aguascalientes","yes","MMAS","AGU","MMAS",,"https://www.aeropuertosgap.com.mx/es/aguascalientes.html","https://en.wikipedia.org/wiki/Aguascalientes_International_Airport","Jesús Terán Peredo International Airport, Licenciado Jesús Terán Peredo, Aeropuerto Internacional Jesús Terán Peredo"
 4692,"MMBT","large_airport","Bahías de Huatulco International Airport",15.775437,-96.260456,464,"NA","MX","MX-OAX","Huatulco","yes","MMBT","HUX","MMBT","HU1",,"https://en.wikipedia.org/wiki/Bah%C3%ADas_de_Huatulco_International_Airport",
 29753,"MMCA","small_airport","Cananea National Airport",31.06615,-110.097878,4921,"NA","MX","MX-SON","Cananea","no","MMCA","CNA","MMCA","CNA",,,
 4693,"MMCB","medium_airport","General Mariano Matamoros International Airport",18.833922,-99.261818,4277,"NA","MX","MX-MOR","Temixco","no","MMCB","CVJ","MMCB",,,"https://en.wikipedia.org/wiki/General_Mariano_Matamoros_Airport","Aeropuerto Internacional Mariano Matamoros"
@@ -56417,9 +56420,9 @@
 5859,"SBAM","small_airport","Amapá Airport",2.07751,-50.8582,45,"SA","BR","BR-AP","Amapá","no",,,"SBAM",,,"https://pt.wikipedia.org/wiki/Aeroporto_de_Amap%C3%A1",
 5860,"SBAN","medium_airport","Anápolis Airbase",-16.2292,-48.964298,3731,"SA","BR","BR-GO","Anápolis","no","SBAN",,"SBAN","GO9001",,"http://pt.wikipedia.org/wiki/Base_A%C3%A9rea_de_An%C3%A1polis",
 5861,"SBAQ","medium_airport","Araraquara Airport",-21.812,-48.132999,2334,"SA","BR","BR-SP","Araraquara","yes","SBAQ","AQA","SBAQ","SP0012","http://www.daesp.sp.gov.br/aeroporto-estadual-de-araraquara-bartolomeu-de-gusmao/","https://en.wikipedia.org/wiki/Araraquara_Airport",
-5862,"SBAR","large_airport","Aracaju - Santa Maria International Airport",-10.984129,-37.071789,139,"SA","BR","BR-SE","Aracaju","yes","SBAR","AJU","SBAR","SE0001","https://www.aenabrasil.com.br/pt/aeroportos/aeroporto-internacional-santa-maria-aracaju/index.html","https://en.wikipedia.org/wiki/Santa_Maria_Airport_(Sergipe)",
+5862,"SBAR","medium_airport","Aracaju - Santa Maria Airport",-10.98394,-37.072873,23,"SA","BR","BR-SE","Aracaju","yes","SBAR","AJU","SBAR","SE0001","https://www.aenabrasil.com.br/pt/aeroportos/aeroporto-internacional-santa-maria-aracaju/index.html","https://en.wikipedia.org/wiki/Santa_Maria_Airport_(Sergipe)",
 5864,"SBAT","medium_airport","Piloto Osvaldo Marques Dias Airport",-9.866389,-56.106298,948,"SA","BR","BR-MT","Alta Floresta","yes","SBAT","AFL","SBAT","MT0003",,"https://en.wikipedia.org/wiki/Alta_Floresta_Airport",
-5865,"SBAU","medium_airport","Araçatuba Airport",-21.141479,-50.424575,1361,"SA","BR","BR-SP","Araçatuba","yes","SBAU","ARU","SBAU","SP0009","https://aeroportospaulistas.com.br/aracatuba/","https://en.wikipedia.org/wiki/Ara%C3%A7atuba_Airport","Dario Guarita State Airport,"
+5865,"SBAU","medium_airport","Araçatuba Airport",-21.141479,-50.424575,1358,"SA","BR","BR-SP","Araçatuba","yes","SBAU","ARU","SBAU","SP0009","https://aeroportospaulistas.com.br/aracatuba/","https://en.wikipedia.org/wiki/Ara%C3%A7atuba_Airport","Dario Guarita State Airport"
 5866,"SBAX","medium_airport","Romeu Zema Airport",-19.5632,-46.9604,3276,"SA","BR","BR-MG","Araxá","yes","SBAX","AAX","SBAX","MG0008",,"https://en.wikipedia.org/wiki/Arax%C3%A1_Airport",
 5867,"SBBE","large_airport","Val de Cans/Júlio Cezar Ribeiro International Airport",-1.379279,-48.476207,54,"SA","BR","BR-PA","Belém","yes","SBBE","BEL","SBBE","PA0001","http://www.infraero.gov.br/index.php/br/aeroportos/para/aeroporto-internacional-de-belem.html","https://en.wikipedia.org/wiki/Val_de_Cans_International_Airport",
 5868,"SBBG","medium_airport","Comandante Gustavo Kraemer Airport",-31.390499,-54.112202,600,"SA","BR","BR-RS","Bagé","no","SBBG","BGX","SBBG","RS0010","https://www4.infraero.gov.br/aeroportos/aeroporto-internacional-de-bage-comandante-gustavo-kraemer/","https://en.wikipedia.org/wiki/Comandante_Gustavo_Kraemer_Airport",
@@ -57166,7 +57169,7 @@
 603842,"SD1Z","small_airport","Outland Serra da Mesa Airport",-14.250443,-48.276384,1533,"SA","BR","BR-GO","Niquelândia","no",,,"SD1Z","GO0420",,,
 337248,"SD20","heliport","Crooked Lake Lodge Heliport",45.032936,-96.883486,1882,"NA","US","US-SD","Strandburg","no",,,,"SD20",,,
 24508,"SD21","small_airport","Hayes Emergency Airstrip",44.374891,-101.01425,1986,"NA","US","US-SD","Hayes","no",,,"SD21","SD21",,,"Sherer Spray Service"
-322342,"SD22","heliport","Avera Dells Area Hospital Heliport",43.828501,-96.717278,1570,"NA","US","US-SD","Dell Rapids","no",,,"SD22","SD22",,,
+322342,"SD22","heliport","Avera Dells Area Hospital Heliport",43.828501,-96.717278,1570,"NA","US","US-SD","Dell Rapids","no",,,,"SD22","https://www.avera.org/locations/profile/avera-dells-area-hospital/",,
 24510,"SD23","heliport","Black Hills Health Care System Heliport",43.437336,-103.473305,3528,"NA","US","US-SD","Hot Springs","no",,,,"SD23",,,
 24511,"SD24","small_airport","Eden Valley Airport",44.446955,-103.398086,3070,"NA","US","US-SD","Sturgis","no",,,,"SD24",,,"Bruch Ranch"
 24513,"SD26","heliport","Mike Jacob Sturgis Heliport",44.416801,-103.449997,3280,"NA","US","US-SD","Sturgis","no",,,,"SD26",,,
@@ -61374,6 +61377,7 @@
 533794,"SN8H","small_airport","Fazenda Maritaca Airstrip",-9.655319,-50.900989,748,"SA","BR","BR-PA","Santana do Araguaia","no",,,"SN8H","PA0400",,,
 533797,"SN8I","heliport","Blue Sky Heliport",-23.007972,-43.403199,7,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SN8I","RJ0340",,,
 572071,"SN8L","small_airport","Fazenda Vale Formoso Airport",-10.775567,-55.235372,1230,"SA","BR","BR-MT","Colíder","no",,,"SN8L","MT1049",,,
+604827,"SN8M","heliport","Fazzenda Park Hotel Heliport",-26.981568,-48.930754,93,"SA","BR","BR-SC","Gaspar","no",,,"SN8M","SC0203",,,
 533826,"SN8N","heliport","Haras Beatriz Heliport",-5.008889,-47.544167,1243,"SA","BR","BR-MA","Açailândia","no",,,"SN8N","MA0189",,,
 572091,"SN8O","small_airport","Fazenda Alayde (Quinhão Ventania) Airstrip",-19.411722,-56.233911,368,"SA","BR","BR-MS","Aquidauana","no",,,"SN8O","MS0736",,,
 577415,"SN8P","small_airport","Fazenda Jacamim Airport",-13.666942,-56.283756,1296,"SA","BR","BR-MT","Nova Mutum","no",,,"SN8P","MT1042",,,
@@ -61392,8 +61396,8 @@
 24670,"SN94","small_airport","Amy Airport",37.468698,-100.00348,2560,"NA","US","US-KS","Minneola","no",,,,"SN94",,,
 24671,"SN95","small_airport","Roberts Air Field",37.979138,-98.399965,1765,"NA","US","US-KS","Sylvia","no",,,,"SN95",,,
 539288,"SN96","heliport","Fazenda Lavrinha Heliport",-16.290881,-47.748733,2795,"SA","BR","BR-GO","Luziânia","no",,,"SN96","GO0386",,,
-24672,"SN97","small_airport","G+ Ag Airport",37.325892,-101.194639,3056,"NA","US","US-KS","Moscow","no",,,"SN97","SN97",,,"Brollier Airport"
-24673,"SN98","small_airport","Anton Flying UV Airport",37.420767,-100.942879,2954,"NA","US","US-KS","Satanta","no",,,"SN98","SN98",,,
+24672,"SN97","small_airport","G+ Ag Airport",37.325892,-101.194639,3056,"NA","US","US-KS","Moscow","no",,,,"SN97",,,"Brollier Airport"
+24673,"SN98","small_airport","Anton Flying UV Airport",37.420767,-100.942879,2954,"NA","US","US-KS","Satanta","no",,,,"SN98",,,
 24674,"SN99","small_airport","Laflin Ranch Airport",39.400002,-96.616997,1190,"NA","US","US-KS","Olsburg","no",,,,"SN99",,,
 572402,"SN9A","small_airport","Fazenda Brahman Airstrip",-1.603672,-54.338494,303,"SA","BR","BR-PA","Monte Alegre","no",,,"SN9A","PA0406",,,
 565816,"SN9B","small_airport","Fazenda Esteio Airport",-16.278239,-53.667453,1554,"SA","BR","BR-MT","Guiratinga","no",,,"SN9B","MT0993",,,
@@ -61488,6 +61492,7 @@
 294,"SNCX","small_airport","Colatina Airport",-19.487476,-40.579362,502,"SA","BR","BR-ES","Colatina","no",,"QCH","SNCX","ES0004",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Colatina",
 37055,"SNCY","small_airport","Campo da Praia Airport",-10.222636,-36.285352,138,"SA","BR","BR-AL","Coruripe","no",,,"SNCY",,,,
 295,"SNCZ","small_airport","Ponte Nova Airport",-20.40329933166504,-42.916500091552734,1877,"SA","BR","BR-MG","Ponte Nova","no",,,"SNCZ","SNCZ",,,
+604824,"SND2","small_airport","Fazenda Santa Emília Airport",-14.566663,-54.891354,1536,"SA","BR","BR-MT","lanalto da Serra","no",,,"SND2","MT1057",,,
 552920,"SND7","heliport","DGL Heliport",-20.313756,-46.301092,2707,"SA","BR","BR-MG","São Roque de Minas","no",,,"SND7","MG0616",,,
 552923,"SND8","heliport","GRP Heliport",-16.776503,-43.892925,2208,"SA","BR","BR-MG","Montes Claro","no",,,"SND8","MG0617",,,
 552513,"SND9","heliport","Santa Fé Heliport",-22.917831,-48.882775,2277,"SA","BR","BR-SP","Avaré","no",,,"SND9","SP1473",,,
@@ -61599,6 +61604,7 @@
 37113,"SNHW","small_airport","Fazenda Agro-Maratá Airport",-4.3222222328186035,-46.22833251953125,1001,"SA","BR","BR-MA","Santa Luzia","no",,,"SNHW",,,,
 37115,"SNHY","heliport","Hospital Esperança Heliport",-8.066944122314453,-34.89500045776367,159,"SA","BR","BR-PE","Recife","no",,,"SNHY",,,,
 45564,"SNHZ","heliport","Amazonas State Government Palace Heliport",-3.092774,-60.060239,213,"SA","BR","BR-AM","Manaus","no",,,"SNHZ",,,,"Palácio do Governo do Estado do Amazonas Heliport"
+604816,"SNI4","small_airport","Fazenda Kênia Airport",-15.286274,-52.033265,961,"SA","BR","BR-MT","Araguaiana","no",,,"SNI4","MT1083",,,
 604811,"SNI8","heliport","Dream Car Heliport",-23.599151,-47.159956,2861,"SA","BR","BR-SP","São Roque","no",,,"SNI8","SP1482",,,
 604814,"SNI9","heliport","Asa Alumínio Heliport",-22.957355,-47.098237,2861,"SA","BR","BR-SP","Campinas","no",,,"SNI9","SP1481","https://www.asaaluminio.com.br/en/our-story",,
 321,"SNIB","small_airport","Itaberaba Airport",-12.5,-40.269901,929,"SA","BR","BR-BA","Itaberaba","no",,,"SNIB","SNIB",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Itaberaba",
@@ -61850,7 +61856,7 @@
 395,"SNSS","small_airport","Salinas Airport",-16.2083,-42.321999,2504,"SA","BR","BR-MG","Salinas","no",,,"SNSS","SNSS",,"https://en.wikipedia.org/wiki/Salinas_Airport_(Brazil)",
 396,"SNST","small_airport","Souto Soares Airport",-12.0973,-41.640701,2753,"SA","BR","BR-BA","Souto Soares","no",,,"SN3U","BA0049",,,"SNST"
 32341,"SNSU","small_airport","Chácara Araguaia Airport",-6.882288,-49.15766,485,"SA","BR","BR-PA","Xinguara","no",,,"SJX8","PA0368",,,"SNSU, Usina Santa Cruz, Fazenda Pontão"
-397,"SNSW","small_airport","Soure Airport",-0.697844,-48.519759,43,"SA","BR","BR-PA","Soure","no","SNSW","SFK","SNSW","SNSW",,,
+397,"SNSW","small_airport","Soure Airport",-0.697844,-48.519759,32,"SA","BR","BR-PA","Soure","no",,"SFK","SNI6","PA0025",,,"SNSW"
 37259,"SNSX","small_airport","Fazenda São Martinho Airport",-20.357312,-51.255308,1148,"SA","BR","BR-SP","Ilha Solteira","no",,,"SNDS","SP0226",,,"SNSX"
 37260,"SNSY","closed","Fazenda São José Airport",-20.942881,-56.495498,1247,"SA","BR","BR-MS","Bonito","no",,,,,,,"SNSY, MS0229"
 596112,"SNT2","small_airport","Dois Irmãos Airstrip",-9.5554,-49.018006,930,"SA","BR","BR-TO","Dois Irmãos do Tocantins","no",,,"SNT2","TO0152",,,
@@ -83085,7 +83091,7 @@
 38540,"YOUY","small_airport","Ouyen Airport",-35.088819,142.354778,,"OC","AU","AU-VIC","Ouyen","no","YOUY","OYN","YOUY",,,,
 602878,"YP1","heliport","Yellow Pine Heliport",44.959908,-115.495411,4742,"NA","US","US-ID","Yellow Pine","no",,,"YP1","YP1",,,
 38541,"YPAC","small_airport","Pacific Haven Airport",-25.241123,152.542849,,"OC","AU","AU-QLD",,"no",,,"YPAC",,,,
-27096,"YPAD","large_airport","Adelaide International Airport",-34.947512,138.533393,20,"OC","AU","AU-SA","Adelaide","yes","YPAD","ADL","YPAD",,,"https://en.wikipedia.org/wiki/Adelaide_International_Airport",
+27096,"YPAD","large_airport","Adelaide International Airport",-34.947512,138.533393,20,"OC","AU","AU-SA","Adelaide","yes","YPAD","ADL","YPAD",,,"https://en.wikipedia.org/wiki/Adelaide_Airport",
 27097,"YPAG","medium_airport","Port Augusta Airport",-32.506900787353516,137.7169952392578,56,"OC","AU","AU-SA",,"yes","YPAG","PUG","YPAG",,,"https://en.wikipedia.org/wiki/Port_Augusta_Airport",
 27098,"YPAM","small_airport","Palm Island Airport",-18.755300521850586,146.58099365234375,28,"OC","AU","AU-QLD",,"yes","YPAM","PMK","YPAM",,,"https://en.wikipedia.org/wiki/Palm_Island_Airport",
 27876,"YPAY","small_airport","Papunya Airport",-23.246700286865234,131.9029998779297,620,"OC","AU","AU-NT",,"no",,,"YPAY",,,,
