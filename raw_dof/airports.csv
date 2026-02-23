@@ -23830,7 +23830,7 @@
 29107,"EGBC","heliport","Cheltenham Racecourse Heliport",51.925626,-2.054351,213,"EU","GB","GB-ENG","Cheltenham, Gloucestershire","no","EGBC",,"EGBC",,,"https://en.wikipedia.org/wiki/Cheltenham_Racecourse_Heliport",
 29108,"EGBD","small_airport","Derby Airfield",52.859699,-1.6175,175,"EU","GB","GB-ENG","Derby, Derbyshire","no","EGBD",,"EGBD",,"http://www.derbyaeroclub.com/","https://en.wikipedia.org/wiki/Derby_Airfield",
 2390,"EGBE","medium_airport","Coventry Airport",52.369701,-1.47972,267,"EU","GB","GB-ENG","Coventry, West Midlands","no","EGBE","CVT","EGBE",,"http://www.coventryairport.co.uk/","https://en.wikipedia.org/wiki/Coventry_Airport","RAF Baginton"
-307357,"EGBF","small_airport","Bedford Aerodrome",52.231891,-0.452442,270,"EU","GB","GB-ENG","Bedford, Bedfordshire","no","EGBF",,"EGBF",,"http://www.bedfordaerodrome.com/","https://en.wikipedia.org/wiki/Bedford_Aerodrome","RAE Bedford, RAF Thurleigh, EGVW"
+307357,"EGBF","small_airport","Bedford Aerodrome",52.23071,-0.463825,270,"EU","GB","GB-ENG","Bedford, Bedford","no","EGBF",,"EGBF",,"http://www.bedfordaerodrome.com/","https://en.wikipedia.org/wiki/Bedford_Aerodrome","RAE Bedford, RAF Thurleigh, EGVW"
 2391,"EGBG","small_airport","Leicester Airport",52.606574,-1.030226,469,"EU","GB","GB-ENG","Leicester, Leicestershire","no","EGBG",,"EGBG",,,"https://en.wikipedia.org/wiki/Leicester_Airport",
 2392,"EGBJ","medium_airport","Gloucestershire Airport",51.894199,-2.16722,101,"EU","GB","GB-ENG","Staverton, Gloucestershire","no","EGBJ","GLO","EGBJ",,,"https://en.wikipedia.org/wiki/Gloucestershire_Airport","Gloucester/Cheltenham"
 29109,"EGBK","small_airport","Sywell Aerodrome",52.305302,-0.793056,429,"EU","GB","GB-ENG","Northampton, Northamptonshire","no","EGBK","ORM","EGBK",,"http://www.sywellaerodrome.co.uk/","https://en.wikipedia.org/wiki/Sywell_Aerodrome",
@@ -23891,7 +23891,7 @@
 29136,"EGFP","small_airport","Pembrey West Wales Airport",51.713902,-4.31222,15,"EU","GB","GB-WLS","Pembrey, Carmarthenshire","no",,,"EGFP",,,"https://en.wikipedia.org/wiki/Pembrey_Airport","RAF Pembrey"
 2417,"EGGD","large_airport","Bristol Airport",51.382326,-2.716453,622,"EU","GB","GB-ENG","Bristol","yes","EGGD","BRS","EGGD",,"http://www.bristolairport.co.uk/","https://en.wikipedia.org/wiki/Bristol_Airport","Lulsgate Bottom"
 2418,"EGGP","large_airport","Liverpool John Lennon Airport",53.334863,-2.849637,80,"EU","GB","GB-ENG","Liverpool","yes","EGGP","LPL","EGGP",,"http://www.liverpoolairport.com/","https://en.wikipedia.org/wiki/Liverpool_John_Lennon_Airport",
-2419,"EGGW","large_airport","London Luton Airport",51.874699,-0.368333,526,"EU","GB","GB-ENG","Luton, Bedfordshire","yes","EGGW","LTN","EGGW",,"http://www.london-luton.co.uk/en/","https://en.wikipedia.org/wiki/Luton_Airport","LON"
+2419,"EGGW","large_airport","London Luton Airport",51.874699,-0.368333,526,"EU","GB","GB-ENG","Luton, Luton","yes","EGGW","LTN","EGGW",,"http://www.london-luton.co.uk/en/","https://en.wikipedia.org/wiki/Luton_Airport","LON"
 29137,"EGHA","small_airport","Compton Abbas Aerodrome",50.967201,-2.15361,811,"EU","GB","GB-ENG","Shaftesbury, Dorset","no",,,"EGHA",,"http://www.abbasair.co.uk/","https://en.wikipedia.org/wiki/Compton_Abbas_Airfield",
 29139,"EGHC","small_airport","Land's End Airport",50.102798,-5.67056,398,"EU","GB","GB-ENG","Land's End, Cornwall","yes","EGHC","LEQ","EGHC",,"http://www.landsendairport.co.uk/","https://en.wikipedia.org/wiki/Land%27s_End_Airport","St. Just Airport"
 29140,"EGHE","small_airport","St. Mary's Airport",49.913375,-6.291894,116,"EU","GB","GB-ENG","St. Mary's, Isles of Scilly","yes","EGHE","ISC","EGHE",,"http://www.scilly.gov.uk/transport/airandsea/airport/","https://en.wikipedia.org/wiki/St._Mary%27s_Airport_%28Isles_of_Scilly%29",
@@ -23937,7 +23937,7 @@
 2435,"EGMC","medium_airport","London Southend Airport",51.570562,0.693627,49,"EU","GB","GB-ENG","Southend-on-Sea, Essex","yes","EGMC","SEN","EGMC",,"http://www.londonsouthendairport.com/","https://en.wikipedia.org/wiki/London_Southend_Airport","RAF Rochford"
 2436,"EGMD","medium_airport","Lydd London Ashford Airport",50.956246,0.939074,13,"EU","GB","GB-ENG","Romney Marsh, Kent","no","EGMD","LYX","EGMD",,"http://www.lydd-airport.co.uk/","https://en.wikipedia.org/wiki/Lydd_Airport","London Ashford"
 29163,"EGMF","small_airport","Farthing Corner / Stoneacre Farm Airfield",51.332788,0.601058,420,"EU","GB","GB-ENG","Sittingbourne, Kent","no","EGMF",,"EGMF",,,,
-29164,"EGMJ","small_airport","Little Gransden Airfield",52.165977,-0.149222,250,"EU","GB","GB-ENG","Sandy, Bedfordshire","no",,,"EGMJ",,"http://www.skyline.flyer.co.uk/","https://en.wikipedia.org/wiki/Little_Gransden_Airfield","St Neot's"
+29164,"EGMJ","small_airport","Little Gransden Airfield",52.165977,-0.149222,250,"EU","GB","GB-ENG","Gamlingay, Cambridgeshire","no","EGMJ",,"EGMJ",,"http://www.skyline.flyer.co.uk/","https://en.wikipedia.org/wiki/Little_Gransden_Airfield","St Neot's"
 29815,"EGML","small_airport","Damyns Hall Aerodrome",51.527561,0.244189,59,"EU","GB","GB-ENG","Upminster, Greater London","no","EGML",,"EGML",,,"https://en.wikipedia.org/wiki/Damyns_Hall_Aerodrome",
 314586,"EGMT","small_airport","Thurrock Airfield",51.537505,0.367634,20,"EU","GB","GB-ENG","Orsett, Essex","no","EGMT",,"EGMT",,"http://www.aeroservices.co.uk/thurrock_airfield.html",,
 2439,"EGNC","medium_airport","Carlisle Lake District Airport",54.9375,-2.80917,190,"EU","GB","GB-ENG","Carlisle, Cumbria","no","EGNC","CAX","EGNC",,"https://www.carlisleairport.co.uk/","https://en.wikipedia.org/wiki/Carlisle_Lake_District_Airport",
@@ -23986,7 +23986,7 @@
 29176,"EGPW","small_airport","Unst Airfield",60.7472,-0.85385,62,"EU","GB","GB-SCT","Baltasound, Shetland Islands","no","EGPW",,"EGPW",,,"https://en.wikipedia.org/wiki/Unst_Airport",
 2471,"EGQL","medium_airport","Leuchars Station Airfield",56.37398,-2.868862,38,"EU","GB","GB-SCT","Leuchars, Fife","no","EGQL","ADX","EGQL",,,"https://en.wikipedia.org/wiki/Leuchars_Station",
 2472,"EGQS","medium_airport","RAF Lossiemouth",57.7052,-3.33917,42,"EU","GB","GB-SCT","Lossiemouth, Moray","no","EGQS","LMO","EGQS",,"http://www.raf.mod.uk/raflossiemouth/","https://en.wikipedia.org/wiki/RAF_Lossiemouth",
-29179,"EGSA","small_airport","Shipdham Airfield",52.629398,0.928056,210,"EU","GB","GB-ENG","Thetford, Norfolk","no",,,"EGSA",,"http://www.shipdhamaeroclub.co.uk/","https://en.wikipedia.org/wiki/RAF_Shipdham","RAF Shipdham"
+29179,"EGSA","small_airport","Shipdham Airfield",52.629398,0.928056,210,"EU","GB","GB-ENG","Thetford, Norfolk","no","EGSA",,"EGSA",,"http://www.shipdhamaeroclub.co.uk/","https://en.wikipedia.org/wiki/RAF_Shipdham","RAF Shipdham"
 2473,"EGSC","medium_airport","Cambridge City Airport",52.205002,0.175,47,"EU","GB","GB-ENG","Cambridge, Cambridgeshire","no","EGSC","CBG","EGSC",,"http://www.cambridgeairport.com/","https://en.wikipedia.org/wiki/Cambridge_City_Airport","Marshall, RAF Cambridge"
 29181,"EGSD","small_airport","Great Yarmouth - North Denes Airport",52.635576,1.723016,6,"EU","GB","GB-ENG","Great Yarmouth, Norfolk","no","EGSD",,"EGSD",,,"https://en.wikipedia.org/wiki/Great_Yarmouth_-_North_Denes_Airport","Yarmouth Heliport"
 2474,"EGSF","small_airport","Peterborough Business Airport",52.468102,-0.251111,26,"EU","GB","GB-ENG","Peterborough, Cambridgeshire","no","EGSF",,"EGSF",,"http://www.aerolease.co.uk/","https://en.wikipedia.org/wiki/Peterborough_Business_Airport","Conington Airport, RAF Glatton"
@@ -24007,7 +24007,7 @@
 29194,"EGSW","small_airport","Newmarket Heath Airfield",52.235147,0.350643,100,"EU","GB","GB-ENG","Newmarket, Suffolk","no","EGSW",,"EGSW",,,"https://en.wikipedia.org/wiki/RAF_Newmarket","RAF Newmarket, July Course"
 2478,"EGSX","small_airport","North Weald Airfield",51.721699,0.154167,321,"EU","GB","GB-ENG","Epping, Essex","no","EGSX",,"EGSX",,"http://www.northwealdairfield.org/","https://en.wikipedia.org/wiki/North_Weald_Airfield","RAF North Weald, Epping Forest"
 29196,"EGTB","small_airport","Wycombe Air Park",51.61177,-0.808316,515,"EU","GB","GB-ENG","Marlow, Buckinghamshire","no","EGTB","HYC","EGTB",,,"https://en.wikipedia.org/wiki/Wycombe_Air_Park","RAF Booker, High Wycombe"
-2480,"EGTC","medium_airport","Cranfield Airport",52.072201,-0.616667,360,"EU","GB","GB-ENG","Bedford, Bedfordshire","no","EGTC",,"EGTC",,"http://www.cranfieldairport.co.uk/","https://en.wikipedia.org/wiki/Cranfield_Airport","RAF Cranfield, Milton Keynes"
+2480,"EGTC","medium_airport","Cranfield Airport",52.072201,-0.616667,360,"EU","GB","GB-ENG","Cranfield, Central Bedfordshire","no","EGTC",,"EGTC",,"http://www.cranfieldairport.co.uk/","https://en.wikipedia.org/wiki/Cranfield_Airport","RAF Cranfield, Milton Keynes"
 29197,"EGTD","small_airport","Dunsfold Aerodrome",51.117199,-0.535833,172,"EU","GB","GB-ENG","Cranleigh, Surrey","no","EGTD",,"EGTD",,"http://www.dunsfoldpark.com","https://en.wikipedia.org/wiki/Dunsfold_Aerodrome",
 2481,"EGTE","medium_airport","Exeter International Airport",50.734261,-3.413984,102,"EU","GB","GB-ENG","Exeter, Devon","yes","EGTE","EXT","EGTE",,"http://www.exeter-airport.co.uk/","https://en.wikipedia.org/wiki/Exeter_International_Airport",
 29198,"EGTF","small_airport","Fairoaks Airport",51.348099,-0.558889,80,"EU","GB","GB-ENG","Woking, Surrey","no","EGTF",,"EGTF",,"https://fairoaksairport.uk","https://en.wikipedia.org/wiki/Fairoaks_Airport",
@@ -25648,7 +25648,7 @@
 41162,"FAUG","small_airport","Ugie Airport",-31.219999313354492,28.209999084472656,4580,"AF","ZA","ZA-EC","Ugie","no",,,"FAUG",,,,
 30504,"FAUH","small_airport","Uitenhage Airport",-33.785301208496094,25.38330078125,289,"AF","ZA","ZA-EC","Uitenhage","no",,,"FAUH",,,,
 2846,"FAUL","medium_airport","Prince Mangosuthu Buthelezi Airport",-28.3206005096,31.4165000916,1720,"AF","ZA","ZA-NL","Ulundi","no","FAUL","ULD","FAUL",,,"https://en.wikipedia.org/wiki/Ulundi_Airport",
-2847,"FAUP","large_airport","Upington International Airport",-28.400517,21.263357,2782,"AF","ZA","ZA-NC","Upington","yes","FAUP","UTN","FAUP",,,"https://en.wikipedia.org/wiki/Upington_Airport",
+2847,"FAUP","medium_airport","Upington Airport",-28.400246,21.263592,2782,"AF","ZA","ZA-NC","Upington","yes","FAUP","UTN","FAUP",,"https://www.airports.co.za/airports/upington-international-airport","https://en.wikipedia.org/wiki/Upington_Airport","Pierre van Ryneveld"
 30515,"FAUR","small_airport","Utrecht Airport",-27.680500030517578,30.31679916381836,4101,"AF","ZA","ZA-NL","Utrecht","no",,,"FAUR",,,,
 41260,"FAUS","small_airport","Ulusaba Airport",-24.7854003906,31.3549003601,1263,"AF","ZA","ZA-NP","Ulusaba","no","FAUS","ULX","FAUS",,,,
 2848,"FAUT","medium_airport","K. D. Matanzima Airport",-31.546363184900002,28.6733551025,2400,"AF","ZA","ZA-EC","Mthatha","yes","FAUT","UTT","FAUT",,,"https://en.wikipedia.org/wiki/K.D._Matanzima_Airport","Umtata"
@@ -28649,7 +28649,7 @@
 317694,"GB-0271","small_airport","Kingfisher's Bridge Airstrip",52.3305139,0.2681335,,"EU","GB","GB-ENG",,"no",,,,,,,
 317729,"GB-0272","small_airport","Newnham Airstrip",52.01986,-0.167785,,"EU","GB","GB-ENG","Baldock, Hertfordshire","no",,,,,,,
 317731,"GB-0273","small_airport","South Cave / Mount Airy Airfield",53.772322,-0.575937,,"EU","GB","GB-ENG","Brough, East Riding of Yorkshire","no",,,,,,,"Mount Airey, EG54"
-317738,"GB-0274","small_airport","Little Staughton Airfield",52.242757,-0.363302,,"EU","GB","GB-ENG","Bedford, Bedfordshire","no",,,,,,,
+317738,"GB-0274","small_airport","Little Staughton Airfield",52.242757,-0.363302,,"EU","GB","GB-ENG","Great Staughton, Cambridgeshire","no",,,,,,,
 317739,"GB-0275","small_airport","Lydeway Field",51.33096,-1.928939,,"EU","GB","GB-ENG","Devizes, Wiltshire","no",,,,,,,
 317740,"GB-0276","small_airport","Lower Grounds Farm Airstrip",52.735708,-2.601444,197,"EU","GB","GB-ENG","Telford, Shropshire","no",,,,,,,"Sherlowe"
 317744,"GB-0277","small_airport","Stow Airstrip",53.321569,-0.678138,75,"EU","GB","GB-ENG","Lincoln, Lincolnshire","no",,,,,,,"Mere House, Sturton by Stow"
@@ -28743,7 +28743,7 @@
 319943,"GB-0365","small_airport","Holmbeck Farm Airfield",51.910275,-0.729577,420,"EU","GB","GB-ENG","Leighton Buzzard, Buckinghamshire","no",,,,,"http://www.users.globalnet.co.uk/~dartdirx/holmbeck_farm_airfield.html",,
 320049,"GB-0366","small_airport","Stoke Airfield",51.4456,0.633467,,"EU","GB","GB-ENG","Rochester, Kent","no",,,,,"http://www.ravenmad.co.uk/findus.htm",,"Medway, Stoke Medway"
 320071,"GB-0367","small_airport","Chatteris Airfield",52.4873,0.089111,5,"EU","GB","GB-ENG","Chatteris","no",,,,,,,"EG17"
-320072,"GB-0368","small_airport","Long Acres Farm",52.129787,-0.310853,80,"EU","GB","GB-ENG","Sandy, Bedfordshire","no",,,,,,,"Longacre Farm, Bedford Microlight"
+320072,"GB-0368","small_airport","Long Acres Farm",52.129787,-0.310853,80,"EU","GB","GB-ENG","Sandy, Central Bedfordshire","no",,,,,,,"Longacre Farm, Bedford Microlight"
 320075,"GB-0369","small_airport","Darley Moor Airfield",52.9693,-1.74868,580,"EU","GB","GB-ENG","Ashbourne, Derbyshire","no",,,,,"http://www.airways-airsports.com",,
 320078,"GB-0370","small_airport","Derryogue",54.0517,-6.029625,68,"EU","GB","GB-NIR","Derryogue","no",,,,,,,
 320079,"GB-0371","small_airport","Decoy Farm Airstrip",52.865514,-0.303276,9,"EU","GB","GB-ENG","Sleaford, Lincolnshire","no",,,,,,,"Pointon"
@@ -28904,7 +28904,7 @@
 324999,"GB-0526","small_airport","North Moreton Airstrip",51.600467,-1.182359,151,"EU","GB","GB-ENG","Didcot, Oxfordshire","no",,,,,,,"Melhuish Farm"
 325000,"GB-0527","small_airport","Metropolitan Police Air Support Unit Lippitts Hill",51.653818,0.017171,,"EU","GB","GB-ENG","Loughton, Essex","no",,,,,,,
 325091,"GB-0528","heliport","Nissan Helipad",54.90891,-1.483143,,"EU","GB","GB-ENG","Sunderland","no",,,,,,,
-325306,"GB-0529","small_airport","Earwig Farm Airstrip",52.184838,-0.515664,121,"EU","GB","GB-ENG","Bedford, Bedfordshire","no",,,,,,,
+325306,"GB-0529","small_airport","Earwig Farm Airstrip",52.184838,-0.515664,121,"EU","GB","GB-ENG","Bedford, Bedford","no",,,,,,,
 331568,"GB-0530","small_airport","Wormingford Glider Field",51.941419,0.789459,,"EU","GB","GB-ENG","Colchester, Essex","no",,,,,"http://esgc.co.uk","https://en.wikipedia.org/wiki/RAF_Wormingford#Current_use","Essex Suffolk Gliding Club, RAF Wormingford"
 325630,"GB-0531","small_airport","Orchardleigh Private Airstrip",51.254077,-2.324791,367,"EU","GB","GB-ENG","Frome, Somerset","no",,,,,,,
 325679,"GB-0532","small_airport","Grange Farm Private Airstrip",53.322709,-0.257693,180,"EU","GB","GB-ENG","Market Rasen, Lincolnshire","no",,,,,"http://www.thegrange-lincolnshire.co.uk/",,"East Barkwith"
@@ -29127,11 +29127,11 @@
 333361,"GB-0749","small_airport","Fridd Farm Airstrip",51.1423,0.7585,,"EU","GB","GB-ENG","Ashford, Kent","no",,,,,,,"Bethersden"
 333384,"GB-0750","small_airport","Bossington Airstrip",51.0766,-1.5389,,"EU","GB","GB-ENG",,"no",,,,,,,
 333385,"GB-0751","small_airport","Bovingdon Airstrip",51.7281,-0.5474,,"EU","GB","GB-ENG","Hemel Hempstead, Hertfordshire","no",,,,,,,
-333388,"GB-0752","small_airport","Cardington Airstrip",52.1061,-0.4171,95,"EU","GB","GB-ENG","Bedford, Bedfordshire","no",,,,,,,
+333388,"GB-0752","small_airport","Cardington Airstrip",52.1061,-0.4171,95,"EU","GB","GB-ENG","Bedford, Bedford","no",,,,,,,
 333389,"GB-0753","small_airport","Hamilton Farm Airstrip",51.093609,0.88829,,"EU","GB","GB-ENG","Ashford, Kent","no",,,,,,,
 333408,"GB-0754","small_airport","Easter Nether Cabra Farm Airstrip",57.560563,-2.0301,,"EU","GB","GB-SCT",,"no",,,,,,,
 333409,"GB-0755","small_airport","Hill Farm Airstrip",53.840338,-0.211895,,"EU","GB","GB-ENG","New Ellerby, East Yorkshire","no",,,,,,,
-333426,"GB-0756","small_airport","Cheddington Airstrip",51.8328,-0.6704,,"EU","GB","GB-ENG",,"no",,,,,,,"Marsworth"
+333426,"GB-0756","small_airport","Cheddington Airstrip",51.8328,-0.6704,,"EU","GB","GB-ENG","Marsworth, Buckinghamshire","no",,,,,,,
 333427,"GB-0757","small_airport","Chelworth House Airstrip",51.0493,0.0142,,"EU","GB","GB-ENG","Haywards Heath, West Sussex","no",,,,,,,
 333441,"GB-0758","small_airport","Rushett Farm",51.3364,-0.3144,,"EU","GB","GB-ENG","Chessington (Surrey)","no",,,,,,,
 333504,"GB-0759","small_airport","Danehill Airstrip",51.0264,-0.0121,,"EU","GB","GB-ENG","Haywards Heath, West Sussex","no",,,,,,,
@@ -29142,7 +29142,7 @@
 333554,"GB-0764","small_airport","Hawksview Airstrip",53.342308,-2.525847,233,"EU","GB","GB-ENG","Warrington, Cheshire","no",,,,,,,
 333555,"GB-0765","small_airport","Folly Farm Airstrip",50.904454,-0.228803,,"EU","GB","GB-ENG","Henfield, West Sussex","no",,,,,,,
 333568,"GB-0766","small_airport","Baynard's Park Airstrip",51.118295,-0.442193,,"EU","GB","GB-ENG","Horsham, West Sussex","no",,,,,,,
-333569,"GB-0767","heliport","Gamlingay Helicopter Strip",52.1482,-0.2141,,"EU","GB","GB-ENG","Sandy, Bedfordshire","no",,,,,,,"Five Acres"
+333569,"GB-0767","heliport","Gamlingay Helicopter Strip",52.1482,-0.2141,,"EU","GB","GB-ENG","Gamlingay, Cambridgeshire","no",,,,,,,"Five Acres"
 333570,"GB-0768","small_airport","Landmead Farm Airfield",51.649084,-1.370003,190,"EU","GB","GB-ENG","Wantage, Oxfordshire","no",,,,,,,
 333584,"GB-0769","small_airport","Manor House Farm Airstrip",51.1768,-1.6216,,"EU","GB","GB-ENG","Grateley (Hamps)","no",,,,,,,
 333585,"GB-0770","small_airport","Armshold Farm Airstrip",52.1746,-0.0197,,"EU","GB","GB-ENG","Cambridge, Cambridgeshire","no",,,,,,,"Great Eversden"
@@ -29597,7 +29597,7 @@
 2479,"GB-1219","closed","Sheffield City Airport",53.39451,-1.39306,231,"EU","GB","GB-ENG","Sheffield, South Yorkshire","no",,,,,,"https://en.wikipedia.org/wiki/Sheffield_City_Airport","SZD, EGSY, Sheffield City Heliport"
 2482,"GB-1220","closed","Bristol Filton Airport",51.519402,-2.59083,226,"EU","GB","GB-ENG","Bristol, Somerset","no",,,,,"http://www.bristolfilton.co.uk/","https://en.wikipedia.org/wiki/Bristol_Filton_Airport","RAF Filton, EGTG, FZO"
 2489,"GB-1221","closed","RAF Colerne",51.441283,-2.283402,593,"EU","GB","GB-ENG","Chippenham, Wiltshire","no",,,,,,"https://en.wikipedia.org/wiki/Colerne_Airfield","Colerne Airfield, EGUO"
-2491,"GB-1222","closed","RAF Wyton",52.357117,-0.107787,135,"EU","GB","GB-ENG","St Ives, Cambridgeshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Wyton","EGUY, QUY"
+2491,"GB-1222","small_airport","RAF Wyton",52.357117,-0.107787,135,"EU","GB","GB-ENG","St Ives, Cambridgeshire","no","EGUY","QUY","EGUY",,"https://www.raf.mod.uk/our-organisation/stations/raf-wyton/","https://en.wikipedia.org/wiki/RAF_Wyton",
 2498,"GB-1223","closed","Dishforth Airfield",54.140517,-1.419468,117,"EU","GB","GB-ENG","Thirsk, North Yorkshire","no",,,,,,"https://en.wikipedia.org/wiki/Dishforth_Airfield","EGXD, RAF Dishforth"
 2502,"GB-1224","closed","RAF Cottesmore",52.731772,-0.654545,461,"EU","GB","GB-ENG","Oakham, Rutland","no",,,,,"http://www.raf.mod.uk/rafcottesmore/","https://en.wikipedia.org/wiki/RAF_Cottesmore","EGXJ, OKH"
 2503,"GB-1225","closed","RAF Scampton",53.3078,-0.550833,202,"EU","GB","GB-ENG","Lincoln, Lincolnshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Scampton","EGXP, SQZ, Brattleby"
@@ -39740,7 +39740,7 @@
 20304,"KL65","small_airport","Perris Valley Airport",33.760899,-117.218002,1413,"NA","US","US-CA","Perris","no",,,"KL65","L65",,"https://en.wikipedia.org/wiki/Perris_Valley_Airport",
 20305,"KL66","small_airport","Pollock Municipal Airport",31.47750092,-92.46109772,203,"NA","US","US-LA","Pollock","no",,,"L66","L66",,,"LA34"
 20307,"KL70","small_airport","Agua Dulce Airpark",34.503616,-118.312926,2660,"NA","US","US-CA","Agua Dulce","no",,,,"L70","http://www.l70airport.com/","https://en.wikipedia.org/wiki/Agua_Dulce_Airpark",
-20308,"KL71","small_airport","California City Municipal Airport",35.15119934082031,-118.01699829101562,2454,"NA","US","US-CA","California City","no",,,"KL71","L71",,"https://en.wikipedia.org/wiki/California_City_Municipal_Airport",
+20308,"KL71","medium_airport","California City Municipal Airport",35.151377,-118.016059,2454,"NA","US","US-CA","California City","no",,,"KL71","L71",,"https://en.wikipedia.org/wiki/California_City_Municipal_Airport",
 20309,"KL72","small_airport","Trona Airport",35.8125,-117.327003479,1716,"NA","US","US-CA","Trona","no",,"TRH","L72","L72","http://www.trona-ca.com/trona-airport/","https://en.wikipedia.org/wiki/Trona_Airport",
 20310,"KL73","small_airport","Poso Kern County Airport",35.59659957885742,-119.12799835205078,635,"NA","US","US-CA","Famoso","no",,,"KL73","L73",,"https://en.wikipedia.org/wiki/Poso_Airport",
 20312,"KL77","small_airport","Chiriaco Summit Airport",33.664729,-115.710819,1713,"NA","US","US-CA","Chiriaco Summit","no",,,"KL77","L77",,"https://en.wikipedia.org/wiki/Chiriaco_Summit_Airport","chiriaco summit, shavers summit"
@@ -40001,7 +40001,7 @@
 20505,"KMHP","small_airport","Metter Municipal Airport",32.373885,-82.081775,197,"NA","US","US-GA","Metter","no",,,"KMHP","MHP",,,
 20506,"KMHR","medium_airport","Sacramento Mather Airport",38.554744,-121.297989,98,"NA","US","US-CA","Sacramento","no","KMHR","MHR","KMHR","MHR","http://www.sacramento.aero/mhr/","https://en.wikipedia.org/wiki/Sacramento_Mather_Airport",
 3684,"KMHT","medium_airport","Manchester-Boston Regional Airport",42.932598,-71.435699,266,"NA","US","US-NH","Manchester","yes","KMHT","MHT","KMHT","MHT","https://flymanchester.com","https://en.wikipedia.org/wiki/Manchester-Boston_Regional_Airport","Manchester Airport"
-20507,"KMHV","small_airport","Mojave Airport",35.05939865,-118.1520004,2801,"NA","US","US-CA","Mojave","no","KMHV","MHV","KMHV","MHV",,"https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port",
+20507,"KMHV","medium_airport","Mojave Air &  Space Port",35.056391,-118.145342,2801,"NA","US","US-CA","Mojave","no","KMHV","MHV","KMHV","MHV","https://www.mojaveairport.com/","https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port","Rutan Field"
 3685,"KMIA","large_airport","Miami International Airport",25.796011,-80.289751,8,"NA","US","US-FL","Miami","yes","KMIA","MIA","KMIA","MIA","https://www.miami-airport.com/","https://en.wikipedia.org/wiki/Miami_International_Airport","MFW, South Florida, Wilcox Field, Pan American Field"
 3686,"KMIB","medium_airport","Minot Air Force Base",48.4156,-101.358002,1667,"NA","US","US-ND","Minot","no","KMIB","MIB","KMIB","MIB","http://www.minot.af.mil/","https://en.wikipedia.org/wiki/Minot_Air_Force_Base","5th Bomb Wing, 91st Space Wing"
 20508,"KMIC","small_airport","Crystal Airport",45.062,-93.353897,869,"NA","US","US-MN","Minneapolis","no","KMIC","MIC","KMIC","MIC",,"https://en.wikipedia.org/wiki/Crystal_Airport_(Minnesota)",
@@ -70141,6 +70141,7 @@
 604565,"US-12909","closed","Piney Hollow Airfield",39.593029,-74.901261,90,"NA","US","US-NJ","Monroe","no",,,,,,,"80N, Piney Hollow"
 334347,"US-1291","small_airport","Porcupine Ridge Airport",34.511795,-108.037748,7540,"NA","US","US-NM","Pie Town","no",,,"NM30","NM30",,,
 604715,"US-12910","small_airport","Painter Creek Airport",57.155616,-157.409829,424,"NA","US","US-AK","Painter Creek Lodge","no",,,,,"http://www.paintercreeklodge.com/",,"PCE"
+604861,"US-12911","small_airport","Tranquility Base Airport",33.712447,-86.395595,658,"NA","US","US-AL","Springville","no",,,"2AL4","2AL4",,,
 334351,"US-1292","closed","Brentwood Ambulatory Care Center Heliport",41.3163,-81.568889,868,"NA","US","US-OH","Northfield","no",,,,,,,"80OI"
 334352,"US-1293","heliport","George Washington University Hospital Heliport",38.900903,-77.051132,174,"NA","US","US-DC","Washington","no",,,"24DC","24DC",,,
 334358,"US-1294","small_airport","Curry Ridge Airport",32.723321,-113.938501,329,"NA","US","US-AZ","Tacna","no",,,"AZ60","AZ60",,,
@@ -80487,7 +80488,7 @@
 302310,"VTCO","small_airport","Lamphun Airport",18.548986,99.012426,925,"AS","TH","TH-51",,"yes","VTCO",,"VTCO",,,"https://en.wikipedia.org/wiki/Lamphun_Airport",
 26651,"VTCP","medium_airport","Phrae Airport",18.1322,100.165001,538,"AS","TH","TH-54",,"no","VTCP","PRH","VTCP",,,"https://en.wikipedia.org/wiki/Phrae_Airport",
 32598,"VTCS","small_airport","Mae Sariang Airport",18.180962,97.930627,750,"AS","TH","TH-58","Mae Sariang","no",,,"VTCS",,,,
-26653,"VTCT","medium_airport","Mae Fah Luang - Chiang Rai International Airport",19.952299,99.882896,1280,"AS","TH","TH-57","Chiang Rai","yes",,"CEI",,,,"https://en.wikipedia.org/wiki/Chiang_Rai_International_Airport",
+26653,"VTCT","large_airport","Mae Fah Luang - Chiang Rai International Airport",19.952299,99.882896,1280,"AS","TH","TH-57","Chiang Rai","yes","VTCT","CEI","VTCT",,"https://chiangrai.airportthai.co.th/","https://en.wikipedia.org/wiki/Chiang_Rai_International_Airport",
 354711,"VTCY","small_airport","Nok Airfield",18.6762,99.11157,983,"AS","TH","TH-50",,"no","VTCY",,"VTCY",,"http://nokaviation.com",,
 30677,"VTED","small_airport","Udorn Air Base",17.382999,102.800003,591,"AS","TH","TH-41","Ban Mak Khaen","no",,,"VTED",,,"https://en.wikipedia.org/wiki/Udorn_Royal_Thai_Air_Force_Base","BAO"
 26654,"VTPB","medium_airport","Phetchabun Airport",16.6760005951,101.194999695,450,"AS","TH","TH-67",,"yes","VTPB","PHY","VTPB",,,"https://en.wikipedia.org/wiki/Phetchabun_Airport",
@@ -80507,7 +80508,7 @@
 26666,"VTSC","medium_airport","Narathiwat Airport",6.5199198722839355,101.74299621582031,16,"AS","TH","TH-96",,"yes","VTSC","NAW","VTSC",,,"https://en.wikipedia.org/wiki/Narathiwat_Airport",
 26667,"VTSE","medium_airport","Chumphon Airport",10.7112,99.361702,18,"AS","TH","TH-86","Chumphon","yes","VTSE","CJM","VTSE",,,"https://en.wikipedia.org/wiki/Chumphon_Airport",
 26668,"VTSF","medium_airport","Nakhon Si Thammarat Airport",8.539620399475098,99.9447021484375,13,"AS","TH","TH-80","Nakhon Si Thammarat","yes","VTSF","NST","VTSF",,,"https://en.wikipedia.org/wiki/Nakhon_Si_Thammarat_Airport","ท่าอากาศยานนครศรีธรรมราช"
-26669,"VTSG","medium_airport","Krabi Airport",8.09912014008,98.9861984253,82,"AS","TH","TH-81","Krabi","yes","VTSG","KBV","VTSG",,,"https://en.wikipedia.org/wiki/Krabi_Airport",
+26669,"VTSG","large_airport","Krabi International Airport",8.095591,98.988955,82,"AS","TH","TH-81","Krabi","yes","VTSG","KBV","VTSG",,,"https://en.wikipedia.org/wiki/Krabi_International_Airport",
 26670,"VTSH","medium_airport","Songkhla Airport",7.186560153961182,100.60800170898438,12,"AS","TH","TH-90",,"no","VTSH","SGZ","VTSH",,,,
 26671,"VTSK","medium_airport","Pattani Airport",6.78546,101.153999,8,"AS","TH","TH-94",,"no","VTSK","PAN","VTSK",,,"https://en.wikipedia.org/wiki/Pattani_Airport",
 26672,"VTSM","large_airport","Samui International Airport",9.54779,100.061996,64,"AS","TH","TH-84","Na Thon (Ko Samui Island)","yes","VTSM","USM","VTSM",,"http://www.samuiairportonline.com","https://en.wikipedia.org/wiki/Samui_Airport",
@@ -80769,7 +80770,7 @@
 41421,"WABW","small_airport","Waren Airport",-1.6285300254822,134.12399291992,29,"AS","ID","ID-PB","Momi-Papua Island","no",,,"WABW",,,,
 310447,"WABY","small_airport","Kebo Airstrip",-3.8248,136.385844,5845,"AS","ID","ID-PT","Kebo","no",,,"WAYM",,,,"WABY"
 316463,"WAD","small_airport","Andriamena Airport",-17.631,47.7233,2475,"AF","MG","MG-M","Andriamena","no",,"WAD",,,,,
-26750,"WADB","small_airport","Sultan Muhammad Salahuddin Airport",-8.537184,118.685002,3,"AS","ID","ID-NB","Palibelo, Bima","yes","WADB","BMU","WADB",,,"https://en.wikipedia.org/wiki/Bima_Airport","WRRB, PBW, Palibelo Airport, Bima, Raba Airfield"
+26750,"WADB","medium_airport","Sultan Muhammad Salahuddin Airport",-8.537184,118.685002,3,"AS","ID","ID-NB","Bima","yes","WADB","BMU","WADB",,,"https://en.wikipedia.org/wiki/Bima_Airport","WRRB, PBW, Palibelo Airport, Bima, Raba Airfield"
 26751,"WADD","large_airport","Denpasar I Gusti Ngurah Rai International Airport",-8.748409,115.167123,14,"AS","ID","ID-BA","Kuta, Badung","yes","WADD","DPS","WADD",,"http://www.angkasapura1.co.id/eng/location/bali.htm","https://en.wikipedia.org/wiki/Ngurah_Rai_International_Airport","WRRR, Bali, Denpasar International Airport, Denpasar"
 46589,"WADE","small_airport","Lieutenant Colonel Wisnu Airfield",-8.139292,114.615367,16,"AS","ID","ID-BA","Gerokgak, Buleleng","yes","WADE",,"WADE",,,"https://en.wikipedia.org/wiki/Lt.Col._Wisnu_Airfield","Bali International Flying Academy, BIFA, Buleleng Airport, Grokgak Airport, Letkol Wisnu"
 299629,"WADL","large_airport","Lombok International Airport",-8.759962,116.278169,319,"AS","ID","ID-NB","Mataram (Pujut, Lombok Tengah)","yes","WADL","LOP","WADL",,"http://www.lombok-airport.co.id/","https://en.wikipedia.org/wiki/Lombok_International_Airport","Zainuddin Abdul Madjid, Praya"
@@ -81104,7 +81105,7 @@
 604144,"WIFL","small_airport","Riam Batu Airstrip.",-1.497363,110.674943,216,"AS","ID","ID-KB","Riam Batu","no",,,"WIFL",,,,
 41468,"WIGM","small_airport","Muko Muko Airport",-2.541058,101.087651,24,"AS","ID","ID-BE","Muko Muko","yes",,"MPC","WIGM",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Mukomuko","WIPU, Mukomuko, Muko-Muko"
 525295,"WIHC","small_airport","Wiladatika Airport",-6.35643,106.900796,210,"AS","ID","ID-JK",,"no",,,"WIHC",,,,
-26832,"WIHH","large_airport","Halim Perdanakusuma International Airport",-6.267221,106.891733,84,"AS","ID","ID-JK","Jakarta","yes","WIHH","HLP","WIHH",,"http://www.angkasapura2.co.id/cabang/hlp/content.php?menu=8&page_id=1","https://en.wikipedia.org/wiki/Halim_Perdanakusuma_International_Airport","WIIH, WIIX, WIID"
+26832,"WIHH","large_airport","Halim Perdanakusuma International Airport",-6.267221,106.891733,84,"AS","ID","ID-JK","Jakarta","yes","WIHH","HLP","WIHH",,"https://www.angkasapura2.co.id/cabang/hlp/content.php?menu=8&page_id=1","https://en.wikipedia.org/wiki/Halim_Perdanakusuma_International_Airport","WIIH, WIIX, WIID"
 26834,"WIHP","small_airport","Pondok Cabe Air Base",-6.3369598388671875,106.76499938964844,200,"AS","ID","ID-JK","Jakarta","no","WIHP","PCB","WIHP",,,"https://en.wikipedia.org/wiki/Pondok_Cabe_Airport","WIPC,WIIP"
 26835,"WIII","large_airport","Soekarno-Hatta International Airport",-6.12557,106.655998,34,"AS","ID","ID-BT","Jakarta","yes","WIII","CGK","WIII",,"http://www.jakartasoekarnohattaairport.com/","https://en.wikipedia.org/wiki/Soekarno-Hatta_International_Airport","JKT, Cengkareng, Java"
 32652,"WIIK","small_airport","Kalijati Airport",-6.53139019012,107.658996582,361,"AS","ID","ID-JB","Kalijati-Java Island","no",,,"WIHK",,,,"WIIK, Suryadarma, Kalidjati, Karichagi, Kalijaga"
@@ -84166,7 +84167,7 @@
 327444,"ZBLL","medium_airport","Lüliang Dawu Airport",37.683333,111.142778,,"AS","CN","CN-61","Lüliang","yes","ZBLL","LLV","ZBLL",,,"https://en.wikipedia.org/wiki/L%C3%BCliang_Airport",
 322165,"ZBMZ","medium_airport","Manzhouli Xijiao Airport",49.566667,117.33,2231,"AS","CN","CN-15","Manzhouli","yes","ZBMZ","NZH","ZBMZ",,,"https://en.wikipedia.org/wiki/Manzhouli_Xijiao_Airport",
 30679,"ZBOW","large_airport","Baotou Donghe International Airport",40.560001,109.997002,3321,"AS","CN","CN-15","Baotou","yes","ZBOW","BAV","ZBOW",,,"https://en.wikipedia.org/wiki/Baotou_Airport","Erliban, 包头东河"
-526860,"ZBSG","small_airport","Shuozhou Zirun Airport",39.273241,112.691552,,"AS","CN","CN-14","Shuozhou","no","ZBSG","SZH","ZBSG",,,"https://en.wikipedia.org/wiki/Shuozhou_Zirun_Airport",
+526860,"ZBSG","medium_airport","Shuozhou Zirun Airport",39.273241,112.691552,,"AS","CN","CN-14","Shuozhou","yes","ZBSG","SZH","ZBSG",,,"https://en.wikipedia.org/wiki/Shuozhou_Zirun_Airport","朔州滋润机场"
 32295,"ZBSH","small_airport","Qinhuangdao Shanhaiguan Airport",39.968679,119.730635,30,"AS","CN","CN-13","Qinhuangdao (Shanhaiguan)","no",,,"ZBSH",,,"https://en.wikipedia.org/wiki/Qinhuangdao_Shanhaiguan_Airport","SHP"
 27191,"ZBSJ","large_airport","Shijiazhuang Zhengding International Airport",38.280701,114.696999,233,"AS","CN","CN-13","Shijiazhuang","yes","ZBSJ","SJW","ZBSJ",,,"https://en.wikipedia.org/wiki/Shijiazhuang_Zhengding_International_Airport","Daguocun"
 43975,"ZBSN","small_airport","Tangshan Sannühe Airport",39.7178,118.002625,50,"AS","CN","CN-13","Tangshan (Fengrun)","yes","ZBSN","TVS","ZBSN",,,"https://en.wikipedia.org/wiki/Tangshan_Sann%C3%BChe_Airport","Tangshan Air Base, 唐山三女河机场"
@@ -84183,7 +84184,7 @@
 300455,"ZBYC","large_airport","Yuncheng Yanhu International Airport",35.117823,111.034023,1242,"AS","CN","CN-61","Yuncheng (Yanhu)","yes","ZBYC","YCU","ZBYC",,,"https://en.wikipedia.org/wiki/Yuncheng_Zhangxiao_Airport","Yuncheng Guangong Airport"
 27193,"ZBYN","large_airport","Taiyuan Wusu International Airport",37.746899,112.627998,2575,"AS","CN","CN-14","Taiyuan","yes","ZBYN","TYN","ZBYN",,,"https://en.wikipedia.org/wiki/Taiyuan_Wusu_International_Airport",
 314499,"ZBYZ","medium_airport","Bayannur Tianjitai Airport",40.926358,107.74093,3400,"AS","CN","CN-15","Bayannur","yes","ZBYZ","RLK","ZBYZ",,,"https://en.wikipedia.org/wiki/Bayannur_Tianjitai_Airport",
-44100,"ZBZJ","medium_airport","Zhangjiakou Ningyuan Airport",40.738602,114.930278,2347,"AS","CN","CN-13","Zhangjiakou","yes","ZBZJ","ZQZ","ZBZJ",,,"https://en.wikipedia.org/wiki/Zhangjiakou_Ningyuan_Airport","Zhangjiakou Air Base, 张家口宁远机场, ZZHA, 张家口"
+44100,"ZBZJ","medium_airport","Zhangjiakou Ningyuan Airport",40.738664,114.933395,2347,"AS","CN","CN-13","Zhangjiakou","yes","ZBZJ","ZQZ","ZBZJ",,,"https://en.wikipedia.org/wiki/Zhangjiakou_Ningyuan_Airport","Zhangjiakou Air Base, 张家口宁远机场, ZZHA, 张家口"
 323666,"ZBZL","medium_airport","Zhalantun Genghis Khan Airport",47.865942,122.768662,928,"AS","CN","CN-15","Zhalantun","yes","ZBZL","NZL","ZBZL",,,"https://en.wikipedia.org/wiki/Zhalantun_Chengjisihan_Airport","Chengjisihan"
 352767,"ZDM","heliport","Ramallah Heliport",31.91123,35.20756,2858,"AS","PS","PS-RBH","Ramallah","no",,"ZDM",,,,,
 512273,"ZEZ4","small_airport","Urdzhar East Airport",47.0767,81.7867,,"AS","KZ","KZ-U-A",,"no",,,"ZEZ4",,,,
@@ -84206,7 +84207,7 @@
 27197,"ZGNN","large_airport","Nanning Wuxu International Airport",22.598071,108.181922,421,"AS","CN","CN-45","Nanning (Jiangnan)","yes","ZGNN","NNG","ZGNN",,"http://www.nnairport.com/","https://en.wikipedia.org/wiki/Nanning_Wuxu_International_Airport","南宁吴圩机场, Nanning Wuxu Air Base"
 339169,"ZGNT","heliport","Shenzhen Nantou Heliport",22.558993,113.924824,82,"AS","CN","CN-44","Shenzhen (Nanshan)","no",,,"ZGNT",,,,
 32400,"ZGOW","medium_airport","Jieyang Chaoshan International Airport",23.552,116.5033,,"AS","CN","CN-44","Jieyang (Rongcheng)","yes","ZGOW","SWA","ZGOW",,,"https://en.wikipedia.org/wiki/Jieyang_Chaoshan_International_Airport",
-30593,"ZGSD","medium_airport","Zhuhai Jinwan Airport",22.006399,113.375999,23,"AS","CN","CN-44","Zhuhai (Jinwan)","yes","ZGSD","ZUH","ZGSD",,,"https://en.wikipedia.org/wiki/Zhuhai_Jinwan_Airport",
+30593,"ZGSD","large_airport","Zhuhai Jinwan Airport",22.006399,113.375999,23,"AS","CN","CN-44","Zhuhai (Jinwan)","yes","ZGSD","ZUH","ZGSD",,,"https://en.wikipedia.org/wiki/Zhuhai_Jinwan_Airport","珠海, 珠海金湾机场, 珠海三灶机场, Sanzao Airport"
 327446,"ZGSY","medium_airport","Shaoyang Wugang Airport",26.806123,110.641042,1444,"AS","CN","CN-43","Shaoyang (Wugang)","yes","ZGSY","WGN","ZGSY",,,"https://en.wikipedia.org/wiki/Shaoyang_Wugang_Airport",
 27198,"ZGSZ","large_airport","Shenzhen Bao'an International Airport",22.639474,113.803262,13,"AS","CN","CN-44","Shenzhen","yes","ZGSZ","SZX","ZGSZ",,"https://www.szairport.com/szairporten/index.shtml","https://en.wikipedia.org/wiki/Shenzhen_Bao'an_International_Airport","Baoan, Huangtian Airport, 深圳, 深圳宝安国际机场"
 336110,"ZGWZ","medium_airport","Wuzhou Xijiang Airport",23.40316,111.09331,357,"AS","CN","CN-45","Tangbu","yes","ZGWZ","WUZ","ZGWZ","WUZ",,"https://en.wikipedia.org/wiki/Wuzhou_Xijiang_Airport",
@@ -84224,7 +84225,7 @@
 31818,"ZHGH","medium_airport","Guangzhou MR Air Base / Guanghua Airport",32.38866,111.69425,,"AS","CN","CN-42","Xiangyang (Laohekou)","no","ZHGH","LHK","ZHGH",,,,"Guangzhou MR Air Base"
 27200,"ZHHH","large_airport","Wuhan Tianhe International Airport",30.774798,114.213723,113,"AS","CN","CN-42","Wuhan (Huangpi)","yes","ZHHH","WUH","ZHHH",,"http://www.whairport.com/","https://en.wikipedia.org/wiki/Wuhan_Tianhe_International_Airport",
 347636,"ZHJZ","medium_airport","Jingzhou Shashi Airport",30.29281,112.44854,95,"AS","CN","CN-42","Jingzhou (Shashi)","yes","ZHJZ","SHS","ZHJZ","SHS",,"https://en.wikipedia.org/wiki/Jingzhou_Shashi_Airport",
-31870,"ZHLY","medium_airport","Luoyang Beijiao Airport",34.7411,112.388,840,"AS","CN","CN-41","Luoyang (Laocheng)","yes","ZHLY","LYA","ZHLY",,,"https://en.wikipedia.org/wiki/Luoyang_Beijiao_Airport",
+31870,"ZHLY","large_airport","Luoyang Beijiao Airport",34.7411,112.388,840,"AS","CN","CN-41","Luoyang (Laocheng)","yes","ZHLY","LYA","ZHLY",,,"https://en.wikipedia.org/wiki/Luoyang_Beijiao_Airport",
 32041,"ZHNY","small_airport","Nanyang Jiangying Airport",32.982696,112.617467,840,"AS","CN","CN-41","Nanyang (Wancheng)","yes","ZHNY","NNY","ZHNY",,,"https://en.wikipedia.org/wiki/Nanyang_Jiangying_Airport",
 518484,"ZHQQ","small_airport","Anyang Hongqiqu Airport",35.870833,114.461944,,"AS","CN","CN-41","Anyang","yes","ZHQQ","HQQ","ZHQQ",,,"https://en.wikipedia.org/wiki/Anyang_Hongqiqu_Airport",
 319811,"ZHSN","medium_airport","Shennongjia Hongping Airport",31.626,110.34,8365,"AS","CN","CN-42","Shennongjia (Hongping)","yes","ZHSN","HPG","ZHSN",,,"https://en.wikipedia.org/wiki/Shennongjia_Hongping_Airport",
