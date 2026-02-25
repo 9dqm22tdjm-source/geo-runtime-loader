@@ -18217,7 +18217,7 @@
 42424,"CD-0070","closed","Isiro-Ville Airport",2.78222,27.625799,,"AF","CD","CD-HU","Isiro","no",,,,,,,"FZJA"
 16631,"CD00","heliport","Emancipation Hill Heliport",40.0536003112793,-105.36000061035156,7152,"NA","US","US-CO","Boulder","no",,,"CD00","CD00",,,
 16632,"CD01","small_airport","Lowe Airstrip",38.39830017089844,-105.62000274658203,6200,"NA","US","US-CO","Cotopaxi","no",,,"CD01","CD01",,,
-16633,"CD02","small_airport","Skyote Airport",40.757999420166016,-106.97200012207031,8200,"NA","US","US-CO","Steamboat Springs","no",,,"CD02","CD02",,,
+16633,"CD02","closed","Skyote Airport",40.758434,-106.972021,8200,"NA","US","US-CO","Steamboat Springs","no",,,,,,,"CD02"
 16634,"CD03","small_airport","Tinnes Airport",38.198226,-102.5669,3850,"NA","US","US-CO","Lamar","no",,,"CD03","CD03",,,
 16635,"CD04","heliport","S F Heliport",39.82080078125,-105.05400085449219,5500,"NA","US","US-CO","Westminster","no",,,"CD04","CD04",,,
 16637,"CD06","heliport","Centennial Healthcare Plaza Heliport",39.594398498535156,-104.822998046875,5680,"NA","US","US-CO","Englewood","no",,,"CD06","CD06",,,
@@ -19411,7 +19411,7 @@
 348154,"CN-0180","small_airport","Xishanbei Airport",39.14996,115.28795,,"AS","CN","CN-13","Baoding","no",,,,,,,
 348155,"CN-0181","small_airport","Dingxing Airport",39.25469,115.83329,,"AS","CN","CN-13","Baoding","no",,,,,,,
 44260,"CN-0182","medium_airport","Zhangshu Air Base",28.023283,115.549649,116,"AS","CN","CN-36","Yichun","no",,,,,,,
-44261,"CN-0183","small_airport","Zhangzhou Airfield",24.561621,117.654665,,"AS","CN","CN-35","Xiangcheng, Zhangzhou","no",,,,,,,"ZZHN"
+44261,"CN-0183","small_airport","Zhangzhou Longxi Airport",24.561543,117.656374,,"AS","CN","CN-35","Xiangcheng, Zhangzhou","no",,,"ZZHN",,,,"漳州龙溪机场, Zhangzhou Air Base"
 348156,"CN-0184","small_airport","Gaobeidian Airport",39.36942,115.93992,,"AS","CN","CN-13","Baoding","no",,,,,,,
 44263,"CN-0185","medium_airport","Changchun Air Base",43.9053,125.197998,,"AS","CN","CN-22","Changchun","no",,,,,,,
 348157,"CN-0186","small_airport","Zhuozhou Airport",39.45692,116.00091,,"AS","CN","CN-13","Baoding","no",,,,,,,
@@ -30942,7 +30942,7 @@
 3262,"HUAJ","small_airport","Adjumani Airport",3.339239,31.763854,2611,"AF","UG","UG-N","Adjumani","no","HUAJ",,"HUAJ",,,"https://en.wikipedia.org/wiki/Adjumani_Airport",
 32234,"HUAR","medium_airport","Arua Airport",3.049152,30.911714,3951,"AF","UG","UG-N","Arua","yes","HUAR","RUA","HUAR",,,"https://en.wikipedia.org/wiki/Arua_Airport",
 318929,"HUBU","small_airport","Bundibugyo Airport",0.67349,30.025483,3100,"AF","UG","UG-W","Bundibugyo","no","HUBU",,"HUBU",,,"https://en.wikipedia.org/wiki/Bundibugyo_Airport",
-3263,"HUEN","large_airport","Entebbe International Airport",0.042386,32.443501,3782,"AF","UG","UG-C","Kampala","yes","HUEN","EBB","HUEN",,"https://entebbe-airport.com/","https://en.wikipedia.org/wiki/Entebbe_International_Airport",
+3263,"HUEN","large_airport","Entebbe International Airport",0.042386,32.443501,3782,"AF","UG","UG-C","Entebbe","yes","HUEN","EBB","HUEN",,"https://caa.go.ug/entebbe-international-airport/","https://en.wikipedia.org/wiki/Entebbe_International_Airport",
 315268,"HUFP","small_airport","Fort Portal Airport",0.7063,30.2493,5255,"AF","UG","UG-W","Fort Portal","no",,,"HUFP","HUFP",,"https://en.wikipedia.org/wiki/Fort_Portal_Airport",
 302288,"HUGG","small_airport","Bugungu Airport",2.202788,31.554341,2472,"AF","UG","UG-W","Bujenje","no","HUGG",,"HUGG",,,"https://en.wikipedia.org/wiki/Bugungu_Airstrip",
 3264,"HUGU","medium_airport","Gulu Airport",2.8055601119995117,32.27180099487305,3510,"AF","UG","UG-N","Gulu","yes","HUGU","ULU","HUGU",,,"https://en.wikipedia.org/wiki/Gulu_Airport",
@@ -40295,7 +40295,7 @@
 20729,"KOIN","small_airport","Oberlin Municipal Airport",39.833900451660156,-100.53900146484375,2703,"NA","US","US-KS","Oberlin","no",,,"KOIN","OIN",,,
 20730,"KOJA","small_airport","Thomas P Stafford Airport",35.5448,-98.668503,1605,"NA","US","US-OK","Weatherford","no",,,"KOJA","OJA",,"https://en.wikipedia.org/wiki/Thomas_P._Stafford_Airport","F91"
 20731,"KOJC","small_airport","Johnson County Executive Airport",38.84759903,-94.73760223,1096,"NA","US","US-KS","Olathe","no","KOJC","OJC","KOJC","OJC","http://www.jocogov.org/dept/airport-commission/executive-airport","https://en.wikipedia.org/wiki/Johnson_County_Executive_Airport",
-20732,"KOKB","small_airport","Oceanside Municipal Airport",33.217947,-117.351683,28,"NA","US","US-CA","Oceanside","no","KOKB","OCN","KOKB","OKB","http://www.oceansidemunicipalairport.com/","https://en.wikipedia.org/wiki/Oceanside_Municipal_Airport","Bob Maxwell Field"
+20732,"KOKB","medium_airport","Oceanside Municipal Airport",33.217947,-117.351683,28,"NA","US","US-CA","Oceanside","no","KOKB","OCN","KOKB","OKB","https://www.oceansidemunicipalairport.com/","https://en.wikipedia.org/wiki/Oceanside_Municipal_Airport","Bob Maxwell Field"
 3747,"KOKC","large_airport","OKC Will Rogers World Airport",35.393388,-97.598248,1295,"NA","US","US-OK","Oklahoma City","yes","KOKC","OKC","KOKC","OKC","https://flyokc.com/","https://en.wikipedia.org/wiki/Will_Rogers_World_Airport",
 19035,"KOKH","small_airport","AJ Eisenberg Airport",48.251499176,-122.674003601,193,"NA","US","US-WA","Oak Harbor","no","KOKH","ODW","KOKH","OKH",,"https://en.wikipedia.org/wiki/A.J._Eisenberg_Airport","Formerly 76S, Wes Lupien"
 20733,"KOKK","small_airport","Kokomo Municipal Airport",40.528198242188,-86.05899810791,830,"NA","US","US-IN","Kokomo","no","KOKK","OKK","KOKK","OKK","http://www.cityofkokomo.org/departments/airport/index.php","https://en.wikipedia.org/wiki/Kokomo_Municipal_Airport",
@@ -43564,7 +43564,7 @@
 30003,"LHTA","medium_airport","Taszár Air Base",46.393101,17.9175,531,"EU","HU","HU-SO","Taszár","no",,,"LHTA",,,"https://en.wikipedia.org/wiki/Tasz%C3%A1r_Air_Base","Kaland Taszar"
 30488,"LHTL","medium_airport","Tököl Airport",47.345299,18.980801,318,"EU","HU","HU-PE","Tököl","no",,,"LHTL",,"http://www.lhtl.hu/","https://hu.wikipedia.org/wiki/T%C3%B6k%C3%B6li_rep%C3%BCl%C5%91t%C3%A9r","Tököl Air Base"
 318137,"LHTM","small_airport","Tápiószentmárton Airfield",47.310956,19.777364,,"EU","HU","HU-PE","Tápiószentmárton","no",,,"LHTM",,,,
-30454,"LHUD","small_airport","Szeged Airfield",46.245127,20.092217,249,"EU","HU","HU-CS","Szeged","no",,,"LHUD",,"http://www.airportszeged.hu/","https://en.wikipedia.org/wiki/Szeged_Airport","QZD"
+30454,"LHUD","small_airport","Szeged Airport",46.245127,20.092217,249,"EU","HU","HU-CS","Szeged","no","LUHD","QZD","LHUD",,"https://www.airportszeged.hu/","https://en.wikipedia.org/wiki/Szeged_Airport","QZD"
 318138,"LHUH","small_airport","Úrhida",47.128198,18.312986,633,"EU","HU","HU-FE","Úrhida","no",,,"LHUH",,,,
 318141,"LHVE","small_airport","Veresegyház Airfield",47.638107,19.255007,,"EU","HU","HU-PE","Veresegyház","no",,,"LHVE",,,,"East Line Air Team"
 30575,"LHZA","small_airport","Zalaegerszeg Andráshida Airfield",46.884701,16.7889,617,"EU","HU","HU-ZA","Zalaegerszeg","no","LHZA",,"LHZA",,"https://lhza.hu",,"Zalaegerszeg, Andráshida"
@@ -43654,7 +43654,7 @@
 333827,"LIMH","heliport","Pian Rosà Heliport",45.933422,7.709344,11443,"EU","IT","IT-23","Valtournenche","no","LIMH",,"LIMH",,,,"Testa Grigia, Theodul Glacier, Plateau Rosà"
 4344,"LIMJ","large_airport","Genoa Cristoforo Colombo Airport",44.412039,8.840732,13,"EU","IT","IT-42","Genova (GE)","yes","LIMJ","GOA","LIMJ","GE01","http://www.aeroportodigenova.com/en/home/index.php","https://en.wikipedia.org/wiki/Genoa_Cristoforo_Colombo_Airport","Genova Sestri, Sestri Cristoforo Colombo Airport, Cristoforo Colombo Airport"
 4345,"LIML","large_airport","Milano Linate Airport",45.445099,9.27674,353,"EU","IT","IT-25","Segrate (MI)","yes","LIML","LIN","LIML","MI11","http://www.sea-aeroportimilano.it/en/","https://en.wikipedia.org/wiki/Linate_Airport","E Forlanini"
-4346,"LIMN","medium_airport","Cameri Air Base [MIL]",45.529598,8.66922,586,"EU","IT","IT-21","Cameri (NO)","no","LIMN",,"LIMN","NO08","http://web.archive.org/web/20070617100034/www.aeronautica.difesa.it/CSA/CBR/53Stormo/Cennistorici.asp","http://it.wikipedia.org/wiki/Aeroporto_di_Cameri","Silvio E Natale Palli"
+4346,"LIMN","medium_airport","Cameri Air Base",45.529598,8.66922,586,"EU","IT","IT-21","Cameri (NO)","no","LIMN",,"LIMN","NO08","http://web.archive.org/web/20070617100034/www.aeronautica.difesa.it/CSA/CBR/53Stormo/Cennistorici.asp","http://it.wikipedia.org/wiki/Aeroporto_di_Cameri","Silvio E Natale Palli"
 4347,"LIMP","medium_airport","Parma Airport",44.826351,10.29705,161,"EU","IT","IT-45","Parma (PR)","yes","LIMP","PMF","LIMP","PR03",,"https://en.wikipedia.org/wiki/Parma_Airport",
 30196,"LIMR","medium_airport","Novi Ligure Eugenio Mossi Airfield",44.779999,8.78639,607,"EU","IT","IT-21","Novi Ligure (AL)","no",,,"LIMR","AL05","http://www.voloavelanovi.it/","https://it.wikipedia.org/wiki/Aeroporto_di_Novi_Ligure",
 4348,"LIMS","medium_airport","Piacenza San Damiano Air Base",44.91442,9.722318,456,"EU","IT","IT-45","San Damiano (PC)","no","LIMS",,"LIMS","PC08",,"https://en.wikipedia.org/wiki/Piacenza-San_Damiano_Air_Base","San Damiano, QPZ"
@@ -44136,7 +44136,7 @@
 31535,"LR-0005","closed","Robertsport/Cape Mount Airport",6.755241,-11.3554,10,"AF","LR","LR-CM","Robertsport/Cape Mount","no",,,,,,,"GLCM, GLCM"
 5667,"LR79","small_airport","Ianca Airfield",45.158655,27.43093,131,"EU","RO","RO-BR","Ianca","no","LRIC",,"LRIC",,,"https://en.wikipedia.org/wiki/Ianca_Air_Base","LR79"
 5668,"LR80","medium_airport","Feteşti Borcea Air Base",44.3923,27.7267,180,"EU","RO","RO-CL","Borcea","no","LRFT",,"LRFT",,"http://www.roaf.ro/en/unitati/bz86_en.php","https://en.wikipedia.org/wiki/RoAF_86th_Air_Base","Fetesti, Cocargeaua Airport, RoAF 86th Air Base"
-5670,"LR82","medium_airport","Boboc Air Base",45.2164,26.9786,344,"EU","RO","RO-BZ","Boboc","no","LRBO",,"LRBO",,,"https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Boboc","RoAF Aurel Vlaicu Flight School"
+5670,"LR82","medium_airport","Boboc Air Base",45.2164,26.9786,344,"EU","RO","RO-BZ","Boboc","no","LRBO",,"LRBO","LR82",,"https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_Boboc","RoAF Aurel Vlaicu Flight School"
 4471,"LRAR","medium_airport","Arad International Airport",46.176136,21.264322,352,"EU","RO","RO-AR","Arad","yes","LRAR","ARW","LRAR",,"http://www.aeroportularad.ro/","https://en.wikipedia.org/wiki/Arad_International_Airport",
 4472,"LRBC","large_airport","Bacău George Enescu International  Airport",46.5219,26.910299,607,"EU","RO","RO-BC","Bacău","yes","LRBC","BCM","LRBC",,"http://www.bacauairport.ro/","https://en.wikipedia.org/wiki/Bac%C4%83u_International_Airport","Bacau, RoAF 95th Air Base"
 324127,"LRBG","heliport","IAR Brașov / Airbus Helicopters Heliport",45.695845,25.534013,1744,"EU","RO","RO-BV","Ghimbav","no",,,"LRBG",,,,
@@ -44331,7 +44331,7 @@
 29526,"LSZP","small_airport","Biel-Kappelen Airfield",47.089199,7.29,1437,"EU","CH","CH-BE","Kappelen","no",,,"LSZP",,,"https://de.wikipedia.org/wiki/Flugplatz_Biel-Kappelen","Worben"
 300136,"LSZQ","small_airport","Bressaucourt Airfield",47.392677,7.028648,1866,"EU","CH","CH-JU","Bressaucourt","no","LSZQ",,"LSZQ",,"http://www.aerojura.ch/default.asp","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Bressaucourt",
 4506,"LSZR","medium_airport","Sankt Gallen Altenrhein Airport",47.485001,9.56077,1306,"EU","CH","CH-SG","St. Gallen","yes","LSZR","ACH","LSZR",,"https://www.peoples.ch/lszr","https://en.wikipedia.org/wiki/St._Gallen-Altenrhein_Airport",
-4507,"LSZS","medium_airport","Samedan Airport",46.5341,9.88411,5600,"EU","CH","CH-GR","Samedan","no","LSZS","SMV","LSZS",,"https://www.engadin-airport.ch/","https://en.wikipedia.org/wiki/Samedan_Airport","Engadin"
+4507,"LSZS","medium_airport","Engadin Airport",46.5341,9.88411,5600,"EU","CH","CH-GR","Samedan","no","LSZS","SMV","LSZS",,"https://www.engadin-airport.ch/","https://en.wikipedia.org/wiki/Samedan_Airport","Engadin"
 29527,"LSZT","small_airport","Lommis Airfield",47.524399,9.00306,1539,"EU","CH","CH-TG","Lommis","no","LSZT",,"LSZT",,"https://www.mfgt.ch/flugplatz/","https://de.wikipedia.org/wiki/Flugplatz_Lommis","Flugplatz Lommis"
 29528,"LSZU","small_airport","Buttwil Airfield",47.264702,8.3025,2372,"EU","CH","CH-AG","Buttwil","no","LSZU",,"LSZU",,,"https://de.wikipedia.org/wiki/Flugplatz_Buttwil",
 29529,"LSZV","small_airport","Sitterdorf Airfield",47.5089,9.26278,1660,"EU","CH","CH-TG","Sitterdorf","no",,,"LSZV",,,"https://de.wikipedia.org/wiki/Flugplatz_Sitterdorf","Flugplatz Sitterdorf, Sportflugplatz Sitterdorf"
@@ -45485,7 +45485,7 @@
 22132,"MN26","closed","Tri-County Heliport",46.44677,-95.13329,1350,"NA","US","US-MN","Wadena","no",,,,,,,"MN26"
 22133,"MN27","heliport","Fairview Southdale Hospital Heliport",44.887001037597656,-93.32659912109375,867,"NA","US","US-MN","Edina","no",,,"MN27","MN27",,,
 22134,"MN28","small_airport","Lux Strip",44.983001708984375,-94.74810028076172,1120,"NA","US","US-MN","Cosmos","no",,,"MN28","MN28",,,
-22136,"MN30","seaplane_base","Busch's Fish Lake Seaplane Base",45.09410095214844,-93.46520233154297,870,"NA","US","US-MN","Maple Grove","no",,,"MN30","MN30",,,
+22136,"MN30","closed","Busch's Fish Lake Seaplane Base",45.094101,-93.465202,870,"NA","US","US-MN","Maple Grove","no",,,,,,,"MN30"
 22137,"MN31","small_airport","L & M Aerodrome",45.062198638916016,-94.5792007446289,1205,"NA","US","US-MN","Litchfield","no",,,"MN31","MN31",,,
 22138,"MN32","small_airport","Nietz Airstrip",44.19139862060547,-92.45269775390625,1130,"NA","US","US-MN","Oronoco","no",,,"MN32","MN32",,,
 22139,"MN33","heliport","St Mary's Hospital Heliport",46.793800354003906,-92.0978012084961,860,"NA","US","US-MN","Duluth","no",,,"MN33","MN33",,,
@@ -61178,7 +61178,7 @@
 323753,"SMVO","small_airport","Avanavero Airstrip",4.825685,-57.282415,,"SA","SR","SR-SI","Avanavero","no",,,"SMVO",,,"https://en.wikipedia.org/wiki/Avanavero_Airstrip",
 41510,"SMWA","small_airport","Wageningen Airstrip",5.841252,-56.673247,6,"SA","SR","SR-NI","Wageningen","yes","SMWA","AGI","SMWA",,,"https://en.wikipedia.org/wiki/Wageningen_Airstrip",
 41504,"SMWS","small_airport","Washabo Airport",5.215277,-57.185302,68,"SA","SR","SR-SI","Washabo","no","SMWS","WSO","SMWS",,,"https://en.wikipedia.org/wiki/Washabo_Airport",
-32127,"SMZO","small_airport","Zorg en Hoop Airport",5.811131,-55.1913,10,"SA","SR","SR-PM","Paramaribo","yes","SMZO","ORG","SMZO",,,"https://en.wikipedia.org/wiki/Zorg_en_Hoop_Airport",
+32127,"SMZO","small_airport","Zorg en Hoop Airport",5.811211,-55.192299,10,"SA","SR","SR-PM","Paramaribo","yes","SMZO","ORG","SMZO",,,"https://en.wikipedia.org/wiki/Zorg_en_Hoop_Airport",
 318894,"SN-0001","small_airport","Thiès Airport",14.809398,-16.95066,,"AF","SN","SN-TH","Thiès","no",,,,,,,
 340301,"SN-0002","closed","Abéné Airfield",13.0101,-16.7213,,"AF","SN","SN-ZG","Abéné","no",,,,,,,
 340302,"SN-0003","small_airport","Djilor Pout Pout Airport",14.0866,-16.6659,,"AF","SN","SN-FK","Djilor","no",,,,,,,
@@ -62055,9 +62055,9 @@
 6198,"SOCA","large_airport","Cayenne – Félix Eboué Airport",4.819964,-52.361326,26,"SA","GF","GF-CY","Matoury","yes","SOCA","CAY","SOCA",,,"https://en.wikipedia.org/wiki/Cayenne_%E2%80%93_F%C3%A9lix_Ebou%C3%A9_Airport","Cayenne-Rochambeau, Matoury"
 299825,"SOGS","small_airport","Grand-Santi Airport",4.285833,-54.373056,207,"SA","GF","GF-SL","Grand-Santi","no","SOGS","GSI","SOGS",,,"https://en.wikipedia.org/wiki/Grand-Santi_Airport",
 39609,"SOML","small_airport","Malin Airport",-7.63332986831665,-78.6500015258789,5190,"SA","PE","PE-LAL","Malin","no",,,"SOML",,,,
-31941,"SOOA","small_airport","Maripasoula Airport",3.655907,-54.039431,406,"SA","GF","GF-SL","Maripasoula","no","SOOA","MPY","SOOA",,,"https://en.wikipedia.org/wiki/Maripasoula_Airport",
+31941,"SOOA","medium_airport","Maripasoula Airport",3.655907,-54.039431,406,"SA","GF","GF-SL","Maripasoula","yes","SOOA","MPY","SOOA",,,"https://en.wikipedia.org/wiki/Maripasoula_Airport",
 6199,"SOOG","medium_airport","Saint-Georges-de-l'Oyapock Airport",3.8976,-51.8041,46,"SA","GF","GF-CY","Saint-Georges-de-l'Oyapock","no","SOOG","OYP","SOOG",,,"https://en.wikipedia.org/wiki/Saint-Georges-de-l%27Oyapock_Airport",
-31803,"SOOM","small_airport","Saint-Laurent-du-Maroni Airport",5.48306,-54.034401,16,"SA","GF","GF-SL","Saint-Laurent-du-Maroni","yes","SOOM","LDX","SOOM",,,"https://en.wikipedia.org/wiki/Saint-Laurent-du-Maroni_Airport",
+31803,"SOOM","medium_airport","Saint-Laurent-du-Maroni Airport",5.481891,-54.034964,16,"SA","GF","GF-SL","Saint-Laurent-du-Maroni","yes","SOOM","LDX","SOOM",,,"https://en.wikipedia.org/wiki/Saint-Laurent-du-Maroni_Airport",
 32203,"SOOR","small_airport","Régina Airport",4.31339,-52.132745,82,"SA","GF","GF-CY","Régina","no","SOOR","REI","SOOR",,,"https://en.wikipedia.org/wiki/R%C3%A9gina_Airport",
 32692,"SOOS","small_airport","Saül Airport",3.61361,-53.204201,656,"SA","GF","GF-SL","Saül","no","SOOS","XAU","SOOS",,,"https://en.wikipedia.org/wiki/Sa%C3%BCl_Airport",
 35337,"SOOY","small_airport","Sinnamary Airport",5.373546,-52.945628,33,"SA","GF","GF-CY","Sinnamary","no",,,"SOOY",,,"https://en.wikipedia.org/wiki/Sinnamary_Airport",
@@ -64846,6 +64846,7 @@
 598716,"TT53","small_airport","Aeromigos Airfield",29.320577,-103.539248,2547,"NA","US","US-TX","Terlingua","no",,,"TT53","TT53",,,
 531585,"TT57","small_airport","Mangham Airport",31.645625,-98.644726,1550,"NA","US","US-TX","Mullin","no",,,"TT57","TT57",,,
 531588,"TT60","heliport","Tow Heliport",30.855525,-98.45418,1073,"NA","US","US-TX","Tow","no",,,"TT60","TT60",,,
+604926,"TT61","small_airport","Salado Bluffs Airport",30.905385,-97.586882,741,"NA","US","US-TX","Salado","no",,,"TT61","TT61",,,
 353096,"TT62","heliport","The Bluff Heliport",28.583981,-96.947511,62,"NA","US","US-TX","McFaddin","no",,,"TT62","TT62",,,
 353099,"TT65","small_airport","3 Barrel Ranch Airport",30.031614,-96.418631,311,"NA","US","US-TX","Bleiblerville","no",,,"TT65","TT65",,,
 353101,"TT66","small_airport","Rowdy T Ranch Airport",32.108456,-96.808471,538,"NA","US","US-TX","Frost","no",,,"TT66","TT66",,,
@@ -64853,6 +64854,7 @@
 601565,"TT74","heliport","Moura Heliport",33.103167,-98.083028,1228,"NA","US","US-TX","Perrin","no",,,"TT74","TT74",,,
 354134,"TT75","small_airport","Berkley Ranch Airport",30.432556,-95.745825,325,"NA","US","US-TX","Conroe","no",,,"TT75","TT75",,,
 338974,"TT83","heliport","HBR Heliport",30.562092,-98.392831,830,"NA","US","US-TX","Horseshoe Bay","no",,,"TT83","TT83",,,
+604928,"TT86","small_airport","Buffalo Ridge Airport",32.161746,-98.146464,1260,"NA","US","US-TX","Stephenville","no",,,"TT86","TT86",,,
 518331,"TT87","small_airport","Agua Nada Ranch Airport",29.798653,-100.287872,2053,"NA","US","US-TX","Rocksprings","no",,,"TT87","TT87",,,
 430464,"TT98","small_airport","Kelly Air Field",33.658808,-96.467672,630,"NA","US","US-TX","Bells","no",,,"TT98","TT98",,,
 338975,"TT99","small_airport","Leinart Farms Airstrip",33.19204,-96.21986,624,"NA","US","US-TX","Merit","no",,,"TT99","TT99",,,
@@ -70150,6 +70152,8 @@
 604715,"US-12910","small_airport","Painter Creek Airport",57.155616,-157.409829,424,"NA","US","US-AK","Painter Creek Lodge","no",,,,,"http://www.paintercreeklodge.com/",,"PCE"
 604861,"US-12911","small_airport","Tranquility Base Airport",33.712447,-86.395595,658,"NA","US","US-AL","Springville","no",,,"2AL4","2AL4",,,
 604903,"US-12912","heliport","OH Viera Hospital Heliport",28.260194,-80.728939,33,"NA","US","US-FL","Melbourne","no",,,"73FL","73FL",,,
+604909,"US-12913","small_airport","Scenic Mesa Ranch Airport",38.733011,-107.75932,6116,"NA","US","US-CO","Hotchkiss","no",,,"CD02","CD02",,,
+604924,"US-12914","heliport","Kato Av Heliport",44.01036,-93.956266,1005,"NA","US","US-MN","Good Thunder","no",,,"MN30","MN30",,,
 334351,"US-1292","closed","Brentwood Ambulatory Care Center Heliport",41.3163,-81.568889,868,"NA","US","US-OH","Northfield","no",,,,,,,"80OI"
 334352,"US-1293","heliport","George Washington University Hospital Heliport",38.900903,-77.051132,174,"NA","US","US-DC","Washington","no",,,"24DC","24DC",,,
 334358,"US-1294","small_airport","Curry Ridge Airport",32.723321,-113.938501,329,"NA","US","US-AZ","Tacna","no",,,"AZ60","AZ60",,,
@@ -81026,6 +81030,7 @@
 25717,"WI23","small_airport","Cornucopia Field",46.866192,-91.083677,760,"NA","US","US-WI","Cornucopia","no",,,,"23W",,,"WI23"
 25718,"WI24","small_airport","Cardinal Ridge Airport",42.881099700927734,-89.752197265625,1080,"NA","US","US-WI","Mt Horeb","no",,,"WI24","WI24",,,
 25719,"WI25","small_airport","Durand Municipal Airport",44.53889846801758,-92.01409912109375,780,"NA","US","US-WI","Durand","no",,,"WI25","WI25",,,
+604931,"WI26","small_airport","Flying Fox Airport",42.582714,-88.570883,1013,"NA","US","US-WI","Williams Bay","no",,,"WI26","WI26",,,
 25721,"WI27","small_airport","Skyport Airport",44.92020034790039,-91.97489929199219,878,"NA","US","US-WI","Menomonie","no",,,"WI27","WI27",,,
 25722,"WI28","small_airport","Walter's Agri-Center Airport",44.586102,-87.557602,717,"NA","US","US-WI","Algoma","no",,,"WI28","WI28",,,
 25723,"WI29","small_airport","Rush River Airport",44.90549850463867,-92.4834976196289,1078,"NA","US","US-WI","Baldwin","no",,,"WI29","WI29",,,
