@@ -17723,7 +17723,7 @@
 604117,"CA-1244","heliport","HMCS Cornwallis",44.657075,-65.632571,,"NA","CA","CA-NS","Cornwallis","no",,,,,,,
 604118,"CA-1245","small_airport","Dave Carlaw Strip",44.41223,-78.04436,,"NA","CA","CA-ON","Norwood","no",,,,,,,
 604119,"CA-1246","small_airport","London Soaring Society",43.153469,-80.950431,,"NA","CA","CA-ON","Embro","no",,,,,,,
-604891,"CA-1247","seaplane_base","Port Neville Seaplane Dock",50.492163,-126.089272,,"NA","CA","CA-BC",,"no",,,,"PNBC",,,
+604891,"CA-1247","seaplane_base","Port Neville Seaplane Dock",50.492163,-126.089272,,"NA","CA","CA-BC",,"no",,,,,,,"PNBC"
 604892,"CA-1248","seaplane_base","McLeod Bay Dock",50.469442,-125.977521,,"NA","CA","CA-BC",,"no",,,,"01BC",,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
@@ -24566,7 +24566,7 @@
 2610,"EPKM","small_airport","Katowice-Muchowiec Airfield",50.238184,19.033685,909,"EU","PL","PL-SL","Katowice","no",,,"EPKM",,,"https://en.wikipedia.org/wiki/Katowice-Muchowiec_Airfield",
 2611,"EPKN","small_airport","Opole-Kamień Śląski Airfield",50.530598,18.079283,683,"EU","PL","PL-OP","Kamień Śląski","no","EPKN",,"EPKN",,"http://www.opole.airport.aero","https://en.wikipedia.org/wiki/Opole-Kamie%C5%84_%C5%9Al%C4%85ski_Airport","QPM"
 30272,"EPKP","small_airport","Pobiednik Wielki Airfield",50.08644,20.200253,650,"EU","PL","PL-MA","Kraków","no",,,"EPKP",,,"https://pl.wikipedia.org/wiki/Lotnisko_Krak%C3%B3w-Pobiednik_Wielki",
-30050,"EPKR","small_airport","Krosno Airfield",49.683807,21.740953,922,"EU","PL","PL-PK","Krosno","no",,,"EPKR",,"https://lotniskokrosno.com/?lang=en","https://en.wikipedia.org/wiki/Krosno_Airport",
+30050,"EPKR","small_airport","Krosno Airfield",49.683807,21.740953,922,"EU","PL","PL-PK","Krosno","no","EPKR",,"EPKR",,"https://lotniskokrosno.com/?lang=en","https://en.wikipedia.org/wiki/Krosno_Airport",
 2612,"EPKS","medium_airport","Krzesiny Military Air Base",52.331699,16.9664,265,"EU","PL","PL-WP","Poznań","no",,,"EPKS",,,"https://en.wikipedia.org/wiki/31st_Tactical_Air_Base",
 2613,"EPKT","large_airport","Katowice Wojciech Korfanty International Airport",50.476015,19.080705,995,"EU","PL","PL-SL","Katowice","yes","EPKT","KTW","EPKT",,"http://katowice.airport.com","https://en.wikipedia.org/wiki/Katowice_International_Airport","Pyrzowice, Dąbrowa Górnicza, Katowice, Silesia, GOP, Silesia Metropolis, Gliwice, Piekary Śląskie, Bytom, Zabrze, Sosnowiec"
 44738,"EPKW","small_airport","Bielsko-Biała Kaniów Airfield",49.94159,19.019566,839,"EU","PL","PL-SL","Kaniów","no",,,"EPKW",,"http://www.parklotniczy.pl/","https://pl.wikipedia.org/wiki/Lotnisko_Kani%C3%B3w","Czechowice-Dziedzice Airfield, Lotnisko Bielsko-Biała Kaniów"
@@ -39386,7 +39386,7 @@
 19997,"KGYI","medium_airport","North Texas Regional Airport Perrin Field",33.7141,-96.673698,749,"NA","US","US-TX","Denison","no","KGYI","PNX","KGYI","GYI","http://www.northtexasregionalairport.com/","https://en.wikipedia.org/wiki/North_Texas_Regional_Airport","Perrin AFB, Grayson County, Sherman"
 19998,"KGYL","small_airport","Glencoe Municipal Airport",44.756001,-94.0812,992,"NA","US","US-MN","Glencoe","no",,,"KGYL","GYL",,"https://en.wikipedia.org/wiki/Glencoe_Municipal_Airport",
 19999,"KGYR","small_airport","Phoenix Goodyear Airport",33.4225006104,-112.375999451,968,"NA","US","US-AZ","Goodyear","no","KGYR","GYR","KGYR","GYR","http://goodyearairport.com/","https://en.wikipedia.org/wiki/Phoenix_Goodyear_Airport","NAS Litchfield Park"
-3575,"KGYY","medium_airport","Gary Chicago International Airport",41.617087,-87.413206,591,"NA","US","US-IN","Gary","yes",,"GYY","KGYY","GYY",,"https://en.wikipedia.org/wiki/Gary/Chicago_International_Airport",
+3575,"KGYY","medium_airport","Gary/Chicago International Airport",41.617087,-87.413206,591,"NA","US","US-IN","Gary","yes",,"GYY","KGYY","GYY","https://www.flygyy.com/","https://en.wikipedia.org/wiki/Gary/Chicago_International_Airport","East Chicago"
 20000,"KGZ","small_airport","Glacier Creek Airport",61.4551010132,-142.380996704,2380,"NA","US","US-AK","Glacier Creek","no",,"KGZ","KGZ","KGZ",,,
 20001,"KGZH","small_airport","Evergreen Regional Airport/Middleton Field",31.4158,-87.043999,259,"NA","US","US-AL","Evergreen","no",,,"KGZH","GZH","http://www.evergreenal.org/middleton-field.html","https://en.wikipedia.org/wiki/Middleton_Field","39J, Middleton Field"
 319542,"KGZN","small_airport","Gregory M. Simmons Memorial Airport",32.367348,-99.023642,1711,"NA","US","US-TX","Cisco","no",,,"KGZN","GZN",,,
@@ -56858,7 +56858,7 @@
 39166,"SCHW","small_airport","Hualaihué Airport",-42.02861,-72.689445,30,"SA","CL","CL-LL","Hualaihue","no",,,"SCHW",,,"https://en.wikipedia.org/wiki/Hualaihu%C3%A9_Airport",
 39167,"SCIA","small_airport","Isla Apiao Airport",-42.599724,-73.212219,250,"SA","CL","CL-LL","Isla Apiao","no",,,"SCIA",,,"https://en.wikipedia.org/wiki/Isla_Apiao_Airport",
 39168,"SCIB","small_airport","Butachauques Airport",-42.308334,-73.14222,150,"SA","CL","CL-LL","Isla Butachauques","no",,,"SCIB",,,"https://en.wikipedia.org/wiki/Butachauques_Airport",
-39169,"SCIC","small_airport","General Freire Airport",-34.966667,-71.216393,722,"SA","CL","CL-ML","Curico","no",,,"SCIC",,,"https://en.wikipedia.org/wiki/General_Freire_Airport",
+39169,"SCIC","small_airport","Aeródromo General Freire SCIC",-34.966667,-71.216393,722,"SA","CL","CL-ML","Curico","no","SCIC",,"SCIC",,"https://aipchile.dgac.gob.cl/aerodromo/show?designador=SCIC","https://en.wikipedia.org/wiki/General_Freire_Airport","SCIC, CURICÓ, AERODROMO, AEROPUERTO"
 39170,"SCID","small_airport","Marco Davison Bascur Airport",-52.881537,-70.753365,30,"SA","CL","CL-MA","Punta Arenas","no",,,"SCID",,,"https://en.wikipedia.org/wiki/Marco_Davison_Bascur_Airport",
 6025,"SCIE","large_airport","Carriel Sur International Airport",-36.77235,-73.062828,26,"SA","CL","CL-BI","Concepcion","yes","SCIE","CCP","SCIE",,"https://aeropuertocarrielsur.cl","https://en.wikipedia.org/wiki/Carriel_Sur_International_Airport",
 39171,"SCIF","small_airport","Chollinco Airport",-40.205799,-72.2314,330,"SA","CL","CL-LR","Llifen","no",,,"SCIF",,,"https://en.wikipedia.org/wiki/Chollinco_Airport",
@@ -57277,6 +57277,8 @@
 602650,"SD5C","small_airport","Fazenda Estrela Grande Airstrip",-15.15412,-50.532449,1055,"SA","BR","BR-GO","Araguapaz","no",,,"SD5C","GO0411",,,
 603866,"SD5D","small_airport","Fazenda Indaiá II Airstrip",-19.125675,-53.053367,2201,"SA","BR","BR-MS","Paraíso das Águas","no",,,"SD5D","MS0800",,,
 603868,"SD5E","small_airport","Fazenda Serra da Lua Airport",2.608264,-60.212186,358,"SA","BR","BR-RR","Bonfim","no",,,"SD5E","RR0173",,,
+604953,"SD5F","heliport","São Vicente de Paulo Hospital Helistop",-21.138282,-41.678985,359,"SA","BR","BR-RJ","Bom Jesus do Itabapoana","no",,,"SD5F","RJ0399",,,
+604955,"SD5G","small_airport","Fazenda Viúva Negra Airstrip",-27.641864,-49.761214,3068,"SA","BR","BR-SC","Otacílio Costa","no",,,"SD5G","SC0261",,,
 603894,"SD5I","small_airport","Agrodan  Airstrip",-8.667458,-39.162056,1071,"SA","BR","BR-PE","Belém do São Francisco","no",,,"SD5I","PE0111",,,
 603888,"SD5L","heliport","Teófilo Otoni Regional Hospital Helipad",-17.831536,-41.507514,1106,"SA","BR","BR-MG","Teófilo Otoni","no",,,"SD5L","MG0421",,,
 24538,"SD61","small_airport","Plihal Farms Airport",43.01019,-97.866235,1435,"NA","US","US-SD","Tyndall","no",,,,"SD61",,,
@@ -59233,7 +59235,7 @@
 36226,"SIRF","small_airport","José Múcio Monteiro Airport",-8.631111,-35.271667,479,"SA","BR","BR-PE","Rio Formoso","no",,,"SIRF","PE0015",,,
 36228,"SIRH","small_airport","Fazenda Morada da Lua Airport",-18.263323,-54.311836,1450,"SA","BR","BR-MS","Coxim","no",,,"SIRH","MS0124",,,
 36229,"SIRI","small_airport","Barra Grande Airport",-13.906082,-38.940804,23,"SA","BR","BR-BA","Maraú","yes",,"MUU","SIRI","BA0096",,"https://en.wikipedia.org/wiki/Barra_Grande_Airport",
-236,"SIRJ","small_airport","Caima Airport",-4.304645,-56.218103,115,"SA","BR","BR-PA","Itaituba","no",,,"SIRJ","PA0054",,,
+236,"SIRJ","closed","Caima Airport",-4.304645,-56.218103,115,"SA","BR","BR-PA","Itaituba","no",,,,,,,"SIRJ, PA0054"
 335700,"SIRK","heliport","Hospital Pronto Socorro João XXIII Helipad",-19.925768,-43.931354,2818,"SA","BR","BR-MG","Belo Horizonte","no",,,"SIRK","MG0233",,,
 36230,"SIRL","heliport","Virgínia Lyra Heliport",-19.982484,-48.264903,1936,"SA","BR","BR-MG","Conceição Das Alagoas","no",,,"SIRL","MG0234",,,
 237,"SIRN","small_airport","Fazenda Jaó Airport",-14.769135,-51.985738,854,"SA","BR","BR-MT","Nova Xavantina","no",,,"SIRN","MT0124",,,
@@ -63464,7 +63466,7 @@
 37783,"SWAK","small_airport","Assunção do Içana Airport",1.061726,-67.603585,492,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWAK","AM0042",,,
 334007,"SWAM","small_airport","Fazenda Agropecuária Gomes Airport",-23.64966,-49.151692,2165,"SA","BR","BR-SP","Taquarituba","no",,,"SWAM","SP0269",,,
 37785,"SWAO","small_airport","Anamoim Airport",1.785851,-67.406097,335,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWAO","AM0043",,,
-37787,"SWAQ","small_airport","Érico Airport",3.76333,-62.409401,689,"SA","BR","BR-RR","Boa Vista","no",,,"SWAQ","RR0107",,,
+37787,"SWAQ","closed","Érico Airport",3.76333,-62.409401,689,"SA","BR","BR-RR","Boa Vista","no",,,,,,,"SWAQ, RR0107"
 37788,"SWAR","small_airport","Fazenda Aruanã Airport",-13.081903,-51.587892,968,"SA","BR","BR-MT","Ribeirão Cascalheira","no",,,"SWAR","MT0327",,,
 45575,"SWAU","small_airport","Fazenda Nossa Senhora Aparecida Airport",-19.948255,-48.583883,2592,"SA","BR","BR-MG","Pirajuba","no",,,"SWAU","MG0196",,,
 335537,"SWAX","small_airport","Fazenda Sassapão Airport",-10.748889,-45.845278,2392,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SWAX","BA0268",,,
@@ -70154,6 +70156,7 @@
 604903,"US-12912","heliport","OH Viera Hospital Heliport",28.260194,-80.728939,33,"NA","US","US-FL","Melbourne","no",,,"73FL","73FL",,,
 604909,"US-12913","small_airport","Scenic Mesa Ranch Airport",38.733011,-107.75932,6116,"NA","US","US-CO","Hotchkiss","no",,,"CD02","CD02",,,
 604924,"US-12914","heliport","Kato Av Heliport",44.01036,-93.956266,1005,"NA","US","US-MN","Good Thunder","no",,,"MN30","MN30",,,
+604939,"US-12915","heliport","Pecan Knoll Heliport",32.818089,-96.492634,448,"NA","US","US-TX","Heath","no",,,"XS37","XS37",,,
 334351,"US-1292","closed","Brentwood Ambulatory Care Center Heliport",41.3163,-81.568889,868,"NA","US","US-OH","Northfield","no",,,,,,,"80OI"
 334352,"US-1293","heliport","George Washington University Hospital Heliport",38.900903,-77.051132,174,"NA","US","US-DC","Washington","no",,,"24DC","24DC",,,
 334358,"US-1294","small_airport","Curry Ridge Airport",32.723321,-113.938501,329,"NA","US","US-AZ","Tacna","no",,,"AZ60","AZ60",,,
@@ -81734,7 +81737,7 @@
 26257,"XS32","heliport","Nucor Ems Heliport",31.344999313354492,-96.16500091552734,443,"NA","US","US-TX","Jewett","no",,,"XS32","XS32",,,
 26258,"XS33","small_airport","Chesson Airport",30.062557,-93.865664,10,"NA","US","US-TX","Orange","no",,,"XS33","XS33",,,
 26260,"XS35","small_airport","Trull Airport",28.739200592041016,-96.21910095214844,18,"NA","US","US-TX","Palacios","no",,,"XS35","XS35",,,
-26261,"XS37","heliport","Police Heliport",29.69219970703125,-95.19599914550781,55,"NA","US","US-TX","Pasadena","no",,,"XS37","XS37",,,
+26261,"XS37","closed","Police Heliport",29.6922,-95.195999,55,"NA","US","US-TX","Pasadena","no",,,,,,,"XS37"
 26262,"XS38","heliport","3321 Westside Heliport",29.66101,-95.201908,36,"NA","US","US-TX","Pasadena","no",,,"XS38","XS38",,,
 26264,"XS40","small_airport","Jay Kay Ranch Airport",28.80030059814453,-99.00029754638672,666,"NA","US","US-TX","Pearsall","no",,,"XS40","XS40",,,
 26265,"XS41","heliport","Heart Hospital of Austin Heliport",30.306,-97.741402,667,"NA","US","US-TX","Austin","no",,,"XS41","XS41",,,
@@ -84428,7 +84431,7 @@
 35316,"ZSYN","large_airport","Yancheng Nanyang International Airport",33.428317,120.20545,10,"AS","CN","CN-32","Yancheng (Tinghu)","yes","ZSYN","YNZ","ZSYN",,,"https://en.wikipedia.org/wiki/Yancheng_Nanyang_International_Airport",
 332096,"ZSYT","large_airport","Yantai Penglai International Airport",37.659724,120.978124,154,"AS","CN","CN-37","Yantai","yes","ZSYT","YNT","ZSYT",,"http://www.ytairport.com.cn/","https://en.wikipedia.org/wiki/Yantai_Penglai_International_Airport",
 32726,"ZSYW","large_airport","Yiwu Airport",29.342095,120.03116,262,"AS","CN","CN-33","Yiwu/Jinhua","yes","ZSYW","YIW","ZSYW",,,"https://en.wikipedia.org/wiki/Yiwu_Airport","Jinhua"
-31624,"ZSZS","medium_airport","Zhoushan Putuoshan Airport",29.9342,122.362,3,"AS","CN","CN-33","Zhoushan","yes","ZSZS","HSN","ZSZS",,,"https://en.wikipedia.org/wiki/Zhoushan_Putuoshan_Airport",
+31624,"ZSZS","large_airport","Zhoushan Putuoshan International Airport",29.933874,122.362307,3,"AS","CN","CN-33","Zhoushan","yes","ZSZS","HSN","ZSZS",,,"https://en.wikipedia.org/wiki/Zhoushan_Putuoshan_International_Airport",
 300545,"ZUAL","medium_airport","Ngari Gunsa Airport",32.09794,80.053971,14022,"AS","CN","CN-54","Shiquanhe","yes","ZUAL","NGQ","ZUAL",,,"https://en.wikipedia.org/wiki/Ngari_Gunsa_Airport","Ali Airport"
 300785,"ZUAS","medium_airport","Anshun Huangguoshu Airport",26.260556,105.873333,4812,"AS","CN","CN-52","Anshun (Xixiu)","yes","ZUAS","AVA","ZUAS",,,"https://en.wikipedia.org/wiki/Anshun_Huangguoshu_Airport",
 554921,"ZUBC","small_airport","Beichuan Yongchang Airport",31.581474,104.459701,2012,"AS","CN","CN-51","Mianyang","no",,"BCJ","ZUBC",,,,"北川通用机场"
