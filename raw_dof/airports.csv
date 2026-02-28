@@ -15817,7 +15817,7 @@
 37286,"BR-2862","small_airport","Sertânia Airport",-8.0575,-37.289444,1968,"SA","BR","BR-PE","Sertânia","no",,,,,,,"SNUW"
 37288,"BR-2863","closed","Buritis Airport",-15.649312,-46.443297,1870,"SA","BR","BR-MG","Buritis","no",,,,,,,"SNUY, MG0077"
 37294,"BR-2864","small_airport","Fazenda Salto Grande Airport",-15.258869,-58.792709,1444,"SA","BR","BR-MT","Jauru","no",,,,,,,"SNVJ"
-37295,"BR-2865","small_airport","Fazenda Santa Terezinha Airport",-20.499284,-52.369067,1214,"SA","BR","BR-MS","Três Lagoas","no",,,,,,,"SNVK"
+37295,"BR-2865","small_airport","Fazenda Santa Terezinha Airport",-20.499184,-52.369036,1235,"SA","BR","BR-MS","Três Lagoas","no",,,"SD5T","MS0804",,,"SNVK"
 37296,"BR-2866","small_airport","Virgem da Lapa Airport",-16.773969,-42.386425,2477,"SA","BR","BR-MG","Virgem da Lapa","no",,,,,,,"SNVL"
 37297,"BR-2867","small_airport","Fazenda Guaivira Airport",-20.663527,-52.768053,1112,"SA","BR","BR-MS","Brasilândia","no",,,,,,,"SNVM"
 37300,"BR-2868","small_airport","Fazenda Araçatuba Airport",-6.976671,-49.199481,541,"SA","BR","BR-TO","Santa Fé","no",,,,,,,"SNVP"
@@ -15916,7 +15916,7 @@
 37595,"BR-2961","heliport","Cejen Heliport",-5.760964,-35.198725,7,"SA","BR","BR-RN","Natal","no",,,,"SSOH",,,"SSOH"
 37598,"BR-2962","heliport","Hospital Estadual Walfredo Gurgel Heliport",-5.8111109733582,-35.204444885254,56,"SA","BR","BR-RN","Natal","no",,,,"SSOM",,,"SSOM"
 37600,"BR-2963","small_airport","Estância J.D.S Airport",-22.337221,-49.543056,1903,"SA","BR","BR-SP","Fernão","no",,,,"SSOO",,,"SSOO"
-37601,"BR-2964","small_airport","Fazenda Cachoeirinha Airport",-20.048738,-51.476297,1539,"SA","BR","BR-MS","Aparecida do Taboado","no",,,,"SSOP",,,"SSOP"
+37601,"BR-2964","small_airport","Fazenda Cachoeirinha Airport",-20.048738,-51.476297,1539,"SA","BR","BR-MS","Aparecida do Taboado","no",,,"SD5Y","MS0805",,,"SSOP"
 37607,"BR-2965","small_airport","Fazenda Hora Airport",-16.144897,-45.82042,1837,"SA","BR","BR-MG","Urucuia","no",,,,"SSOV",,,"SSOV"
 37608,"BR-2966","heliport","Aqualider Heliport",-8.443611,-34.997501,3,"SA","BR","BR-PE","Ipojuca","no",,,,"SSOX",,,"SSOX"
 37617,"BR-2967","heliport","Edifício Santander Helipad",-23.54563,-46.633847,2674,"SA","BR","BR-SP","São Paulo","no",,,,"SSQG",,"https://en.wikipedia.org/wiki/Altino_Arantes_Building","SSQG, Banespa, Altino Arantes"
@@ -19695,7 +19695,7 @@
 597730,"CN-0473","heliport","Jiande Hospital Heliport",29.345012,119.198245,177,"AS","CN","CN-33","Hangzhou","no",,,,,,,
 597737,"CN-0474","heliport","Houma Army Heliport",35.663868,111.407621,1432,"AS","CN","CN-14","Houma","no",,,,,,,
 597937,"CN-0475","closed","Xi'an Xiguan Airport",34.249,108.894999,,"AS","CN","CN-61",,"no",,,,,,"https://en.wikipedia.org/wiki/Xi%27an_Xiguan_Airport",
-598595,"CN-0476","medium_airport","Bengbu Tenghu Airport (U.C.)",33.165808,117.057295,72,"AS","CN","CN-34","Bengbu","no","ZSBA","BFY","ZSBA",,,"https://en.wikipedia.org/wiki/Bengbu_Tenghu_Airport","蚌埠腾湖机场"
+598595,"CN-0476","medium_airport","Bengbu Tenghu Airport",33.166389,117.058333,78,"AS","CN","CN-34","Bengbu","yes","ZSBA","BFY","ZSBA",,,"https://en.wikipedia.org/wiki/Bengbu_Tenghu_Airport","蚌埠滕湖机场"
 598863,"CN-0477","small_airport","Baoquanling General Airport",47.41079,130.61054,,"AS","CN","CN-23",,"no",,,,,,,
 599310,"CN-0478","small_airport","Urumqi Xishan Airport",43.772537,87.372819,3389,"AS","CN","CN-65","Xishan Nongchang","no",,,,,,,"西山农场"
 599958,"CN-0479","small_airport","Neixiang",32.977467,111.881872,,"AS","CN","CN-U-A",,"no",,,,,,,
@@ -30345,8 +30345,8 @@
 324060,"HHAG","small_airport","Agordat Airport",15.536313,37.865546,,"AF","ER","ER-GB","Agordat","no","HHAG",,"HHAG",,,,
 3202,"HHAS","large_airport","Asmara International Airport",15.2919,38.910702,7661,"AF","ER","ER-SK","Asmara","yes","HHAS","ASM","HHAS",,,"https://en.wikipedia.org/wiki/Asmara_International_Airport",
 341734,"HHBA","small_airport","Barentu Airport",15.122394,37.614335,,"AF","ER","ER-GB","Barentu","no",,,"HHBA",,,,
-3203,"HHMS","medium_airport","Massawa International Airport",15.67,39.370098,194,"AF","ER","ER-SK","Massawa","yes","HHMS","MSW","HHMS",,,"https://en.wikipedia.org/wiki/Massawa_International_Airport",
-3204,"HHSB","large_airport","Assab International Airport",13.0718,42.645,46,"AF","ER","ER-DK","Assab","yes","HHSB","ASA","HHSB",,,"https://en.wikipedia.org/wiki/Assab_International_Airport",
+3203,"HHMS","medium_airport","Massawa International Airport",15.67,39.370098,194,"AF","ER","ER-SK","Massawa","no","HHMS","MSW","HHMS",,,"https://en.wikipedia.org/wiki/Massawa_International_Airport",
+3204,"HHSB","medium_airport","Assab International Airport",13.0718,42.645,46,"AF","ER","ER-DK","Assab","no","HHSB","ASA","HHSB",,,"https://en.wikipedia.org/wiki/Assab_International_Airport",
 32435,"HHTS","small_airport","Tessenei Airport",15.104322,36.681711,2018,"AF","ER","ER-GB","Tessenei","no","HHTS","TES","HHTS",,,"https://en.wikipedia.org/wiki/Teseney_Airport",
 17623,"HI01","small_airport","Princeville Airport",22.209313,-159.44515,344,"OC","US","US-HI","Hanalei","no",,"HPV","HI01","HI01",,"https://en.wikipedia.org/wiki/Princeville_Airport",
 17625,"HI03","small_airport","Hanamaulu Airstrip",22.041896,-159.388746,404,"OC","US","US-HI","Hanamaulu","no",,,"HI03","HI03",,,
@@ -49231,8 +49231,8 @@
 349335,"NC-0003","heliport","Médipôle de Koutio - Gaston-Bourret Territorial Central Hospital Heliport",-22.20842,166.45288,,"OC","NC","NC-03","Dumbéa-sur-Mer","no",,,,,,,
 349336,"NC-0004","heliport","Méridien Heliport",-22.31222,166.44845,3,"OC","NC","NC-03","Nouméa","no",,,,,,,
 349337,"NC-0005","small_airport","Ouinne Private Airport",-21.96923,166.672,20,"OC","NC","NC-03","Ouinne","no",,,,,,,
-5022,"NC-0006","closed","Canala Airport",-21.520435,165.971947,7,"OC","NC","NC-02","Canala","no",,,,,,"https://en.wikipedia.org/wiki/Canala_Airport","NWWX"
-31681,"NC-0007","closed","Île Ouen/Edmond Cané Airport",-22.460295,166.782718,7,"OC","NC","NC-03","Ouara","no",,,,,,,"NWWO, NWWO, IOU"
+5022,"NC-0006","small_airport","Canala Airport",-21.520435,165.971947,7,"OC","NC","NC-02","Canala","no","NWWX",,"NWWX",,,"https://en.wikipedia.org/wiki/Canala_Airport",
+31681,"NC-0007","closed","Île Ouen/Edmond Cané Airport",-22.460295,166.782718,7,"OC","NC","NC-03","Ouara","no",,,,,,,"NWWO, IOU"
 32061,"NC-0008","closed","Voh Airport",-20.966999,164.699997,33,"OC","NC","NC-02","Voh","no",,,,,,,"NWWF"
 32062,"NC-0009","closed","Plaine des Lacs Airport",-22.270616,166.926301,902,"OC","NC","NC-03","Plaine des Lacs","no",,,,,,,"NWWS, NWWS"
 22743,"NC00","small_airport","Moretz Riverside Landing Airport",35.560001373291016,-79.193603515625,326,"NA","US","US-NC","Sanford","no",,,"NC00","NC00",,,
@@ -50362,19 +50362,19 @@
 5012,"NVVW","medium_airport","Whitegrass Airport",-19.455099,169.223999,19,"OC","VU","VU-TAE","Tanna Island","yes","NVVW","TAH","NVVW",,,"https://en.wikipedia.org/wiki/White_Grass_Airport",
 306972,"NWT","small_airport","Nowata Airport",-9.984166666669998,149.729166667,2040,"OC","PG","PG-MBA","Nowata","no",,"NWT","AYNW","NTA",,,
 32439,"NWWA","medium_airport","Tiga Airport",-21.096407,167.80379,128,"OC","NC","NC-01","Tiga","yes","NWWA","TGJ","NWWA",,,"https://en.wikipedia.org/wiki/Tiga_Airport",
-32060,"NWWB","small_airport","Bourail - Poé Airport",-21.609604,165.397103,7,"OC","NC","NC-03","Poé","no",,,"NWWB",,,,
+32060,"NWWB","small_airport","Bourail - Poé Airport",-21.609604,165.397103,7,"OC","NC","NC-03","Poé","no","NWWB",,"NWWB",,,,
 30778,"NWWC","small_airport","Île Art - Waala Airport",-19.720521,163.661077,306,"OC","NC","NC-02","Waala","yes","NWWC","BMY","NWWC",,,"https://en.wikipedia.org/wiki/%C3%8Ele_Art_-_Waala_Airport","Belep Islands Airport"
 5013,"NWWD","medium_airport","Koné Airport",-21.053551,164.838768,23,"OC","NC","NC-02","Koné","yes","NWWD","KNQ","NWWD",,,"https://en.wikipedia.org/wiki/Kon%C3%A9_Airport",
-5014,"NWWE","medium_airport","Île des Pins Airport",-22.588899612426758,167.45599365234375,315,"OC","NC","NC-03","Île des Pins","yes","NWWE","ILP","NWWE",,,"https://en.wikipedia.org/wiki/%C3%8Ele_des_Pins_Airport",
-31605,"NWWH","small_airport","Nesson Airport",-21.257288,165.61821,10,"OC","NC","NC-02","Houailou","no",,,"NWWH",,,,"HLU, Aerodrome de Warai"
+5014,"NWWE","medium_airport","Île des Pins Airport",-22.5889,167.455994,315,"OC","NC","NC-03","Île des Pins","yes","NWWE","ILP","NWWE",,,"https://en.wikipedia.org/wiki/%C3%8Ele_des_Pins_Airport",
+31605,"NWWH","closed","Nesson Airport",-21.257288,165.61821,10,"OC","NC","NC-02","Houailou","no",,,,,,,"NWWH, HLU, Aerodrome de Warai"
 349333,"NWWI","small_airport","Hienghène Airport",-20.69446,164.99249,18,"OC","NC","NC-02","Hienghène","no",,,"NWWI",,,,
 5015,"NWWK","small_airport","Koumac Airport",-20.546323,164.255648,42,"OC","NC","NC-02","Koumac","yes","NWWK","KOC","NWWK",,,"https://en.wikipedia.org/wiki/Koumac_Airport",
 5016,"NWWL","medium_airport","Lifou Airport",-20.774563,167.239328,92,"OC","NC","NC-01","Lifou","yes","NWWL","LIF","NWWL",,,"https://en.wikipedia.org/wiki/Lifou_Airport",
-5017,"NWWM","medium_airport","Nouméa Magenta Airport",-22.25812,166.472783,10,"OC","NC","NC-03","Nouméa","yes","NWWM","GEA","NWWM",,,"https://en.wikipedia.org/wiki/Noum%C3%A9a_Magenta_Airport","l'Aéroport de Nouméa Magenta"
+5017,"NWWM","medium_airport","Nouméa Magenta Airport",-22.257706,166.472822,10,"OC","NC","NC-03","Nouméa","yes","NWWM","GEA","NWWM",,,"https://en.wikipedia.org/wiki/Noum%C3%A9a_Magenta_Airport","l'Aéroport de Nouméa Magenta"
 32180,"NWWP","small_airport","Poum / Malabou Airport",-20.289155,164.09935,6,"OC","NC","NC-02","Malabou","no","NWWP","PUV","NWWP",,,,
 32150,"NWWQ","small_airport","Mueo Airport",-21.316456,164.999399,264,"OC","NC","NC-02","Népoui","no","NWWQ","PDC","NWWQ",,,,
 5018,"NWWR","medium_airport","Maré Airport",-21.482438,168.038465,141,"OC","NC","NC-01","Maré","yes","NWWR","MEE","NWWR",,,"https://en.wikipedia.org/wiki/Mar%C3%A9_Airport",
-32063,"NWWT","small_airport","Oua Tom Airport",-21.819700241088867,165.86099243164062,98,"OC","NC","NC-03","La Foa","no",,,"NWWT",,,"https://en.wikipedia.org/wiki/La_Foa_-_Oua_Tom_Airport",
+32063,"NWWT","small_airport","Oua Tom Airport",-21.8197,165.860992,98,"OC","NC","NC-03","La Foa","no","NWWT",,"NWWT",,,"https://en.wikipedia.org/wiki/La_Foa_-_Oua_Tom_Airport",
 5019,"NWWU","medium_airport","Touho Airport",-20.790127,165.259524,10,"OC","NC","NC-02","Touho","yes","NWWU","TOU","NWWU",,,"https://en.wikipedia.org/wiki/Touho_Airport",
 5020,"NWWV","medium_airport","Ouvéa Airport",-20.640932,166.573024,23,"OC","NC","NC-01","Ouvéa","yes","NWWV","UVE","NWWV",,,"https://en.wikipedia.org/wiki/Ouv%C3%A9a_Airport",
 5021,"NWWW","large_airport","La Tontouta International Airport",-22.014601,166.212997,52,"OC","NC","NC-03","Nouméa (La Tontouta)","yes","NWWW","NOU","NWWW",,"http://www.cci-nc.com/tontouta/index.php","https://en.wikipedia.org/wiki/La_Tontouta_International_Airport","Aéroport de Nouméa - La Tontouta"
@@ -50475,7 +50475,7 @@
 43198,"NZ-0016","small_airport","Cape Campbell airstrip",-41.74589920043945,174.27200317382812,,"OC","NZ","NZ-MBH",,"no",,,,,,"https://en.wikipedia.org/wiki/Cape_Campbell",
 43201,"NZ-0017","small_airport","Neils Beach Aerodrome",-43.997523,168.661659,,"OC","NZ","NZ-WTC","Neils Beach","no",,,,,,,
 46489,"NZ-0018","small_airport","Gorge River Airstrip",-44.184574,168.192444,,"OC","NZ","NZ-WTC","Haast","no",,,,,,,
-308629,"NZ-0019","heliport","Jennian Hangar, Waikato Hospital Heliport",-37.806281,175.280897,,"OC","NZ","NZ-WKO","Hamilton","no",,,"NZHH",,,,
+308629,"NZ-0019","heliport","Jennian Hangar, Waikato Hospital Heliport",-37.806231,175.28107,200,"OC","NZ","NZ-WKO","Hamilton","no","NZHH",,"NZHH",,"https://www.healthnz.govt.nz/hospitals-services/hospitals/waikato/waikato-hospital",,
 314996,"NZ-0020","small_airport","Center Island Airstrip",-46.4549,167.8495,30,"OC","NZ","NZ-STL","Raratoka Island","no",,,,,,,
 314997,"NZ-0021","small_airport","Glenshe Airstrip",-45.0419,170.2403,1637,"OC","NZ","NZ-OTA",,"no",,,,,,,
 315006,"NZ-0022","small_airport","Cromwell/Louburn Airport",-44.982756,169.215696,1010,"OC","NZ","NZ-OTA","Cromwell","no","NZCW",,"NZCW",,,,"Mount Pisa"
@@ -50581,7 +50581,7 @@
 5027,"NZCI","medium_airport","Inia William Tuuta Memorial Airport",-43.81189,-176.46514,43,"OC","NZ","NZ-WGN","Te One","yes","NZCI","CHT","NZCI",,,"https://en.wikipedia.org/wiki/Chatham_Islands_/_Tuuta_Airport","Karewa"
 29810,"NZCS","small_airport","Cromwell Racecourse Aerodrome",-45.048599,169.171005,856,"OC","NZ","NZ-OTA",,"no","NZCS",,"NZCS",,,"https://en.wikipedia.org/wiki/Cromwell_Racecourse_Aerodrome",
 29804,"NZCX","small_airport","Coromandel Airport",-36.791698,175.509003,10,"OC","NZ","NZ-WKO","Coromandel","no","NZCX","CMV","NZCX",,,"https://en.wikipedia.org/wiki/Coromandel_Aerodrome",
-29817,"NZDA","small_airport","Dargaville Aerodrome",-35.939304,173.892862,10,"OC","NZ","NZ-NTL","Dargaville","no","NZDA","DGR","NZDA",,,"https://en.wikipedia.org/wiki/Dargaville_Aerodrome",
+29817,"NZDA","small_airport","Dargaville Aerodrome",-35.939304,173.892862,6,"OC","NZ","NZ-NTL","Dargaville","no","NZDA","DGR","NZDA",,,"https://en.wikipedia.org/wiki/Dargaville_Aerodrome",
 44804,"NZDC","heliport","Dunedin City Heliport",-45.882596,170.507947,5,"OC","NZ","NZ-OTA","Dunedin","no","NZDC",,"NZDC",,,,
 44805,"NZDH","heliport","Dunedin Hospital Helipad",-45.868871,170.509674,159,"OC","NZ","NZ-OTA","Dunedin","no","NZDH",,"NZDH",,,,
 5028,"NZDN","medium_airport","Dunedin International Airport",-45.929017,170.197758,4,"OC","NZ","NZ-OTA","Dunedin","yes","NZDN","DUD","NZDN",,"https://www.dnairport.co.nz/","https://en.wikipedia.org/wiki/Dunedin_International_Airport","Momona Airport"
@@ -50590,6 +50590,7 @@
 526444,"NZDY","small_airport","Drury Airfield",-37.09639,174.975281,100,"OC","NZ","NZ-AUK",,"no",,,"NZDY",,,,
 30559,"NZES","small_airport","Wharepapa South Airport",-38.143875,175.550396,443,"OC","NZ","NZ-WKO",,"no","NZES",,"NZES",,,,
 355372,"NZEV","heliport","Eves Valley Heliport",-41.339777,173.077614,126,"OC","NZ","NZ-NSN","Eves Valley","no","NZEV",,"NZEV",,,,
+605013,"NZFA","heliport","Te Haupa Heliport",-34.516234,172.911336,,"OC","NZ","NZ-NTL","Te Haupa","no","NZFA",,"NZFA",,,,"Te Haupa"
 600056,"NZFE","small_airport","Fernside Fields Airpark",-43.317471,172.511956,195,"OC","NZ","NZ-CAN","Fenside","no","NZFE",,"NZFE",,,,
 29873,"NZFF","small_airport","Forest Field Aerodrome",-43.385799407958984,172.36099243164062,381,"OC","NZ","NZ-CAN",,"no","NZFF",,"NZFF",,,"https://en.wikipedia.org/wiki/Forest_Field_Aerodrome",
 44806,"NZFG","heliport","Fern Gully Heliport",-46.8949825431,168.11103344,70,"OC","NZ","NZ-STL","Oban","no",,,"NZFG",,,,
@@ -50621,7 +50622,7 @@
 44841,"NZJB","heliport","Wairau Hospital Heliport",-41.536598,173.943701,100,"OC","NZ","NZ-MBH","Blenheim","no",,,"NZJB",,,,
 44802,"NZJC","heliport","Christchurch Hospital Heliport",-43.532653,172.623954,55,"OC","NZ","NZ-CAN","Christchurch","no",,,"NZJC",,,,
 429840,"NZJD","heliport","Thames Hospital Heliport",-37.135824,175.544529,50,"OC","NZ","NZ-WKO","Thames","no",,,"NZJD",,,,
-44803,"NZJE","heliport","Dargaville Hospital Heliport",-35.92890167236328,173.87600708007812,102,"OC","NZ","NZ-NTL","Dargaville","no",,,"NZJE",,,,
+44803,"NZJE","heliport","Dargaville Hospital Heliport",-35.928823,173.875574,102,"OC","NZ","NZ-NTL","Dargaville","no","NZJE",,"NZJE",,,,
 604982,"NZJF","heliport","Whakatāne Hospital Helipad",-37.965595,176.976693,23,"OC","NZ","NZ-BOP","Whakatāne","no","NZJF",,"NZJF",,,"https://en.wikipedia.org/wiki/Whakat%C4%81ne_Hospital","Whakatane"
 44809,"NZJG","heliport","Gisborne Hospital Heliport",-38.6411018371582,178.00399780273438,51,"OC","NZ","NZ-GIS","Gisborne","no",,,"NZJG",,,,
 308785,"NZJH","heliport","Hastings Hospital Heliport",-39.629236,176.82404,36,"OC","NZ","NZ-HKB","Hastings","no",,,"NZJH",,,,
@@ -50666,7 +50667,7 @@
 30132,"NZME","small_airport","Mercer1 PDZ Airport",-37.2575,175.115005,30,"OC","NZ","NZ-WKO",,"no",,,"NZME",,,"https://en.wikipedia.org/wiki/Mercer_Airfield",
 30138,"NZMF","small_airport","Milford Sound Airport",-44.673302,167.923004,10,"OC","NZ","NZ-STL",,"no","NZMF","MFN","NZMF",,,"https://en.wikipedia.org/wiki/Milford_Sound_Airport",
 30108,"NZMG","heliport","Mangonui Heliport",-34.995601654052734,173.46400451660156,3,"OC","NZ","NZ-NTL",,"no",,,"NZMG",,,,
-44840,"NZMH","heliport","Wairarapa Hospital Heliport",-40.9474983215332,175.6750030517578,367,"OC","NZ","NZ-WGN","Masterton","no",,,"NZMH",,,,
+44840,"NZMH","heliport","Wairarapa Hospital Heliport",-40.947475,175.675356,367,"OC","NZ","NZ-WGN","Masterton","no","NZMH",,"NZMH",,"https://www.healthnz.govt.nz/hospitals-services/hospitals/nelson-marlborough/wairau-hospital",,
 30115,"NZMJ","small_airport","Martins Bay Aerodrome",-44.365971,168.016255,348,"OC","NZ","NZ-STL","Jamestown","no",,,"NZMJ",,,,
 30166,"NZMK","small_airport","Motueka Airport",-41.123299,172.988998,39,"OC","NZ","NZ-TAS",,"no","NZMK","MZP","NZMK",,,"https://en.wikipedia.org/wiki/Motueka_Aerodrome",
 32072,"NZML","small_airport","Molesworth Airport",-42.08300018310547,173.2830047607422,2813,"OC","NZ","NZ-MBH","Molesworth","no",,,"NZML",,,,
@@ -50742,10 +50743,14 @@
 30473,"NZTM","small_airport","Taumarunui Airport",-38.83940124511719,175.26199340820312,902,"OC","NZ","NZ-MWT",,"no",,,"NZTM",,,,
 30498,"NZTN","small_airport","Turangi Airport",-38.968299865722656,175.81399536132812,1220,"OC","NZ","NZ-WKO",,"no",,,"NZTN",,,,
 30489,"NZTO","small_airport","Tokoroa Airfield",-38.236698,175.891998,1220,"OC","NZ","NZ-WKO","Tokoroa","no","NZTO","TKZ","NZTO",,,"https://en.wikipedia.org/wiki/Tokoroa_Aerodrome",
+605014,"NZTP","heliport","Tekapo/Mackenzie Heliport",-44.01298,170.406636,,"OC","NZ","NZ-CAN","Lake Tekapo","no","NZTP",,"NZTP",,"https://www.mackenziehelicopters.com/",,
 44836,"NZTQ","heliport","Te Kuiti Hospital Heliport",-38.333900451660156,175.15199279785156,250,"OC","NZ","NZ-WKO","Te Kuiti","no",,,"NZTQ",,,,
 30462,"NZTS","closed","Taharoa Aerodrome",-38.181099,174.707993,69,"OC","NZ","NZ-WKO","Taharoa","no",,,,,,,"NZTS, THH"
 30478,"NZTT","small_airport","Te Kuiti Aerodrome",-38.30351,175.147805,161,"OC","NZ","NZ-WKO","Te Kuiti","no",,,"NZTT",,,,
 5056,"NZTU","medium_airport","Timaru Airport",-44.302799224853516,171.22500610351562,89,"OC","NZ","NZ-CAN",,"yes","NZTU","TIU","NZTU",,,"https://en.wikipedia.org/wiki/Richard_Pearse_Airport",
+605016,"NZTW","heliport","Twizel Medical Centre Helipad",-44.261133,170.097735,,"OC","NZ","NZ-CAN","Twizel","no","NZTW",,"NZTW",,,,
+605012,"NZTX","heliport","Te Anau Medical Centre Heliport",-45.416189,167.719883,,"OC","NZ","NZ-STL","Te Anau","no","NZTX",,"NZTX",,,,"Te Anau"
+605015,"NZTZ","heliport","Timaru Hospital Helipad",-44.409262,171.255578,,"OC","NZ","NZ-CAN","Timaru","no","NZTZ",,"NZTZ",,,,"Timaru Hospital"
 44816,"NZUA","heliport","Maui A Heliport",-39.5583,173.449997,157,"OC","NZ","NZ-XY","Maui A Platform","no",,,"NZUA",,,,
 44817,"NZUB","heliport","Maui B Heliport",-39.650002,173.307999,114,"OC","NZ","NZ-XY","Maui B Platform","no",,,"NZUB",,,,
 44839,"NZUI","heliport","Tui Helipad",-39.4319,173.233002,60,"OC","NZ","NZ-XY","Tui Platform","no",,,"NZUI",,,,
@@ -50758,11 +50763,12 @@
 5059,"NZWD","medium_airport","Williams Field Skiway",-77.867401,167.057007,68,"AN","AQ","AQ-U-A","McMurdo Station","no",,,"NZWD",,,"https://en.wikipedia.org/wiki/Williams_Field","Willies Field"
 44811,"NZWE","heliport","Kauaroa Bay Heliport",-36.8297004699707,175.0659942626953,15,"OC","NZ","NZ-AUK","Poukaraka Flats","no",,,"NZWE",,,,
 5060,"NZWF","medium_airport","Wanaka Airport",-44.722091,169.246287,1142,"OC","NZ","NZ-OTA","Wanaka","yes","NZWF","WKA","NZWF",,,"https://en.wikipedia.org/wiki/Wanaka_Airport","Luggate Airport"
+605017,"NZWG","heliport","Whangamata Helipad",-37.200527,175.866627,10,"OC","NZ","NZ-WKO","Whangamata","no","NZWG",,"NZWG",,,,
 44845,"NZWH","heliport","Wellington Hospital Helistop",-41.30854,174.779373,164,"OC","NZ","NZ-WGN","Wellington","no","NZWH",,"NZWH",,"https://www.healthpoint.co.nz/wellington-hospital-nga-puna-waiora/","https://en.wikipedia.org/wiki/Wellington_Hospital,_New_Zealand","Nga Puna Waiora"
 30556,"NZWJ","heliport","Wellsford Heliport",-36.29761,174.523138,250,"OC","NZ","NZ-AUK","Wellsford","no","NZWJ",,"NZWJ",,,,
 5062,"NZWK","medium_airport","Whakatāne Airport",-37.922224,176.91696,20,"OC","NZ","NZ-BOP","Whakatāne","yes","NZWK","WHK","NZWK",,"https://www.whakatane.govt.nz/services/airport","https://en.wikipedia.org/wiki/Whakatane_Airport","Whakatane"
 30557,"NZWL","small_airport","West Melton Aerodrome",-43.477271,172.393205,312,"OC","NZ","NZ-CAN",,"no","NZWL",,"NZWL",,,"https://en.wikipedia.org/wiki/West_Melton_Aerodrome",
-30548,"NZWM","small_airport","Waimate Airport",-44.790343,171.090087,79,"OC","NZ","NZ-CAN","Waimate","no",,,"NZWM",,,,
+30548,"NZWM","small_airport","Waimate Airport",-44.790343,171.090087,79,"OC","NZ","NZ-CAN","Waimate","no","NZWM",,"NZWM",,"https://www.waimatecommunityinfo.org/waimate-aero-club",,
 5063,"NZWN","large_airport","Wellington International Airport",-41.326839,174.806862,41,"OC","NZ","NZ-WGN","Wellington","yes","NZWN","WLG","NZWN",,"http://www.wellingtonairport.co.nz/","https://en.wikipedia.org/wiki/Wellington_Airport",
 5064,"NZWO","medium_airport","Wairoa Airport",-39.011862,177.404401,42,"OC","NZ","NZ-HKB","Wairoa","no","NZWO","WIR","NZWO",,,"https://en.wikipedia.org/wiki/Wairoa_Aerodrome",
 5065,"NZWP","medium_airport","RNZAF Base Auckland-Whenuapai",-36.7878,174.630005,103,"OC","NZ","NZ-AUK",,"no","NZWP",,"NZWP",,"http://www.airforce.mil.nz/about-us/hq-and-bases/auckland.htm","https://en.wikipedia.org/wiki/RNZAF_Base_Auckland",
@@ -50771,7 +50777,7 @@
 5067,"NZWS","medium_airport","Westport Airport",-41.737111,171.579033,13,"OC","NZ","NZ-WTC","Westport","yes","NZWS","WSZ","NZWS",,,"https://en.wikipedia.org/wiki/Westport_Airport_(New_Zealand)",
 30560,"NZWT","small_airport","Whitianga Airport",-36.828731,175.682802,10,"OC","NZ","NZ-WKO","Whitianga","no","NZWT","WTZ","NZWT",,,"https://en.wikipedia.org/wiki/Whitianga_Aerodrome",
 5068,"NZWU","medium_airport","Wanganui Airport",-39.963467,175.02444,27,"OC","NZ","NZ-MWT","Wanganui","yes","NZWU","WAG","NZWU",,,"https://en.wikipedia.org/wiki/Wanganui_Airport",
-30546,"NZWV","small_airport","Waihi Beach Airport",-37.430443,175.952394,4,"OC","NZ","NZ-BOP",,"no","NZWV",,"NZWV",,,"https://en.wikipedia.org/wiki/Waihi_Beach_Aerodrome",
+30546,"NZWV","small_airport","Waihi Beach Airport",-37.430443,175.952394,4,"OC","NZ","NZ-BOP","Island View","no","NZWV",,"NZWV",,,"https://en.wikipedia.org/wiki/Waihi_Beach_Aerodrome",
 604989,"NZWZ","heliport","Warkworth Heliport",-36.397778,174.658611,67,"OC","NZ","NZ-AUK","Warkworth","no","NZWZ",,"NZWZ",,,,
 30549,"NZYP","small_airport","Waipukurau Airport",-39.9967,176.537003,430,"OC","NZ","NZ-HKB",,"no","NZYP",,"NZYP",,,,
 23477,"O01","heliport","Heussler Hamburg Heliport",42.788795471191406,-78.84899139404297,590,"NA","US","US-NY","Hamburg","no",,,"O01","O01",,,
@@ -56882,7 +56888,7 @@
 39166,"SCHW","small_airport","Hualaihué Airport",-42.02861,-72.689445,30,"SA","CL","CL-LL","Hualaihue","no",,,"SCHW",,,"https://en.wikipedia.org/wiki/Hualaihu%C3%A9_Airport",
 39167,"SCIA","small_airport","Isla Apiao Airport",-42.599724,-73.212219,250,"SA","CL","CL-LL","Isla Apiao","no",,,"SCIA",,,"https://en.wikipedia.org/wiki/Isla_Apiao_Airport",
 39168,"SCIB","small_airport","Butachauques Airport",-42.308334,-73.14222,150,"SA","CL","CL-LL","Isla Butachauques","no",,,"SCIB",,,"https://en.wikipedia.org/wiki/Butachauques_Airport",
-39169,"SCIC","small_airport","Aeródromo General Freire SCIC",-34.966667,-71.216393,722,"SA","CL","CL-ML","Curico","no","SCIC",,"SCIC",,"https://aipchile.dgac.gob.cl/aerodromo/show?designador=SCIC","https://en.wikipedia.org/wiki/General_Freire_Airport","SCIC, CURICÓ, AERODROMO, AEROPUERTO"
+39169,"SCIC","small_airport","General Freire Airport",-34.966667,-71.216393,722,"SA","CL","CL-ML","Curico","no","SCIC",,"SCIC",,"https://aipchile.dgac.gob.cl/aerodromo/show?designador=SCIC","https://en.wikipedia.org/wiki/General_Freire_Airport","Curicó"
 39170,"SCID","small_airport","Marco Davison Bascur Airport",-52.881537,-70.753365,30,"SA","CL","CL-MA","Punta Arenas","no",,,"SCID",,,"https://en.wikipedia.org/wiki/Marco_Davison_Bascur_Airport",
 6025,"SCIE","large_airport","Carriel Sur International Airport",-36.77235,-73.062828,26,"SA","CL","CL-BI","Concepcion","yes","SCIE","CCP","SCIE",,"https://aeropuertocarrielsur.cl","https://en.wikipedia.org/wiki/Carriel_Sur_International_Airport",
 39171,"SCIF","small_airport","Chollinco Airport",-40.205799,-72.2314,330,"SA","CL","CL-LR","Llifen","no",,,"SCIF",,,"https://en.wikipedia.org/wiki/Chollinco_Airport",
@@ -83213,6 +83219,7 @@
 38558,"YPWH","small_airport","Pittsworth Airport",-27.733721,151.632365,1690,"OC","AU","AU-QLD","Pittsworth","no",,,"YPWH",,"https://www.tr.qld.gov.au/our-region/transport/airports/233-pittsworth-airfield",,
 27121,"YPWR","small_airport","Woomera Airfield",-31.144199,136.817001,548,"OC","AU","AU-SA","Woomera","no","YPWR","UMR","YPWR",,,"https://en.wikipedia.org/wiki/Woomera_Airfield","RAAF"
 27122,"YPXM","large_airport","Christmas Island International Airport",-10.450387,105.6911,916,"AS","CX","CX-U-A","Flying Fish Cove","yes","YPXM","XCH","YPXM",,"http://www.christmasislandairport.com/","https://en.wikipedia.org/wiki/Christmas_Island_Airport",
+605018,"YPXR","heliport","Portland Hospital Helipad",-38.341439,141.606267,,"OC","AU","AU-VIC","Portland","no","YPXR",,"YPXR",,,,
 311250,"YPYA","small_airport","Palmyra Airstrip",-21.21157,149.07654,50,"OC","AU","AU-QLD",,"no",,,"YPYA",,,,
 27903,"YPYD","small_airport","Pyramid Hill Airport",-36.060618,144.126763,,"OC","AU","AU-VIC",,"no",,,"YPYD",,,,
 27904,"YPYF","small_airport","Paynes Find Airport",-29.262055,117.668958,,"OC","AU","AU-WA",,"no",,,"YPYF",,,,
