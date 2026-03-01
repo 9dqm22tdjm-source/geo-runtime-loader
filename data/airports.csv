@@ -16246,6 +16246,7 @@
 604632,"BR-3292","heliport","Pousada Cavaleiro dos Pirineus Heliport",-15.836269,-48.949078,2630,"SA","BR","BR-GO","Pirenópolis","no",,,"SD20","GO0408",,,
 604825,"BR-3293","small_airport","Fazenda Santa Rita Boa Vista Airport.",-22.504191,-52.084378,975,"SA","BR","BR-SP","Mirante do Paranapanema","no",,,"SN97","SP1471",,,
 604826,"BR-3294","small_airport","Fazenda São Gabriel Airport",-12.211495,-46.749025,1302,"SA","BR","BR-TO","Ponte Alta do Bom Jesus","no",,,"SN98","TO0139",,,
+605040,"BR-3295","small_airport","Fazenda Piratini Airport",-13.887178,-45.759025,2838,"SA","BR","BR-U-A","Jaborandi","no",,,"SD90","BA0514",,,
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -30858,17 +30859,17 @@
 42490,"HTUV","small_airport","Uvinza Airport",-5.090771,30.406772,563,"AF","TZ","TZ-08","Uvinza","no",,,"HTUV",,,,
 31650,"HTWK","small_airport","West Kilimanjaro Airport",-3.05,37,4300,"AF","TZ","TZ-09","West Kilimanjaro","no",,,"HTWK",,,"https://en.wikipedia.org/wiki/West_Kilimanjaro_Airstrip",
 3260,"HTZA","large_airport","Abeid Amani Karume International Airport",-6.22202,39.224899,54,"AF","TZ","TZ-07","Zanzibar","yes","HTZA","ZNZ","HTZA",,,"https://en.wikipedia.org/wiki/Abeid_Amani_Karume_International_Airport","HTAK, Zanzibar Airport, Kiembi Samaki"
-43981,"HU-0001","small_airport","Kákahalom Airfield",46.803936,20.527838,256,"EU","HU","HU-BE","Szarvas","no",,,"LHSV",,,"https://hu.wikipedia.org/wiki/K%C3%A1kai-Szarvasi_rep%C3%BCl%C5%91t%C3%A9r","Szarvas-Káka"
+43981,"HU-0001","small_airport","Kákahalom Airfield",46.803936,20.527838,256,"EU","HU","HU-BE","Szarvas","no","LHSV",,"LHSV",,,"https://hu.wikipedia.org/wiki/K%C3%A1kai-Szarvasi_rep%C3%BCl%C5%91t%C3%A9r","Szarvas-Káka"
 43983,"HU-0002","medium_airport","Kalocsa-Foktő Airfield",46.55149,18.942299,299,"EU","HU","HU-BK","Kalocsa","no","LHKA",,"LHKA",,"http://www.aeroportkalocsa.hu","https://hu.wikipedia.org/wiki/Kalocsai_rep%C3%BCl%C5%91t%C3%A9r",
 43985,"HU-0003","small_airport","Matkópuszta Airfield",46.800343,19.68257,367,"EU","HU","HU-BK","Matkópuszta","no",,,"LHMP",,"http://www.matkoairport.hu/",,
 43986,"HU-0004","closed","Mezőkövesd Air Base",47.81518,20.635585,357,"EU","HU","HU-BZ","Mezőkövesd","no",,,,,,,"Klementina, Mezokovesd"
 43987,"HU-0005","closed","Hódmezővásárhely  Airport",46.456257,20.392963,259,"EU","HU","HU-CS","Hódmezővásárhely","no",,,,,,,
-43988,"HU-0006","small_airport","Szatymaz Airfield",46.322651,20.053209,251,"EU","HU","HU-CS","Szatymaz","no",,,"LHST",,,,
+43988,"HU-0006","small_airport","Szatymaz Airfield",46.322651,20.053209,251,"EU","HU","HU-CS","Szatymaz","no","LHST",,"LHST",,,,
 43989,"HU-0007","small_airport","Börgönd Airfield",47.129833,18.50029,392,"EU","HU","HU-FE","Székesfehérvár","no",,,"LHBD",,,"https://hu.wikipedia.org/wiki/B%C3%B6rg%C3%B6ndi_rep%C3%BCl%C5%91t%C3%A9r",
 43990,"HU-0008","small_airport","Pusztacsalád Airfield",47.493935,16.897216,497,"EU","HU","HU-GS","Pusztacsalád","no",,,"LHPC",,,,
 43991,"HU-0009","closed","Kenderes Airfield",47.269824,20.689702,268,"EU","HU","HU-JN","Kenderes","no",,,,,,,
 43992,"HU-0010","small_airport","Kunmadaras Air Base",47.390839,20.785009,279,"EU","HU","HU-JN","Kunmadaras","no",,,"LHKM",,,"https://hu.wikipedia.org/wiki/Kunmadarasi_rep%C3%BCl%C5%91t%C3%A9r",
-44911,"HU-0011","closed","Tokorcs Airfield",47.271543,17.109145,,"EU","HU","HU-VA","Tokorcs","no",,,,,,,"LHTK, Aerosag, Tokorcsi Repülőtér"
+44911,"HU-0011","closed","Tokorcs Airfield",47.271543,17.109145,446,"EU","HU","HU-VA","Tokorcs","no",,,,,,,"LHTK, Aerosag, Tokorcsi Repülőtér, Kemenesmihalyfa"
 44986,"HU-0012","small_airport","Cserszegtomaj-Hévíz Airfield",46.809114,17.19974,381,"EU","HU","HU-ZA","Cserszegtomaj","no",,,,,,,
 309443,"HU-0013","small_airport","Baja Airfield",46.145347,19.043172,378,"EU","HU","HU-BK","Baja","no",,,"LHBJ",,,,
 309444,"HU-0014","small_airport","Balatonkeresztúr Airfield",46.693034,17.397773,337,"EU","HU","HU-SO","Balatonkeresztúr","no",,,"LHBK",,"http://balatonflugplatz.com/",,
@@ -31083,7 +31084,7 @@
 310270,"ID-0035","small_airport","Bomomani Airstrip",-3.960942,135.939631,4966,"OC","ID","ID-PT","Bomomani","no",,,,"BMO",,,"Bomoani"
 310271,"ID-0036","small_airport","Borme Airstrip",-4.394362,140.436348,3270,"AS","ID","ID-PP","Borme","no","WAJY",,"WAJY","BOR",,,"WX51"
 310273,"ID-0037","small_airport","Kurid  Airstrip",3.798115,115.706339,3260,"AS","ID","ID-KU","Buduk Kabul","no",,,"WALX","BDK",,,
-310275,"ID-0038","small_airport","Bugalaga Airstrip",-3.6235,136.5963,6360,"AS","ID","ID-PT","Bugalaga","no",,,"WX53","GBL",,,"WX53"
+310275,"ID-0038","small_airport","Bugalaga Airstrip",-3.6235,136.5963,6360,"AS","ID","ID-PT","Bugalaga","no","WRLA",,"WRLA","GBL",,,"WX53"
 310281,"ID-0039","small_airport","Calang Airstrip",4.612323,95.623534,32,"AS","ID","ID-AC","Calang","no",,,,,,,
 310291,"ID-0040","small_airport","Comoro Airstrip",-5.926349,138.631461,21,"AS","ID","ID-PS","Comoro","no",,,,"COM",,,
 310293,"ID-0041","small_airport","Dagai Airport",-3.305757,137.94366,347,"AS","ID","ID-PT","Dagai","no",,,"WRLB","DAG",,,"WX59"
@@ -31219,9 +31220,9 @@
 311871,"ID-0172","small_airport","Enggano Airport",-5.305621,102.189546,36,"AS","ID","ID-BE","Enggano","no",,"ENG","WIGE",,,,
 311872,"ID-0173","small_airport","Apouwo Airstrip",-4.063248,135.560018,5250,"AS","ID","ID-PT","Apouwo","no",,,,,,,"WX15, Apowo, Sukikai"
 311873,"ID-0174","small_airport","Aurimi Wzil Airstrip",-2.182027,138.434418,290,"AS","ID","ID-PA","Aurimi Wzil","no",,,"WREF",,,,"WX18"
-325373,"ID-0175","small_airport","Bareri Airport",-2.981793,137.782715,300,"AS","ID","ID-PA","Bareri","no",,,,"BAR",,,
+325373,"ID-0175","small_airport","Bareri Airport",-2.981631,137.783613,300,"AS","ID","ID-PA","Bareri","no","WABN",,"WABN","BAR",,,
 325374,"ID-0176","small_airport","Bari Airport",-3.959166,139.901563,1660,"AS","ID","ID-PP","Bari","no",,,,"BRI",,,
-325377,"ID-0177","small_airport","Basiem Airport",-6.058573,138.383542,49,"AS","ID","ID-PS","Basiem","no",,,,"BAS",,,
+325377,"ID-0177","small_airport","Basiem Airport",-6.058573,138.383542,49,"AS","ID","ID-PS","Basiem","no","WRMA",,"WRMA","BAS",,,
 325386,"ID-0178","small_airport","Awimbon Airstrip",-5.165884,140.381568,492,"AS","ID","ID-PP","Awimbon","yes",,,,"AWI",,,"Awinbon"
 329576,"ID-0179","small_airport","Anik Airstrip",0.537465,109.742062,139,"AS","ID","ID-KB","Anik","no",,,,"ANI",,,
 329620,"ID-0180","small_airport","Yaosakor Airstrip",-5.603899,138.46525,10,"AS","ID","ID-PS","Yaosakor","no",,,"WRMJ","YAO",,,
@@ -31266,7 +31267,7 @@
 354037,"ID-0219","small_airport","Dewok Airport",-5.278326,140.681963,,"AS","ID","ID-PS","Boven Digoel Regency","no",,,,,,,
 354038,"ID-0220","small_airport","Manggelum Airport",-5.416371,140.436231,217,"AS","ID","ID-PS","Boven Digoel Regency","no",,,"WAVM",,,,"WAJT, Mangelum"
 354206,"ID-0221","closed","Hollandia Airfield",-2.561139,140.479302,331,"AS","ID","ID-PA","Sentani","no",,,,,,,
-354209,"ID-0222","small_airport","Begowre Airstrip",-2.982106,140.925279,360,"AS","ID","ID-PA","Begowre","no",,,,,,,
+354209,"ID-0222","small_airport","Begowre Airstrip",-2.982106,140.925279,360,"AS","ID","ID-PA","Begowre","no","WREL",,"WREL",,,,
 354215,"ID-0223","small_airport","Ideduna Airstrip",-3.961954,135.482025,6001,"OC","ID","ID-PT","Ideduna","no",,,,,,,"Idedua"
 354216,"ID-0224","small_airport","Bias Airstrip",-3.999569,140.82041,397,"AS","ID","ID-PP","Bias","no",,,,,,,
 354217,"ID-0225","small_airport","Walibaru Airstrip",-5.39973,140.198652,154,"AS","ID","ID-PS","Walibaru","no",,,,,,,"Biwange I, Boven Digoel"
@@ -43516,17 +43517,17 @@
 345619,"LHBI","small_airport","Biharkeresztes Airfield",47.137425,21.675425,302,"EU","HU","HU-HB","Biharkeresztes","no",,,"LHBI",,,,
 317377,"LHBO","small_airport","Bácsbokod Airfield",46.153445,19.149051,512,"EU","HU","HU-BK","Bácsbokod","no",,,"LHBO",,,,
 4296,"LHBP","large_airport","Budapest Liszt Ferenc International Airport",47.43018,19.262393,495,"EU","HU","HU-BU","Budapest","yes","LHBP","BUD","LHBP",,"http://www.bud.hu/english","https://en.wikipedia.org/wiki/Budapest_Ferenc_Liszt_International_Airport","Ferihegyi nemzetközi repülőtér, Budapest Liszt Ferenc international Airport"
-29732,"LHBS","small_airport","Budaörs Airfield",47.451099,18.9806,397,"EU","HU","HU-BU","Budaörs","no",,,"LHBS",,"http://www.budaorsirepuloter.hu/","https://en.wikipedia.org/wiki/Buda%C3%B6rs_Airport",
+29732,"LHBS","small_airport","Budaörs Airfield",47.451099,18.9806,413,"EU","HU","HU-BU","Budaörs","no","LHBS",,"LHBS",,"https://www.budaorsirepuloter.hu/","https://en.wikipedia.org/wiki/Buda%C3%B6rs_Airport",
 317554,"LHCL","small_airport","Cegléd Airfield",47.162621,19.877401,315,"EU","HU","HU-PE","Cegléd","no",,,"LHCL",,,,
 4297,"LHDC","large_airport","Debrecen International Airport",47.489469,21.616278,359,"EU","HU","HU-HB","Debrecen","yes","LHDC","DEB","LHDC",,"http://www.airportdebrecen.hu/","https://en.wikipedia.org/wiki/Debrecen_International_Airport","Debreceni nemzetközi repülőtér"
 29831,"LHDK","small_airport","Dunakeszi Airfield",47.613899,19.143299,397,"EU","HU","HU-PE","Dunakeszi","no",,,"LHDK",,,,
-29832,"LHDV","small_airport","Dunaújváros Airfield",46.895802,18.9139,394,"EU","HU","HU-FE","Dunaújváros","no",,,"LHDV",,,"https://hu.wikipedia.org/wiki/Duna%C3%BAjv%C3%A1rosi_rep%C3%BCl%C5%91t%C3%A9r",
-43033,"LHEM","small_airport","Esztergom Ernő Rubik Airfield",47.756811,18.730459,342,"EU","HU","HU-KE","Esztergom","no",,,"LHEM",,,"https://hu.wikipedia.org/wiki/Id._Rubik_Ern%C5%91_rep%C3%BCl%C5%91t%C3%A9r",
-309451,"LHER","small_airport","Eger Apolló Airfield",47.9052,20.4055,790,"EU","HU","HU-HE","Eger","no",,,"LHER",,"http://www.halley.hu",,
-317555,"LHFC","small_airport","Bodmér-Felcsút Airfield",47.444629,18.557102,492,"EU","HU","HU-FE","Bodmér","no",,,"LHFC",,,,"Felcsút"
-43034,"LHFH","small_airport","Farkashegy Airfield",47.4869,18.9147,690,"EU","HU","HU-PE","Farkashegy","no",,,"LHFH",,,"https://hu.wikipedia.org/wiki/Farkashegyi_rep%C3%BCl%C5%91t%C3%A9r",
-4298,"LHFM","small_airport","Fertőszentmiklós Airfield",47.582802,16.8454,440,"EU","HU","HU-GS","Fertőszentmiklós","no",,,"LHFM",,"http://www.lhfm.hu/","https://en.wikipedia.org/wiki/Fert%C5%91szentmikl%C3%B3s_Airfield","Meidl"
-318132,"LHFP","small_airport","Piuszpuszta Airfield",47.744444,16.614167,486,"EU","HU","HU-GS","Fertőrákos","no",,,"LHFP",,,,
+29832,"LHDV","small_airport","Dunaújváros Airfield",46.895802,18.9139,394,"EU","HU","HU-FE","Dunaújváros","no","LHDV",,"LHDV",,,"https://hu.wikipedia.org/wiki/Duna%C3%BAjv%C3%A1rosi_rep%C3%BCl%C5%91t%C3%A9r",
+43033,"LHEM","small_airport","Esztergom Ernő Rubik Airfield",47.756811,18.730459,342,"EU","HU","HU-KE","Esztergom","no","LHEM",,"LHEM",,,"https://hu.wikipedia.org/wiki/Id._Rubik_Ern%C5%91_rep%C3%BCl%C5%91t%C3%A9r",
+309451,"LHER","small_airport","Eger Apolló Airfield",47.9052,20.4055,790,"EU","HU","HU-HE","Eger","no","LHER",,"LHER",,"http://www.halley.hu",,
+317555,"LHFC","small_airport","Bodmér-Felcsút Airfield",47.444629,18.557102,492,"EU","HU","HU-FE","Bodmér","no","LHFC",,"LHFC",,,,"Felcsút"
+43034,"LHFH","small_airport","Farkashegy Airfield",47.486196,18.915263,690,"EU","HU","HU-PE","Farkashegy","no","LHFH",,"LHFH",,,"https://hu.wikipedia.org/wiki/Farkashegyi_rep%C3%BCl%C5%91t%C3%A9r","Budakeszi, Nagyszénászug"
+4298,"LHFM","small_airport","Fertőszentmiklós Airfield",47.582802,16.8454,440,"EU","HU","HU-GS","Fertőszentmiklós","no","LHFM",,"LHFM",,"http://www.lhfm.hu/","https://en.wikipedia.org/wiki/Fert%C5%91szentmikl%C3%B3s_Airfield","Meidl"
+318132,"LHFP","small_airport","Piuszpuszta Airfield",47.744444,16.614167,486,"EU","HU","HU-GS","Fertőrákos","no","LHFP",,"LHFP",,,,
 31817,"LHGD","small_airport","Gödöllő Airfield",47.571662,19.336796,715,"EU","HU","HU-PE","Gödöllő","no","LHGD",,"LHGD",,"https://godolloairport.hu/en","https://hu.wikipedia.org/wiki/G%C3%B6d%C3%B6ll%C5%91i_rep%C3%BCl%C5%91t%C3%A9r","Gödöllő Sport Airport"
 309481,"LHGR","small_airport","Gyúró Airfield",47.391333,18.756989,640,"EU","HU","HU-FE","Gyúró","no","LHGR",,"LHGR",,,"http://hu.wikipedia.org/wiki/Gy%C3%BAr%C3%B3i_rep%C3%BCl%C5%91t%C3%A9r",
 318133,"LHGU","heliport","Győrújbarát Heliport",47.605143,17.660188,397,"EU","HU","HU-GS","Győrújbarát","no","LHGU",,"LHGU",,,,
@@ -43543,7 +43544,7 @@
 317557,"LHKT","small_airport","Kadarkút Airfield",46.247418,17.607822,,"EU","HU","HU-SO","Kadarkút","no",,,"LHKT",,,,
 30009,"LHKV","small_airport","Kaposvar Kaposújlak Airfield",46.386398,17.733479,499,"EU","HU","HU-SO","Kaposújlak","no",,,"LHKV",,,"https://hu.wikipedia.org/wiki/Kapos%C3%BAjlaki_rep%C3%BCl%C5%91t%C3%A9r",
 318135,"LHLI","small_airport","Lipót Szigetköz Airfield",47.8575,17.448333,377,"EU","HU","HU-GS","Lipót","no",,,"LHLI",,,,"Lipót Szigetköz repülőtér"
-29841,"LHMR","small_airport","Maklár Airfield",47.811857,20.422254,407,"EU","HU","HU-HE","Eger","no",,,"LHMR",,,"https://hu.wikipedia.org/wiki/Makl%C3%A1ri_rep%C3%BCl%C5%91t%C3%A9r",
+29841,"LHMR","small_airport","Maklár Airfield",47.811857,20.422254,424,"EU","HU","HU-HE","Maklár","no","LHMR",,"LHMR",,,"https://hu.wikipedia.org/wiki/Makl%C3%A1ri_rep%C3%BCl%C5%91t%C3%A9r","Eger Maklár"
 30178,"LHNK","small_airport","Nagykanizsa Airfield",46.428304,16.957569,466,"EU","HU","HU-ZA","Nagykanizsa","no",,,"LHNK",,,"https://hu.wikipedia.org/wiki/Nagykanizsai_rep%C3%BCl%C5%91t%C3%A9r",
 318136,"LHNS","small_airport","Nagyszénás",46.698056,20.668611,,"EU","HU","HU-BE","Nagyszénás","no",,,"LHNS",,,"https://hu.wikipedia.org/wiki/Nagysz%C3%A9n%C3%A1si_rep%C3%BCl%C5%91t%C3%A9r",
 4300,"LHNY","small_airport","Nyíregyháza Airfield",47.983898,21.692301,338,"EU","HU","HU-SZ","Nyíregyháza","no",,,"LHNY",,"http://www.trenerkft.hu/","https://en.wikipedia.org/wiki/Ny%C3%ADregyh%C3%A1za_Airport",
@@ -43553,20 +43554,20 @@
 4303,"LHPR","medium_airport","Győr-Pér Airport",47.628436,17.804718,424,"EU","HU","HU-GS","Győr","yes","LHPR","QGY","LHPR",,"http://www.lhpr.hu","https://en.wikipedia.org/wiki/Gy%C5%91r-P%C3%A9r_International_Airport","QGY"
 4304,"LHSA","small_airport","Szentkirályszabadja Airfield",47.0779,17.968399,919,"EU","HU","HU-VE","Szentkirályszabadja","no",,,"LHSA",,,"https://hu.wikipedia.org/wiki/Veszpr%C3%A9m-Szentkir%C3%A1lyszabadja_Rep%C3%BCl%C5%91t%C3%A9r",
 317532,"LHSB","small_airport","Szabadszállás-Balázspuszta Airfield",46.900278,19.366389,325,"EU","HU","HU-BK","Szabadszállás","no",,,"LHSB",,,,
-317567,"LHSI","small_airport","Sitke Airfield",47.234558,17.027178,,"EU","HU","HU-VA","Sitke","no",,,"LHSI",,,,
-29681,"LHSK","small_airport","Siófok-Kiliti Airfield",46.856899,18.0958,417,"EU","HU","HU-SO","Siófok-Kiliti","no",,,"LHSK",,"http://www.bud.hu/english/about_us/siofok-kiliti_airport/","https://en.wikipedia.org/wiki/Si%C3%B3fok-Kiliti_Airfield",
+317567,"LHSI","small_airport","Sitke Airfield",47.234558,17.027178,,"EU","HU","HU-VA","Sitke","no","LHSI",,"LHSI",,,,
+29681,"LHSK","small_airport","Siófok-Kiliti Airfield",46.856899,18.0958,417,"EU","HU","HU-SO","Siófok-Kiliti","no","LHSK",,"LHSK",,"http://www.bud.hu/english/about_us/siofok-kiliti_airport/","https://en.wikipedia.org/wiki/Si%C3%B3fok-Kiliti_Airfield",
 4305,"LHSM","medium_airport","Hévíz–Balaton Airport",46.686391,17.159084,408,"EU","HU","HU-ZA","Sármellék","yes","LHSM","SOB","LHSM",,"http://www.flybalaton.com/?null&lang=en","https://en.wikipedia.org/wiki/S%C3%A1rmell%C3%A9k_International_Airport","Sármellék International, FlyBatalon Airport, Batalon Airport, Sármellék Nemzetközi Repülőtér"
-4306,"LHSN","medium_airport","Szolnok Air Base",47.122897,20.2355,322,"EU","HU","HU-JN","Szolnok","no",,,"LHSN",,,"https://en.wikipedia.org/wiki/Szolnok_Air_Base","Szolnok Air Base, MH86"
-30457,"LHSS","small_airport","Szolnok-Szandai Airfield",47.144402,20.1978,266,"EU","HU","HU-JN","Szolnok","no",,,"LHSS",,,,"Szolnok-Szandaszőlős Sport Airfield"
-317566,"LHSU","small_airport","Surjány Airfield",47.199968,20.481934,,"EU","HU","HU-JN","Törökszentmiklós","no",,,"LHSU",,,,
-30456,"LHSY","small_airport","Szombathely Airfield",47.279999,16.6264,732,"EU","HU","HU-VA","Szombathely","no",,,"LHSY",,,"https://hu.wikipedia.org/wiki/Szombathelyi_rep%C3%BCl%C5%91t%C3%A9r",
-30455,"LHSZ","small_airport","Szentes Aerodrome",46.6133,20.282801,259,"EU","HU","HU-CS","Szentes","no",,,"LHSZ",,,"https://hu.wikipedia.org/wiki/Szentesi_rep%C3%BCl%C5%91t%C3%A9r",
+4306,"LHSN","medium_airport","Szolnok Air Base",47.122897,20.2355,322,"EU","HU","HU-JN","Szolnok","no","LHSN",,"LHSN",,,"https://en.wikipedia.org/wiki/Szolnok_Air_Base","Szolnok Air Base, MH86"
+30457,"LHSS","small_airport","Szolnok-Szandai Airfield",47.142879,20.197313,266,"EU","HU","HU-JN","Szolnok","no","LHSS",,"LHSS",,,,"Szolnok-Szandaszőlős Sport Airfield"
+317566,"LHSU","small_airport","Surjány Airfield",47.199968,20.481934,282,"EU","HU","HU-JN","Törökszentmiklós","no","LHSU",,"LHSU",,,,
+30456,"LHSY","small_airport","Szombathely Airfield",47.279999,16.6264,732,"EU","HU","HU-VA","Szombathely","no","LHSY",,"LHSY",,,"https://hu.wikipedia.org/wiki/Szombathelyi_rep%C3%BCl%C5%91t%C3%A9r","ZBX"
+30455,"LHSZ","small_airport","Szentes Aerodrome",46.612511,20.283197,259,"EU","HU","HU-CS","Szentes","no","LHSZ",,"LHSZ",,,"https://hu.wikipedia.org/wiki/Szentesi_rep%C3%BCl%C5%91t%C3%A9r",
 30003,"LHTA","medium_airport","Taszár Air Base",46.393101,17.9175,531,"EU","HU","HU-SO","Taszár","no",,,"LHTA",,,"https://en.wikipedia.org/wiki/Tasz%C3%A1r_Air_Base","Kaland Taszar"
-30488,"LHTL","medium_airport","Tököl Airport",47.345299,18.980801,318,"EU","HU","HU-PE","Tököl","no",,,"LHTL",,"http://www.lhtl.hu/","https://hu.wikipedia.org/wiki/T%C3%B6k%C3%B6li_rep%C3%BCl%C5%91t%C3%A9r","Tököl Air Base"
-318137,"LHTM","small_airport","Tápiószentmárton Airfield",47.310956,19.777364,,"EU","HU","HU-PE","Tápiószentmárton","no",,,"LHTM",,,,
-30454,"LHUD","small_airport","Szeged Airport",46.245127,20.092217,249,"EU","HU","HU-CS","Szeged","no","LUHD","QZD","LHUD",,"https://www.airportszeged.hu/","https://en.wikipedia.org/wiki/Szeged_Airport","QZD"
-318138,"LHUH","small_airport","Úrhida",47.128198,18.312986,633,"EU","HU","HU-FE","Úrhida","no",,,"LHUH",,,,
-318141,"LHVE","small_airport","Veresegyház Airfield",47.638107,19.255007,,"EU","HU","HU-PE","Veresegyház","no",,,"LHVE",,,,"East Line Air Team"
+30488,"LHTL","medium_airport","Tököl Airport",47.345299,18.980801,318,"EU","HU","HU-PE","Tököl","no","LHTL",,"LHTL",,"http://www.lhtl.hu/","https://hu.wikipedia.org/wiki/T%C3%B6k%C3%B6li_rep%C3%BCl%C5%91t%C3%A9r","Tököl Air Base"
+318137,"LHTM","small_airport","Tápiószentmárton Airfield",47.313865,19.773853,331,"EU","HU","HU-PE","Tápiószentmárton","no","LHTM",,"LHTM",,,,
+30454,"LHUD","small_airport","Szeged Airport",46.245127,20.092217,249,"EU","HU","HU-CS","Szeged","no","LHUD",,"LHUD",,"https://www.airportszeged.hu/","https://en.wikipedia.org/wiki/Szeged_Airport","QZD"
+318138,"LHUH","small_airport","Úrhida",47.128198,18.312986,633,"EU","HU","HU-FE","Úrhida","no","LHUH",,"LHUH",,,,"Sárszentmihály"
+318141,"LHVE","small_airport","Veresegyház Airfield",47.638107,19.255007,,"EU","HU","HU-PE","Veresegyház","no","LHVE",,"LHVE",,,,"East Line Air Team"
 30575,"LHZA","small_airport","Zalaegerszeg Andráshida Airfield",46.884701,16.7889,617,"EU","HU","HU-ZA","Zalaegerszeg","no","LHZA",,"LHZA",,"https://lhza.hu",,"Zalaegerszeg, Andráshida"
 309480,"LHZK","small_airport","Zalakaros Airfield",46.5539,17.15118,370,"EU","HU","HU-ZA","Zalakaros","no","LHZK",,"LHZK",,"https://lhzk.hu",,
 340540,"LI-0001","heliport","Liechtenstein Hospital Helipad",47.134773,9.522753,1580,"EU","LI","LI-11","Vaduz","no",,,,,"https://www.landesspital.li/","https://de.wikipedia.org/wiki/Liechtensteinisches_Landesspital",
@@ -45600,7 +45601,7 @@
 22240,"MO35","small_airport","Harvey Airport",39.212799072265625,-90.91739654541016,710,"NA","US","US-MO","Eolia","no",,,"MO35","MO35",,,
 22241,"MO36","small_airport","Riddle's Roost Airport",38.832000732421875,-90.92510223388672,650,"NA","US","US-MO","Foristell","no",,,"MO36","MO36",,,
 22242,"MO37","small_airport","Ridgeview Ranch Airport",38.721346,-94.381056,1000,"NA","US","US-MO","Harrisonville","no",,,"MO37","MO37",,,
-22243,"MO38","heliport","Table Rock Heliport",36.6383,-93.2824,1047,"NA","US","US-MO","Branson","no",,,"MO38","MO38",,,
+22243,"MO38","heliport","Branson Helicopters Heliport",36.6383,-93.2824,1047,"NA","US","US-MO","Branson","no",,,"MO38","MO38",,,"Table Rock"
 22244,"MO39","small_airport","Baldwin Airport",39.110958,-91.040446,505,"NA","US","US-MO","Silex","no",,,"MO39","MO39",,,
 22245,"MO40","heliport","Salem Memorial Hospital Heliport",37.659898,-91.570607,1170,"NA","US","US-MO","Salem","no",,,"MO40","MO40",,,"Air Evac 18 Heliport"
 22246,"MO41","heliport","Air Evac 23 Heliport",38.982108,-90.963165,520,"NA","US","US-MO","Troy","no",,,"MO41","MO41",,,"Landing Pad Heliport"
@@ -57396,7 +57397,7 @@
 347245,"SD8X","small_airport","Canal SS Airport",-19.069226,-50.990664,1549,"SA","BR","BR-GO","Itarumã","no",,,"SD8X","GO0302",,,
 347257,"SD8Y","small_airport","Fazenda São Pedro Airstrip",-4.8875,-47.220556,932,"SA","BR","BR-MA","Açailândia","no",,,"SD8Y","MA0120",,,
 347259,"SD8Z","small_airport","Fazenda Tocantins Airstrip",-12.729049,-54.438111,1089,"SA","BR","BR-MT","Nova Ubiratã","no",,,"SD8Z","MT0734",,,
-24565,"SD90","small_airport","Mitchell's Strip",44.467544,-103.787042,3920,"NA","US","US-SD","Spearfish","no",,,"SD90","SD90",,,
+24565,"SD90","small_airport","Mitchell's Strip",44.467519,-103.786882,3920,"NA","US","US-SD","Spearfish","no",,,,"SD90",,,
 24566,"SD91","closed","Star Aviation Nr 1 Heliport",44.468399,-103.811996,4025,"NA","US","US-SD","Spearfish","no",,,,,,,"SD91"
 24567,"SD92","heliport","Telstar Heliport",43.698299407958984,-98.02149963378906,1310,"NA","US","US-SD","Mitchell","no",,,"SD92","SD92",,,
 24568,"SD93","small_airport","Gary Myers Airport",44.864200592041016,-99.60639953613281,1930,"NA","US","US-SD","Gettysburg","no",,,"SD93","SD93",,,
@@ -70187,6 +70188,7 @@
 604909,"US-12913","small_airport","Scenic Mesa Ranch Airport",38.733011,-107.75932,6116,"NA","US","US-CO","Hotchkiss","no",,,"CD02","CD02",,,
 604924,"US-12914","heliport","Kato Av Heliport",44.01036,-93.956266,1005,"NA","US","US-MN","Good Thunder","no",,,"MN30","MN30",,,
 604939,"US-12915","heliport","Pecan Knoll Heliport",32.818089,-96.492634,448,"NA","US","US-TX","Heath","no",,,"XS37","XS37",,,
+605054,"US-12916","heliport","Chopper Charter Heliport",36.638668,-93.275562,,"NA","US","US-MO","Branson","no",,,,,"https://www.choppercharter.com/",,
 334351,"US-1292","closed","Brentwood Ambulatory Care Center Heliport",41.3163,-81.568889,868,"NA","US","US-OH","Northfield","no",,,,,,,"80OI"
 334352,"US-1293","heliport","George Washington University Hospital Heliport",38.900903,-77.051132,174,"NA","US","US-DC","Washington","no",,,"24DC","24DC",,,
 334358,"US-1294","small_airport","Curry Ridge Airport",32.723321,-113.938501,329,"NA","US","US-AZ","Tacna","no",,,"AZ60","AZ60",,,
@@ -80625,7 +80627,7 @@
 31516,"VYGG","small_airport","Gangaw Airport",22.174699783325195,94.1343994140625,200,"AS","MM","MM-03","Gangaw","no","VYGG","GAW","VYGG",,,,
 29930,"VYGW","small_airport","Gwa Airport",17.600000381469727,94.58329772949219,10,"AS","MM","MM-16","Gwa","no","VYGW","GWA","VYGW",,,,
 29949,"VYHB","small_airport","Hmawbi Air Base",17.11669921875,96.06670379638672,69,"AS","MM","MM-06","Hmawbi","no",,,"VYHB",,,,"Hmawby"
-509451,"VYHH","small_airport","Heho Airport",20.74714,96.792029,3858,"AS","MM","MM-17","Kalaw Township","yes","VYHH","HEH","VYHH",,,"https://en.wikipedia.org/wiki/Heho_Airport",
+509451,"VYHH","medium_airport","Heho Airport",20.74714,96.792029,3858,"AS","MM","MM-17","Heho","yes","VYHH","HEH","VYHH",,,"https://en.wikipedia.org/wiki/Heho_Airport",
 26719,"VYHL","small_airport","Hommalinn Airport",24.899599,94.914001,534,"AS","MM","MM-01","Hommalinn","no","VYHL","HOX","VYHL",,,"https://en.wikipedia.org/wiki/Homalin_Airport",
 32450,"VYHN","small_airport","Tilin Airport",21.700000762939453,94.0999984741211,1385,"AS","MM","MM-03","Tilin","no","VYHN","TIO","VYHN",,,,
 26720,"VYKG","medium_airport","Kengtung Airport",21.301599502563477,99.63600158691406,2798,"AS","MM","MM-17","Kengtung","yes","VYKG","KET","VYKG",,,"https://en.wikipedia.org/wiki/Kengtung_Airport",
@@ -81125,6 +81127,7 @@
 25791,"WI97","small_airport","Mathaire Field",43.2578010559082,-89.0647964477539,960,"NA","US","US-WI","Marshall","no",,,"WI97","WI97",,,
 25792,"WI98","closed","Blackburn Airport",42.858299,-89.197304,888,"NA","US","US-WI","Cooksville","no",,,,,,,"WI98"
 25793,"WI99","small_airport","Meier Airport",42.8135986328125,-88.99710083007812,880,"NA","US","US-WI","Milton","no",,,"WI99","WI99",,,
+605056,"WIAC","small_airport","Balai Sepuak Airstrip",0.450209,111.217012,51,"AS","ID","ID-KB","Balai Sepuak","no","WIAC",,"WIAC",,,,
 41454,"WIAG","small_airport","Menggala Airport",-4.48943996429,105.217002869,98,"AS","ID","ID-LA","Menggala-Sumatra Island","no",,,"WIPM",,,,"WIAG, Astrakestra"
 46482,"WIAJ","small_airport","Atang Senjaya Airport",-6.538819,106.755466,538,"AS","ID","ID-JB","Bogor","no",,,"WIHJ",,,"https://en.wikipedia.org/wiki/Atang_Senjaya_Airport","WIAJ, Atang Sanjaya, Atang Sendjaja, Atang Senjaya"
 41455,"WIAK","small_airport","Sulaiman Airport",-6.98278,107.572998,2184,"AS","ID","ID-JB","Margahayu","no",,,"WICK",,,,"WIAK, Margahajoe, Margahaju"
@@ -81181,7 +81184,7 @@
 595550,"WIOV","small_airport","Babang Airstrip",1.340038,109.911081,135,"AS","ID","ID-KB","Jagoi","no",,,"WIOV",,,,
 26850,"WIPA","small_airport","Sultan Thaha Airport",-1.638685,103.645063,82,"AS","ID","ID-JA","Jambi","yes","WIJJ","DJB","WIJJ",,,"https://en.wikipedia.org/wiki/Sultan_Thaha_Airport","WIPA, Palmerah"
 41459,"WIPB","small_airport","Silampari Airport",-3.288165,102.91449,371,"AS","ID","ID-SS","Lubuk Linggau","no","WIPB","LLJ","WIPB","LLG",,"https://en.wikipedia.org/wiki/Silampari_Airport",
-26851,"WIPD","small_airport","Banding Agung Airport",-4.78702,103.932999,2100,"AS","ID","ID-SS","Pasar Bandingagung","no",,,"WIPD",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Banding_Agung",
+26851,"WIPD","small_airport","Banding Agung Airport",-4.78702,103.932999,2100,"AS","ID","ID-SS","Pasar Bandingagung","no","WIPD",,"WIPD",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Banding_Agung",
 41467,"WIPF","small_airport","Kuala Tungkal Airport",-0.8166670203208923,103.46666717529297,12,"AS","ID","ID-JA","Kuala Tungkal-Sumatra Island","no",,,"WIPF",,,,
 310599,"WIPI","small_airport","Muara Bungo Airport",-1.541635,102.181613,192,"AS","ID","ID-JA","Muara Bungo","yes",,"BUU","WIJB",,"https://web.archive.org/web/20171021003712/http://www.infobungo.com:80/2012/12/jadwal-penerbangan-dari-bandara-muara.html","https://en.wikipedia.org/wiki/Muara_Bungo_Airport","Pasir Mayang"
 26852,"WIPK","medium_airport","Depati Amir Airport",-2.1622,106.139,109,"AS","ID","ID-BB","Pangkal Pinang","yes","WIKK","PGK","WIKK",,,"https://en.wikipedia.org/wiki/Pangkalpinang_Airport","WIPK"
