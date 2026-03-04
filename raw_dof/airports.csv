@@ -16036,7 +16036,7 @@
 37913,"BR-3081","small_airport","Fazenda Triângulo Airport",-17.621323,-50.142009,1562,"SA","BR","BR-GO","Edéia","no",,,,,,,"SWIO"
 37924,"BR-3082","small_airport","Fazenda Januarinho Airport",-15.050278,-57.500557,755,"SA","BR","BR-MT","Salto do Céu","no",,,,,,,"SWJJ"
 37925,"BR-3083","small_airport","Fazenda São Paulo Airport",-14.980438,-51.333375,876,"SA","BR","BR-GO","Britânia","no",,,"SNP6","GO0394",,,"SWJK"
-37930,"BR-3084","small_airport","Fazenda União Airport",-11.948888778687,-54.515556335449,1180,"SA","BR","BR-MT","Santa Carmen","no",,,,"SWJR",,,"SWJR"
+37930,"BR-3084","small_airport","Fazenda União Airport",-11.944323,-54.516617,1180,"SA","BR","BR-MT","Santa Carmen","no",,,,,,,"SWJR"
 37931,"BR-3085","small_airport","Fazenda Samambaia Airport",-15.486111,-51.269444,692,"SA","BR","BR-GO","Jussara","no",,,,,,,"SWJS"
 37933,"BR-3086","small_airport","Juruena Airport",-10.314114,-58.494877,525,"SA","BR","BR-MT","Juruena","no",,"JRN",,,,"https://en.wikipedia.org/wiki/Juruena_Airport","SWJU"
 37940,"BR-3087","small_airport","Fazenda Floresta Airport",-15.221111,-55.132778,2050,"SA","BR","BR-MT","Campo Verde","no",,,,,,,"SWKH"
@@ -16045,13 +16045,13 @@
 37952,"BR-3090","small_airport","Fazenda Excalibur Airport",-15.296307,-60.368679,971,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,,,,,"SWLM"
 37964,"BR-3091","small_airport","Monte Alegre de Goiás Airport",-13.2497215271,-46.871387481689,1821,"SA","BR","BR-GO","Monte Alegre De Goiás","no",,,,"SWML",,,"SWML"
 37965,"BR-3092","small_airport","Buritizal Agropastoril Ltda Airport",-9.289453,-60.696678,315,"SA","BR","BR-MT","Aripuanã","no",,,,"SWMM",,,"SWMM"
-37969,"BR-3093","small_airport","Morro Redondo Airport",-14.250555992126,-48.083889007568,2067,"SA","BR","BR-GO","Morro Redondo","no",,,,"SWMR",,,"SWMR"
+37969,"BR-3093","small_airport","Morro Redondo Airport",-14.250556,-48.083889,2067,"SA","BR","BR-GO","Niquelândia","no",,,,,,,"SWMR"
 37975,"BR-3094","small_airport","Nobres Airport",-14.707222,-56.338333,722,"SA","BR","BR-MT","Nobres","no",,,,,,,"SWNB"
-37976,"BR-3095","small_airport","Fazenda Vale do Juruena Airport",-9.400047,-58.229372,673,"SA","BR","BR-MT","Nova Bandeirantes","no",,,,"MT0649",,,"SWNC, Fazenda Procomp, SIKS, BR-3095"
-37978,"BR-3096","small_airport","Agropecuária Tratex Airport",-10.893154,-55.566101,1033,"SA","BR","BR-MT","Colider","no",,,,"SWNF",,,"SWNF"
-37982,"BR-3097","small_airport","Fazenda Araçatuba Airport",-15.190932,-57.708372,493,"SA","BR","BR-MT","Lambari d'Oeste","no",,,,"SWNL",,,"SWNL"
-37983,"BR-3098","small_airport","Normândia Airport",3.879933,-59.623589,282,"SA","BR","BR-RR","Normândia","no",,,,"SWNM",,,"SWNM"
-37984,"BR-3099","small_airport","Novo Intento Airport",2.7799999713898,-60.616668701172,282,"SA","BR","BR-RR","Cantá","no",,,,"SWNN",,,"SWNN, BR-3099"
+37976,"BR-3095","small_airport","Fazenda Vale do Juruena Airport",-9.400047,-58.229372,673,"SA","BR","BR-MT","Nova Bandeirantes","no",,,"SIKS","MT0649",,,"SWNC, Fazenda Procomp"
+37978,"BR-3096","small_airport","Agropecuária Tratex Airport",-10.893154,-55.566101,1033,"SA","BR","BR-MT","Colider","no",,,,,,,"SWNF"
+37982,"BR-3097","small_airport","Fazenda Araçatuba Airport",-15.190932,-57.708372,493,"SA","BR","BR-MT","Lambari d'Oeste","no",,,,,,,"SWNL"
+37983,"BR-3098","small_airport","Normândia Airport",3.879933,-59.623589,282,"SA","BR","BR-RR","Normândia","no",,,,,,,"SWNM"
+37984,"BR-3099","small_airport","Novo Intento Airport",2.78,-60.616669,282,"SA","BR","BR-RR","Cantá","no",,,,,,,"SWNN"
 37985,"BR-3100","small_airport","Nova Olinda do Norte Airport",-3.888357,-59.07998,121,"SA","BR","BR-AM","Nova Olinda do Norte","no",,,,"SWNO",,,"SWNO"
 37987,"BR-3101","small_airport","Fazenda Santo Antônio Airport",-18.965000152588,-50.798610687256,1493,"SA","BR","BR-GO","Caçu","no",,,,"SWNT",,,"SWNT"
 37989,"BR-3102","small_airport","Fazenda Tuiuiu Airport",-13.798631,-55.458696,1525,"SA","BR","BR-MT","Nobres","no",,,,"SWNW",,,"SWNW"
@@ -56913,19 +56913,19 @@
 6027,"SCJO","medium_airport","Cañal Bajo Carlos Hott Siebert Airport",-40.611198,-73.060997,187,"SA","CL","CL-LL","Osorno","yes","SCJO","ZOS","SCJO",,,"https://en.wikipedia.org/wiki/Canal_Bajo_Carlos_Hott_Siebert_Airport",
 525314,"SCJS","small_airport","José Abel Sepúlveda Aerodrome",-36.234129,-72.05951,486,"SA","CL","CL-NB",,"no",,,"SCJS",,,,
 39180,"SCJV","small_airport","El Parrón Airport",-35.54805374145508,-71.77610778808594,200,"SA","CL","CL-ML","San Javier","no",,,"SCJV",,,,
-39181,"SCKA","small_airport","Santa Marta Airport",-36.490767,-71.890692,577,"SA","CL","CL-NB","San Carlos","no",,,"SCKA",,,"https://en.wikipedia.org/wiki/San_Carlos_Santa_Marta_Airport",
-39182,"SCKB","small_airport","Llollenorte Airport",-39.057499,-71.68972,1641,"SA","CL","CL-AR","Lago Caburga","no",,,"SCKB",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Llolle_Norte",
-39183,"SCKC","small_airport","Roberto Chavéz Airport",-38.906944274902344,-72.21527862548828,895,"SA","CL","CL-AR","Cunco","no",,,"SCKC",,,,
-39184,"SCKD","small_airport","El Cardal Airport",-40.4678,-72.684998,525,"SA","CL","CL-LR","Rio Bueno","no",,,"SCKD",,,"https://en.wikipedia.org/wiki/El_Cardal_Airport",
-39185,"SCKE","small_airport","Piedra Negra Airport",-35.854443,-72.645836,164,"SA","CL","CL-ML","Pelluhue","no",,,"SCKE",,,"https://en.wikipedia.org/wiki/Piedra_Negra_Airport",
-39186,"SCKI","small_airport","Los Lirios Airport",-34.903889,-71.201385,820,"SA","CL","CL-ML","Curico","no",,,"SCKI",,,"https://en.wikipedia.org/wiki/Los_Lirios_Airport",
+39181,"SCKA","small_airport","Santa Marta Airport",-36.490767,-71.890692,577,"SA","CL","CL-NB","San Carlos","no","SCKA",,"SCKA",,,"https://en.wikipedia.org/wiki/San_Carlos_Santa_Marta_Airport",
+39182,"SCKB","small_airport","Llollenorte Airport",-39.06092,-71.687357,1641,"SA","CL","CL-AR","Lago Caburga","no","SCKB",,"SCKB",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Llolle_Norte",
+39183,"SCKC","small_airport","Roberto Chavéz Airport",-38.907315,-72.215374,895,"SA","CL","CL-AR","Cunco","no",,,"SCKC",,,,
+39184,"SCKD","small_airport","El Cardal Airport",-40.467433,-72.684785,525,"SA","CL","CL-LR","Rio Bueno","no","SCKD",,"SCKD",,,"https://en.wikipedia.org/wiki/El_Cardal_Airport",
+39185,"SCKE","small_airport","Piedra Negra Airport",-35.854811,-72.646405,164,"SA","CL","CL-ML","Pelluhue","no","SCKE",,"SCKE",,,"https://en.wikipedia.org/wiki/Piedra_Negra_Airport",
+39186,"SCKI","small_airport","Los Lirios Airport",-34.906763,-71.202543,820,"SA","CL","CL-ML","Curico","no","SCKI",,"SCKI",,,"https://en.wikipedia.org/wiki/Los_Lirios_Airport",
 39187,"SCKK","small_airport","La Cascada Airport",-35.384998,-71.106667,1804,"SA","CL","CL-ML","Molina","no",,,"SCKK",,,"https://en.wikipedia.org/wiki/La_Cascada_Airport",
-39188,"SCKL","small_airport","Lipangui Airport",-33.331112,-70.849998,1558,"SA","CL","CL-RM","Lampa","no",,,"SCKL",,,"https://en.wikipedia.org/wiki/Lipangui_Airport",
-39189,"SCKM","small_airport","Cochamó Airport",-41.483334,-72.300003,130,"SA","CL","CL-LL","Cochamo","no",,,"SCKM",,,"https://en.wikipedia.org/wiki/Cocham%C3%B3_Airport",
+39188,"SCKL","small_airport","Lipangui Airport",-33.3367,-70.851098,1558,"SA","CL","CL-RM","Lampa","no","SCKL",,"SCKL",,,"https://en.wikipedia.org/wiki/Lipangui_Airport",
+39189,"SCKM","small_airport","Cochamó Airport",-41.482817,-72.307536,130,"SA","CL","CL-LL","Cochamo","no",,,"SCKM",,,"https://en.wikipedia.org/wiki/Cocham%C3%B3_Airport",
 39190,"SCKN","small_airport","Licancel Airport",-34.989166,-72.01889,59,"SA","CL","CL-ML","Licanten","no",,,"SCKN",,,"https://en.wikipedia.org/wiki/Licancel_Airport",
-39191,"SCKO","small_airport","Agua Buena Airport",-37.993889,-72.249168,1420,"SA","CL","CL-AR","Collipulli","no",,,"SCKO",,,"https://en.wikipedia.org/wiki/Agua_Buena_Airport",
+39191,"SCKO","small_airport","Agua Buena Airport",-37.993922,-72.25001,1420,"SA","CL","CL-AR","Collipulli","no","SCKO",,"SCKO",,,"https://en.wikipedia.org/wiki/Agua_Buena_Airport",
 6028,"SCKP","small_airport","Coposa Airport",-20.7505,-68.683502,12468,"SA","CL","CL-TA","Pica","no","SCKP","CPP","SCKP",,,"https://en.wikipedia.org/wiki/Coposa_Airport",
-39192,"SCKQ","small_airport","Curimanque Airport",-39.326946,-72.027222,1476,"SA","CL","CL-AR","Pucon","no",,,"SCKQ",,,"https://en.wikipedia.org/wiki/Curimanque_Airport",
+39192,"SCKQ","small_airport","Curimanque Airport",-39.326946,-72.027222,1476,"SA","CL","CL-AR","Pucon","no","SCKQ",,"SCKQ",,,"https://en.wikipedia.org/wiki/Curimanque_Airport",
 39193,"SCKT","small_airport","Torreón Airport",-36.499399,-72.679857,216,"SA","CL","CL-NB","Coelemu","no",,,"SCKT",,,"https://en.wikipedia.org/wiki/Torre%C3%B3n_Airport",
 39194,"SCLA","small_airport","General Tovarías Airport",-38.542778,-72.45472,699,"SA","CL","CL-AR","Lautaro","no",,,"SCLA",,,"https://en.wikipedia.org/wiki/Lautaro_Airport",
 39195,"SCLB","small_airport","Los Pehuenches Airport",-37.658054,-73.629448,587,"SA","CL","CL-BI","Lebu","no",,,"SCLB",,,"https://en.wikipedia.org/wiki/Los_Pehuenches_Airport",
@@ -59124,7 +59124,7 @@
 42793,"SIKP","small_airport","Fazenda Santa Teresa Airport",-18.303611,-57.506944,404,"SA","BR","BR-MS","Corumbá","no",,,"SIKP","MS0096",,,
 36071,"SIKQ","small_airport","Fazenda Samaúma Airport",-7.237056,-57.103969,612,"SA","BR","BR-PA","Jacareacanga","no",,,"SW22","PA0409",,,"SIKQ"
 345639,"SIKR","small_airport","Fazenda Barra Mansa Airstrip",-19.581399,-56.085522,364,"SA","BR","BR-MS","Aquidauana","no",,,"SIKR","MS0508",,,
-46357,"SIKS","heliport","Fazenda Mata Porcos Heliport",-22.442778,-43.106667,3031,"SA","BR","BR-RJ","Petrópolis","no",,,"SIKS","SIKS",,,
+46357,"SIKS","heliport","Fazenda Mata Porcos Heliport",-22.442931,-43.106716,3031,"SA","BR","BR-RJ","Petrópolis","no",,,,,,,"SIKS"
 36072,"SIKT","heliport","Joaquim Floriano Heliport",-23.583339,-46.670984,2687,"SA","BR","BR-SP","São Paulo","no",,,"SIKT","SP0519",,,
 36074,"SIKV","heliport","Aldeia do Vale Heliport",-16.608188,-49.191901,2490,"SA","BR","BR-GO","Goiânia","no",,,"SIKV","GO0159",,,
 36075,"SIKW","heliport","Luciano Peixoto Heliport",-15.930618,-48.925488,2093,"SA","BR","BR-GO","Pirenópolis","no",,,"SNLS","GO0166",,,"SIKW"
@@ -63704,8 +63704,8 @@
 37979,"SWNG","small_airport","Fazenda Nossa Senhora das Graças Airport",-12.896987,-55.834751,1279,"SA","BR","BR-MT","Sorriso","no",,,"SSDG","MT0283",,,"SWNG"
 564,"SWNH","small_airport","Aruanã Airport",-14.933275,-51.048888,820,"SA","BR","BR-GO","Aruanã","no",,,"SWNH","GO0017",,,
 37980,"SWNI","small_airport","Nova Vida Airport",-10.178313,-62.825747,459,"SA","BR","BR-RO","Cacaulândia","no",,,"SIZ3","RO0101",,,"SJVD, SWNI, Ariquemes"
-37981,"SWNJ","small_airport","Fazenda Itaquerê Airport",-15.12833309173584,-53.491668701171875,1749,"SA","BR","BR-MT","Novo São Joaquim","no",,,"SWNJ",,,,
-565,"SWNK","small_airport","Novo Campo Airport",-8.83456,-67.312401,394,"SA","BR","BR-AM","Boca do Acre","no","SWNK","BCR","SWNK","SWNK",,,"SBBA"
+37981,"SWNJ","small_airport","Fazenda Itaquerê Airport",-15.13855,-53.501662,1867,"SA","BR","BR-MT","Novo São Joaquim","no",,,"SWNJ","MT0370",,,
+565,"SWNK","small_airport","Novo Campo Airport",-8.834573,-67.312485,394,"SA","BR","BR-AM","Boca do Acre","no","SWNK","BCR","SWNK","AM0011",,"https://sv.wikipedia.org/wiki/Novo_Campo_Airport","SBBA"
 566,"SWNQ","small_airport","Niquelândia Airport",-14.434869,-48.491615,2756,"SA","BR","BR-GO","Niquelândia","no","SWNQ","NQL","SWNQ","GO0016",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Niquel%C3%A2ndia",
 567,"SWNS","small_airport","Anápolis Airport",-16.363575,-48.9288,3648,"SA","BR","BR-GO","Anápolis","no","SWNS","APS","SWNS","GO0004",,"http://pt.wikipedia.org/wiki/Aeroporto_de_An%C3%A1polis",
 527574,"SWNU","small_airport","Fazenda Maringá Airport",-3.161266,-48.106084,141,"SA","BR","BR-PA","Ipixuna do Pará","no",,,"SWNU","PA0147",,,
@@ -70193,6 +70193,7 @@
 604924,"US-12914","heliport","Kato Av Heliport",44.01036,-93.956266,1005,"NA","US","US-MN","Good Thunder","no",,,"MN30","MN30",,,
 604939,"US-12915","heliport","Pecan Knoll Heliport",32.818089,-96.492634,448,"NA","US","US-TX","Heath","no",,,"XS37","XS37",,,
 605054,"US-12916","heliport","Chopper Charter Heliport",36.638668,-93.275562,,"NA","US","US-MO","Branson","no",,,,,"https://www.choppercharter.com/",,
+605380,"US-12917","closed","Putnam County Airport",36.196427,-85.48758,1132,"NA","US","US-TN","Cookeville","no",,,,,"https://livingnewdeal.org/sites/putnam-county-airport-closed-cookeville-tn/",,"CJE, KCJE"
 334351,"US-1292","closed","Brentwood Ambulatory Care Center Heliport",41.3163,-81.568889,868,"NA","US","US-OH","Northfield","no",,,,,,,"80OI"
 334352,"US-1293","heliport","George Washington University Hospital Heliport",38.900903,-77.051132,174,"NA","US","US-DC","Washington","no",,,"24DC","24DC",,,
 334358,"US-1294","small_airport","Curry Ridge Airport",32.723321,-113.938501,329,"NA","US","US-AZ","Tacna","no",,,"AZ60","AZ60",,,
