@@ -10860,6 +10860,7 @@
 595407,"AR-0766","small_airport","La Moderna Airfield",-37.95225,-59.8382,610,"SA","AR","AR-B","Adolfo Gonzales Chaves","no",,,,,,,
 596544,"AR-0767","medium_airport","Aeroestación Yabotí",-27.180308,-54.107368,400,"SA","AR","AR-N","El Soberbio","yes",,,,,,,
 603863,"AR-0768","medium_airport","(Duplicate)Aeropuerto Pergamino",-33.89603,-60.5748,,"SA","AR","AR-B",,"no",,,,,,,
+605461,"AR-0769","heliport","Intermediate Zone km17 Heliport",-22.536499,-63.969063,1878,"SA","AR","AR-A","General Enrique Moscon","no",,,,"2234",,,
 16296,"AR02","heliport","Johnson Regional Medical Center Heliport",35.461216,-93.445383,491,"NA","US","US-AR","Clarksville","no",,,"AR02","AR02",,,"AR71, Johnson County Regional Hospital Heliport"
 16297,"AR03","small_airport","Centerville Airstrip",35.128718,-93.205798,350,"NA","US","US-AR","Centerville","no",,,"AR03","AR03",,,
 16299,"AR05","small_airport","John Harris Field",35.21590042114258,-93.30490112304688,1770,"NA","US","US-AR","Chickala","no",,,"AR05","AR05",,,
@@ -48711,6 +48712,7 @@
 599715,"MX-2525","heliport","Tres Cielos Heliport",18.612703,-99.279887,,"NA","MX","MX-MOR","Tequesquitengo","no",,,,,,,
 599730,"MX-2526","closed","Pista de aterrizaje Casasano",18.862569,-98.955006,,"NA","MX","MX-MOR","Cuautla","no",,,,,,,
 602105,"MX-2527","heliport","28th Cavalry Regiment Heliport",30.77204,-112.21241,1050,"NA","MX","MX-SON","Caborca","no",,,,,,,
+605447,"MX-2528","heliport","Ciudad Guzman Heliport",19.697663,-103.480977,4977,"NA","MX","MX-JAL","Ciudad Guzman","no",,,,,,,"Zapotlán Hospital"
 30631,"MX-AJS","small_airport","Punta Abreojos Airport",26.7272,-113.558998,26,"NA","MX","MX-BCS","Mulegé","no",,"AJS",,"AJS",,"https://en.wikipedia.org/wiki/Punta_Abreojos_Airstrip","MX86"
 30671,"MX-AZG","small_airport","Apatzingán - Pablo L. Sidar Airport",19.093399,-102.393997,1033,"NA","MX","MX-MIC","Apatzingán","no",,"AZG","MMAG","AZG",,"https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Pablo_L._Sidar","MM16"
 43044,"MX-CEO","small_airport","El Crucero Airport",27.407301,-109.928001,114,"NA","MX","MX-SON","Cajeme","no",,,,"CEO",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_El_Crucero_(Sonora)",
