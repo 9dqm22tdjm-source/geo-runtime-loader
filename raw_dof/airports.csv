@@ -12000,7 +12000,7 @@
 311089,"AYIN","small_airport","Busilmin Airstrip",-4.9166,141.1548,5450,"OC","PG","PG-SAN","Busilmin","no",,,"AYIN","BSM",,,
 312964,"AYIO","small_airport","Imonda Airport",-3.328,141.1573,990,"OC","PG","PG-SAN","Imonda","no","AYIO","IMD","AYIO","IMO",,,
 311530,"AYIP","small_airport","Iropena Airstrip",-5.032639,143.871117,5190,"OC","PG","PG-EPW","Iropena","no",,,"AYIP","IRP",,,
-302264,"AYIQ","small_airport","Aropa Airport",-6.305417,155.728139,20,"OC","PG","PG-NSB","Kieta","yes","AYIQ","KIE","AYIQ","KIA",,"https://en.wikipedia.org/wiki/Kieta_Airport",
+302264,"AYIQ","small_airport","Aropa Airport",-6.305727,155.728249,20,"OC","PG","PG-NSB","Kieta","yes","AYIQ","KIE","AYIQ","KIA",,"https://en.wikipedia.org/wiki/Aropa_Airport",
 311527,"AYIR","small_airport","Inaru Airstrip",-4.6316,142.8913,178,"OC","PG","PG-ESW","Inaru","no",,,"AYIR","INR",,,
 311533,"AYIS","small_airport","Isan Airstrip",-5.9781,146.61975,6955,"OC","PG","PG-MPL","Isan","no",,,"AYIS","ISAN",,,
 311535,"AYIT","small_airport","Iteri Airstrip",-4.2418,141.5234,242,"OC","PG","PG-ESW","Iteri","no",,,"AYIT","ITR",,,
@@ -19063,6 +19063,9 @@
 594800,"CL-0036","closed","Basso Field",-40.40695,-73.16096,236,"SA","CL","CL-LL","Trumao","no",,,,,,,
 601204,"CL-0037","heliport","Cabo de Hornos Naval Heliport",-55.962927,-67.224942,102,"SA","CL","CL-MA","Hornos Island","no",,,,,,,"CHI-006"
 605436,"CL-0038","heliport","Alto Hospicio Hospital Helistop.",-20.295985,-70.097637,1726,"SA","CL","CL-U-A","Alto Hospicio","no","SHTO",,"SHTO",,,,
+605500,"CL-0040","heliport","Gustavo Fricke Hospital Helistop",-33.029345,-71.543095,243,"SA","CL","CL-VS","Viña del Mar","no","SHGF",,"SFGF",,,,
+605501,"CL-0041","heliport","Reitz Building Two Helistop",-33.043037,-71.516654,240,"SA","CL","CL-VS","Viña del Mar","no","SHRZ",,"SHRZ",,,,
+605504,"CL-0042","heliport","Santa Laura Heliport",-32.990378,-71.217944,440,"SA","CL","CL-VS","Olmué","no","SHOL",,"SHOL",,,,
 1641,"CL-SC49","small_airport","Oficina Victoria Airport",-20.734699249267578,-69.62570190429688,3280,"SA","CL","CL-TA","Oficina Victoria","no",,,"SC49",,,,
 16719,"CL00","heliport","USC University Hospital Heliport",34.061623,-118.201585,476,"NA","US","US-CA","Los Angeles","no",,,"CL00","CL00",,,
 16720,"CL01","small_airport","Eagle Field",36.899899,-120.667999,153,"NA","US","US-CA","Dos Palos","no",,,"CL01","CL01",,"https://en.wikipedia.org/wiki/Eagle_Field_(airport)",
@@ -31816,7 +31819,7 @@
 42729,"IN-0008","heliport","Kavaratti Helipad",10.541667938232422,72.61604309082031,,"AS","IN","IN-LD",,"no",,,,,,,
 42730,"IN-0009","heliport","Gangtok Helipad",27.355736,88.614156,,"AS","IN","IN-SK","Gangtok","no",,,,,,,
 42731,"IN-0010","small_airport","Walong Advanced Landing Ground",28.12967300415,97.019660949707,,"AS","IN","IN-AR",,"no",,,,,,"https://en.wikipedia.org/wiki/Walong",
-43966,"IN-0011","medium_airport","Jakkur Aerodrome",13.07674,77.597645,3013,"AS","IN","IN-KA","Bengaluru","no",,,"VOJK",,,"https://en.wikipedia.org/wiki/Jakkur_Aerodrome",
+43966,"IN-0011","small_airport","Jakkur Aerodrome",13.07674,77.597645,3013,"AS","IN","IN-KA","Bengaluru","no",,,"VOJK",,,"https://en.wikipedia.org/wiki/Jakkur_Aerodrome",
 44362,"IN-0012","small_airport","Pakyong Airport",27.2313,88.587196,4590,"AS","IN","IN-SK","Pakyong","no","VEPY","PYG","VEPY",,,"https://en.wikipedia.org/wiki/Pakyong_Airport",
 44908,"IN-0013","small_airport","Nadirgul Airport",17.306142,78.561004,1811,"AS","IN","IN-TG","Hyderabad","no",,,,,"https://web.archive.org/web/20170713034841/http://www.aai.aero/allAirports/nadirgul.jsp","https://en.wikipedia.org/wiki/Nadirgul_Airport","NDGL, Nadergul"
 44475,"IN-0014","closed","Koirengei Airstrip",24.872459411621094,93.9256820678711,,"AS","IN","IN-MN",,"no",,,,,,,
@@ -32537,8 +32540,8 @@
 314970,"IS-0001","closed","Suðureyri Airport",66.1318,-23.544,92,"EU","IS","IS-4","Suðureyri","no",,,,,,,"SUY, BISU"
 343522,"IS-0002","heliport","Hrauneyjarfoss Heliport",64.20043,-19.25403,1241,"EU","IS","IS-8","Hella","no",,,,,,,
 356245,"IS-0003","small_airport","Skaftafell Airport",63.99948,-16.94116,249,"EU","IS","IS-8","Öræfi","no","BISL",,"BISL",,,,
-356246,"IS-0004","small_airport","Kárastaða Airport",64.57267,-21.89826,81,"EU","IS","IS-3","Borgarnes","no",,,,,,,
-513707,"IS-0005","small_airport","Fisfélag Airport",64.111441,-21.706037,450,"EU","IS","IS-1","Reykjavík","no",,,,,"https://fisflug.is",,
+356246,"IS-0004","small_airport","Kárastaða Airport",64.57267,-21.89826,81,"EU","IS","IS-3","Borgarnes","no",,,,"BI03",,,
+513707,"IS-0005","small_airport","Heiði - Fisfélag",64.111441,-21.706037,450,"EU","IS","IS-1","Reykjavík","no",,,,"BI43","https://fisflug.is",,
 520708,"IS-0006","closed","RAF Kaldadarnes",63.928657,-21.168423,,"EU","IS","IS-8",,"no",,,,,,"https://en.m.wikipedia.org/wiki/RAF_Kaldadarnes",
 523904,"IS-0007","closed","Patterson Field",63.958584,-22.539807,,"EU","IS","IS-2",,"no",,,,,"https://reykjanesgeopark.is/destination/patterson-airstrip/",,
 30715,"IS-0008","closed","Einholtsmelar Airport",64.24533,-20.299587,289,"EU","IS","IS-8","Einholtsmelar","no",,,,,,,"BIEH"
@@ -57027,7 +57030,7 @@
 45072,"SCQO","small_airport","Quitralco Airport",-45.580556,-73.225556,46,"SA","CL","CL-AI","Aysén","no",,,"SCQO",,,,
 314783,"SCQP","large_airport","La Araucanía International Airport",-38.9259,-72.6515,333,"SA","CL","CL-AR","Temuco","yes","SCQP","ZCO","SCQP",,,"https://en.wikipedia.org/wiki/La_Araucan%C3%ADa_International_Airport",
 39261,"SCQR","small_airport","Los Morros Airport",-36.122624,-72.804916,7,"SA","CL","CL-NB","Cobquecura","no",,,"SCQR",,,"https://en.wikipedia.org/wiki/Los_Morros_Airport",
-6035,"SCQT","small_airport","LasTacas Airport",-30.096399,-71.364098,140,"SA","CL","CL-CO","Quebrada Las Tacas","no",,,"SCQT",,,"https://en.wikipedia.org/wiki/Las_Tacas_Airport",
+6035,"SCQT","small_airport","Las Tacas Airport",-30.096399,-71.364098,140,"SA","CL","CL-CO","Quebrada Las Tacas","no","SCQT",,"SCQT",,,"https://en.wikipedia.org/wiki/Las_Tacas_Airport",
 39262,"SCQW","small_airport","Quemchi Airport",-42.152779,-73.516945,393,"SA","CL","CL-LL","Quemchi","no",,,"SCQW",,,"https://en.wikipedia.org/wiki/Quemchi_Airport",
 39263,"SCQX","small_airport","Queilén Airport",-42.893055,-73.476387,60,"SA","CL","CL-LL","Queilen","no",,,"SCQX",,,"https://en.wikipedia.org/wiki/Queil%C3%A9n_Airport",
 6036,"SCQY","small_airport","Villa Portales Airport",-38.449902,-71.354797,3182,"SA","CL","CL-AR","Lonquimay","no",,,"SCQY",,,"https://en.wikipedia.org/wiki/Villa_Portales_Airport",
@@ -57838,6 +57841,7 @@
 327014,"SDPZ","small_airport","Sossego Airport",-21.24112,-53.351389,1292,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,"SDPZ","MS0043",,,
 350458,"SDQ3","small_airport","Denial Matawaré Airstrip",1.951111,-55.1225,1083,"SA","BR","BR-PA","Almeirim","no",,,"SDQ3","PA0254",,,
 350457,"SDQ4","small_airport","Fazenda Campo Grande Airport",-17.964402,-55.36598,528,"SA","BR","BR-MS","Corumbá","no",,,"SDQ4","MS0428",,,
+605502,"SDQ5","heliport","Quintas do Cerrado Heliport",-16.677956,-49.624861,2001,"SA","BR","BR-GO","Trindade","no",,,"SDQ5","GO0417",,,
 350455,"SDQ6","small_airport","Fazenda São Mateus Airport",-11.194465,-50.880253,689,"SA","BR","BR-MT","Luciara","no",,,"SDQ6","MT0765",,,
 351197,"SDQ7","small_airport","Fazenda Atlântida Airport",-11.47074,-46.543407,2976,"SA","BR","BR-TO","Dianópolis","no",,,"SDQ7","TO0102",,,
 352183,"SDQ8","heliport","Vila Pix Heliport",-22.775556,-45.6575,3530,"SA","BR","BR-SP","Campos do Jordão","no",,,"SDQ8","SP1336",,,
@@ -57960,6 +57964,7 @@
 45883,"SDUX","heliport","Havan Heliport",-27.1069444444,-48.9075,253,"SA","BR","BR-SC","Brusque","no",,,"SDUX",,,,
 45615,"SDUY","heliport","Rio Alpha Heliport",-22.91722,-43.18139,495,"SA","BR","BR-RJ","Rio De Janeiro","no",,,"SDUY",,,,
 35765,"SDUZ","small_airport","Usina São Luiz Airport",-22.947486,-49.764333,1608,"SA","BR","BR-SP","Ourinhos","no",,,"SNZL","SP0242",,,"SDUZ"
+605494,"SDV1","small_airport","Fazenda Viscal Airport",-12.84058,-49.961406,902,"SA","BR","BR-TO","Araguaçu","no",,,"SDV1","TO0163",,,
 353630,"SDV2","heliport","Ninho do Pássaro IV Heliport",-27.004205,-48.645955,23,"SA","BR","BR-SC","Camboriú","no",,,"SDV2","SC0199",,,
 353632,"SDV4","small_airport","Gládia Girão Airport",-5.223333,-38.016111,479,"SA","BR","BR-CE","Gládia Girão","no",,,"SDV4","CE0150",,,
 351953,"SDV6","small_airport","Fazenda Vitória Airport",-11.079795,-53.835379,1063,"SA","BR","BR-MT","Marcelândia","no",,,"SDV6","MT0722",,,
@@ -58051,6 +58056,7 @@
 217,"SDYW","small_airport","Aeroclube de Itapeva Airport",-23.941345,-48.881775,2313,"SA","BR","BR-SP","Itapeva","no",,,"SDH4","SP0062",,,"SDYW"
 41092,"SDYX","small_airport","Campo Maior Airport",-4.8541669845581055,-42.260555267333984,490,"SA","BR","BR-PI","Campo Maior","no",,,"SDYX",,,,
 35827,"SDYZ","heliport","Kuka Helipad",-23.569189,-46.601386,2447,"SA","BR","BR-SP","São Paulo","no",,,"SDYZ","SP0455",,,
+605493,"SDZ1","heliport","Citropar Heliport",-1.805278,-47.200081,222,"SA","BR","BR-PA","Capitão Poço","no",,,"SDZ1","PA0444",,,
 352674,"SDZ2","small_airport","Estância Clarisse Airport",-21.158889,-54.727535,1348,"SA","BR","BR-MS","Sidrolândia","no",,,"SDZ2","MS0571",,,
 352676,"SDZ3","heliport","UQ Pouso Alegre Heliport",-22.273311,-45.923195,2812,"SA","BR","BR-MG","Pouso Alegre","no",,,"SDZ3","MG0314",,,
 351793,"SDZ4","small_airport","Fazenda Água Boa Airport",-6.160556,-48.219167,600,"SA","BR","BR-TO","Ananás","no",,,"SDZ4","TO0089",,,
@@ -58571,7 +58577,7 @@
 39365,"SHHI","heliport","Hospital de Carabineros Heliport",-33.417763,-70.528879,2426,"SA","CL","CL-RM","Santiago","no",,,"SHHI",,,,"DIPRECA, Hospital del Imponente"
 39366,"SHHL","heliport","Las Condes Heliport",-33.37329864501953,-70.52439880371094,,"SA","CL","CL-RM","Santiago","no",,,"SHHL",,,,
 39367,"SHHM","heliport","Hospital Militar Heliport",-33.415279388427734,-70.60333251953125,2067,"SA","CL","CL-RM","Santiago","no",,,"SHHM",,,,
-39368,"SHHN","heliport","Hospital Naval Almirante Nef Heliport",-33.996665954589844,-71.53583526611328,200,"SA","CL","CL-VS","Viña Del Mar","no",,,"SHHN",,,,
+39368,"SHHN","heliport","Admiral Nef Naval Hospital Heliport",-32.999492,-71.542177,200,"SA","CL","CL-VS","Viña del Mar","no","SHHN",,"SHHN",,,,
 39369,"SHHR","heliport","Carabineros de Chile Heliport",-53.15638732910156,-70.92222595214844,213,"SA","CL","CL-MA","Punta Arenas","no",,,"SHHR",,,,
 39370,"SHHS","heliport","Hospital del Salvador Heliport",-33.43611145019531,-70.62110900878906,1910,"SA","CL","CL-RM","Santiago","no",,,"SHHS",,,,
 39371,"SHHV","heliport","Naval Heliport",-18.472200393676758,-70.32060241699219,12,"SA","CL","CL-AP","Arica","no",,,"SHHV",,,,
