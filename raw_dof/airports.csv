@@ -30323,7 +30323,7 @@
 3177,"HEAT","large_airport","Asyut International Airport",27.045962,31.01276,748,"AF","EG","EG-AST","Asyut","yes","HEAT","ATZ","HEAT",,,"https://en.wikipedia.org/wiki/Assiut_Airport","Asyut"
 3179,"HEAZ","medium_airport","Almaza Air Force Base",30.091702,31.359739,246,"AF","EG","EG-C","El Nozha","no",,,"HEAZ",,,"https://en.wikipedia.org/wiki/Almaza_Air_Base",
 3180,"HEBA","large_airport","Alexandria International Airport",30.93249,29.696437,171,"AF","EG","EG-ALX","Alexandria","yes","HEAX","HBE","HEAX",,,"https://en.wikipedia.org/wiki/Borg_El_Arab_Airport",
-3181,"HEBL","large_airport","Abu Simbel Airport",22.374402,31.609881,614,"AF","EG","EG-ASN","Abu Simbel","yes","HEBL","ABS","HEBL",,,"https://en.wikipedia.org/wiki/Abu_Simbel_Airport",
+3181,"HEBL","medium_airport","Abu Simbel Airport",22.374402,31.609881,614,"AF","EG","EG-ASN","Abu Simbel","yes","HEBL","ABS","HEBL",,,"https://en.wikipedia.org/wiki/Abu_Simbel_Airport",
 3182,"HEBS","medium_airport","Bani Sweif Air Base",29.20224,31.013471,102,"AF","EG","EG-BNS","Bani Sweif","no",,,"HEBS",,,,
 3183,"HECA","large_airport","Cairo International Airport",30.111534,31.396694,322,"AF","EG","EG-C","Cairo","yes","HECA","CAI","HECA",,,"https://en.wikipedia.org/wiki/Cairo_International_Airport",
 2356,"HECP","large_airport","Capital International Airport",30.06465,31.839974,761,"AF","EG","EG-C","New Cairo","yes","HECP","CCE","HECP",,,"https://en.wikipedia.org/wiki/Capital_International_Airport_(Egypt)",
@@ -42953,7 +42953,7 @@
 550119,"LEME","heliport","S'Arangi Heliport",39.968221,4.093734,429,"EU","ES","ES-IB","Es Mercadal","no",,,"LEME",,,,"Menorca"
 43283,"LEMF","small_airport","Mafé - Gibraleón Airfield",37.3643,-6.92094,86,"EU","ES","ES-AN","Gibraleón","no",,,"LEMF",,,,
 4020,"LEMG","large_airport","Málaga-Costa del Sol Airport",36.6749,-4.49911,53,"EU","ES","ES-AN","Málaga","yes","LEMG","AGP","LEMG",,"https://www.aena.es/en/malaga-costa-del-sol.html","https://en.wikipedia.org/wiki/M%C3%A1laga_Airport","Costa del Sol, Malaga"
-4021,"LEMH","medium_airport","Menorca Airport",39.862598,4.21865,302,"EU","ES","ES-IB","Mahón (Maó)","yes","LEMH","MAH","LEMH",,"https://www.aena.es/en/menorca.html","https://en.wikipedia.org/wiki/Menorca_Airport",
+4021,"LEMH","large_airport","Menorca Airport",39.862598,4.21865,302,"AF","ES","ES-IB","Mahón (Maó)","yes","LEMH","MAH","LEMH",,"https://www.aena.es/en/menorca.html","https://en.wikipedia.org/wiki/Menorca_Airport","Menorca"
 308134,"LEMI","large_airport","Region of Murcia International Airport",37.802852,-1.124884,644,"AF","ES","ES-MC","Corvera","yes","LEMI","RMU","LEMI",,"https://www.aena.es/en/internacional-region-de-murcia.html","https://en.wikipedia.org/wiki/Murcia-Corvera_Airport",
 43263,"LEMN","heliport","Heli Montsiá - Amposta Heliport",40.66640090942383,0.5647220015525818,254,"EU","ES","ES-CT","Tarragona","no",,,"LEMN",,,,
 4022,"LEMO","medium_airport","Moron Air Base",37.17490005493164,-5.615940093994141,285,"EU","ES","ES-AN","Morón","no","LEMO","OZP","LEMO",,,"https://en.wikipedia.org/wiki/Mor%C3%B3n_Air_Base",
@@ -79103,9 +79103,9 @@
 26383,"UTAT","large_airport","Dashoguz International Airport",41.759853,59.836149,272,"AS","TM","TM-D","Daşoguz","yes","UTAT","TAZ","UTAT",,"https://dashoguzairport.gov.tm/","https://en.wikipedia.org/wiki/Da%C5%9Foguz_Airport","Tashauz Airport, Dashkhovuz, Dashhowuz, Daşoguz, Dasoguz, Дашогуз"
 26384,"UTAV","large_airport","Türkmenabat International Airport",38.930662,63.563982,649,"AS","TM","TM-L","Türkmenabat","yes","UTAV","CRZ","UTAV",,,"https://en.wikipedia.org/wiki/Turkmenabat_International_Airport","Turkmenabad Airport, Chardzhou Airport, Аэропорт Туркменабат, Аэропорт Туркменабад, Аэропорт Чарджоу, چهارجوی"
 26385,"UTDD","large_airport","Dushanbe International Airport",38.543746,68.822977,2575,"AS","TJ","TJ-DU","Dushanbe","yes","UTDD","DYU","UTDD",,"https://airport.tj/index.php/en","https://en.wikipedia.org/wiki/Dushanbe_International_Airport",
-6377,"UTDK","medium_airport","Kulob Airport",37.98809814453125,69.80500030517578,2293,"AS","TJ","TJ-KT","Kulyab","yes","UTDK","TJU","UTDK",,,"https://en.wikipedia.org/wiki/Kulob_Airport",
+6377,"UTDK","large_airport","Kulob International Airport",37.988098,69.805,2293,"AS","TJ","TJ-KT","Kulob","yes","UTDK","TJU","UTDK",,"https://airport-kulob.tj/en","https://en.wikipedia.org/wiki/Kulob_International_Airport","Kuylab"
 26386,"UTDL","large_airport","Khujand International Airport",40.215401,69.694702,1450,"AS","TJ","TJ-SU","Khujand","yes","UTDL","LBD","UTDL",,,"https://en.wikipedia.org/wiki/Khudzhand_Airport","Khodjend, Khodzhent, Leninabad, Khudzhand"
-32556,"UTDT","medium_airport","Qurghonteppa International Airport",37.86640167236328,68.86470031738281,1473,"AS","TJ","TJ-KT","Kurgan-Tyube","yes","UTDT","KQT","UTDT",,,"https://en.wikipedia.org/wiki/Qurghonteppa_International_Airport","Kurgan-Tube"
+32556,"UTDT","large_airport","Bokhtar International Airport",37.866315,68.864475,1473,"AS","TJ","TJ-KT","Bokhtar","yes","UTDT","KQT","UTDT",,,"https://en.wikipedia.org/wiki/Bokhtar_International_Airport","Kurgan-Tube, Qurghonteppa"
 32038,"UTFN","large_airport","Namangan International Airport",40.984622,71.5578,1555,"AS","UZ","UZ-NG","Namangan","yes","UZFN","NMA","UTFN",,,"https://en.wikipedia.org/wiki/Namangan_Airport",
 30672,"UTKA","large_airport","Andijan International Airport",40.727699,72.293999,1515,"AS","UZ","UZ-AN","Andijan","yes","UZFA","AZN","UZFA",,,"https://en.wikipedia.org/wiki/Andizhan_Airport","UTKA, Andijan Airport, Andizhan Airport, Andijon Airport"
 31118,"UTKF","medium_airport","Fergana International Airport",40.358799,71.745003,1980,"AS","UZ","UZ-FA","Fergana","yes","UZFF","FEG","UZFF",,,"https://en.wikipedia.org/wiki/Fergana_International_Airport","UTKF"
@@ -79493,7 +79493,7 @@
 26442,"VADS","small_airport","Deesa Airport",24.2679,72.204399,485,"AS","IN","IN-GJ","Deesa","no",,,"VADS",,,"https://en.wikipedia.org/wiki/Deesa_Airport","Disa, Palanpur"
 26443,"VAGN","small_airport","Guna Airport",24.654699,77.347298,1600,"AS","IN","IN-MP",,"no","VAGN","GUX","VAGN",,,,
 26445,"VAHB","medium_airport","Hubballi Airport",15.361084,75.082096,2171,"AS","IN","IN-KA","Hubballi","yes","VOHB","HBX","VOHB",,"http://www.airportsindia.org.in/allAirports/hubli_generalinfo.jsp","https://en.wikipedia.org/wiki/Hubli_Airport","Hubli, VAHB"
-512065,"VAHS","large_airport","Rajkot International Airport",22.378824,71.039391,647,"AS","IN","IN-GJ","Rajkot","no","VAHS","HSR","VAHS",,,"https://en.wikipedia.org/wiki/Rajkot_International_Airport","Hirasar Airport"
+512065,"VAHS","large_airport","Rajkot International Airport",22.378824,71.039391,647,"AS","IN","IN-GJ","Rajkot","yes","VAHS","HSR","VAHS",,,"https://en.wikipedia.org/wiki/Rajkot_International_Airport","Hirasar Airport"
 26446,"VAID","large_airport","Devi Ahilya Bai Holkar International Airport",22.721404,75.80051,1850,"AS","IN","IN-MP","Indore","yes","VAID","IDR","VAID",,"http://aai.aero/allAirports/indore_technicalinfo.jsp","https://en.wikipedia.org/wiki/Devi_Ahilyabai_Holkar_International_Airport",
 26447,"VAJB","medium_airport","Jabalpur Airport",23.177799,80.052002,1624,"AS","IN","IN-MP","Jabalpur","yes","VAJB","JLR","VAJB",,,"https://en.wikipedia.org/wiki/Jabalpur_Airport",
 30171,"VAJJ","small_airport","Juhu Aerodrome",19.098100662231445,72.83419799804688,13,"AS","IN","IN-MM","Mumbai","no",,,"VAJJ",,"http://www.airportsindia.org.in/allAirports/juhu.jsp","https://en.wikipedia.org/wiki/Juhu_Aerodrome","Bombay"
