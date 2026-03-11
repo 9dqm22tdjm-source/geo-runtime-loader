@@ -18643,7 +18643,7 @@
 46615,"CGV6","small_airport","Grand Valley/Martin Field",43.87469,-80.282185,1550,"NA","CA","CA-ON","East Garafraxa","no",,,"CGV6",,,"https://en.wikipedia.org/wiki/Grand_Valley_(Martin_Field)_Aerodrome","gv6"
 348780,"CGV7","small_airport","Springvale Aerodrome",42.96983,-80.15953,741,"NA","CA","CA-ON","Hagersville","no",,,"CGV7",,,"https://en.wikipedia.org/wiki/Springvale_Aerodrome",
 43117,"CH-0001","heliport","San Vittore Heliport",46.232196,9.089497,,"EU","CH","CH-GR","San Vittore","no",,,"LSXV",,,"https://de.wikipedia.org/wiki/Milit%C3%A4rflugplatz_San_Vittore",
-316432,"CH-0002","small_airport","Croix de Coeur Altiport",46.123348,7.234131,7087,"EU","CH","CH-VS","Riddes","no",,,,,,,"Altiport de Croix de Coeur, Altiport de Verbier"
+316432,"CH-0002","small_airport","Croix de Coeur Altiport",46.123348,7.234131,7087,"EU","CH","CH-VS","Riddes","no","LSYQ",,,,,,"Altiport de Croix de Coeur, Altiport de Verbier"
 319833,"CH-0003","small_airport","Altisurface du Glacier de Prasfleuri",46.064289,7.354317,,"EU","CH","CH-VS",,"no",,,,,,,"Prasfleuri"
 320391,"CH-0004","small_airport","Altiport du Glacier de Tsanfleuron",46.320653,7.23288,,"EU","CH","CH-VS","Savièse","no",,,,,,,"Tsanfleuron, Diablerets"
 324870,"CH-0005","heliport","Helipad Klinik Gut (St. Moritz)",46.4965,9.83847,,"EU","CH","CH-GR","Sankt Moritz","no",,,,,,,
@@ -30323,7 +30323,7 @@
 3177,"HEAT","large_airport","Asyut International Airport",27.045962,31.01276,748,"AF","EG","EG-AST","Asyut","yes","HEAT","ATZ","HEAT",,,"https://en.wikipedia.org/wiki/Assiut_Airport","Asyut"
 3179,"HEAZ","medium_airport","Almaza Air Force Base",30.091702,31.359739,246,"AF","EG","EG-C","El Nozha","no",,,"HEAZ",,,"https://en.wikipedia.org/wiki/Almaza_Air_Base",
 3180,"HEBA","large_airport","Alexandria International Airport",30.93249,29.696437,171,"AF","EG","EG-ALX","Alexandria","yes","HEAX","HBE","HEAX",,,"https://en.wikipedia.org/wiki/Borg_El_Arab_Airport",
-3181,"HEBL","medium_airport","Abu Simbel Airport",22.374402,31.609881,614,"AF","EG","EG-ASN","Abu Simbel","yes","HEBL","ABS","HEBL",,,"https://en.wikipedia.org/wiki/Abu_Simbel_Airport",
+3181,"HEBL","medium_airport","Abu Simbel Airport",22.375924,31.611734,614,"AF","EG","EG-ASN","Abu Simbel","yes","HEBL","ABS","HEBL",,,"https://en.wikipedia.org/wiki/Abu_Simbel_Airport",
 3182,"HEBS","medium_airport","Bani Sweif Air Base",29.20224,31.013471,102,"AF","EG","EG-BNS","Bani Sweif","no",,,"HEBS",,,,
 3183,"HECA","large_airport","Cairo International Airport",30.111534,31.396694,322,"AF","EG","EG-C","Cairo","yes","HECA","CAI","HECA",,,"https://en.wikipedia.org/wiki/Cairo_International_Airport",
 2356,"HECP","large_airport","Capital International Airport",30.06465,31.839974,761,"AF","EG","EG-C","New Cairo","yes","HECP","CCE","HECP",,,"https://en.wikipedia.org/wiki/Capital_International_Airport_(Egypt)",
@@ -33446,6 +33446,7 @@
 600277,"IT-0810","heliport","San Bortolo Hospital Helipad",45.555299,11.544907,180,"EU","IT","IT-34","Vicenza","no",,,,,,,
 601170,"IT-0811","small_airport","Campovolo Bellamarinafly",40.524149,17.774945,290,"EU","IT","IT-75","Torre Santa Susanna (Mesagne)","no",,,,"BR10",,,
 602744,"IT-0812","closed","Mondovi Airbase",44.408333,7.820833,1339,"EU","IT","IT-21","Mondavi (CN)","no",,,,,,,"LIMY"
+605586,"IT-0813","heliport","Chiaromonte Hospital Heliport",40.123085,16.216614,2244,"EU","IT","IT-77","Chiaromonte (PZ)","no",,,,,,,"Potenza, San Giovanni"
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -34646,7 +34647,7 @@
 340116,"JP-1153","heliport","Hatoma Heliport",24.46843,123.82392,,"AS","JP","JP-47","Taketomi","no",,,,,,,
 340117,"JP-1154","heliport","Ohara Heliport",24.27522,123.87656,,"AS","JP","JP-47","Taketomi","no",,,,,,,
 340118,"JP-1155","heliport","Sumiyoshi Heliport",24.43268,123.76972,,"AS","JP","JP-47","Taketomi","no",,,,,,,
-340119,"JP-1156","heliport","Aragusuku Heliport",24.23367,123.94066,,"AS","JP","JP-47","Taketomi","no",,,,,,,
+340119,"JP-1156","heliport","Shinjo Heliport",24.23367,123.94066,,"AS","JP","JP-47","Taketomi","no",,,,,,,
 340474,"JP-1157","heliport","Central Administration Main Building Helipad",35.13643,136.89417,,"AS","JP","JP-23","Nagoya","no",,,,,,,
 340475,"JP-1158","heliport","Aichi University Nagoya Campus Helipad",35.161735,136.885236,,"AS","JP","JP-23","Nagoya","no",,,,,,,
 340476,"JP-1159","heliport","Daiwa House Nagoya Building Helipad",35.162412,136.884086,296,"AS","JP","JP-23","Nagoya","no",,,,,,,
@@ -39425,6 +39426,9 @@
 31781,"KH-0004","closed","Kratie Airport",12.489017,106.05469,102,"AS","KH","KH-10","Kratie","no",,,,,,"https://en.wikipedia.org/wiki/Krati%C3%A9_Airport","KTI, VDKT"
 313437,"KH-0005","closed","Kampot Airport",10.6343,104.1617,44,"AS","KH","KH-7","Kampot","no",,,,,,,"KMT, KMT"
 601173,"KH-0006","heliport","Longvek Heliport",11.875717,104.728084,28,"AS","KH","KH-4","Longvek","no",,,,,,,"Lovek"
+605565,"KH-0007","heliport","Tboung Khmum Cambodia-China Friendship Hospital Heliport",11.887977,105.776562,164,"AS","KH","KH-25","Tboung Khmum","no",,,,,,,
+605566,"KH-0008","heliport","Chip Mong Heliport",11.523714,104.922565,20,"AS","KH","KH-12","Phnom Penh","no",,,,,,,
+605567,"KH-0009","heliport","Ministry of National Defense Heliport",11.569932,104.908666,,"AS","KH","KH-12","Phnom Penh","no",,,,,,,
 20003,"KH04","small_airport","Vinita Municipal Airport",36.632999420166016,-95.15139770507812,696,"NA","US","US-OK","Vinita","no",,,"KH04","H04",,,
 20004,"KH05","small_airport","Wilburton Municipal Airport",34.91999816894531,-95.39399719238281,670,"NA","US","US-OK","Wilburton","no",,,"KH05","H05",,,
 596699,"KH14","heliport","Corning Heliport",36.419269,-90.58825,287,"NA","US","US-AR","Corning","no",,,"KH14","H14",,,
@@ -44278,20 +44282,21 @@
 21727,"LS97","heliport","Myu Heliport",29.92959976196289,-90.35399627685547,12,"NA","US","US-LA","Luling","no",,,"LS97","LS97",,,
 21728,"LS98","heliport","Sabine Medical Center Heliport",31.560699462890625,-93.47209930419922,250,"NA","US","US-LA","Many","no",,,"LS98","LS98",,,
 21730,"LSD","heliport","Blue Grass Station Army Heliport",38.083401,-84.316597,1016,"NA","US","US-KY","Lexington","no",,,,,,,"LSD, KLSD"
-43112,"LSER","heliport","Raron Heliport",46.301595,7.832923,,"EU","CH","CH-VS","Raron","no",,,"LSER",,,,
-43111,"LSEZ","heliport","Zermatt  Heliport",46.029319763183594,7.753366470336914,,"EU","CH","CH-VS","Zermatt","no",,,"LSEZ",,,,
+43112,"LSER","heliport","Raron Heliport",46.301595,7.832923,,"EU","CH","CH-VS","Raron","no","LSER",,"LSER",,,,
+43111,"LSEZ","heliport","Zermatt  Heliport",46.02932,7.753366,5300,"EU","CH","CH-VS","Zermatt","no","LSEZ",,"LSEZ",,,,
 29494,"LSGB","small_airport","Bex Airfield",46.258301,6.98639,1312,"EU","CH","CH-VD","Bex","no","LSGB",,"LSGB",,"https://www.aerobex.ch/","https://de.wikipedia.org/wiki/Flugplatz_Bex","Aérodrome de Bex"
 4489,"LSGC","medium_airport","Les Eplatures Airport",47.083900451699996,6.792840003970001,3368,"EU","CH","CH-NE","La Chaux-de-Fonds","no","LSGC",,"LSGC",,"http://www.leseplaturesairport.ch","https://en.wikipedia.org/wiki/Les_Eplatures_Airport",
 29495,"LSGE","small_airport","Ecuvillens Airfield",46.755279,7.075746,2293,"EU","CH","CH-FR","Ecuvillens","no","LSGE",,"LSGE",,"http://www.aerodrome-ecuvillens.ch/","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Fribourg-Ecuvillens",
 4490,"LSGG","large_airport","Geneva Cointrin International Airport",46.238098,6.10895,1411,"EU","CH","CH-GE","Geneva","yes","LSGG","GVA","LSGG",,"http://www.gva.ch/","https://en.wikipedia.org/wiki/Geneva_Cointrin_International_Airport",
 4491,"LSGK","small_airport","Saanen Airfield",46.486525,7.248359,3307,"EU","CH","CH-BE","Saanen","no","LSGK",,"LSGK",,"http://www.air-sarina.ch","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Saanen",
-29496,"LSGL","small_airport","Lausanne-Blécherette Airfield",46.5453,6.61667,2041,"EU","CH","CH-VD","Lausanne","no","LSGL",,"LSGL",,"http://www.lausanne-airport.ch","https://en.wikipedia.org/wiki/Lausanne_Airfield",
+29496,"LSGL","small_airport","Lausanne la Blécherette Airport",46.54509,6.616629,2041,"EU","CH","CH-VD","Lausanne","no","LSGL",,"LSGL",,"http://www.lausanne-airport.ch","https://en.wikipedia.org/wiki/Lausanne_Airfield",
 29497,"LSGN","small_airport","Neuchâtel Airfield",46.957371,6.864574,1427,"EU","CH","CH-NE","Boudry","no","LSGN",,"LSGN",,"http://www.neuchatel-airport.ch","https://en.wikipedia.org/wiki/Neuch%C3%A2tel_Airport",
 29498,"LSGP","small_airport","La Côte Airfield",46.406399,6.25806,1352,"EU","CH","CH-VD","La Côte","no","LSGP",,"LSGP",,"https://www.lsgp.ch/","https://en.wikipedia.org/wiki/La_C%C3%B4te_Airfield",
 30327,"LSGR","small_airport","Reichenbach Air Base",46.613602,7.67778,2385,"EU","CH","CH-BE","Reichenbach im Kandertal","no","LSGR",,"LSGR",,,"https://de.wikipedia.org/wiki/Flugplatz_Reichenbach",
 4492,"LSGS","medium_airport","Sion Airport",46.219166,7.326944,1582,"EU","CH","CH-VS","Sion","no","LSGS","SIR","LSGS",,"http://www.sionairport.ch","https://en.wikipedia.org/wiki/Sion_Airport","LSMS"
 29499,"LSGT","small_airport","La Gruyère  Airfield",46.5942,7.09444,2257,"EU","CH","CH-FR","Epagny","no","LSGT",,"LSGT",,"https://www.aerodrome-gruyere.ch/","https://de.wikipedia.org/wiki/Flugplatz_Gruy%C3%A8res",
-29500,"LSGY","small_airport","Yverdon-les-Bains Airfield",46.761902,6.61333,1421,"EU","CH","CH-VD","Yverdon-les-Bains","no","LSGY",,"LSGY",,"http://www.lsgy.ch","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Yverdon-les-Bains",
+29500,"LSGY","small_airport","Yverdon-les-Bains Airfield",46.761871,6.613178,1421,"EU","CH","CH-VD","Yverdon-les-Bains","no","LSGY",,"LSGY",,"http://www.lsgy.ch","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Yverdon-les-Bains",
+605583,"LSHA","heliport","Gstaad-Inn Grund Heliport",46.42948,7.27132,3599,"EU","CH","CH-BE",,"no","LSHA",,"LSHA",,,,
 324129,"LSHC","heliport","Collombey-Muraz Heliport",46.268501,6.959773,,"EU","CH","CH-VS","Collombey-Muraz","no",,,"LSEC",,,,"LSHC"
 43110,"LSHG","heliport","Gampel Heliport",46.310055,7.724794,,"EU","CH","CH-VS","Gampel","no",,,"LSEG",,,,
 324883,"LSHI","heliport","Inselspital Hospital Heliport",46.948237,7.424296,1880,"EU","CH","CH-BE","Bern","no",,,"LSHI",,,,
@@ -44350,19 +44355,19 @@
 4504,"LSZG","medium_airport","Grenchen Airfield",47.181599,7.41719,1411,"EU","CH","CH-SO","Grenchen","no","LSZG",,"LSZG",,"http://www.airport-grenchen.ch/","https://en.wikipedia.org/wiki/Grenchen_Airport",
 4505,"LSZH","large_airport","Zürich Airport",47.458056,8.548056,1417,"EU","CH","CH-ZH","Zurich","yes","LSZH","ZRH","LSZH",,"http://www.zurich-airport.com/","https://en.wikipedia.org/wiki/Zurich_Airport",
 29520,"LSZI","small_airport","Fricktal-Schupfart Airfield",47.5089,7.95,1788,"EU","CH","CH-AG","Schupfart","no","LSZI",,"LSZI",,,"https://de.wikipedia.org/wiki/Flugplatz_Fricktal-Schupfart",
-29521,"LSZJ","small_airport","Courtelary Airfield",47.183601,7.09083,2247,"EU","CH","CH-BE","Courtelary","no",,,"LSZJ",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Courtelary",
+29521,"LSZJ","small_airport","Courtelary Airfield",47.183374,7.09085,2247,"EU","CH","CH-BE","Courtelary","no","LSZJ",,"LSZJ",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Courtelary",
 29522,"LSZK","small_airport","Speck-Fehraltorf Airfield",47.3764,8.7575,1748,"EU","CH","CH-ZH","Fehraltorf","no","LSZK",,"LSZK",,"https://www.fgzo.ch/","https://de.wikipedia.org/wiki/Flugplatz_Speck-Fehraltorf","Flugplatz Speck-Fehraltorf"
-29523,"LSZL","small_airport","Locarno Airport",46.160801,8.87861,650,"EU","CH","CH-TI","Locarno","no","LSZL",,"LSZL",,,"https://en.wikipedia.org/wiki/Locarno_Airport",
+29523,"LSZL","small_airport","Locarno Airport",46.162535,8.878908,650,"EU","CH","CH-TI","Locarno","no","LSZL",,"LSZL",,,"https://en.wikipedia.org/wiki/Locarno_Airport",
 4496,"LSZM","small_airport","Mollis Airfield",47.078353,9.064662,1485,"EU","CH","CH-GL","Mollis","no","LSZM",,"LSZM",,"http://www.flugplatz-mollis.ch/","http://de.wikipedia.org/wiki/Mollis#Milit.C3.A4rflugplatz","LSMF, Flugplatz Mollis, Militärflugplatz Mollis, Mollis Air Base"
 29524,"LSZN","small_airport","Hausen am Albis Airfield",47.238602,8.51556,1928,"EU","CH","CH-ZH","Hausen am Albis","no","LSZN",,"LSZN",,"https://www.fgho.ch/","https://de.wikipedia.org/wiki/Flugplatz_Hausen_am_Albis","Flugfeld Hausen am Albis, Flugplatz Hausen am Albis"
 29525,"LSZO","small_airport","Luzern-Beromünster Airfield",47.188993,8.204556,2146,"EU","CH","CH-LU","Neudorf","no","LSZO",,"LSZO",,"https://www.flubag.ch","https://de.wikipedia.org/wiki/Flugplatz_Luzern-Berom%C3%BCnster",
-29526,"LSZP","small_airport","Biel-Kappelen Airfield",47.089199,7.29,1437,"EU","CH","CH-BE","Kappelen","no",,,"LSZP",,,"https://de.wikipedia.org/wiki/Flugplatz_Biel-Kappelen","Worben"
-300136,"LSZQ","small_airport","Bressaucourt Airfield",47.392677,7.028648,1866,"EU","CH","CH-JU","Bressaucourt","no","LSZQ",,"LSZQ",,"http://www.aerojura.ch/default.asp","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Bressaucourt",
+29526,"LSZP","small_airport","Biel-Kappelen Airfield",47.088242,7.289055,1437,"EU","CH","CH-BE","Kappelen","no","LSZP",,"LSZP",,"https://lszp.ch","https://de.wikipedia.org/wiki/Flugplatz_Biel-Kappelen","Worben"
+300136,"LSZQ","small_airport","Bressaucourt Airfield",47.392408,7.028956,1866,"EU","CH","CH-JU","Bressaucourt","no","LSZQ",,"LSZQ",,"https://aerojura.ch/","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Bressaucourt",
 4506,"LSZR","medium_airport","Sankt Gallen Altenrhein Airport",47.485001,9.56077,1306,"EU","CH","CH-SG","St. Gallen","yes","LSZR","ACH","LSZR",,"https://www.peoples.ch/lszr","https://en.wikipedia.org/wiki/St._Gallen-Altenrhein_Airport",
 4507,"LSZS","medium_airport","Engadin Airport",46.5341,9.88411,5600,"EU","CH","CH-GR","Samedan","no","LSZS","SMV","LSZS",,"https://www.engadin-airport.ch/","https://en.wikipedia.org/wiki/Samedan_Airport","Engadin"
 29527,"LSZT","small_airport","Lommis Airfield",47.524399,9.00306,1539,"EU","CH","CH-TG","Lommis","no","LSZT",,"LSZT",,"https://www.mfgt.ch/flugplatz/","https://de.wikipedia.org/wiki/Flugplatz_Lommis","Flugplatz Lommis"
 29528,"LSZU","small_airport","Buttwil Airfield",47.264702,8.3025,2372,"EU","CH","CH-AG","Buttwil","no","LSZU",,"LSZU",,,"https://de.wikipedia.org/wiki/Flugplatz_Buttwil",
-29529,"LSZV","small_airport","Sitterdorf Airfield",47.5089,9.26278,1660,"EU","CH","CH-TG","Sitterdorf","no",,,"LSZV",,,"https://de.wikipedia.org/wiki/Flugplatz_Sitterdorf","Flugplatz Sitterdorf, Sportflugplatz Sitterdorf"
+29529,"LSZV","small_airport","Sitterdorf Airfield",47.5089,9.26278,1660,"EU","CH","CH-TG","Sitterdorf","no","LSZV",,"LSZV",,,"https://de.wikipedia.org/wiki/Flugplatz_Sitterdorf","Flugplatz Sitterdorf, Sportflugplatz Sitterdorf"
 29530,"LSZW","small_airport","Thun Airfield",46.756401,7.60056,1837,"EU","CH","CH-BE","Thun","no","LSZW",,"LSZW",,"http://www.thun-airfield.ch","https://de.wikipedia.org/wiki/Flugplatz_Thun","Flugplatz Thun, FVT"
 29531,"LSZX","small_airport","Schänis Airfield",47.1717,9.03944,1365,"EU","CH","CH-SG","Schänis","no","LSZX",,"LSZX",,,"https://de.wikipedia.org/wiki/Flugplatz_Sch%C3%A4nis",
 43789,"LT-0001","closed","Rūdininkai Air Base",54.3877067565918,25.094318389892578,,"EU","LT","LT-VL","Rūdininkai","no",,,,,,"https://en.wikipedia.org/wiki/R%C5%ABdininkai_training_ground",
@@ -48735,6 +48740,7 @@
 599730,"MX-2526","closed","Pista de aterrizaje Casasano",18.862569,-98.955006,,"NA","MX","MX-MOR","Cuautla","no",,,,,,,
 602105,"MX-2527","heliport","28th Cavalry Regiment Heliport",30.77204,-112.21241,1050,"NA","MX","MX-SON","Caborca","no",,,,,,,
 605447,"MX-2528","heliport","Ciudad Guzman Heliport",19.697663,-103.480977,4977,"NA","MX","MX-JAL","Ciudad Guzman","no",,,,,,,"Zapotlán Hospital"
+605581,"MX-2529","small_airport","Cedros Mine",23.489999,-100.43,98,"NA","MX","MX-CHH",,"no",,,,"MCED",,,
 30631,"MX-AJS","small_airport","Punta Abreojos Airport",26.7272,-113.558998,26,"NA","MX","MX-BCS","Mulegé","no",,"AJS",,"AJS",,"https://en.wikipedia.org/wiki/Punta_Abreojos_Airstrip","MX86"
 30671,"MX-AZG","small_airport","Apatzingán - Pablo L. Sidar Airport",19.093399,-102.393997,1033,"NA","MX","MX-MIC","Apatzingán","no",,"AZG","MMAG","AZG",,"https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Pablo_L._Sidar","MM16"
 43044,"MX-CEO","small_airport","El Crucero Airport",27.407301,-109.928001,114,"NA","MX","MX-SON","Cajeme","no",,,,"CEO",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_El_Crucero_(Sonora)",
@@ -80378,6 +80384,14 @@
 311043,"VN-0074","closed","Vinh Long Airfield",10.2509,105.9445,27,"AS","VN","VN-SW","Vinh Long","no",,,,,,,"Vinh Long Airbase, XVL"
 319516,"VN-0075","closed","Long Xuyên Airport",10.330134,105.473144,12,"AS","VN","VN-SW","Long Xuyên","no",,,,,,"https://vi.wikipedia.org/wiki/S%C3%A2n_bay_Long_Xuy%C3%AAn","XLO, Vam Cong"
 319521,"VN-0076","closed","Quảng Ngãi Airfield",15.115474,108.771816,50,"AS","VN","VN-SCC","Quảng Ngãi","no",,,,,,"https://en.wikipedia.org/wiki/Qu%E1%BA%A3ng_Ng%C3%A3i_Airfield","XNG, XNG"
+605568,"VN-0077","heliport","New Cu Chi General Hospital Heliport",10.973972,106.48076,36,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+605569,"VN-0078","heliport","Hoc Mon Regional General Hospital Heliport",10.882855,106.592317,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+605570,"VN-0079","heliport","Municipal Children's Hospital Heliport",10.709987,106.57363,7,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+605571,"VN-0080","heliport","Military Hospital Heliport",10.817729,106.680027,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+605572,"VN-0081","heliport","Vietnam People's Army Barracks Heliport",10.804353,106.672443,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+605573,"VN-0082","heliport","People's Hospital No. 115 Heliport",10.775372,106.668101,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+605574,"VN-0083","heliport","Saigon Times Square Heliport",10.773857,106.704695,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+605575,"VN-0084","heliport","Police Heliport",10.7584,106.686185,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
