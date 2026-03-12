@@ -4244,7 +4244,7 @@
 10890,"3X5","small_airport","North Bass Island Airport",41.717999,-82.821098,594,"NA","US","US-OH","North Bass Island","no",,,"3X5","3X5",,"https://en.wikipedia.org/wiki/North_Bass_Island_Airport",
 45815,"3XA0","small_airport","Drennan Airport",32.313889,-97.231111,726,"NA","US","US-TX","Grandview","no",,,"3XA0","3XA0",,,
 45853,"3XA1","small_airport","Hardy Field",33.47395,-97.169267,670,"NA","US","US-TX","Valley View","no",,,"3XA1","3XA1",,,
-45831,"3XA2","heliport","Matagorda Regional Medical Center Heliport",28.979889,-95.992331,52,"NA","US","US-TX","Bay City","no",,,"3XA2","3XA2",,,
+45831,"3XA2","heliport","Matagorda Regional Medical Center Heliport",28.979875,-95.992307,52,"NA","US","US-TX","Bay City","no",,,"3XA2","3XA2",,,
 42783,"3XA4","heliport","Palmview Police Department",26.23945236,-98.37071991,160,"NA","US","US-TX","Palmview","no",,,"3XA4","3XA4",,,
 45810,"3XA5","heliport","Houston Methodist Clear Lake Hospital Heliport",29.550536,-95.085742,12,"NA","US","US-TX","Nassau Bay","no",,,"3XA5","3XA5",,,"Christus St. John, Houston Methodist St John Hospital Heliport"
 45813,"3XA6","heliport","Dell Children's Medical Center Heliport",30.304401,-97.707757,644,"NA","US","US-TX","Austin","no",,,"3XA6","3XA6",,,
@@ -6043,7 +6043,7 @@
 12687,"5TS3","small_airport","Knapp Pecan Orchard Airpark",31.974199295043945,-96.67829895019531,450,"NA","US","US-TX","Dawson","no",,,"5TS3","5TS3",,,
 12688,"5TS4","small_airport","Mc Entire Airport",33.1445999146,-97.6016998291,790,"NA","US","US-TX","Decatur","no",,,"5TS4","5TS4",,,
 12689,"5TS5","small_airport","Mc Donald Ranch Airport",28.6511001587,-99.2886962891,555,"NA","US","US-TX","Dilley","no",,,"5TS5","5TS5",,,
-12690,"5TS6","heliport","Air Logistics-Freeport Heliport",29.075199127197266,-95.3604965209961,101,"NA","US","US-TX","Freeport","no",,,"5TS6","5TS6",,,
+12690,"5TS6","closed","Air Logistics-Freeport Heliport",29.074653,-95.36003,101,"NA","US","US-TX","Freeport","no",,,,,,,"5TS6"
 12692,"5TS8","small_airport","Bear Creek Ranch Airport",29.8085994720459,-98.27249908447266,1360,"NA","US","US-TX","New Braunfels","no",,,"5TS8","5TS8",,,
 12693,"5TS9","small_airport","Big Duke's Place Airport",28.53030014038086,-96.52749633789062,5,"NA","US","US-TX","Indianola","no",,,"5TS9","5TS9",,,
 12694,"5TX0","small_airport","Hidden Valley Airpark",33.173500061035156,-97.05139923095703,611,"NA","US","US-TX","Lake Dallas","no",,,"5TX0","5TX0",,,
@@ -9689,8 +9689,8 @@
 355394,"AE-0215","heliport","Offshore Helipad",24.897336,53.722265,,"AS","AE","AE-AZ",,"no",,,,,,,
 355395,"AE-0216","heliport","Zakum Central Supercomplex",24.859981,53.697631,,"AS","AE","AE-AZ",,"no",,,,,,,
 355396,"AE-0217","heliport","Offshore Helipad",24.902908,53.718284,,"AS","AE","AE-AZ",,"no",,,,,,,
-355423,"AE-0218","heliport","Police Helipad",24.097556,52.652299,,"AS","AE","AE-AZ",,"no",,,,,,,
-355424,"AE-0219","heliport","Helipad",24.101299,52.649735,,"AS","AE","AE-AZ",,"no",,,,,,,
+355423,"AE-0218","heliport","Al Dhannah Police Heliport",24.097556,52.652299,33,"AS","AE","AE-AZ","Al Dhannah","no",,,,,,,
+355424,"AE-0219","heliport","Al Dhannah Military Heliport",24.101299,52.649735,26,"AS","AE","AE-AZ","Al Dhannah","no",,,,,,,
 516219,"AE-0220","heliport","Andaz Capital Gate Helipad",24.418764,54.43482,,"AS","AE","AE-AZ","Abu Dhabi","no",,,,,,,
 516263,"AE-0221","medium_airport","Sas Al Nakheel Air Base",24.44128,54.51696,14,"AS","AE","AE-AZ","Sas Al Nakheel","no",,,,,,,
 516264,"AE-0222","heliport","President Joko Widodo Mosque Heliport",24.422771,54.436072,,"AS","AE","AE-AZ","Abu Dhabi","no",,,,,,,
@@ -9709,6 +9709,20 @@
 604554,"AE-0235","heliport","Julphar East Tower Helistop",25.791259,55.960147,621,"AS","AE","AE-RK","Al Jawais","no",,,,,,,
 604555,"AE-0236","heliport","Al Hamra Heliport",25.68227,55.77373,5,"AS","AE","AE-RK","Nad Al Sili","no",,,,,"https://www.unifiedaviation.net/al-hamra-heliport-booking",,"Al Marjan Island"
 604702,"AE-0237","seaplane_base","Dubai Seaplane Terminal",25.263,55.272,0,"AS","AE","AE-DU",,"no",,"DST",,,,,
+605635,"AE-0238","heliport","Makasib Island Heliport",24.66278,51.82135,7,"AS","AE","AE-AZ","Makasib","no",,,,,,,
+605636,"AE-0239","heliport","Makasib Island Heliport",24.66278,51.82135,7,"AS","AE","AE-AZ","Makasib","no",,,,,,,
+605637,"AE-0240","heliport","Umm al Ghumaghin Heliport",24.38398,51.57804,16,"AS","AE","AE-AZ","Ras Ghumais","no",,,,,,,
+605638,"AE-0241","heliport","Huwaysat Island Heliport",24.39349,51.50262,20,"AS","AE","AE-AZ","Huwaysat","no",,,,,,,
+605639,"AE-0242","heliport","Ghagha Heliport",24.40456,51.53504,26,"AS","AE","AE-AZ","Ghagha","no",,,,,,,
+605640,"AE-0243","heliport","Mediclinic Middle East Marawah Branch Heliport",23.97016,52.25579,10,"AS","AE","AE-AZ","Barakah","no",,,,,,,
+605641,"AE-0244","heliport","Al Sila Southwest Heliport",24.03618,52.405671,23,"AS","AE","AE-AZ","Al Sila","no",,,,,,,
+605642,"AE-0245","heliport","Al Sila Administrative Heliport",24.040014,52.412834,23,"AS","AE","AE-AZ","Al Sila","no",,,,,,,
+605643,"AE-0246","heliport","Al Sila Search and Rescue Helibase",24.044835,52.413874,20,"AS","AE","AE-AZ","Al Sila","no",,,,,,,
+605644,"AE-0247","heliport","Al Sila Southeast Heliport",24.041152,52.418277,23,"AS","AE","AE-AZ","Al Sila","no",,,,,,,
+605645,"AE-0248","heliport","Ruwais Palace Heliport",24.088167,52.629706,121,"AS","AE","AE-AZ","Al Dhannah","no",,,,,,,
+605646,"AE-0249","heliport","Lake Ruwais Heliport",24.088839,52.647216,49,"AS","AE","AE-AZ","Al Dhannah","no",,,,,,,
+605647,"AE-0250","heliport","ERC Emergency Response Center Heliport",24.1132,52.60845,23,"AS","AE","AE-AZ","Al Dhannah","no",,,,,,,
+605648,"AE-0251","heliport","Al Dhannah Defense Base Heliport",24.060193,52.721389,52,"AS","AE","AE-AZ","Al Dhannah","no",,,,,,,
 300307,"AEE","small_airport","Adareil Airport",10.053611,32.959444,1301,"AF","SS","SS-NU","Adar","no",,"AEE","HJAR",,,"https://en.wikipedia.org/wiki/Adareil_Airport",
 300646,"AEI","heliport","Algeciras Heliport",36.12882,-5.441079,98,"EU","ES","ES-AN","Algeciras","yes",,,"LEAG",,"https://www.aena.es/en/algeciras.html","https://en.wikipedia.org/wiki/Algeciras_Heliport",
 330359,"AEQ","small_airport","Ar Horqin Airport",43.908407,120.15099,1335,"AS","CN","CN-15","Chifeng","no",,"AEQ",,,,"https://en.wikipedia.org/wiki/Ar_Horqin_Airport",
@@ -30185,7 +30199,7 @@
 347852,"GY-0005","small_airport","Kako Mountain Airstrip",4.628142,-60.056977,1738,"SA","GY","GY-PT","Kako Mountain","no",,,,,,,
 348622,"GY-0006","small_airport","Neville Airport",6.15153,-57.22611,10,"SA","GY","GY-EB","Joppa-Macedonia","no",,,,,,,
 348637,"GY-0007","small_airport","Baiabu Airstrip",6.55935,-57.87218,13,"SA","GY","GY-MA","Baiabu","no",,,,,,,
-605545,"GY-0008","small_airport","Wakenaam Airstrip",6.976684,-58.423373,7,"SA","GY","GY-DE","Maria's Plesure","no",,,,,,,
+605545,"GY-0008","small_airport","Wakenaam Airstrip",6.976684,-58.423373,7,"SA","GY","GY-DE","Maria's Pleasure","no",,,,,,,
 41500,"GY-BCG","small_airport","Bemichi Airport",7.640212,-58.961786,94,"SA","GY","GY-BA","Kumaka","no","SYBE","BCG","SYBE",,,,
 41501,"GY-BTO","small_airport","Botopasi Airport",4.217511,-55.447054,242,"SA","SR","SR-SI","Botopasi","no",,"BTO","SMBO",,,"https://en.wikipedia.org/wiki/Botopassi_Airstrip",
 41502,"GY-DOE","small_airport","Djumu-Djomoe Airport",4.005713,-55.481644,290,"SA","SR","SR-SI","Djumu-Djomoe","no",,"DOE","SMDJ",,,"https://en.wikipedia.org/wiki/Djoemoe_Airstrip",
@@ -42329,11 +42343,30 @@
 341673,"KW-0012","heliport","Failaka Heliport",29.44298,48.2856,,"AS","KW","KW-KU","Az Zawr","no",,,,,,,
 341674,"KW-0013","heliport","Failaka North Helipad",29.45908,48.30088,,"AS","KW","KW-KU","Az Zawr","no",,,,,,,
 341675,"KW-0014","heliport","Abdullah bin Umm Maktum Mosque Helipad",29.43351,48.26882,,"AS","KW","KW-KU","Az Zawr","no",,,,,,,
-348369,"KW-0015","heliport","Al-Nuwaiseeb Heliport",28.56439,48.39006,43,"AS","KW","KW-AH","Al-Nuwaiseeb","no",,,,,,,
+348369,"KW-0015","small_airport","Kuwait Air Sports Committee Airport",28.567798,48.389652,43,"AS","KW","KW-AH","Al-Nuwaiseeb","no",,,,,,,"Al-Nuwaiseeb Heliport"
 348370,"KW-0016","small_airport","Skydive Kuwait Airport",28.60425,48.3093,49,"AS","KW","KW-AH","Al-Khiran","no",,,,,,,
 351577,"KW-0017","heliport","Sabiya Thermal Power Plant Heliport (Central)",29.5685,48.16807,20,"AS","KW","KW-JA","Shumaymah","no",,,,,,,
 354661,"KW-0018","heliport","Sabiya Thermal Power Plant Heliport (Entrance)",29.573784,48.170929,,"AS","KW","KW-JA","Shumaymah","no",,,,,,,
 354662,"KW-0019","heliport","Sabiya Thermal Power Plant Heliport (West)",29.567392,48.156949,,"AS","KW","KW-JA","Shumaymah","no",,,,,,,
+605598,"KW-0020","heliport","Kuwait Institute for Judicial and Legal Studies Heliport",29.365561,47.964281,,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605599,"KW-0021","heliport","National Assembly of Kuwait Heliport",29.36981,47.96526,13,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605600,"KW-0022","heliport","Sief Palace Heliport 3",29.3783,47.96646,3,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605601,"KW-0023","heliport","Sief Palace Heliport 2",29.383151,47.97254,3,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605602,"KW-0024","heliport","Sief Palace Heliport 1",29.383658,47.973167,3,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605603,"KW-0025","heliport","Al-Amin Hospital Heliport",29.38805,47.98927,,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605604,"KW-0026","heliport","Al Rajhi Bank Building Heliport",29.389948,47.990946,,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605605,"KW-0027","heliport","Ministry of Interior Heliport",29.37322,47.98546,30,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605606,"KW-0028","heliport","Al Sabah Air Ambulance Center",29.32789,47.890857,7,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605607,"KW-0029","heliport","Al Sabah Hospital Heliport",29.32085,47.90525,23,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605608,"KW-0030","heliport","Al-Shaheed Tower Heliport",29.37616,47.98627,,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605609,"KW-0031","heliport","KIPCO Tower Heliport",29.37594,47.98712,,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605610,"KW-0032","heliport","Dasman Heliport",29.38695,47.99734,13,"AS","KW","KW-KU","Kuwait City","no",,,,,,,
+605612,"KW-0033","heliport","Jaber al-Ahmad International Stadium Heliport",29.2731,47.91648,82,"AS","KW","KW-FA","Ardiya","no",,,,,,,
+605613,"KW-0034","heliport","Messila Palace Heliport",29.24539,48.09856,3,"AS","KW","KW-MU","Al-Masayel","no",,,,,,,
+605614,"KW-0035","heliport","Shuaiba Industrial Medical Center Heliport",29.03371,48.12293,121,"AS","KW","KW-AH","Al Ahmadi","no",,,,,,,
+605615,"KW-0036","heliport","Kuwait Motor Town Heliport",28.92215,48.13767,161,"AS","KW","KW-AH","Al Ahmadi","no",,,,,,,
+605616,"KW-0037","heliport","Al Zour Refinery Heliport",28.70825,48.29629,33,"AS","KW","KW-AH","Al Zour","no",,,,,,,
+605617,"KW-0038","heliport","Khiran City Heliport",28.66355,48.27742,69,"AS","KW","KW-AH","Al Khiran","no",,,,,,,
 21345,"KW01","small_airport","Tonasket Municipal Airport",48.7248683333,-119.465634722,1311,"NA","US","US-WA","Tonasket","no",,,"KW01","W01",,,
 21346,"KW03","small_airport","Wilson Industrial Air Center Airport",35.77040100097656,-77.96980285644531,161,"NA","US","US-NC","Wilson","no",,,"KW03","W03",,,
 21347,"KW05","small_airport","Gettysburg Regional Airport",39.841222,-77.274699,590,"NA","US","US-PA","Gettysburg","no",,"GTY","KW05","W05","http://flygra.com/","https://en.wikipedia.org/wiki/Gettysburg_Regional_Airport",
@@ -42957,7 +42990,7 @@
 550119,"LEME","heliport","S'Arangi Heliport",39.968221,4.093734,429,"EU","ES","ES-IB","Es Mercadal","no",,,"LEME",,,,"Menorca"
 43283,"LEMF","small_airport","Mafé - Gibraleón Airfield",37.3643,-6.92094,86,"EU","ES","ES-AN","Gibraleón","no",,,"LEMF",,,,
 4020,"LEMG","large_airport","Málaga-Costa del Sol Airport",36.6749,-4.49911,53,"EU","ES","ES-AN","Málaga","yes","LEMG","AGP","LEMG",,"https://www.aena.es/en/malaga-costa-del-sol.html","https://en.wikipedia.org/wiki/M%C3%A1laga_Airport","Costa del Sol, Malaga"
-4021,"LEMH","large_airport","Menorca Airport",39.862598,4.21865,302,"AF","ES","ES-IB","Mahón (Maó)","yes","LEMH","MAH","LEMH",,"https://www.aena.es/en/menorca.html","https://en.wikipedia.org/wiki/Menorca_Airport","Menorca"
+4021,"LEMH","large_airport","Menorca Airport",39.862598,4.21865,302,"EU","ES","ES-IB","Mahón (Maó)","yes","LEMH","MAH","LEMH",,"https://www.aena.es/en/menorca.html","https://en.wikipedia.org/wiki/Menorca_Airport","Menorca"
 308134,"LEMI","large_airport","Region of Murcia International Airport",37.802852,-1.124884,644,"AF","ES","ES-MC","Corvera","yes","LEMI","RMU","LEMI",,"https://www.aena.es/en/internacional-region-de-murcia.html","https://en.wikipedia.org/wiki/Murcia-Corvera_Airport",
 43263,"LEMN","heliport","Heli Montsiá - Amposta Heliport",40.66640090942383,0.5647220015525818,254,"EU","ES","ES-CT","Tarragona","no",,,"LEMN",,,,
 4022,"LEMO","medium_airport","Moron Air Base",37.17490005493164,-5.615940093994141,285,"EU","ES","ES-AN","Morón","no","LEMO","OZP","LEMO",,,"https://en.wikipedia.org/wiki/Mor%C3%B3n_Air_Base",
@@ -43114,7 +43147,7 @@
 4087,"LFCU","small_airport","Ussel-Thalamy Airfield",45.535738,2.424474,2428,"EU","FR","FR-NAQ","Ussel, Corrèze","no",,,"LFCU",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Ussel_-_Thalamy",
 28799,"LFCV","small_airport","Aérodrome de Villefranche de Rouergue",44.369491,2.025722,1096,"EU","FR","FR-OCC","Rodez","no",,,"LFCV",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Villefranche-de-Rouergue",
 4088,"LFCW","small_airport","Villeneuve-sur-Lot Airfield",44.3969,0.758889,190,"EU","FR","FR-NAQ","Villeneuve-sur-Lot","no",,,"LFCW",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Villeneuve-sur-Lot",
-28800,"LFCX","small_airport","Aérodrome de Castelsarrasin Moissac",44.086899,1.12833,243,"EU","FR","FR-OCC","Rodez","no",,,"LFCX",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Castelsarrasin_-_Moissac",
+28800,"LFCX","small_airport","Aérodrome de Castelsarrasin Moissac",44.086423,1.127191,243,"EU","FR","FR-OCC","Moissac","no","LFCX",,"LFCX",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Castelsarrasin_-_Moissac",
 4089,"LFCY","medium_airport","Royan-Médis Airport",45.628101,-0.9725,72,"EU","FR","FR-NAQ","Royan/Médis","no","LFCY","RYN","LFCY",,,"https://en.wikipedia.org/wiki/Royan_%E2%80%93_M%C3%A9dis_Aerodrome",
 4090,"LFCZ","small_airport","Aérodrome de Mimizan",44.145928,-1.16432,164,"EU","FR","FR-NAQ","Mimizan","no",,,"LFCZ",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Mimizan",
 4091,"LFDA","small_airport","Aire-sur-l'Adour Airfield",43.7094,-0.245278,259,"EU","FR","FR-NAQ","Aire-sur-Adour","no",,,"LFDA",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Aire-sur-l%27Adour",
@@ -50924,7 +50957,7 @@
 5761,"OE54","small_airport","Hafar Al Atk Airport",25.99340057373047,46.53670120239258,1970,"AS","SA","SA-01",,"no",,,"OE54","OE54",,,
 5762,"OE55","medium_airport","Aradah Airport",21.226999,55.2673,699,"AS","SA","SA-04","Ardah","no","OEAD",,"OEAD",,,,"OE55, Ghafah Airport"
 5763,"OE56","small_airport","Shubaytah Airport",22.709952,53.281131,305,"AS","SA","SA-04","Shubaytah","no","OEST",,"OEST",,,,"OE56, Khalfan, Shabitah"
-5081,"OEAA","small_airport","Abu Ali Airport",27.319099,49.587101,69,"AS","SA","SA-04","Al Jubail","no","OEAA",,"OEAA",,,"https://en.wikipedia.org/wiki/Abu_Ali_Airport",
+5081,"OEAA","small_airport","Abu Ali Airport",27.318733,49.586749,69,"AS","SA","SA-04","Jubail","no","OEAA",,"OEAA",,,"https://en.wikipedia.org/wiki/Abu_Ali_Airport",
 5082,"OEAB","large_airport","Abha International Airport",18.2404,42.656601,6858,"AS","SA","SA-14","Abha","yes","OEAB","AHB","OEAB",,"https://abha-airport.com","https://en.wikipedia.org/wiki/Abha_International_Airport","Abha International Airport"
 5083,"OEAH","large_airport","Al-Ahsa International Airport",25.285299,49.485199,588,"AS","SA","SA-04","Hofuf","yes","OEAH","HOF","OEAH",,,"https://en.wikipedia.org/wiki/Al-Ahsa_International_Airport",
 300611,"OEAO","medium_airport","Al-Ula International Airport",26.483634,38.117048,2050,"AS","SA","SA-03","Al-Ula","yes","OEAO","ULH","OEAO",,,"https://en.wikipedia.org/wiki/Al-Ula_International_Airport","Prince Abdul majeed bin Abdulaziz Domestic Airport"
@@ -51367,7 +51400,7 @@
 23823,"OK96","small_airport","Ives Airport",35.75640106201172,-97.08480072021484,1035,"NA","US","US-OK","Wellston","no",,,"OK96","OK96",,,
 23824,"OK97","small_airport","Ketchum Ranch Airport",34.53340148925781,-97.76699829101562,1100,"NA","US","US-OK","Duncan","no",,,"OK97","OK97",,,
 32108,"OKAJ","medium_airport","Ahmed Al Jaber Air Base",28.9347991943,47.791900634799994,409,"AS","KW","KW-AH","Ahmed Al Jaber AB","no","OKAJ","XIJ","OKAJ",,,"https://en.wikipedia.org/wiki/Ahmed_Al_Jaber_Air_Base",
-5219,"OKAS","medium_airport","Ali Al Salem Air Base",29.344632,47.511215,472,"AS","KW","KW-JA","Al Damaikhi","no",,,"OKAS",,,"https://en.wikipedia.org/wiki/Ali_Al_Salem_Air_Base","The Rock"
+5219,"OKAS","medium_airport","Ali Al Salem Air Base",29.346905,47.520118,472,"AS","KW","KW-JA","Al Damaikhi","no","OKAS",,"OKAS",,,"https://en.wikipedia.org/wiki/Ali_Al_Salem_Air_Base","The Rock"
 5221,"OKDI","small_airport","Udairi Army Air Field",29.697599411010742,47.43600082397461,430,"AS","KW","KW-JA","Camp Buehring","no",,,"OKDI",,,"https://en.wikipedia.org/wiki/Camp_Buehring",
 5220,"OKKK","large_airport","Kuwait International Airport",29.224487,47.969813,206,"AS","KW","KW-FA","Kuwait City","yes","OKKK","KWI","OKKK",,"https://www.kuwaitairport.gov.kw/","https://en.wikipedia.org/wiki/Kuwait_International_Airport","OKBK, Al Mubarak Air Base, مطار الكويت الدولي"
 42770,"OKNB","heliport","Ras al-Qulayah Naval Base Heliport",28.864500045776367,48.27280044555664,30,"AS","KW","KW-AH","Ras al-Qulayah Naval Base","no",,,"OKNB",,,"https://en.wikipedia.org/wiki/Kuwaiti_Navy#Present_Fleet",
@@ -52547,7 +52580,7 @@
 337351,"PH-0194","closed","Laminga Airstrip",8.28597,125.7504,95,"AS","PH","PH-AGS","La Paz","no",,,,,,,
 337352,"PH-0195","closed","Santa Josefa (Aurora) Airstrip",8.02226,126.01582,115,"AS","PH","PH-AGS","Santa Josefa","no",,,,,,,
 337353,"PH-0196","closed","Waloe Airstrip",8.217171,125.783844,220,"AS","PH","PH-AGS","Loreto","no",,,,,,,
-337354,"PH-0197","small_airport","Guianga Airstrip",7.09551,125.39023,2402,"AS","PH","PH-DVO","Davao","no",,,,,,,
+337354,"PH-0197","closed","Guianga Airstrip",7.09551,125.39023,2402,"AS","PH","PH-DVO","Davao","no",,,,,,,"Tamayong"
 337355,"PH-0198","small_airport","Consuelo Airstrip 1",7.64333,126.09444,,"AS","PH","PH-COM","New Bataan","no",,,,,,,"Compostela Airstrip 1"
 337356,"PH-0199","small_airport","Consuelo Airstrip 2",7.633245,126.088822,,"AS","PH","PH-COM","New Bataan","no",,,,,,,"Compostela Airstrip 2"
 337357,"PH-0200","closed","Cogonon Airstrip",7.58916,126.11055,,"AS","PH","PH-COM","New Bataan","no",,,,,,,
@@ -53087,6 +53120,9 @@
 595200,"PH-0735","heliport","Parkway Global Tower Heliport",14.55851,121.05694,,"AS","PH","PH-00","Taguig","no",,,,,,,
 595201,"PH-0736","heliport","Uptown Mall Heliport",14.55629,121.05505,,"AS","PH","PH-00","Taguig","no",,,,,,,
 595224,"PH-0737","heliport","Kota Island (Loaita Island) Heliport",10.66828,114.423556,,"AS","PH","PH-PLW","Kalayaan (Kota Island / Loaita Island)","no",,,,,,,
+605650,"PH-0738","heliport","DPWH Heliport",7.603042,125.150553,,"AS","PH","PH-BUK","Quezon","no",,,,,,,"RP9GX, Kipolot, Palacapao, Sinuda"
+605651,"PH-0739","heliport","Tamayong Prayer Mountain Heliport",7.133232,125.381591,,"AS","PH","PH-DVO","Davao","no",,,,,,,"RPB3U"
+605652,"PH-0740","heliport","Glory Mountain Heliport",7.087696,125.352548,,"AS","PH","PH-DVO","Davao","no",,,,,,,
 5441,"PHBK","medium_airport","Barking Sands Airport",22.0228,-159.785004,23,"OC","US","US-HI","Kekaha","no","PHBK","BKH","PHBK","BKH",,"https://en.wikipedia.org/wiki/Pacific_Missile_Range_Facility","Pacific Missle Range Facility Barking Sands, Kauai"
 5442,"PHDH","small_airport","Kawaihapai Airfield",21.5795,-158.197006,14,"OC","US","US-HI","Mokuleia","no","PHDH","HDH","PHDH","HDH",,"https://en.wikipedia.org/wiki/Dillingham_Airfield","Dillingham"
 17621,"PHHF","small_airport","French Frigate Shoals Airport",23.869467,-166.284977,6,"NA","US","US-HI","Tern Island","no",,,"PHHF","HFS",,"https://en.wikipedia.org/wiki/French_Frigate_Shoals_Airport",
@@ -56283,6 +56319,22 @@
 602759,"SA-0099","heliport","Helicopter Emergency Landing Zone No. 3",28.14588,34.83137,,"AS","SA","SA-07",,"no",,,,,,,
 602761,"SA-0100","heliport","Helicopter Emergency Landing Zone No. 2",28.159341,34.760506,,"AS","SA","SA-07",,"no",,,,,,,
 604067,"SA-0101","closed","King Salman International Airport(Under Construction)",24.963756,46.718169,,"AS","SA","SA-01","Riyadh","no",,,,,"https://ksia.sa","https://en.wikipedia.org/wiki/King_Salman_International_Airport",
+605618,"SA-0102","heliport","Tanajib Aramco Hospital Heliport",27.88877,48.80332,10,"AS","SA","SA-04","Tanajib","no",,,,,,,
+605619,"SA-0103","heliport","Al-Kharsaniyah Medical Center Heliport",27.298502,49.266098,10,"AS","SA","SA-04","Jubail","no",,,,,,,
+605620,"SA-0104","heliport","Ras Al Khayr Emergency Heliport",27.495983,49.118295,19,"AS","SA","SA-04","Ras Al Khayr","no",,,,,,,
+605621,"SA-0105","heliport","Saudi Aramco Wasit Heliport",27.1139,49.29449,10,"AS","SA","SA-04","Jubail","no",,,,,,,
+605622,"SA-0106","heliport","Deffi Park Heliport",27.14623,49.53431,13,"AS","SA","SA-04","Jubail","no",,,,,,,
+605623,"SA-0107","heliport","Abu Ali Heliport",27.30009,49.67231,3,"AS","SA","SA-04","Juba","no",,,,,,,
+605624,"SA-0108","heliport","Juaymah Offshore Platform Heliport",26.916113,50.020728,,"AS","SA","SA-04","Ras Tanura","no",,,,,,,
+605625,"SA-0109","heliport","Ras Tanura Heliport",26.7064,50.09118,3,"AS","SA","SA-04","Ras Tanura","no",,,,,,,
+605626,"SA-0110","heliport","Security Forces Medical City Easter Province Heliport",26.30345,50.20081,,"AS","SA","SA-04","Khobar","no",,,,,,,
+605627,"SA-0111","heliport","Al-Azizia Palace Outer Heliport",26.13395,50.16237,13,"AS","SA","SA-04","Khobar","no",,,,,,,
+605628,"SA-0112","heliport","Al-Azizia Palace Inner Heliport",26.13434,50.16537,16,"AS","SA","SA-04","Khobar","no",,,,,,,
+605629,"SA-0113","heliport","Saudi Aramco UDH Hospital Heliport",25.13761,49.30134,863,"AS","SA","SA-04","Udhailiyah","no",,,,,,,
+605630,"SA-0114","heliport","John Hopkins Aramco Hospital Heliport",25.41848,49.54403,509,"AS","SA","SA-04","Al Hofuf","no",,,,,,,
+605631,"SA-0115","heliport","Almoosa Hospital Heliport",25.438285,49.571775,,"AS","SA","SA-04","Al Hofuf","no",,,,,,,
+605632,"SA-0116","heliport","Dallah Hospital Heliport",25.38547,49.57097,489,"AS","SA","SA-04","Al Hofuf","no",,,,,,,
+605633,"SA-0117","heliport","Salwa Border Guard Sector Heliport",24.80944,50.74736,10,"AS","SA","SA-04","Salwa","no",,,,,,,
 13,"SA01","small_airport","Cachi Airport",-25.1049995422,-66.15720367429999,8232,"SA","AR","AR-A","Cachi","no",,,"SA01","CCS",,,"SA01"
 14,"SA02","small_airport","Cafayate Airport",-26.056101,-65.936897,5375,"SA","AR","AR-A","Cafayate","no",,,,"CAF",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Gilberto_Lavaque","SA02, Gilberto Lavaque"
 15,"SA03","small_airport","Villa Minetti Airport",-28.6201,-61.6038,246,"SA","AR","AR-S","Villa Minetti","no",,,"SA03","MIN",,,"SA03"
@@ -58573,7 +58625,7 @@
 39341,"SHCG","heliport","Cachagua Heliport",-32.578887939453125,-71.4544448852539,80,"SA","CL","CL-VS","Zapallar","no",,,"SHCG",,,,
 596073,"SHCH","heliport","Agroforestal Heliport",-33.221012,-70.75941,1693,"SA","CL","CL-RM","Colina","no",,,"SHCH",,,,
 39342,"SHCI","heliport","San Cristóbal Heliport",-32.57611083984375,-71.45249938964844,98,"SA","CL","CL-VS","Zapallar","no",,,"SHCI",,,,
-39343,"SHCM","heliport","Corporativo Mutual Heliport",-33.440277099609375,-70.63777923583984,2100,"SA","CL","CL-RM","Santiago","no",,,"SHCM",,,,
+39343,"SHCM","heliport","Corporativo Mutual Heliport",-33.439313,-70.638013,2100,"SA","CL","CL-RM","Santiago","no","SHCM",,"SHCM",,,,
 39344,"SHCP","heliport","Servicios Aéreos Copters Heliport",-34.136390686035156,-70.77055358886719,1509,"SA","CL","CL-LI","Rancagua","no",,,"SHCP",,,,
 39345,"SHCY","heliport","Coyhaique Regional Hospital Heliport",-45.568792,-72.075629,915,"SA","CL","CL-AI","Coyhaique","no",,,"SHCY",,,,
 39346,"SHDG","heliport","Batería Dungenes Nº 1 Heliport",-52.38083267211914,-68.43138885498047,25,"SA","CL","CL-MA","Magallanes","no",,,"SHDG",,,,
@@ -58636,7 +58688,7 @@
 39387,"SHOV","heliport","Lo Ovalle Heliport",-33.250831604003906,-71.36833190917969,919,"SA","CL","CL-VS","Casablanca","no",,,"SHOV",,,,
 332836,"SHPD","heliport","Titanium Heliport",-33.413156,-70.603804,2727,"SA","CL","CL-RM","Santiago","no",,,"SHPD",,,,
 39388,"SHPE","heliport","Pelluco Heliport",-41.48555374145508,-72.90277862548828,66,"SA","CL","CL-LL","Puerto Montt","no",,,"SHPE",,,,
-605429,"SHPH","heliport","[Santa Teresa Heliport",-33.554949,-70.815402,1450,"SA","CL","CL-RM","Padre Hurtado","no","SHPH",,"SHPH",,,,
+605429,"SHPH","heliport","Santa Teresa Heliport",-33.554949,-70.815402,1450,"SA","CL","CL-RM","Padre Hurtado","no","SHPH",,"SHPH",,,,
 348808,"SHPM","heliport","Lago La Paloma Heliport",-45.922804,-72.146251,351,"SA","CL","CL-AI","Coyahique","no",,,"SHPM",,,,
 39389,"SHPP","heliport","Papudo Heliport",-32.50027847290039,-71.45916748046875,82,"SA","CL","CL-VS","Papudo","no",,,"SHPP",,,,
 39390,"SHPT","heliport","Portillo Heliport",-32.836387634277344,-70.13111114501953,9000,"SA","CL","CL-VS","Los Andes","no",,,"SHPT",,,,
@@ -64370,7 +64422,7 @@
 6384,"TJSJ","large_airport","Luis Munoz Marin International Airport",18.4394,-66.001801,9,"NA","PR","PR-U-A","San Juan","yes","TJSJ","SJU","TJSJ","SJU","https://aeropuertosju.com/","https://en.wikipedia.org/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn_International_Airport","Isla Verde"
 6385,"TJVQ","medium_airport","Antonio Rivera Rodriguez Airport",18.1348,-65.493599,49,"NA","PR","PR-U-A","Vieques","yes","TJVQ","VQS","TJVQ","VQS","https://vieques.com/airport-vieques/","https://en.wikipedia.org/wiki/Antonio_Rivera_Rodr%C3%ADguez_Airport",
 24911,"TKE","seaplane_base","Tenakee Seaplane Base",57.779701,-135.218002,,"NA","US","US-AK","Tenakee Springs","yes",,"TKE","TKE","TKE","http://www.tenakeespringsak.com/","https://en.wikipedia.org/wiki/Tenakee_Seaplane_Base",
-24913,"TKL","seaplane_base","Taku Lodge Seaplane Base",58.4897003174,-133.942993164,0,"NA","US","US-AK","Taku Lodge","no",,"TKL","TKL","TKL",,,
+24913,"TKL","seaplane_base","Taku Lodge Seaplane Base",58.491645,-133.941575,,"NA","US","US-AK","Taku Lodge","no","PTFK","TKL","PTFK","TKL",,,
 6386,"TKPK","large_airport","Robert L. Bradshaw International Airport",17.310845,-62.719117,170,"NA","KN","KN-U-A","Basseterre","yes","TKPK","SKB","TKPK",,,"https://en.wikipedia.org/wiki/Robert_L._Bradshaw_International_Airport",
 6387,"TKPN","medium_airport","Vance W. Amory International Airport",17.2057,-62.589901,14,"NA","KN","KN-U-A","Charlestown","yes","TKPN","NEV","TKPN",,,"https://en.wikipedia.org/wiki/Vance_W._Amory_International_Airport","Nevis, Bambooshay Airport, Newcastle Airport"
 324707,"TL-0001","small_airport","Lospalos Airfield",-8.455563,126.975861,,"AS","TL","TL-LA","Lospalos","no",,,,,,,"Lospalos"
@@ -70771,7 +70823,7 @@
 336469,"US-1817","closed","Turf Paradise Airfield",33.63252,-112.09212,,"NA","US","US-AZ","Phoenix","no",,,,,,,
 336470,"US-1818","closed","Ramuda Ranch Landing Strip",33.9926,-112.73841,,"NA","US","US-AZ","Wickenburg","no",,,,,,,
 336471,"US-1819","closed","Wagoner Ranch Airstrip",34.223956,-112.540212,,"NA","US","US-AZ","Kirkland","no",,,,,,,
-336531,"US-1820","heliport","Matagorda Helipad",28.60699,-95.97056,,"NA","US","US-TX","Matagorda","no",,,,,,,
+336531,"US-1820","heliport","Matagorda Helipad",28.606946,-95.97049,4,"NA","US","US-TX","Matagorda","no",,,,,,,
 336532,"US-1821","closed","Rubinkam Airport",41.5899,-87.68984,,"NA","US","US-IL","Markham","no",,,,,,,
 336533,"US-1822","closed","Columbus Airstrip",29.719272,-96.560372,201,"NA","US","US-TX","Columbus","no",,,,,,,
 336534,"US-1823","closed","La Grange Municipal Airport - Guenther Field",29.896741,-96.901994,,"NA","US","US-TX","La Grange","no",,,,,,,
