@@ -2282,7 +2282,7 @@
 8922,"22WN","small_airport","Southwind Airport",43.068599700927734,-90.21949768066406,1030,"NA","US","US-WI","Dodgeville","no",,,"22WN","22WN",,,
 8923,"22WV","heliport","Grafton City Hospital Heliport",39.34360122680664,-80.0291976928711,1271,"NA","US","US-WV","Grafton","no",,,"22WV","22WV",,,
 45937,"22WY","small_airport","Kissack/Reynolds Airport",44.338056,-105.162117,4380,"NA","US","US-WY","Rozet","no",,,"22WY","22WY",,,
-8924,"22XS","small_airport","Longhorn Auxiliary Landing Strip",31.373693,-97.666654,720,"NA","US","US-TX","Fort Cavazos","no",,,"22XS","22XS",,,"Fort Hood"
+8924,"22XS","small_airport","Longhorn Auxiliary Landing Strip",31.373693,-97.666654,720,"NA","US","US-TX","Fort Hood","no",,,"22XS","22XS",,,"Fort Hood"
 8927,"23AK","small_airport","Yuknis Airport",61.59410095214844,-149.31100463867188,340,"NA","US","US-AK","Wasilla","no",,,"23AK","23AK",,,
 8928,"23AL","heliport","Tabernacle Stagefield Army Heliport",31.46500015258789,-85.84629821777344,470,"NA","US","US-AL","Fort Rucker/Ozark","no",,,"23AL","23AL",,,
 8929,"23AR","small_airport","Classic Airstrip",35.825968,-90.548773,260,"NA","US","US-AR","Jonesboro","no",,,"23AR","23AR",,,
@@ -2341,7 +2341,7 @@
 322013,"23WS","heliport","Columbia St Mary's Heliport",43.06096,-87.88053,895,"NA","US","US-WI","Milwaukee","no",,,"23WS","23WS",,,
 45918,"23WV","small_airport","Bocamanu Airport",38.025833,-80.982778,2501,"NA","US","US-WV","Fayetteville","no",,,"23WV","23WV",,,
 45939,"23WY","heliport","St John'S Medical Center Heliport",43.48,-110.761944,6200,"NA","US","US-WY","Jackson","no",,,"23WY","23WY",,,
-8982,"23XS","small_airport","Shorthorn Auxiliary Landing Strip",31.360727,-97.672871,720,"NA","US","US-TX","Fort Cavazos","no",,,"23XS","23XS",,,"Fort Hood"
+8982,"23XS","small_airport","Shorthorn Auxiliary Landing Strip",31.360727,-97.672871,720,"NA","US","US-TX","Fort Hood","no",,,"23XS","23XS",,,"Fort Hood"
 8984,"24AK","small_airport","Toad Lake Strip",61.616313,-149.706183,100,"NA","US","US-AK","Meadow Lakes","no",,,"24AK","24AK",,,
 8985,"24AL","heliport","Toth Stagefield Army Heliport",31.228725,-85.55917,318,"NA","US","US-AL","Fort Rucker/Dothan","no",,,"24AL","24AL",,,"Fort Novosel"
 8986,"24AR","small_airport","Griffin Agricultural Airport",34.201022,-90.952267,200,"NA","US","US-AR","Lundell","no",,,"24AR","24AR",,,
@@ -9481,8 +9481,8 @@
 313547,"AE-0007","heliport","Al Ghuwaifat Border Post Helipad",24.120353,51.600516,157,"AS","AE","AE-AZ","Al Ghuwaifat","no",,,,,,,
 313548,"AE-0008","closed","Al Ghuwaifat Customs Post Helipad",24.128339,51.616767,161,"AS","AE","AE-AZ","Al Ghuwaifat","no",,,,,,,
 315508,"AE-0009","heliport","Delma Hospital Helipad",24.4756,52.3101,17,"AS","AE","AE-AZ","Delma Island","no",,,,,,,
-319172,"AE-0010","heliport","Schumacher Heliport",25.221807,55.138836,,"AS","AE","AE-DU","Dubai","no",,,,,,,
-319174,"AE-0011","heliport","Palm Jumeirah Heliport",25.127297,55.114092,,"AS","AE","AE-DU",,"no",,,,,,,
+319172,"AE-0010","heliport","Schumacher Heliport",25.221807,55.138836,3,"AS","AE","AE-DU","Dubai","no",,,,,,,"Michael Schumacher, World Islands"
+319174,"AE-0011","heliport","Falcon Helitours Palm Jumeirah Heliport",25.12763,55.113517,,"AS","AE","AE-DU","Palm Jumeirah","no",,,,,,,
 319175,"AE-0012","heliport","Waldorf Astoria Dubai Palm Jumeirah Helipad",25.133372,55.150379,,"AS","AE","AE-DU",,"no",,,,,,,
 319176,"AE-0013","heliport","Oceana Palm Jumeirah Helipad",25.110083,55.135169,,"AS","AE","AE-DU","Palm Jumeirah","no",,,,,,,
 319177,"AE-0014","heliport","Ghantoot Racing & Polo Club Helipad",24.86824,54.905556,,"AS","AE","AE-AZ",,"no",,,,,"http://www.grpc.ae/helipad.html",,
@@ -9508,7 +9508,7 @@
 341683,"AE-0034","heliport","Paragon Bay North Helipad",24.49421,54.39376,,"AS","AE","AE-AZ","Abu Dhabi","no",,,,,,,
 341684,"AE-0035","heliport","Sea Palace Helipad",24.46919,54.41083,,"AS","AE","AE-AZ","Abu Dhabi","no",,,,,,,
 341685,"AE-0036","heliport","Qasr al Bahr Heliport",24.46465,54.40819,,"AS","AE","AE-AZ","Abu Dhabi","no",,,,,,,
-341686,"AE-0037","heliport","Rixos Helipad",25.11907,55.15236,,"AS","AE","AE-DU","Palm Jumeirah","no",,,,,,,
+341686,"AE-0037","heliport","Rixos Palm Jumeirah Heliport",25.11907,55.15236,,"AS","AE","AE-DU","Palm Jumeirah","no",,,,,,,
 341687,"AE-0038","heliport","Waldorf Astoria Dubai Palm Jumeirah Helipad",25.13335,55.15038,,"AS","AE","AE-DU","Palm Jumeirah","no",,,,,,,
 341860,"AE-0039","heliport","Ajman Heliport",25.400838,55.440029,,"AS","AE","AE-AJ","Ajman","no",,,,,,,
 341861,"AE-0040","heliport","Safiya Beach Palace Heliport",25.424981,55.471788,,"AS","AE","AE-AJ","Ajman","no",,,,,,,
@@ -9579,7 +9579,7 @@
 351630,"AE-0105","heliport","Ghayathi New Community Hospital Heliport",23.89833,52.80321,210,"AS","AE","AE-AZ","Ghayathi","no",,,,,,,
 351631,"AE-0106","heliport","Al Mirfa Hospital Heliport",24.08413,53.50017,98,"AS","AE","AE-AZ","Al Mirfa","no",,,,,,,
 351647,"AE-0107","small_airport","Diynah Airport",24.95,52.399,,"AS","AE","AE-AZ","Diynah island","no",,,,,,,"Diyna, Dayyinah, Daiyina, جزيرة دينا"
-351747,"AE-0108","heliport","Private Island Heliport",25.19858,55.22908,,"AS","AE","AE-DU","Private Island","no",,,,,,,
+351747,"AE-0108","heliport","Sheikh Hamdan Private Island Heliport",25.19858,55.22908,,"AS","AE","AE-DU","Jumeirah","no",,,,,,,
 351748,"AE-0109","heliport","Sheikh Khalifa Specialty Hospital Heliport",25.62272,55.84052,90,"AS","AE","AE-RK","Ras al-Khaimah","no",,,,,,,
 351749,"AE-0110","heliport","Al Dhaid Heliport",25.31346,55.86396,348,"AS","AE","AE-SH","Al Dhaid","no",,,,,,,
 351760,"AE-0111","heliport","Al Dhaid Palace Central Heliport",25.315298,55.870014,354,"AS","AE","AE-SH","Al Dhaid","no",,,,,,,
@@ -9645,7 +9645,7 @@
 352094,"AE-0171","heliport","Sheikh Ahmed al-Nuaimi Palace Heliport",25.39841,55.5302,79,"AS","AE","AE-AJ","Al Hamidiya","no",,,,,,,
 352095,"AE-0172","heliport","Fairmont Ajman South Jetty Heliport",25.41837,55.4368,5,"AS","AE","AE-AJ","Ajman","no",,,,,,,
 352096,"AE-0173","heliport","Fairmont Ajman North Jetty Heliport",25.41974,55.43774,5,"AS","AE","AE-AJ","Ajman","no",,,,,,,
-352097,"AE-0174","heliport","Ruler's Divan Heliport",25.41877,55.44188,13,"AS","AE","AE-AJ","Ajman","no",,,,,,,
+352097,"AE-0174","heliport","Ajman Ruler's Divan Heliport",25.418716,55.442015,13,"AS","AE","AE-AJ","Ajman","no",,,,,,,
 352098,"AE-0175","heliport","Ajman Hotel Heliport",25.42565,55.44226,10,"AS","AE","AE-AJ","Ajman","no",,,,,,,
 352099,"AE-0176","heliport","Sheikh Rashid bin Humaid al-Nuaimi Mosque Heliport",25.40138,55.43938,3,"AS","AE","AE-AJ","Ajman","no",,,,,,,
 352100,"AE-0177","heliport","Sheikh Khalifa Central Hospital Heliport",25.14824,56.35365,,"AS","AE","AE-FU","Fujairah","no",,,,,,,
@@ -9748,6 +9748,11 @@
 605696,"AE-0274","heliport","Jubail Island Heliport",24.535678,54.489029,3,"AS","AE","AE-AZ","Al Jubail Island","no",,,,,,,
 605697,"AE-0275","heliport","Yas Island Beach Heliport",24.50668,54.58838,7,"AS","AE","AE-AZ","Yas Island","no",,,,,,,
 605703,"AE-0276","heliport","Ghanadhah Heliport",24.83368,54.75527,7,"AS","AE","AE-AZ","Ghanadhah","no",,,,,,,
+605705,"AE-0277","closed","Dubai Natural Gas Heliport",25.02167,55.0788,3,"AS","AE","AE-DU","Jebel Ali","no",,,,,,,
+605706,"AE-0278","heliport","Dubai Electricity and Water Authority Jebel Ali Power Station Heliport",25.06907,55.12303,13,"AS","AE","AE-DU","Jebel Ali","no",,,,,,,
+605707,"AE-0279","heliport","Dubai Ruler's Divan Heliport",25.264837,55.298631,,"AS","AE","AE-DU","Dubai","no",,,,,,,
+605708,"AE-0280","heliport","Cameron Garden Heliport",25.26536,55.29884,7,"AS","AE","AE-DU","Dubai","no",,,,,,,
+605711,"AE-0281","heliport","Al Raha Heliport",25.72008,55.83235,3,"AS","AE","AE-RK","Al Riffa","no",,,,,,,
 300307,"AEE","small_airport","Adareil Airport",10.053611,32.959444,1301,"AF","SS","SS-NU","Adar","no",,"AEE","HJAR",,,"https://en.wikipedia.org/wiki/Adareil_Airport",
 300646,"AEI","heliport","Algeciras Heliport",36.12882,-5.441079,98,"EU","ES","ES-AN","Algeciras","yes",,,"LEAG",,"https://www.aena.es/en/algeciras.html","https://en.wikipedia.org/wiki/Algeciras_Heliport",
 330359,"AEQ","small_airport","Ar Horqin Airport",43.908407,120.15099,1335,"AS","CN","CN-15","Chifeng","no",,"AEQ",,,,"https://en.wikipedia.org/wiki/Ar_Horqin_Airport",
@@ -9928,7 +9933,7 @@
 301754,"AKM","small_airport","Zakuoma Airport",10.8902777778,19.8172222222,1370,"AF","TD","TD-SA","ZaKouma","no",,"AKM",,,,"https://en.wikipedia.org/wiki/Zakouma_Airport",
 35356,"AL-0001","heliport","Lapraka Heliport",41.330782,19.795152,297,"EU","AL","AL-11","Tirana","no",,,,,,"https://en.wikipedia.org/wiki/Lapraka_Airfield","Lapraka Airfield, Tirana Aerodrome, OOH, ZOOH"
 325353,"AL-0002","closed","Korroticës së Ulët Airport",42.605253,20.910351,1962,"EU","XK","XK-01","Korroticë e Poshtme","no",,,,,,,"Korroticës së Ulët, Lower Korotica"
-325354,"AL-0003","closed","Vlora International Airport (Under Construction)",40.605367,19.426095,8,"EU","AL","AL-12","Akerni","no",,,,,,"https://en.wikipedia.org/wiki/Vlora_International_Airport","Pish Poro, Mifol Air Base, LAVL, VLO"
+325354,"AL-0003","closed","Vlora International Airport (Under Construction)",40.605367,19.426095,8,"EU","AL","AL-12","Akerni","no",,,,,"https://vlora-airport.com/","https://en.wikipedia.org/wiki/Vlora_International_Airport","Pish Poro, Mifol Air Base, LAVL, VLO"
 340588,"AL-0004","heliport","Mother Teresa Hospital Heliport",41.339303,19.830489,420,"EU","AL","AL-11","Tirana","no",,,,,,,
 340589,"AL-0005","heliport","University Trauma Hospital Heliport",41.342857,19.793764,295,"EU","AL","AL-11","Tirana","no",,,,,,,
 349286,"AL-0006","heliport","Pogradec Heliport",40.90539,20.65453,2277,"EU","AL","AL-06","Pogradec","no",,,,,,,
@@ -9944,6 +9949,7 @@
 324078,"AL-0016","closed","Shkodër Airport",42.089361,19.509111,,"EU","AL","AL-10","Shkodër","no",,,,,,,"LASK, LASK"
 341255,"AL-0017","closed","Sarandë Airfield",39.876113,20.037663,,"EU","AL","AL-12","Sarandë","no",,,,,,"https://en.wikipedia.org/wiki/Sarand%C3%AB_Airfield","LASR"
 594441,"AL-0018","closed","Shijak Airfield",41.33102,19.54983,72,"EU","AL","AL-02","Shijak","no",,,,,,,
+605715,"AL-0019","large_airport","(Duplicate)Vlora International Airport",40.605556,19.426111,8,"EU","AL","AL-12","Vlorë","no","LAVL","VLO",,,"https://vlora-airport.com/","https://en.wikipedia.org/wiki/Vlora_International_Airport",
 16197,"AL05","small_airport","Sehoy Airport",32.22010040283203,-85.46800231933594,331,"NA","US","US-AL","Hurtsboro","no",,,"AL05","AL05",,,
 16199,"AL07","heliport","EAMC-Lanier Heliport",32.829531,-85.168711,640,"NA","US","US-AL","Valley","no",,,"AL07","AL07",,,"Geo H Lanier Memorial Hosp"
 16200,"AL08","small_airport","Perdido Winds Airpark",30.424400329589844,-87.5353012084961,75,"NA","US","US-AL","Elberta","no",,,"AL08","AL08",,,
@@ -32593,6 +32599,8 @@
 605542,"IR-0202","closed","Ganaveh Airport",29.576775,50.5558,13,"AS","IR","IR-18","Bandar Ganaveh","no",,,,,,,"OIBG"
 605543,"IR-0203","heliport","PetroIran Bang Heliport",29.738814,50.351344,39,"AS","IR","IR-18","Bang","no",,,,,,,
 605544,"IR-0204","heliport","Hendijan Hospital Heliport",30.246647,49.704028,19,"AS","IR","IR-06","Hendijan","no",,,,,,,
+605718,"IR-0205","heliport","Shahid Bagheri Complex Heliport",36.44462,59.49088,3366,"AS","IR","IR-09","Mashhad","no",,,,,,,
+605719,"IR-0206","heliport","Luqman Hakim Hospital Heliport",36.551,61.16002,896,"AS","IR","IR-09","Sarakhs","no",,,,,,,
 3352,"IR-OI24","small_airport","Gonbad-e Kavus Airport",37.246101,55.095901,107,"AS","IR","IR-27","Gonbad-e Kavus","no",,,,"OI24",,,
 317284,"IRU","seaplane_base","Iranamadu Seaplane Base",9.299746,80.448627,102,"AS","LK","LK-4","Iranamadu","no",,"IRU",,,,,
 314970,"IS-0001","closed","Suðureyri Airport",66.1318,-23.544,92,"EU","IS","IS-4","Suðureyri","no",,,,,,,"SUY, BISU"
@@ -51523,6 +51531,7 @@
 32115,"OM-0037","closed","Firq Air Base / Nizwa Airport",22.866617,57.544223,1560,"AS","OM","OM-DA","Nizwa","no",,,,,,"https://en.wikipedia.org/wiki/Firq_Air_Base","OOFQ, OONZ"
 32387,"OM-0038","closed","Sur Airport",22.537729,59.479766,20,"AS","OM","OM-SH","Sur","no",,,,,,"https://en.wikipedia.org/wiki/Sur_Airport","OOSR, SUH"
 600697,"OM-0039","heliport","Nizwa Hospital Heliport",22.855658,57.522463,1534,"AS","OM","OM-DA","Nizwa","no",,,,,,,
+605712,"OM-0040","heliport","Bukha Hospital Heliport",26.14261,56.15234,13,"AS","OM","OM-MU","Bukha","no",,,,,,,
 2,"OM11","small_airport","Abu Dhabi Northeast Airport - Suweihan Air Base",24.526793,54.974812,88,"AS","AE","AE-AZ","Abu Dhabi","no","OMAW",,"OMAW",,,"https://en.wikipedia.org/wiki/Abu_Dhabi_Northeast_Airport","OM11"
 5226,"OMAA","large_airport","Zayed International Airport",24.440966,54.649237,88,"AS","AE","AE-AZ","Abu Dhabi","yes","OMAA","AUH","OMAA",,"https://www.zayedinternationalairport.ae/","https://en.wikipedia.org/wiki/Abu_Dhabi_International_Airport","Abu Dhabi International Airport"
 42260,"OMAB","small_airport","Buhasa Airport",23.599701,53.379398,,"AS","AE","AE-AZ",,"no","OMAB",,"OMAB",,,"https://en.wikipedia.org/wiki/Buhasa_Airport",
@@ -64485,15 +64494,19 @@
 340441,"TM-0025","heliport","Internal Affairs Ministry Training Center Helipad 3",37.945615,58.33569,,"AS","TM","TM-S","Ashgabat","no",,,,,,,
 340442,"TM-0026","heliport","Oguzhan Presidential Palace Heliport",37.933416,58.380851,,"AS","TM","TM-S","Ashgabat","no",,,,,,,
 340443,"TM-0027","small_airport","Tejen Airport",37.362201,60.586662,,"AS","TM","TM-A","Tejen","no",,,,,,,
-340444,"TM-0028","heliport","Tejen Heliport",37.351976,60.538414,,"AS","TM","TM-A","Tejen","no",,,,,,,
+340444,"TM-0028","heliport","Tejen Military Heliport",37.351976,60.538414,623,"AS","TM","TM-A","Tejen","no",,,,,,,
 341245,"TM-0029","heliport","Mary Heliport",37.56935,61.87228,,"AS","TM","TM-M","Mary","no",,,,,,,
 342833,"TM-0030","closed","Türkmenabat Old Airport",39.084182,63.61124,600,"AS","TM","TM-L","Türkmenabat","no",,,,,,,"CFZ, UTAV"
 351073,"TM-0031","heliport","Garabogaz Carbamide Plant Heliport",41.52368,52.61801,-62,"AS","TM","TM-B","Garabogaz","no",,,,,,,
 355315,"TM-0032","heliport","Turkmenabat Presidential Heliport",39.092542,63.58828,,"AS","TM","TM-L","Turkmenabat","no",,,,,,,
 355316,"TM-0033","heliport","Turkmenabat Railyard Heliport",38.978301,63.52476,,"AS","TM","TM-L","Turkmenabat","no",,,,,,,
 430486,"TM-0034","closed","Former Kerki Airport",37.810331,65.212097,,"AS","TM","TM-L","Kerki","no",,,,,,,"KEA, UTAE"
-518555,"TM-0035","heliport","Lebap Welaýat Köpugurly Hospital Helipad",39.015583,63.597915,634,"AS","TM","TM-L","Türkmenabat","no",,,,,,,
-6395,"TM-UT50","small_airport","Saraghs Southeast Airport",36.49190139770508,61.26649856567383,902,"AS","TM","TM-M","Saraghs","no",,,,,,,"Serakhs, Sarakhs, UT50"
+518555,"TM-0035","heliport","Lebap Province Köpugurly Hospital Helipad",39.015583,63.597915,634,"AS","TM","TM-L","Türkmenabat","no",,,,,,,
+605720,"TM-0036","heliport","Serakhs Heliport",36.533081,61.188764,919,"AS","TM","TM-A","Serakhs","no",,,,,,,
+605722,"TM-0037","heliport","Tejen Ammonia/Urea Plant Heliport",37.34395,60.48829,617,"AS","TM","TM-A","Tejen","no",,,,,,,
+605723,"TM-0038","heliport","Bayramaly Sanatorium Heliport",37.61825,62.16316,781,"AS","TM","TM-M","Bayramaly","no",,,,,,,
+605724,"TM-0039","heliport","Karakum Shopping Center Heliport",37.61311,62.16398,721,"AS","TM","TM-M","Bayramaly","no",,,,,,,
+6395,"TM-UT50","small_airport","Serakhs Airport",36.491901,61.266499,902,"AS","TM","TM-M","Serakhs","no",,,,,,,"Saraghs Southeast, Sarakhs, UT50"
 6397,"TM-UT52","medium_airport","Mary North Airport",37.66429901123047,61.82699966430664,728,"AS","TM","TM-M","Mary","no",,,,,,,"UT52"
 6398,"TM-UT55","small_airport","Kizyl-Arvat Airport",38.98419952392578,56.356998443603516,338,"AS","TM","TM-B","Kizyl-Arvat","no",,,,,,,"UT55"
 6399,"TM-UT56","small_airport","Gaurdak Airport",37.80590057373047,65.96549987792969,1085,"AS","TM","TM-L","Gaurdak","no",,,,,,,"UT56"
@@ -70127,7 +70140,7 @@
 598974,"US-12734","heliport","AdventHealth Parker Medical Center Heliport",39.547222,-104.769167,5825,"NA","US","US-CO","Parker","no",,,"CO79","CO79",,,
 598977,"US-12735","heliport","Billings Limited Army Air Support Facility Heliport",45.809003,-108.577019,3704,"NA","US","US-MT","Billings","no",,,"MT75","MT75",,,
 598980,"US-12736","small_airport","Blu Skyz Airport",48.136942,-101.157566,1651,"NA","US","US-ND","Minot","no",,,"ND38","ND38",,,
-599134,"US-12737","heliport","III Corps HQ Heliport",31.13506,-97.772328,906,"NA","US","US-TX","Kileen(Ft Hood)","no",,,,,,,
+599134,"US-12737","heliport","III Corps HQ Heliport",31.13506,-97.772328,906,"NA","US","US-TX","Fort Hood","no",,,,,,,
 599144,"US-12738","closed","E.W. ""Cottton"" Woods Memorial Airport",39.003992,-92.296379,759,"NA","US","US-MO","Columbia","no",,,,,,,"K24"
 599145,"US-12739","closed","Umatilla AAF",45.803394,-119.395912,598,"NA","US","US-OR","Hermiston","no",,,,,,,"S41"
 334309,"US-1274","small_airport","Ottertail Lake Airport",45.818929,-111.695886,4155,"NA","US","US-MT","Three Forks","no",,,"MT36","MT36",,,
@@ -70323,6 +70336,7 @@
 605054,"US-12916","heliport","Chopper Charter Heliport",36.638668,-93.275562,,"NA","US","US-MO","Branson","no",,,,,"https://www.choppercharter.com/",,
 605380,"US-12917","closed","Putnam County Airport",36.196427,-85.48758,1132,"NA","US","US-TN","Cookeville","no",,,,,"https://livingnewdeal.org/sites/putnam-county-airport-closed-cookeville-tn/",,"CJE, KCJE"
 605481,"US-12918","closed","Dennis Airport",41.002222,-85.296392,751,"NA","US","US-IN","Aboite","no",,,,,,,"IN66"
+605729,"US-12919","heliport","Rally Ready Helipoirt",29.998591,-97.55144,475,"NA","US","US-TX","Dale","no",,,,,,,
 334351,"US-1292","closed","Brentwood Ambulatory Care Center Heliport",41.3163,-81.568889,868,"NA","US","US-OH","Northfield","no",,,,,,,"80OI"
 334352,"US-1293","heliport","George Washington University Hospital Heliport",38.900903,-77.051132,174,"NA","US","US-DC","Washington","no",,,"24DC","24DC",,,
 334358,"US-1294","small_airport","Curry Ridge Airport",32.723321,-113.938501,329,"NA","US","US-AZ","Tacna","no",,,"AZ60","AZ60",,,
@@ -73199,8 +73213,8 @@
 344748,"US-4161","closed","Air Farm Landing Strip",30.094016,-91.048843,16,"NA","US","US-LA","Donaldsonville","no",,,,,,,
 344749,"US-4162","closed","Ragan Farms Airport",36.090911,-119.1803,354,"NA","US","US-CA","Woodville","no",,,,,,,
 344750,"US-4163","heliport","Carl R Darnall Army Medical Center Heliport",31.12706,-97.7829,940,"NA","US","US-TX","Fort Hood","no",,,,,,,
-344751,"US-4164","small_airport","Fort Cavazos Landing Strip 12 Hammer",31.21354,-97.84257,944,"NA","US","US-TX","Fort Cavazos","no",,,,,,,"Fort Hood"
-344752,"US-4165","small_airport","Fort Cavazos Cold Springs UAV Airstrip",31.25127,-97.63089,779,"NA","US","US-TX","Fort Cavazos","no",,,,,,,"Fort Hood, Gatesville"
+344751,"US-4164","small_airport","Fort Hood Landing Strip 12 Hammer",31.21354,-97.84257,944,"NA","US","US-TX","Fort Hood","no",,,,,,,"Fort Cavazos"
+344752,"US-4165","small_airport","Cold Springs UAV Airstrip",31.25127,-97.63089,779,"NA","US","US-TX","Fort Hood","no",,,,,,,"Fort Hood, Gatesville"
 344753,"US-4166","heliport","Fort Hood Northeast Heliport",31.25372,-97.588,859,"NA","US","US-TX","Gatesville","no",,,,,,,
 344754,"US-4167","closed","Flying J Ranch Airport",30.62715,-91.03317,87,"NA","US","US-LA","Pride","no",,,,,,,
 344763,"US-4168","small_airport","Tucker Road Landing Field",32.33563,-111.34394,2066,"NA","US","US-AZ","Marana","no",,,,,,,
@@ -75534,11 +75548,11 @@
 352776,"US-6495","closed","Rogers Airport",44.08239,-92.36732,1281,"NA","US","US-MN","Rochester","no",,,,,,,
 352781,"US-6496","small_airport","Hamner Brook Airport",43.9981,-74.41847,1788,"NA","US","US-NY","Long Lake","no",,,,,,,
 352802,"US-6497","closed","Carlsbad South Airport",32.26108,-104.22944,3266,"NA","US","US-NM","Carlsbad","no",,,,,,,
-352803,"US-6498","small_airport","Fort Cavazos Landing Strip 50",31.230303,-97.798837,879,"NA","US","US-TX","Fort Cavazos","no",,,,,,,"Fort Hood"
+352803,"US-6498","small_airport","Fort Hood Landing Strip 50",31.230303,-97.798837,879,"NA","US","US-TX","Fort Hood","no",,,,,,,"Fort Cavazos"
 352804,"US-6499","heliport","Fort Hood Forward Area Refueling Point West (FARP-W)",31.33458,-97.74878,904,"NA","US","US-TX","Fort Hood","no",,,,,,,
 352805,"US-6500","heliport","Fort Hood Forward Area Refueling Point East (FARP-E)",31.33906,-97.6913,830,"NA","US","US-TX","Fort Hood","no",,,,,,,
-352806,"US-6501","small_airport","Fort Cavazos Stampede Creek Airstrip",31.27132,-97.82474,925,"NA","US","US-TX","Fort Cavazos","no",,,,,,,"Fort Hood"
-352807,"US-6502","small_airport","Fort Cavazos Landing Strip 22",31.20208,-97.55721,882,"NA","US","US-TX","Fort Cavazos","no",,,,,,,"Fort Hood"
+352806,"US-6501","small_airport","Fort Hood Stampede Creek Airstrip",31.27132,-97.82474,925,"NA","US","US-TX","Fort Hood","no",,,,,,,"Fort Cavazos"
+352807,"US-6502","small_airport","Fort Hood Landing Strip 22",31.20208,-97.55721,882,"NA","US","US-TX","Fort Hood","no",,,,,,,"Fort Hood"
 352808,"US-6503","heliport","Artesia General Hospital Heliport",32.84955,-104.41121,3396,"NA","US","US-NM","Artesia","no",,,,,,,
 352847,"US-6504","heliport","Spectrum Health Pennock Heliport",42.64526,-85.30303,807,"NA","US","US-MI","Hastings","no",,,,,,,
 352848,"US-6505","small_airport","Bellamy Airport",43.37136,-85.63963,894,"NA","US","US-MI","Howard City","no",,,,,,,
@@ -78082,7 +78096,7 @@
 555776,"US-9043","heliport","Oklahoma State University Medical Center Heliport",36.14639,-96.00084,702,"NA","US","US-OK","Tulsa","no",,,,,,,
 555778,"US-9044","heliport","Marshfield Emergency Heliport",37.34623,-92.9254,1475,"NA","US","US-MO","Marshfield","no",,,,,,,
 555779,"US-9045","heliport","Rockdale Hospital Heliport",30.65066,-97.01984,481,"NA","US","US-TX","Rockdale","no",,,,,,,
-555780,"US-9046","heliport","North Fort Cavazos Heliport",31.35941,-97.68552,737,"NA","US","US-TX","Fort Cavazos","no",,,,,,,
+555780,"US-9046","heliport","Fort Hood North Heliport",31.35941,-97.68552,737,"NA","US","US-TX","Fort Hood","no",,,,,,,"Fort Cavazos"
 555782,"US-9047","heliport","Saint Anthony Hospital 9th Street Garage Heliport",35.47764,-97.52466,,"NA","US","US-OK","Oklahoma City","no",,,,,,,
 555785,"US-9048","heliport","Integris Canadian Valley Hospital Heliport",35.48419,-97.76259,1385,"NA","US","US-OK","Yukon","no",,,,,,,
 555786,"US-9049","heliport","Faith Community Hospital Heliport",33.23176,-98.16731,1064,"NA","US","US-TX","Jacksboro","no",,,,,,,
@@ -79201,18 +79215,18 @@
 32559,"UTNT","small_airport","Turtkul Airport",41.57500076293945,60.96659851074219,305,"AS","UZ","UZ-QR","Turtkul","no",,,"UTNT",,,,
 26387,"UTNU","large_airport","Urgench International Airport",41.58274,60.64338,320,"AS","UZ","UZ-XO","Urgench","yes","UZNU","UGC","UTNU",,,"https://en.wikipedia.org/wiki/Urgench_Airport",
 32561,"UTSA","large_airport","Navoi International Airport",40.117599,65.172658,1140,"AS","UZ","UZ-NW","Navoi","yes","UZSA","NVI","UTSA",,,"https://en.wikipedia.org/wiki/Navoi_International_Airport",
-26388,"UTSB","large_airport","Bukhara International Airport",39.775002,64.483299,751,"AS","UZ","UZ-BU","Bukhara","yes","UZSB","BHK","UZSB",,,"https://en.wikipedia.org/wiki/Bukhara_International_Airport","UTSB, Buhara Airport"
+26388,"UTSB","large_airport","Bukhara International Airport",39.775319,64.482279,751,"AS","UZ","UZ-BU","Bukhara","yes","UZSB","BHK","UZSB",,,"https://en.wikipedia.org/wiki/Bukhara_International_Airport","UTSB, Buhara Airport"
 41812,"UTSH","small_airport","Shahrisabz Airport",39.068003,66.758388,1900,"AS","UZ","UZ-QA","Shahrisabz","no",,,"UTSH",,,,
 26417,"UTSK","small_airport","Karshi Airport",38.802246,65.773068,1230,"AS","UZ","UZ-QA","Karshi","yes","UZSK","KSQ","UTSK","UT1N",,"https://en.wikipedia.org/wiki/Karshi_Airport","Qarshi Airport"
 26389,"UTSL","small_airport","Karshi-Khanabad Air Base",38.833599,65.921501,1365,"AS","UZ","UZ-QA","Khanabad","no",,,"UTSL",,,"https://en.wikipedia.org/wiki/Karshi-Khanabad_Air_Base","UTSL, K2 Air Base, Qarshi Khanabad Airport"
 41821,"UTSM","small_airport","Tandy Bulak Airport",41.76079177856445,64.60240173339844,716,"AS","UZ","UZ-NW","Tandy Bulak","no",,,"UTSM",,,,
-41685,"UTSN","small_airport","Sugraly Airport",41.613899,64.2332,1396,"AS","UZ","UZ-NW","Zarafshan","yes","UTSN","AFS","UTSN",,,"https://en.wikipedia.org/wiki/Zarafshan_Airport",
+41685,"UTSN","small_airport","Sugraly Airport",41.613899,64.2332,1396,"AS","UZ","UZ-NW","Zarafshan","no","UZSN","AFS","UZSN",,,"https://en.wikipedia.org/wiki/Zarafshan_Airport","UTSN, UT76, Zarafshon"
 41686,"UTSR","small_airport","Sariasiya Airport",38.41059875488281,67.94519805908203,1949,"AS","UZ","UZ-SU","Sariasiya","no",,,"UTSR",,,,
 26390,"UTSS","large_airport","Samarkand International Airport",39.698187,66.98421,2224,"AS","UZ","UZ-SA","Samarkand","yes","UZSS","SKD","UZSS",,,"https://en.wikipedia.org/wiki/Samarkand_Airport","UTSS"
 26391,"UTST","medium_airport","Termez Airport",37.287261,67.311869,1027,"AS","UZ","UZ-SU","Termez","yes","UZST","TMJ","UTST",,,"https://en.wikipedia.org/wiki/Termez_Airport",
 32562,"UTSU","small_airport","Uchkuduk Airport",42.083099365234375,63.44929885864258,416,"AS","UZ","UZ-NW","Uchkuduk","no",,,"UTSU",,,,
 41687,"UTTP","medium_airport","Tashkent East Airport",41.312889,69.395535,1574,"AS","UZ","UZ-TO","Tashkent","yes","UZTP",,"UZTP",,,"https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi","Tashkent Vostochny Airport"
-26392,"UTTT","large_airport","Tashkent International Airport",41.2579,69.281197,1417,"AS","UZ","UZ-TO","Tashkent","yes","UZTT","TAS","UZTT",,,"https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+26392,"UTTT","large_airport","Tashkent International Airport",41.2579,69.281197,1417,"AS","UZ","UZ-TO","Tashkent","yes","UZTT","TAS","UZTT",,,"https://en.wikipedia.org/wiki/Tashkent_International_Airport","UTTT"
 598248,"UTTZ","medium_airport","Zomin Airport",40.01402,68.41103,1760,"AS","UZ","UZ-JI","Zaamin","yes","UTTZ","OMN","UTTZ",,,"https://en.wikipedia.org/wiki/Zomin_Airport",
 315193,"UTU","small_airport","Ustupu Airport",9.1283,-77.9337,9,"NA","PA","PA-GY","Ustupu","no",,"UTU","MPUP",,,"https://en.wikipedia.org/wiki/Ustupo_Airport","Ustupo"
 604456,"UUAN","heliport","Gazprom Compressor Station Helipad",57.029486,35.016716,541,"EU","RU","RU-TVE","Torzhok","no",,,"UUAN",,,,"УУАН, Торжок"
@@ -79481,6 +79495,7 @@
 351310,"UZ-0151","heliport","Maidanak Training Base Heliport",38.68432,66.94912,8904,"AS","UZ","UZ-QA","Chit","no",,,,,,,
 355317,"UZ-0152","closed","Eski-Jomboy Airport",39.66816,67.159314,,"AS","UZ","UZ-SA","Dzhambay","no",,,,,,,
 429865,"UZ-0153","small_airport","Suh airport",39.987179,71.124615,,"AS","UZ","UZ-FA",,"no",,,,,,,
+605726,"UZ-0154","closed","Zarafshan Heliport",41.55799,64.18929,1385,"AS","UZ","UZ-NW","Zarafshan","no",,,,,,,
 26427,"UZ-UT73","small_airport","Maymanak Airport",39.137798,65.165298,1047,"AS","UZ","UZ-QA","Maynanak","no",,,,"UT73",,,
 26429,"UZ-UT77","small_airport","Kungirot Airport",43.082662,58.885077,180,"AS","UZ","UZ-QR","Kungirot","no",,,,"UT77",,,"Kungrad"
 313332,"UZM","small_airport","Hope Bay Aerodrome",68.156,-106.618,150,"NA","CA","CA-NU","Hope Bay","no",,"UZM",,"CHB3",,"https://en.wikipedia.org/wiki/Hope_Bay_Aerodrome",
@@ -84561,7 +84576,7 @@
 32740,"ZPZT","medium_airport","Zhaotong Airport",27.327549,103.75617,,"AS","CN","CN-53","Zhaotong (Zhaoyang)","yes",,,,,,"https://en.wikipedia.org/wiki/Zhaotong_Airport",
 27215,"ZSAM","large_airport","Xiamen Gaoqi International Airport",24.543889,118.127454,59,"AS","CN","CN-35","Xiamen","yes","ZSAM","XMN","ZSAM",,"http://www.xiagc.com.cn/enweb/","https://en.wikipedia.org/wiki/Xiamen_Gaoqi_International_Airport","厦门高崎国际机场"
 30650,"ZSAQ","medium_airport","Anqing Tianzhushan Airport / Anqing North Air Base",30.582199,117.050003,,"AS","CN","CN-34","Anqing","yes","ZSAQ","AQG","ZSAQ",,,"https://en.wikipedia.org/wiki/Anqing_Tianzhushan_Airport",
-301883,"ZSBB","medium_airport","Bengbu Tenghu Airport",32.847733,117.320244,100,"AS","CN","CN-34","Bengbu","no","ZSBB","BFU","ZSBB",,,"https://en.wikipedia.org/wiki/Bengbu_Airport",
+301883,"ZSBB","medium_airport","Bengbu Renheji Airport",32.847733,117.320244,100,"AS","CN","CN-34","Bengbu","no","ZSBB","BFU","ZSBB",,,"https://en.wikipedia.org/wiki/Bengbu_Airport",
 30871,"ZSCG","medium_airport","Changzhou Benniu International Airport",31.920485,119.77546,33,"AS","CN","CN-32","Changzhou","yes","ZSCG","CZX","ZSCG",,,"https://en.wikipedia.org/wiki/Changzhou_Benniu_International_Airport",
 27216,"ZSCN","large_airport","Nanchang Changbei International Airport",28.864815,115.90271,143,"AS","CN","CN-36","Nanchang","yes","ZSCN","KHN","ZSCN",,,"https://en.wikipedia.org/wiki/Nanchang_Changbei_International_Airport",
 349715,"ZSDL","small_airport","Zhenjiang Dalu Airport",32.23649,119.718683,16,"AS","CN","CN-32","Zhenjiang","no","ZSDL","AZJ",,,,,
