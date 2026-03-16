@@ -25402,7 +25402,7 @@
 17241,"FA51","small_airport","Sky Manor Airport",26.739,-81.506203,15,"NA","US","US-FL","La Belle","no",,,"FA51","FA51",,,"William's Sky Manor"
 17242,"FA52","heliport","AdventHealth Sebring Heliport",27.538057,-81.509274,154,"NA","US","US-FL","Sebring","no",,,"FA52","FA52",,,"Florida Hospital-Sebring"
 17243,"FA53","heliport","Eagles Nest Heliport",28.043899536132812,-81.84860229492188,125,"NA","US","US-FL","Auburndale","no",,,"FA53","FA53",,,
-17244,"FA54","small_airport","Coral Creek Airport",26.8545,-82.251198,4,"NA","US","US-FL","Placida","no",,,"FA54","FA54",,"https://en.wikipedia.org/wiki/Coral_Creek_Airport",
+17244,"FA54","small_airport","Coral Creek Airport",26.8545,-82.251198,4,"NA","US","US-FL","Placida","no",,,"FA54","FA54","https://coralcreekairport.com","https://en.wikipedia.org/wiki/Coral_Creek_Airport",
 17245,"FA55","small_airport","Garnair Airport",30.779699325561523,-85.76830291748047,105,"NA","US","US-FL","Bonifay","no",,,"FA55","FA55",,,
 17246,"FA56","heliport","North Florida Regional Medical Center Heliport",29.661500930786133,-82.41210174560547,143,"NA","US","US-FL","Gainesville","no",,,"FA56","FA56",,,
 17247,"FA57","heliport","Archer Emergency Heliport",29.53420066833496,-82.52439880371094,82,"NA","US","US-FL","Archer","no",,,"FA57","FA57",,,
@@ -55267,7 +55267,7 @@
 46224,"RU-0357","heliport","City Clinical Hospital No.36 Helipad",55.7913297014,37.7401989698,,"EU","RU","RU-MOW","Moscow","no",,,,,,,"GKB-36 Helipad, Вертолётная площадка ГКБ-36, Вертолётная площадка Городская Клиническая Больница № 36"
 46225,"RU-0358","heliport","Grachi Helipad",55.4382719556,38.0714249611,,"EU","RU","RU-MOS","Ilinskoye","no",,,,,,,"Вертолётная площадка Грачи"
 46226,"RU-0359","small_airport","Voskresensk Airstrip",55.308006,38.596964,499,"AS","RU","RU-MOS","Voskresensk","no",,,"UUMV",,,,"УУМЖ, ВПП Воскресенск, Воскресенськ"
-46227,"RU-0360","heliport","Mavrino Helipad",55.2734133929,37.29679763319999,,"EU","RU","RU-MOS",,"no",,,,,,,"Вертолётная площадка Маврино"
+46227,"RU-0360","heliport","Mavrino Helipad",55.27367,37.2973,618,"EU","RU","RU-MOW","Mavrino","no",,,,"H720",,,"Х720, Вертолётная площадка Маврино"
 46228,"RU-0361","small_airport","Burny Airfield",60.61188,30.474349,45,"EU","RU","RU-LEN","Solovyovo","no",,,"ULSJ",,,,"Burnaya Airfield, Аэродром Бурный, Аэродром Бурная, УЛСЙ"
 46229,"RU-0362","small_airport","Bolshoy Lutsk Airstrip",59.4120340638,28.577284812900004,39,"EU","RU","RU-LEN","Kingisepp","no",,,,,,,"ВПП Большой Луцк"
 46230,"RU-0363","heliport","Valday Helipad",58.011519476299995,33.3189690113,,"EU","RU","RU-NGR",,"no",,,,,,,"Вертолётная площадка Валдай"
@@ -56065,7 +56065,21 @@
 604487,"RU-10143","small_airport","Mostovoy Airfield",56.1041,101.43773,1452,"AS","RU","RU-IRK",,"no",,,"UIBM","XIBM","https://vk.com/air_mostovoy",,"УИБМ, ЬИБМ, Мостовой, Bratsk, Братск"
 605767,"RU-10144","heliport","Ostrovnaya Bay Heliport",42.9697,131.8677,3,"EU","RU","RU-PRI","Russkiy","no",,,,,,,"U05JD"
 605768,"RU-10145","heliport","Comprehensive Logistics Solutions Heliport",43.07252,131.91977,10,"AS","RU","RU-PRI","Vladivostok","no",,,,,,,"U08CH"
+605778,"RU-10146","heliport","Ilyino Heliport",55.180308,37.041066,541,"EU","RU","RU-MOW","Ilyino","no",,,,"HHH6",,,"XXX6, Ильино"
+605779,"RU-10147","heliport","Rogovo Heliport",55.220167,37.070084,616,"EU","RU","RU-MOW","Rogovo","no",,,,"HHJ0",,,"ХХЙ0, Рогово"
+605784,"RU-10148","small_airport","Uspensky Airstrip",54.426479,38.695253,561,"EU","RU","RU-MOS","Uspensky","no",,,,"ZEH8",,,"ЗЕХ8, Успенский"
+605786,"RU-10149","heliport","Vasyunino Heliport",55.236382,37.014505,623,"EU","RU","RU-MOW","Vasyunino","no",,,,"HHH5",,,"ХХХ5, Васюнино"
 526856,"RU-1015","heliport","KS-6 Itinskaya",65.93205,60.365549,,"EU","RU","RU-KO","Inta","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
+605787,"RU-10150","heliport","Chernetske Heliport",55.248274,37.328186,692,"EU","RU","RU-MOW","Chernetske","no",,,,"HHJ2",,,"ХХЙ2, Чернецкое"
+605788,"RU-10151","heliport","Kresty Heliport",55.27793,37.123789,710,"EU","RU","RU-MOW","Kresty","no",,,,"HH08",,,"ХХ08, Кресты"
+605789,"RU-10152","heliport","Voronovo Heliport",55.319253,37.186517,641,"EU","RU","RU-MOW","Voronovo","no",,,,"HHJ4",,,"ХХЙ4, Вороново"
+605790,"RU-10153","heliport","Yuryevka Heliport",55.328274,37.107432,613,"EU","RU","RU-MOW","Yuryevka","no",,,,"H721",,,"Х721, Юрьевка"
+605791,"RU-10154","heliport","Klenovo Heliport",55.329964,37.342382,594,"EU","RU","RU-MOW","Klenovo","no",,,,"HHH8",,,"ХХХ8, Кленово"
+605792,"RU-10155","heliport","Shchapovo Heliport",55.376744,37.397676,554,"EU","RU","RU-MOW","Shchapovo","no",,,,"HG8B",,,"ХГ8Б, Щапово"
+605793,"RU-10156","heliport","Kievsky Heliport",55.417222,36.862623,699,"EU","RU","RU-MOW","Kievsky","no",,,,"HHH7",,,"ХХХ7. Киевский"
+605794,"RU-10157","heliport","Arkhangelskoye Heliport",55.406532,36.914676,674,"EU","RU","RU-MOW","Arkhangelskoye","no",,,,"HHH3",,,"ХХХ3, Архангельское"
+605795,"RU-10158","heliport","Belousovo Heliport",55.41046,37.01508,600,"EU","RU","RU-MOW","Belousovo","no",,,,"HHH4",,,"ХХХ4, Белоусово"
+605797,"RU-10159","small_airport","Vasilevo Airstrip [INACTIVE]",56.55732,38.58063,664,"EU","RU","RU-YAR","Vasilevo","no",,,,"ZB0N",,,"ЗБ0Н, Василёво"
 526862,"RU-1016","heliport","KS-7 Syninskaya",65.426335,58.40096,,"AS","RU","RU-KO","Synya","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526863,"RU-1017","heliport","KS-5 Usinskaya",66.59084,62.07756,,"AS","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526968,"RU-1018","heliport","Chaika Coal Terminal Helipad",73.379354,80.59003,71,"AS","RU","RU-KYA","Dikson","no",,,,,,,"HELIOPS, Mining, Coal, Vostokugol-Dikson"
@@ -71989,7 +72003,7 @@
 339813,"US-2937","closed","Smurr Airport",32.9272,-112.82856,,"NA","US","US-AZ","Gila Bend","no",,,,,,,
 339814,"US-2938","closed","Ridgway Airport",33.0306,-112.14754,,"NA","US","US-AZ","Maricopa","no",,,,,,,
 339815,"US-2939","closed","Lake Saint Clair Landing Strip",32.65257,-111.94658,,"NA","US","US-AZ","Casa Grande","no",,,,,,,
-339816,"US-2940","closed","Pretzer Strip",32.66873,-111.54253,,"NA","US","US-AZ","Eloy","no",,,,,,,
+339816,"US-2940","small_airport","Pretzer Strip",32.66873,-111.54253,,"NA","US","US-AZ","Eloy","no",,,,,,,
 339817,"US-2941","closed","Newman Peak Ranch Airport",32.73609,-111.45024,,"NA","US","US-AZ","Eloy","no",,,,,,,"21E, 17AZ"
 339818,"US-2942","closed","Bud Antle Ranch Airport",32.62549,-111.33711,,"NA","US","US-AZ","Picacho","no",,,,,,,
 339819,"US-2943","closed","Florence State Prison Landing Strip",33.03209,-111.35751,,"NA","US","US-AZ","Florence","no",,,,,,,
@@ -79232,6 +79246,7 @@
 26392,"UTTT","large_airport","Tashkent International Airport",41.2579,69.281197,1417,"AS","UZ","UZ-TO","Tashkent","yes","UZTT","TAS","UZTT",,,"https://en.wikipedia.org/wiki/Tashkent_International_Airport","UTTT"
 598248,"UTTZ","medium_airport","Zomin Airport",40.01402,68.41103,1760,"AS","UZ","UZ-JI","Zaamin","yes","UTTZ","OMN","UTTZ",,,"https://en.wikipedia.org/wiki/Zomin_Airport",
 315193,"UTU","small_airport","Ustupu Airport",9.1283,-77.9337,9,"NA","PA","PA-GY","Ustupu","no",,"UTU","MPUP",,,"https://en.wikipedia.org/wiki/Ustupo_Airport","Ustupo"
+605799,"UUAE","heliport","Pereslavl-Zalessky Heliport",56.691653,38.842977,647,"EU","RU","RU-YAR","Pereslavl-Zalessky","no",,,"UUAE","UUAE",,,"УУАЕ, Переславль-Залесский"
 604456,"UUAN","heliport","Gazprom Compressor Station Helipad",57.029486,35.016716,541,"EU","RU","RU-TVE","Torzhok","no",,,"UUAN",,,,"УУАН, Торжок"
 31761,"UUBA","medium_airport","Kostroma Sokerkino Airport",57.796902,41.019402,446,"EU","RU","RU-KOS","Kostroma","yes","UUBA","KMW","UUBA",,"http://www.kmtn.ru/~koao/","https://en.wikipedia.org/wiki/Kostroma_Airport","Аэропорт Кострома Сокеркино"
 42934,"UUBC","medium_airport","Grabtsevo Airport",54.5499992371,36.3666687012,656,"EU","RU","RU-KLU","Kaluga","no","UUBC","KLF","UUBC",,,"https://en.wikipedia.org/wiki/Grabtsevo_Airport","Аэропорт Грабцево"
@@ -79250,9 +79265,10 @@
 325060,"UUMD","small_airport","Selnikovo Airfield",55.129783,39.145733,351,"EU","RU","RU-MOS","Selnikovo","no",,,"UUMD",,,,"УУМД, Сельниково"
 35090,"UUMI","small_airport","Stupino Air Base",54.889408,38.147036,584,"EU","RU","RU-MOS","Stupino","no",,,"UUMI","XUMI",,"https://en.wikipedia.org/wiki/Stupino_Airfield","УУМИ, ЬУМИ, Krutyshki Airfield, Аэродром Ступино, Аэродром Крутышки"
 44920,"UUML","small_airport","Severka Airfield",55.206608,38.679149,433,"EU","RU","RU-MOS","Voskresensk","no",,,"UUML",,"http://www.aviaseverka.ru/",,"Аэродром Северка"
-34931,"UUMO","closed","Ostafyevo International Airport",55.511667,37.507222,568,"AS","RU","RU-MOS","Moscow","no",,,,,"http://eng.gazpromavia.ru/page20.shtml","https://en.wikipedia.org/wiki/Ostafievo_International_Airport","Ostafievo, Междунаро́дный аэропо́рт «Оста́фьево», Gazprom, UUMO, OSF"
+34931,"UUMO","closed","Ostafyevo International Airport",55.511369,37.50719,568,"EU","RU","RU-MOW","Moscow","no",,,,,"http://eng.gazpromavia.ru/page20.shtml","https://en.wikipedia.org/wiki/Ostafievo_International_Airport","Podolsk, Ostafievo, Междунаро́дный аэропо́рт «Оста́фьево», Gazprom, UUMO, OSF, УУМО. ЬУМО"
 42968,"UUMT","medium_airport","Tretyakovo Airport",54.904999,39.026669,515,"EU","RU","RU-MOS","Lukhovitsy","no",,,"UUMT",,,"https://en.wikipedia.org/wiki/Tretyakovo_Airport","Lukhovitsy Airport, Аэропорт Третьяково, Аэропорт Луховицы"
 34969,"UUMU","medium_airport","Chkalovskiy Air Base",55.8783,38.061699,499,"EU","RU","RU-MOS","Moscow","no","UUMU","CKL","UUMU",,,"https://en.wikipedia.org/wiki/Chkalovsky_Airport","Chkalovsky Airport, Аэродром Чкаловский"
+605772,"UUMY","small_airport","Ozery Airport",54.815239,38.629275,675,"EU","RU","RU-MOS","Ozery","no",,,"UUMY","UUMY",,,"УУМЫ, Озеры, Озёры"
 26398,"UUOB","medium_airport","Belgorod International Airport",50.643798828125,36.5900993347168,735,"EU","RU","RU-BEL","Belgorod","yes","UUOB","EGO","UUOB",,,"https://en.wikipedia.org/wiki/Belgorod_Airport",
 42995,"UUOD","small_airport","Pridacha Airport",51.652861,39.256244,344,"EU","RU","RU-VOR","Voronezh","no",,,"UUOD",,"http://www.vaso.ru/","https://en.wikipedia.org/wiki/Pridacha_Airport","УУОД, Аэропорт Придача, Repnoe Airport, Voronezh East Airport"
 26399,"UUOK","medium_airport","Kursk East Airport",51.7505989074707,36.29560089111328,686,"EU","RU","RU-KRS","Kursk","yes","UUOK","URS","UUOK",,,"https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport","Kursk Vostochny Airport"
@@ -79269,6 +79285,7 @@
 336167,"UUTZ","small_airport","Zavidovo Air Park (U.C.)",56.553558,36.559481,1562,"EU","RU","RU-TVE","Shetakovo","no",,,"UUTZ",,"http://www.zavidovoairpark.com/infrastructure",,
 315021,"UUU","small_airport","Manumu Airport",-9.0746,147.5735,1800,"OC","PG","PG-CPM","Manumu","no",,"UUU",,"MMU",,,
 352883,"UUWK","small_airport","Kudinovo Airfield",55.023839,36.244583,600,"EU","RU","RU-KLU","Kudinovo","no",,,"UUWK",,"http://www.uuwk.ru/",,"Кудиново"
+605770,"UUWL","heliport","Luzhki Heliport",55.42536,37.1299,541,"EU","RU","RU-MOS","Luzhki","no",,,"UUWL","UUWL",,,"УУВЛ, Лужки"
 26401,"UUWW","large_airport","Vnukovo International Airport",55.591499,37.261501,685,"EU","RU","RU-MOW","Moscow","yes","UUWW","VKO","UUWW",,"https://vnukovo.ru/en/","https://en.wikipedia.org/wiki/Vnukovo_International_Airport","MOW, Международный аэропорт Внуково"
 541940,"UUXM","heliport","Samotsvyetniy Heliport",63.385023,58.81514,910,"EU","RU","RU-KO",,"no",,,"UUXM",,,,"УУЬМ, Самоцветный"
 32506,"UUYH","medium_airport","Ukhta Airport",63.566898,53.804699,482,"AS","RU","RU-KO","Ukhta","yes","UUYH","UCT","UUYH",,,"https://en.wikipedia.org/wiki/Ukhta_Airport",
