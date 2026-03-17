@@ -9731,7 +9731,7 @@
 605677,"AE-0257","heliport","Tarif Military Heliport",24.03914,53.7801,16,"OC","TV","TV-U-A","Tarif","no",,,,,,,
 605678,"AE-0258","heliport","Al Nouf Heliport",24.30812,54.14797,13,"AS","AE","AE-AZ","Al Nouf","no",,,,,,,
 605679,"AE-0259","heliport","Abu Al Abyad Heliport",24.17493,54.00593,3,"AS","AE","AE-AZ","Abu Al Abyad","no",,,,,,,
-605680,"AE-0260","heliport","Al Maya Island and 0esort Heliport",24.40932,54.25488,10,"AS","AE","AE-AZ","Al Maya","no",,,,,,,
+605680,"AE-0260","heliport","Al Maya Island and Resort Heliport",24.40932,54.25488,10,"AS","AE","AE-AZ","Al Maya","no",,,,,,,
 605681,"AE-0261","heliport","Paf Island Heliport",24.44278,54.25842,3,"AS","AE","AE-AZ","Qirqishan","no",,,,,,,
 605682,"AE-0262","heliport","Al Muqatra Military Heliport",24.22575,54.47699,89,"AS","AE","AE-AZ","Al Muqatra","no",,,,,,,
 605683,"AE-0263","heliport","Mureeb Dune Heliport",22.97376,53.78831,259,"AS","AE","AE-AZ","Mzeer'ah","no",,,,,,,
@@ -25355,7 +25355,7 @@
 17191,"F57","seaplane_base","Jack Browns Seaplane Base",28.057501,-81.762802,140,"NA","US","US-FL","Winter Haven","no",,,"F57","F57",,"https://en.wikipedia.org/wiki/Jack_Browns_Seaplane_Base",
 17192,"F78","small_airport","Horseshoe Bend Airport",32.572899,-97.872498,715,"NA","US","US-TX","Weatherford","no",,,"F78","F78",,"https://en.wikipedia.org/wiki/Horseshoe_Bend_Airport",
 17194,"F92","small_airport","Kingfisher Airport",35.876497,-97.95293,1067,"NA","US","US-OK","Kingfisher","no",,,"KF92","F92",,"https://en.wikipedia.org/wiki/Kingfisher_Airport",
-17195,"F95","small_airport","Calhoun County Airport",30.486899,-85.113798,118,"NA","US","US-FL","Blountstown","no",,,"KF95","F95",,"https://en.wikipedia.org/wiki/Calhoun_County_Airport_(Florida)",
+17195,"F95","small_airport","Calhoun County Airport",30.486899,-85.113798,118,"NA","US","US-FL","Blountstown","no",,,"F95","F95","https://www.flyfoxtrot95.com/","https://en.wikipedia.org/wiki/Calhoun_County_Airport_(Florida)",
 322808,"FA00","heliport","Advent Health Winter Garden ER Heliport",28.523111,-81.589028,127,"NA","US","US-FL","Winter Garden","no",,,"FA00","FA00",,,"Florida Hospital Winter Garden"
 17196,"FA01","heliport","St Joseph Hospital Heliport",26.993659,-82.095235,13,"NA","US","US-FL","Port Charlotte","no",,,"FA01","FA01",,,
 17198,"FA04","heliport","Mease Hospital Emergency Heliport",28.01420021057129,-82.78199768066406,35,"NA","US","US-FL","Dunedin","no",,,"FA04","FA04",,,
@@ -43388,7 +43388,7 @@
 4159,"LFMQ","medium_airport","Le Castellet Airport",43.252499,5.78519,1391,"EU","FR","FR-PAC","Le Castellet, Var","no","LFMQ","CTT","LFMQ",,"https://www.aeroportducastellet.com/en/","https://fr.wikipedia.org/wiki/A%C3%A9roport_du_Castellet",
 28935,"LFMR","small_airport","Barcelonnette - Saint-Pons Airfield",44.387198,6.608831,3714,"EU","FR","FR-PAC","Saint-Pons, Alpes-de-Haute-Provence","no","LFMR","BAE","LFMR",,"https://www.aerodromebarcelonnette.fr/","https://en.wikipedia.org/wiki/Barcelonnette_%E2%80%93_Saint-Pons_Airport",
 4160,"LFMS","medium_airport","Aérodrome d'Alès Cévennes",44.069698,4.14212,668,"EU","FR","FR-OCC","Alès/Deaux","no",,,"LFMS",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Al%C3%A8s_C%C3%A9vennes",
-4161,"LFMT","medium_airport","Montpellier-Méditerranée Airport",43.576199,3.96301,17,"EU","FR","FR-OCC","Montpellier/Méditerranée","yes","LFMT","MPL","LFMT",,"https://www.montpellier.aeroport.fr/","https://en.wikipedia.org/wiki/Montpellier_-_M%C3%A9diterran%C3%A9e_Airport",
+4161,"LFMT","large_airport","Montpellier-Méditerranée Airport",43.576199,3.96301,17,"EU","FR","FR-OCC","Montpellier/Méditerranée","yes","LFMT","MPL","LFMT",,"https://www.montpellier.aeroport.fr/","https://en.wikipedia.org/wiki/Montpellier_-_M%C3%A9diterran%C3%A9e_Airport",
 4162,"LFMU","medium_airport","Béziers Vias airport",43.323502,3.3539,56,"EU","FR","FR-OCC","Béziers","yes","LFMU","BZR","LFMU",,"https://beziers.aeroport.fr/en/","https://en.wikipedia.org/wiki/B%C3%A9ziers-Agde-Vias_Airport",
 4163,"LFMV","medium_airport","Avignon Caumont airport",43.907299,4.90183,124,"EU","FR","FR-PAC","Avignon","yes","LFMV","AVN","LFMV",,"https://avignon.aero/","https://en.wikipedia.org/wiki/Avignon_-_Caumont_Airport",
 28936,"LFMW","small_airport","Aérodrome de Castelnaudary-Villeneuve",43.312199,1.92111,551,"EU","FR","FR-OCC","Castelnaudary Villeneuve","no",,,"LFMW",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Castelnaudary_-_Villeneuve",
@@ -48808,7 +48808,7 @@
 599730,"MX-2526","closed","Pista de aterrizaje Casasano",18.862569,-98.955006,,"NA","MX","MX-MOR","Cuautla","no",,,,,,,
 602105,"MX-2527","heliport","28th Cavalry Regiment Heliport",30.77204,-112.21241,1050,"NA","MX","MX-SON","Caborca","no",,,,,,,
 605447,"MX-2528","heliport","Ciudad Guzman Heliport",19.697663,-103.480977,4977,"NA","MX","MX-JAL","Ciudad Guzman","no",,,,,,,"Zapotlán Hospital"
-605581,"MX-2529","small_airport","Cedros Mine",23.489999,-100.43,98,"NA","MX","MX-CHH",,"no",,,,"MCED",,,
+605581,"MX-2529","small_airport","(DELETE)Cedros Mine",23.489999,-100.43,98,"NA","MX","MX-CHH",,"no",,,,"MCED",,,
 30631,"MX-AJS","small_airport","Punta Abreojos Airport",26.7272,-113.558998,26,"NA","MX","MX-BCS","Mulegé","no",,"AJS",,"AJS",,"https://en.wikipedia.org/wiki/Punta_Abreojos_Airstrip","MX86"
 30671,"MX-AZG","small_airport","Apatzingán - Pablo L. Sidar Airport",19.093399,-102.393997,1033,"NA","MX","MX-MIC","Apatzingán","no",,"AZG","MMAG","AZG",,"https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Pablo_L._Sidar","MM16"
 43044,"MX-CEO","small_airport","El Crucero Airport",27.407301,-109.928001,114,"NA","MX","MX-SON","Cajeme","no",,,,"CEO",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_El_Crucero_(Sonora)",
@@ -55441,8 +55441,8 @@
 337769,"RU-0532","heliport","Malokurilskoye Heliport",43.86641,146.82758,,"EU","RU","RU-SAK","Malokurilskoye","no",,,,,,,
 337770,"RU-0533","heliport","Krabozavodskoye Heliport",43.8311,146.7592,33,"AS","RU","RU-SAK","Krabozavodskoye","no",,,,,,,
 337773,"RU-0534","heliport","Golovnino Heliport",43.738081,145.515891,23,"EU","RU","RU-SAK","Golovnino","no",,,,,,,
-337875,"RU-0535","heliport","Old Vladivostok Airfield Heliport",43.21047,131.94238,,"EU","RU","RU-PRI","Vladivostok","no",,,,,,,
-337876,"RU-0536","closed","Old Vladivostok Airfield",43.207285,131.938692,,"EU","RU","RU-PRI","Vladivostok","no",,,,,,,
+337875,"RU-0535","heliport","Old Vladivostok Airfield Heliport",43.21047,131.94238,89,"AS","RU","RU-PRI","Vladivostok","no",,,,,,,
+337876,"RU-0536","closed","Old Vladivostok Airfield",43.207285,131.938692,,"AS","RU","RU-PRI","Vladivostok","no",,,,,,,"UULEP"
 337877,"RU-0537","heliport","Ozyornye Klyuchi (Lake Springs) Airfield",43.36795,132.1448,,"AS","RU","RU-PRI","Artyom","no",,,,,,,
 337878,"RU-0538","small_airport","Nikolayevka Air Base",43.085608,133.190505,180,"AS","RU","RU-PRI","Nikolayevka","no",,,,"XHWE",,,"ЬХВЕ, Николаевка"
 337879,"RU-0539","small_airport","Baranovskiy Airfield",43.751678,132.007553,147,"EU","RU","RU-PRI","Ussuriysk","no",,,,,,,
@@ -55674,7 +55674,7 @@
 347913,"RU-0765","closed","Belogorsk Airfield",55.03342,88.48534,2476,"EU","RU","RU-KEM","Belogorsk","no",,,,,,,
 347914,"RU-0766","heliport","Uzhur Heliport",55.26431,89.82905,1299,"EU","RU","RU-KYA","Uzhur","no",,,,,,,
 348669,"RU-0767","small_airport","Yam Airfield",56.33257,38.6369,558,"EU","RU","RU-VLA","Alexandrovsky","no",,,,,,,
-348670,"RU-0768","closed","Lyubimtsevo Airfield",56.66735,39.24273,568,"EU","RU","RU-VLA","Pereslavsky","no",,,,,,,
+348670,"RU-0768","closed","Romanovo Airfield",56.66735,39.24273,568,"EU","RU","RU-YAR","Romanovo","no",,,,,,,"ZCG1, ЗЦГ1, Романово, Lyubimtsevo"
 348671,"RU-0769","small_airport","Nekrasovo Airfield",57.78792,40.84022,256,"EU","RU","RU-KOS","Nekrasovo","no",,,,,,,
 348672,"RU-0770","small_airport","Manturovo Airfield",58.36749,44.7957,374,"EU","RU","RU-KOS","Manturovo","no",,,,,,,
 349399,"RU-0771","heliport","Belokurikha Heliport",52.04691,84.90723,725,"AS","RU","RU-ALT","Belokurikha","no",,,,,,,
@@ -56081,6 +56081,9 @@
 605795,"RU-10158","heliport","Belousovo Heliport",55.41046,37.01508,600,"EU","RU","RU-MOW","Belousovo","no",,,,"HHH4",,,"ХХХ4, Белоусово"
 605797,"RU-10159","small_airport","Vasilevo Airstrip [INACTIVE]",56.55732,38.58063,664,"EU","RU","RU-YAR","Vasilevo","no",,,,"ZB0N",,,"ЗБ0Н, Василёво"
 526862,"RU-1016","heliport","KS-7 Syninskaya",65.426335,58.40096,,"AS","RU","RU-KO","Synya","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
+605820,"RU-10160","heliport","Mount Vargina Heliport",43.15844,132.01392,1319,"EU","RU","RU-PRI","Vladivostok","no",,,,,,,"UC9JX"
+605821,"RU-10161","heliport","Cape Markovsky Heliport",43.26177,132.00254,3,"AS","RU","RU-PRI","Vladivostok","no",,,,,,,"U8SCR"
+605822,"RU-10162","heliport","Ocean Ridge Heliport",43.21785,132.07779,385,"EU","RU","RU-PRI","Vladivostok","no",,,,,,,"UT4QG"
 526863,"RU-1017","heliport","KS-5 Usinskaya",66.59084,62.07756,,"AS","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 526968,"RU-1018","heliport","Chaika Coal Terminal Helipad",73.379354,80.59003,71,"AS","RU","RU-KYA","Dikson","no",,,,,,,"HELIOPS, Mining, Coal, Vostokugol-Dikson"
 527128,"RU-1019","heliport","Khralov junction Helipad",68.486875,69.521978,,"AS","RU","RU-YAN","Lidino","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
@@ -57453,6 +57456,9 @@
 604955,"SD5G","small_airport","Fazenda Viúva Negra Airstrip",-27.641864,-49.761214,3068,"SA","BR","BR-SC","Otacílio Costa","no",,,"SD5G","SC0261",,,
 603894,"SD5I","small_airport","Agrodan  Airstrip",-8.667458,-39.162056,1071,"SA","BR","BR-PE","Belém do São Francisco","no",,,"SD5I","PE0111",,,
 603888,"SD5L","heliport","Teófilo Otoni Regional Hospital Helipad",-17.831536,-41.507514,1106,"SA","BR","BR-MG","Teófilo Otoni","no",,,"SD5L","MG0421",,,
+605815,"SD5W","heliport","Fazenda Santo Antônio Heliport",-19.314664,-44.151822,2129,"SA","BR","BR-MG","Funilândia","no",,,"SD5W","MG0665",,,
+605813,"SD5X","heliport","Heli Boss Heliport",-23.008569,-43.301817,20,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SD5X","RJ0402",,,
+605811,"SD5Z","small_airport","Fazenda Pamaluce Airstrip",-14.930284,-48.718138,1822,"SA","BR","BR-GO","Niquelândia","no",,,"SD5Z","GO0425",,,
 24538,"SD61","small_airport","Plihal Farms Airport",43.01019,-97.866235,1435,"NA","US","US-SD","Tyndall","no",,,,"SD61",,,
 24541,"SD64","closed","Estelline Medical Clinic Heliport",44.579527,-96.901177,1659,"NA","US","US-SD","Estelline","no",,,,,,,"SD64"
 24542,"SD65","small_airport","Whipple Ranch Airport",45.437698,-96.999802,1462,"NA","US","US-SD","Wilmot","no",,,,"SD65",,,
