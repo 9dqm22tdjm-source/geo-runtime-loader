@@ -15199,7 +15199,7 @@
 457,"BR-2188","closed","General Canrobert Pereira da Costa Airport",-20.4533,-55.757599,566,"SA","BR","BR-MS","Aquidauana","no",,,,,,,"SSGC"
 464,"BR-2189","small_airport","Independência Airport",-22.278894,-53.38323,1135,"SA","BR","BR-MS","Nova Andradina","no",,,,,,,"SSID"
 472,"BR-2190","small_airport","Campo Novo Airport",-27.666456,-53.8086,1460,"SA","BR","BR-RS","Campo Novo","no",,,,,,,"SSKN"
-478,"BR-2191","small_airport","Medianeira Airport",-25.3109,-54.070499,1473,"SA","BR","BR-PR","Medianeira","no",,,,,,,"SSMD"
+478,"BR-2191","small_airport","Medianeira Airport",-25.3109,-54.070499,1483,"SA","BR","BR-PR","Medianeira","no",,,"SS1H","PR0261",,,"SSMD"
 488,"BR-2192","small_airport","Fazenda São Rafael Airport",-24.769501,-54.118698,1420,"SA","BR","BR-PR","São José das Palmeiras","no",,,,,,,"SSPF"
 491,"BR-2193","small_airport","Porecatu Municipal Airport",-22.775684,-51.363602,1424,"SA","BR","BR-PR","Porecatu","no",,,,,,,"SSPK, SWPU"
 514,"BR-2194","small_airport","Fazenda Torrão de Ouro Airport",-18.181182,-54.502115,899,"SA","BR","BR-MS","Pedro Gomes","no",,,,,,,"SSZJ"
@@ -37220,7 +37220,7 @@
 594172,"JP-3598","heliport","Kohama Heliport",24.34457,123.98119,151,"AS","JP","JP-47","Ishigaki","no",,,,,,,
 594175,"JP-3599","heliport","Iriomote Jungle Beach Heliport",24.38327,123.9068,39,"AS","JP","JP-47","Taketomi","no",,,,,,,
 313629,"JP-3600","small_airport","Satsuma Iōjima Airport",30.784722,130.270556,338,"AS","JP","JP-46","Mishima","no",,,,,,"https://en.wikipedia.org/wiki/Satsuma_I%C5%8Djima_Airport",
-600874,"JP-3601","small_airport","(Duplicate)Narita International Airport",35.769209,140.385232,,"AS","JP","JP-U-A",,"no",,,,,,,
+600874,"JP-3601","closed","(Duplicate)Narita International Airport",35.769209,140.385232,,"AS","JP","JP-U-A",,"no",,,,,,,
 601243,"JP-3602","heliport","Double Tree by Hilton Osaka Castle Helipad",34.690816,135.521577,,"AS","JP","JP-27","Osaka","no",,,,,,,
 601244,"JP-3603","heliport","Kinki Regional Development Bureau Rooftop Heliport",34.684323,135.519379,,"AS","JP","JP-27","Osaka","no",,,,,,,
 601819,"JP-3604","heliport","Higashi-Fuji Technical Center Heliport",35.226662,138.899415,1028,"AS","JP","JP-22","Susono","no",,,,,,"https://en.wikipedia.org/wiki/Higashi-Fuji_Technical_Center",
@@ -54236,7 +54236,7 @@
 3355,"RJ04","small_airport","Shikabe Airfield",42.045033,140.793293,63,"AS","JP","JP-01","Shikabe","no",,,"RJ04","RJ04",,,"Asahikoku Shikabe"
 5531,"RJAA","large_airport","Narita International Airport",35.76858,140.388714,141,"AS","JP","JP-12","Narita","yes","RJAA","NRT","RJAA",,"https://www.narita-airport.jp/en/","https://en.wikipedia.org/wiki/Narita_International_Airport","TYO, Tokyo, Tokyo Narita Airport, New Tokyo International Airport, 成田国際空港, 成田空港, 東京都, 東京成田"
 5532,"RJAF","medium_airport","Shinshu-Matsumoto Airport",36.166801,137.923004,2182,"AS","JP","JP-20","Matsumoto","yes","RJAF","MMJ","RJAF",,"http://www.matsumoto-airport.co.jp/","https://en.wikipedia.org/wiki/Matsumoto_Airport",
-5533,"RJAH","medium_airport","Ibaraki International Airport",36.181456,140.414434,105,"AS","JP","JP-08","Omitama","yes","RJAH","IBR","RJAH",,"https://ibaraki-airport.net","https://en.wikipedia.org/wiki/Hyakuri_Airfield","hyakuri, 茨城空港"
+5533,"RJAH","large_airport","Ibaraki Airport",36.181456,140.414434,105,"AS","JP","JP-08","Omitama","yes","RJAH","IBR","RJAH",,"https://ibaraki-airport.net","https://en.wikipedia.org/wiki/Ibaraki_Airport","Hyakuri, 茨城空港"
 30016,"RJAK","small_airport","JGSDF Kasumigaura Airfield",36.034698,140.192993,92,"AS","JP","JP-08","Tsuchiura","no",,,"RJAK",,,"https://en.wikipedia.org/wiki/Kasumigaura_Air_Field",
 5534,"RJAM","small_airport","JMSDF Minami Torishima Air Base",24.2897,153.979004,22,"AS","JP","JP-13","Ogasawara","no","RJAM","MUS","RJAM",,,"https://en.wikipedia.org/wiki/Minami_Torishima_Airport","Marcus Island Airport"
 30186,"RJAN","small_airport","Niijima Airport",34.3694000244,139.268997192,92,"AS","JP","JP-13","Niijima Village","yes",,,"RJAN",,,"https://en.wikipedia.org/wiki/Niijima_Airport",
@@ -54264,7 +54264,7 @@
 5551,"RJCT","medium_airport","Tokachi Airport",42.890499,143.158005,281,"AS","JP","JP-01","Obihiro","no",,,"RJCT",,,"https://en.wikipedia.org/wiki/Tokachi_Airfield",
 5552,"RJCW","medium_airport","Wakkanai Airport",45.4042015076,141.800994873,30,"AS","JP","JP-01","Wakkanai","yes","RJCW","WKJ","RJCW",,,"https://en.wikipedia.org/wiki/Wakkanai_Airport",
 323826,"RJCY","small_airport","JASDF Yakumo Airbase",42.245955,140.265729,65,"AS","JP","JP-01","Yakumo","no",,,"RJCY",,,"https://en.wikipedia.org/wiki/Yakumo_Sub_Base","RJCY, Yakumo, JASDF, QRN"
-5553,"RJDA","small_airport","Amakusa Airport",32.482498,130.158997,340,"AS","JP","JP-43","Amakusa","yes","RJDA","AXJ","RJDA",,,"https://en.wikipedia.org/wiki/Amakusa_Airfield",
+5553,"RJDA","medium_airport","Amakusa Airport",32.482498,130.158997,340,"AS","JP","JP-43","Amakusa","yes","RJDA","AXJ","RJDA",,,"https://en.wikipedia.org/wiki/Amakusa_Airfield",
 5554,"RJDB","medium_airport","Iki Airport",33.7490005493,129.785003662,41,"AS","JP","JP-42","Iki","yes","RJDB","IKI","RJDB",,,"https://en.wikipedia.org/wiki/Iki_Airport",
 5555,"RJDC","medium_airport","Yamaguchi Ube Airport",33.93,131.279007,23,"AS","JP","JP-35","Ube","yes","RJDC","UBJ","RJDC",,"https://yamaguchiube-airport.jp","https://en.wikipedia.org/wiki/Yamaguchi_Ube_Airport",
 32214,"RJDK","small_airport","Kamigoto Airport",33.013576,129.192363,263,"AS","JP","JP-42","Shinkamigoto","no",,,"RJDK",,,"https://en.wikipedia.org/wiki/Kamigoto_Airport",
@@ -54353,7 +54353,7 @@
 5626,"RJTR","heliport","Camp Zama Kastner Army Heliport",35.512771,139.393437,360,"AS","JP","JP-14","Sagamihara / Zama","no",,,"RJTR",,,"https://en.wikipedia.org/wiki/Camp_Zama",
 309675,"RJTS","heliport","JGSDF Somagahara Heliport",36.434767,138.952936,1300,"AS","JP","JP-10","Maebashi","no",,,"RJTS",,,"https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%A6%AC%E5%8E%9F%E9%A7%90%E5%B1%AF%E5%9C%B0",
 5627,"RJTT","large_airport","Tokyo Haneda International Airport",35.549678,139.786958,35,"AS","JP","JP-13","Tokyo","yes","RJTT","HND","RJTT",,"http://www.haneda-airport.jp/","https://en.wikipedia.org/wiki/Tokyo_International_Airport","TYO, Haneda, 羽田空港, 東京国際空港, 東京, 東京都"
-5628,"RJTU","medium_airport","Utsunomiya Airport",36.5145,139.87101,334,"AS","JP","JP-09","Utsunomiya","no",,,"RJTU",,,"https://en.wikipedia.org/wiki/Utsunomiya_Air_Field","QUT"
+5628,"RJTU","medium_airport","Utsunomiya Air Field",36.5145,139.87101,334,"AS","JP","JP-09","Utsunomiya","no",,,"RJTU",,,"https://en.wikipedia.org/wiki/Utsunomiya_Air_Field","QUT, JGSDF Camp Kita-Utsunomiya, Former JMSDF Utsunomiya Air Base"
 41850,"RJTX","heliport","Yokosuka Heliport",35.289663,139.680047,,"AS","JP","JP-14","Yokosuka","no",,,"RJTX",,,,
 5629,"RJTY","medium_airport","Yokota Air Base",35.748501,139.348007,463,"AS","JP","JP-13","Fussa","no","RJTY","OKO","RJTY",,,"https://en.wikipedia.org/wiki/Yokota_Air_Base",
 317953,"RK01","heliport","Charlie Block (H 177) Heliport",37.83645,126.80712,614,"AS","KR","KR-41","Charlie Block","no",,,"RK01","RK01",,,
@@ -61492,9 +61492,14 @@
 604218,"SN17","heliport","Condomínio Reserva 1727 Heliport",-15.873701,-49.002892,2406,"SA","BR","BR-GO","Pirenópolis","no",,,"SN17","GO0410",,,
 24596,"SN18","small_airport","Sills Air Park",37.66669845581055,-97.01699829101562,1295,"NA","US","US-KS","Augusta","no",,,"SN18","SN18",,,
 604216,"SN19","heliport","Patrimonium Contabilidade Heliport",-20.018858,-45.553227,2090,"SA","BR","BR-MG","Lagoa da Prata","no",,,"SN19","MG0664",,,
+606088,"SN1B","small_airport","Fazenda Brejo Seco Airport",-8.596029,-45.205915,1615,"SA","BR","BR-PI","Baixa Grande do Ribeiro","no",,,"SN1B","PI0123",,,
 604220,"SN1C","small_airport","Fazenda Colina Airstrip",-20.490556,-50.430528,1329,"SA","BR","BR-SP","Marinópolis","no",,,"SN1C","SP1501",,,
 604223,"SN1F","small_airport","Fazenda Barreiro Holding Formoso Airstrip",-17.008149,-50.430576,2221,"SA","BR","BR-GO","Paraúna","no",,,"SN1F","GO0416",,,
+606085,"SN1L","heliport","Domoluz Heliport",-23.210437,-46.500174,3868,"SA","BR","BR-SP","Bom Jesus dos Perdões","no",,,"SN1L","SP1505",,,
 604225,"SN1M","small_airport","Riacho do Mel Airstrip",-9.593878,-37.409671,753,"SA","BR","BR-AL","São José da Tapera","no",,,"SN1M","AL0046",,,
+606087,"SN1P","small_airport","Fazenda Santa Umbelina II Airstrip",-22.96152,-53.849536,970,"SA","BR","BR-MS","Naviraí","no",,,"SN1P","MS0578",,,
+606070,"SN1R","small_airport","Fazenda São Roque Airport",-12.759196,-58.224204,1316,"SA","BR","BR-MT","Brasnorte","no",,,"SN1R","MT1161",,,
+606069,"SN1S","small_airport","Fazenda Simoneti Airstrip",-18.580319,-45.157111,2056,"SA","BR","BR-MG","Três Marias","no",,,"SN1S","MG0662",,,
 24598,"SN20","small_airport","Brady-Pippin Airport",37.71950149536133,-97.04889678955078,1300,"NA","US","US-KS","Augusta","no",,,"SN20","SN20",,,
 24599,"SN21","small_airport","Flory Private Airport",38.822691,-95.288372,1100,"NA","US","US-KS","Baldwin City","no",,,"SN21","SN21",,,
 24600,"SN22","small_airport","Hoelting Airport",39.112202,-94.9561,960,"NA","US","US-KS","Basehor","no",,,,"SN22",,,
@@ -62580,6 +62585,7 @@
 575132,"SS-0065","closed","Gogrial Airstrip",8.53776,28.09541,,"AF","SS","SS-WR","Gogrial","no",,,,,,,
 594848,"SS-0066","small_airport","Abiemnom Airstrip",9.41258,28.83009,1316,"AF","SS","SS-RUW","Abiemnom","no",,,,,,,
 595638,"SS-0067","closed","Natinga Airstrip",4.30506,34.07833,,"AF","SS","SS-EE","Natinga","no",,,,,,,
+606061,"SS07","small_airport","Fazenda Lote 07 Airport",-12.707482,-56.809923,1033,"SA","BR","BR-MT","Tapurah","no",,,"SS07","MT1173",,,
 600774,"SS0L","heliport","Parque São Lourenço II Heliport",-22.766792,-47.245392,2041,"SA","BR","BR-SP","Nova Odessa","no",,,"SS0L","SP1227",,,
 45926,"SS1","seaplane_base","North Country Seaplane Base",46.369833,-91.798,1000,"NA","US","US-WI","Solon Springs","no",,,"SS1","SS1",,,
 604571,"SS1L","small_airport","Fazenda Laguna Airstrip",-14.724292,-45.409781,1867,"SA","BR","BR-GO","Barro Alto","no",,,"SS1L","GO0421",,,
@@ -64627,7 +64633,7 @@
 606005,"TM-0040","closed","International Center for Endocrinology and Surgery Heliport",37.87563,58.35539,1181,"AS","TM","TM-S","Ashgabat","no",,,,,,,
 606006,"TM-0041","heliport","Ashgabat Cardiological Hospital Heliport",37.86872,58.3538,1263,"AS","TM","TM-S","Ashgabat","no",,,,,,,
 606007,"TM-0042","heliport","State Tribune Heliport",37.86939,58.32721,,"AS","TM","TM-S","Ashgabat","no",,,,,,,
-606036,"TM-0043","seaplane_base","(NOT AN AIRPORT)Türkmenbaşy International Seaport",40.004546,53.030532,,"AS","UZ","UZ-U-A","Türkmenbaşy","yes",,,,"TMKRW",,"https://en.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9Fy_International_Seaport",
+606036,"TM-0043","seaplane_base","(NOT A SEAPLANE BASE) Türkmenbaşy International Seaport",40.004546,53.030532,,"AS","UZ","UZ-U-A","Türkmenbaşy","yes",,,,"TMKRW",,"https://en.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9Fy_International_Seaport",
 6395,"TM-UT50","small_airport","Serakhs Airport",36.491901,61.266499,902,"AS","TM","TM-M","Serakhs","no",,,,,,,"Saraghs Southeast, Sarakhs, UT50"
 6397,"TM-UT52","medium_airport","Mary North Airport",37.66429901123047,61.82699966430664,728,"AS","TM","TM-M","Mary","no",,,,,,,"UT52"
 6398,"TM-UT55","small_airport","Kizyl-Arvat Airport",38.98419952392578,56.356998443603516,338,"AS","TM","TM-B","Kizyl-Arvat","no",,,,,,,"UT55"
@@ -84499,6 +84505,7 @@
 602692,"ZA-0352","small_airport","The Coves Airstrip",-25.776769,27.79308,,"AF","ZA","ZA-NW",,"no",,,,,,,
 603927,"ZA-0353","small_airport","Hoedspruit Civil Airfield",-24.347618,30.946141,,"AF","ZA","ZA-NP","Hoedspruit","no",,,,,,,
 603929,"ZA-0354","small_airport","Zandspruit Airstrip",-24.370858,30.926081,,"AF","ZA","ZA-NP","Hoedspruit","no",,,,,,,
+606073,"ZA-0355","small_airport","Atlantic Aerodrome",-33.588163,18.618235,240,"AF","ZA","ZA-WC","City of Cape Town","no","FAAA",,,"FAAA","https://flyatlantic.co.za/",,"Atlantic, Aerodrome, regional, airport, airfield, ga, general aviation, private, luxury, atlantic aerodrome, fbo, amo, fto, restaurant, clubhouse, hangars, rental,"
 31753,"ZA-KIG","small_airport","Koingnaas Airport",-30.187136,17.282706,228,"AF","ZA","ZA-NC","Koingnaas","no",,"KIG",,,,,
 27188,"ZBAA","large_airport","Beijing Capital International Airport",40.077349,116.596702,116,"AS","CN","CN-11","Beijing","yes","ZBAA","PEK","ZBAA",,"https://en.bcia.com.cn/","https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport","BJS, Beijing, Peking, 北京, 北京首都国际机场, 北京首都机场, 北京机场"
 330820,"ZBAD","large_airport","Beijing Daxing International Airport",39.501289,116.413967,98,"AS","CN","CN-11","Beijing","yes","ZBAD","PKX","ZBAD",,,"https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport",
