@@ -19514,7 +19514,7 @@
 348696,"CN-0222","small_airport","Tianjin Binhai Douzhuang Airport",38.56417,117.31323,7,"AS","CN","CN-12","Binhai","no",,,,,,,
 348697,"CN-0223","small_airport","Tai'an Xinkaihe Airport",41.3282,122.45557,26,"AS","CN","CN-21","Anshan","no",,,,,,,
 348699,"CN-0224","small_airport","Luhe Ma'an Airport",32.37938,118.79465,79,"AS","CN","CN-32","Nanjing","no",,,,,,,
-349469,"CN-0225","closed","Aksu Yituan Airport",40.67737,79.89501,3451,"AS","CN","CN-65","Aksu (Yingbin)","no",,,,,,,
+349469,"CN-0225","closed","Aksu Yituan Airport",40.67737,79.89501,3451,"AS","CN","CN-65","Aksu (Yingbin)","no",,,,,,,"ZQIL, Qilan"
 349470,"CN-0226","small_airport","Aksu Zhicheng Airport",40.990059,80.094509,3629,"AS","CN","CN-65","Aksu","no",,,,,,,
 349471,"CN-0227","closed","Yizhou Test Range",42.555418,94.217656,2828,"AS","CN","CN-65","Hami","no",,,,,,,
 349472,"CN-0228","small_airport","Linze Danxia Airport",39.046062,100.168562,5089,"AS","CN","CN-62","Zhangye (Linze)","no",,,,,,,
@@ -19584,7 +19584,7 @@
 351139,"CN-0292","heliport","Shenzhen Longgang Heliport",22.69202,114.23685,194,"AS","CN","CN-44","Shenzhen","no",,,,,,,
 351140,"CN-0293","heliport","Shenzhen Xiyong Heliport",22.61392,114.37731,33,"AS","CN","CN-44","Shenzhen (Longgang)","no",,,,,,,
 351141,"CN-0294","heliport","Zhongshan International Finance Center Heliport",22.52316,113.38264,764,"AS","CN","CN-44","Zhongshan","no",,,,,,,
-351314,"CN-0295","heliport","Simuhana Border Heliport",39.72783,73.94963,9298,"AS","CN","CN-65","Ulugqat","no",,,,,,,
+351314,"CN-0295","heliport","Simuhana Border Heliport",39.72783,73.94963,9298,"AS","CN","CN-65","Ulugqat","no",,,,,,,"ZPOQ1"
 351909,"CN-0296","small_airport","Qingdao Cihang General Airport",36.983261,120.268279,383,"AS","CN","CN-37","Qingdao","no",,,,,,,
 352121,"CN-0297","heliport","Mudanjiang Suifenhe Heliport",44.44387,131.13758,1696,"AS","CN","CN-23","Mudanjiang","no",,,,,,,
 352123,"CN-0298","closed","Mishan Yonghong Airport",45.29021,132.84763,230,"AS","CN","CN-23","Jixi","no",,,,,,,
@@ -39427,9 +39427,11 @@
 41681,"KG-0042","closed","Pokrovka/Ozero Issyk Kul Airport",42.35100173950195,78.01820373535156,5812,"AS","KG","KG-Y","Prokovka","no",,,,,,,
 319131,"KG-0043","small_airport","Ak Bashat Airport",42.889604,73.929985,,"AS","KG","KG-C","Ak Bashat village","no",,,,,,,"Ak Bashat Airport"
 319060,"KG-0044","small_airport","Ak Bashat Airport",42.88958,73.602004,,"AS","KG","KG-C","Ak Bashat village","no",,,,,,,"Ak Bashat Airport"
-351312,"KG-0045","heliport","Irkeshtam Heliport",39.675684,73.896262,9452,"AS","KG","KG-O","Irkeshtam","no",,,,,,,
+351312,"KG-0045","heliport","Irkeshtam Heliport",39.675684,73.896262,9452,"AS","KG","KG-O","Irkeshtam","no",,,,,,,"UC0SP"
 355326,"KG-0046","small_airport","Kara-Kuldja Airport",40.629006,73.622493,,"AS","KG","KG-O","Kara-Kuldja","no",,,,,,,
 605848,"KG-0047","heliport","Sary-Tash Heliport",39.71144,73.23772,10266,"AS","KG","KG-O","Sary-Tash","no",,,,,,,"UCT8D"
+606146,"KG-0048","heliport","Irkeshtam Border Heliport",39.68696,73.92056,9800,"AS","KG","KG-O","Irkeshtam","no",,,,,,,"UCLNA"
+606150,"KG-0049","heliport","Osh Military Heliport",40.51472,72.74905,3255,"AS","KG","KG-GO","Osh","no",,,,,,,
 17573,"KGAB","small_airport","Gabbs Airport",38.923173,-117.9572,4700,"NA","US","US-NV","Gabbs","no","KGAB","GAB","KGAB","GAB",,"https://en.wikipedia.org/wiki/Gabbs_Airport",
 19920,"KGAD","small_airport","Northeast Alabama Regional Airport",33.972599,-86.088996,569,"NA","US","US-AL","Gadsden","no","KGAD","GAD","KGAD","GAD","http://www.nealair.com/","https://en.wikipedia.org/wiki/Northeast_Alabama_Regional_Airport","Gadsden Municipal"
 19921,"KGAF","small_airport","Hutson Field",48.404701232910156,-97.37090301513672,824,"NA","US","US-ND","Grafton","no",,,"KGAF","GAF",,,
@@ -65168,6 +65170,8 @@
 516663,"TT48","small_airport","Wingman Aerodrome",35.993441,-83.299907,1080,"NA","US","US-TN","Dandridge","no",,,"TT48","TT48",,,
 353922,"TT50","small_airport","Daniel HQ/Pease Valley Airstrip",34.051014,-99.588683,1370,"NA","US","US-TX","Crowell","no",,,"TT50","TT50",,,
 598716,"TT53","small_airport","Aeromigos Airfield",29.320577,-103.539248,2547,"NA","US","US-TX","Terlingua","no",,,"TT53","TT53",,,
+606126,"TT54","small_airport","Whiskey Hotel Airpark",30.166481,-98.704537,1788,"NA","US","US-TX","Fredericksburg","no",,,"TT54","TT54",,,
+606129,"TT56","heliport","Christus Health Palestine Heliport",31.737778,-95.631389,548,"NA","US","US-TX","Palestine","no",,,"TT56","TT56",,,
 531585,"TT57","small_airport","Mangham Airport",31.645625,-98.644726,1550,"NA","US","US-TX","Mullin","no",,,"TT57","TT57",,,
 531588,"TT60","heliport","Tow Heliport",30.855525,-98.45418,1073,"NA","US","US-TX","Tow","no",,,"TT60","TT60",,,
 604926,"TT61","small_airport","Salado Bluffs Airport",30.905385,-97.586882,741,"NA","US","US-TX","Salado","no",,,"TT61","TT61",,,
@@ -65177,6 +65181,7 @@
 531716,"TT73","small_airport","Vogt's Vista Airport",32.541589,-95.947774,473,"NA","US","US-TX","Canton","no",,,"TT73","TT73",,,
 601565,"TT74","heliport","Moura Heliport",33.103167,-98.083028,1228,"NA","US","US-TX","Perrin","no",,,"TT74","TT74",,,
 354134,"TT75","small_airport","Berkley Ranch Airport",30.432556,-95.745825,325,"NA","US","US-TX","Conroe","no",,,"TT75","TT75",,,
+606133,"TT80","small_airport","Pecan Valley Airport",30.938638,-97.865319,814,"NA","US","US-TX","Killeen","no",,,"TT80","TT80",,,
 338974,"TT83","heliport","HBR Heliport",30.562092,-98.392831,830,"NA","US","US-TX","Horseshoe Bay","no",,,"TT83","TT83",,,
 604928,"TT86","small_airport","Buffalo Ridge Airport",32.161746,-98.146464,1260,"NA","US","US-TX","Stephenville","no",,,"TT86","TT86",,,
 518331,"TT87","small_airport","Agua Nada Ranch Airport",29.798653,-100.287872,2053,"NA","US","US-TX","Rocksprings","no",,,"TT87","TT87",,,
@@ -70496,6 +70501,7 @@
 606055,"US-12929","heliport","Steed Ranch Heliport",38.613733,-108.085789,5550,"NA","US","US-CO","Olathe","no",,,"CD08","CD08",,,
 334352,"US-1293","heliport","George Washington University Hospital Heliport",38.900903,-77.051132,174,"NA","US","US-DC","Washington","no",,,"24DC","24DC",,,
 606112,"US-12930","heliport","Michigan Helicopters Helideck",42.778497,-83.260752,985,"NA","US","US-MI","Lake Orion","no",,,"MI99","MI99",,,
+606137,"US-12931","heliport","Silvertree Heliport",46.841598,-90.660309,661,"NA","US","US-WI","La Pointe","no",,,"WI28","WI28",,,
 334358,"US-1294","small_airport","Curry Ridge Airport",32.723321,-113.938501,329,"NA","US","US-AZ","Tacna","no",,,"AZ60","AZ60",,,
 334361,"US-1295","closed","Keystone XL Whitewater Heliport",48.7575,-107.524167,2774,"NA","US","US-MT","Whitewater","no",,,,,,,"MT26"
 334362,"US-1296","small_airport","Wapshilla Airport",45.941616,-116.763597,1410,"NA","US","US-ID","Winchester","no",,,,"I45",,,"ID50"
@@ -79366,7 +79372,7 @@
 32038,"UTFN","large_airport","Namangan International Airport",40.984622,71.5578,1555,"AS","UZ","UZ-NG","Namangan","yes","UZFN","NMA","UTFN",,,"https://en.wikipedia.org/wiki/Namangan_Airport",
 30672,"UTKA","large_airport","Andijan International Airport",40.727699,72.293999,1515,"AS","UZ","UZ-AN","Andijan","yes","UZFA","AZN","UZFA",,,"https://en.wikipedia.org/wiki/Andizhan_Airport","UTKA, Andijan Airport, Andizhan Airport, Andijon Airport"
 31118,"UTKF","medium_airport","Fergana International Airport",40.358799,71.745003,1980,"AS","UZ","UZ-FA","Fergana","yes","UZFF","FEG","UZFF",,,"https://en.wikipedia.org/wiki/Fergana_International_Airport","UTKF"
-41794,"UTKK","small_airport","Kokand Airport",40.447183,70.989144,1357,"AS","UZ","UZ-FA","Kokand","no",,"OQN","UTKK",,,,"Kokand South"
+41794,"UTKK","small_airport","Kokand Airport",40.447781,70.991149,1357,"AS","UZ","UZ-FA","Kokand","no",,"OQN","UTKK",,,,"Kokand South"
 32558,"UTNM","small_airport","Muynak Airport",43.753636,59.029884,177,"AS","UZ","UZ-QR","Muynak","no","UTNM","MOK","UTNM",,,"https://en.wikipedia.org/wiki/Muynak_Airport",
 32013,"UTNN","large_airport","Nukus International Airport",42.4884,59.623299,246,"AS","UZ","UZ-QR","Nukus","yes","UZNN","NCU","UTNN",,,"https://en.m.wikipedia.org/wiki/Nukus_Airport","Nokis"
 32559,"UTNT","small_airport","Turtkul Airport",41.57500076293945,60.96659851074219,305,"AS","UZ","UZ-QR","Turtkul","no",,,"UTNT",,,,
@@ -79515,7 +79521,7 @@
 41698,"UZ-0011","closed","Dutyr Airport",40.372501,71.370499,1473,"AS","UZ","UZ-FA","Rishtan","no",,,,,,,
 41699,"UZ-0012","small_airport","Kunkhodzha Airport",43.118801,58.3736,300,"AS","UZ","UZ-QR","Kunkhodzha","no",,,,,,,"Dzhangabirlyk West"
 41700,"UZ-0013","small_airport","Dzhar-Tepe Airport",39.16740036010742,66.7145004272461,2022,"AS","UZ","UZ-QA","Dzhar-Tepe","no",,,,,,,
-41701,"UZ-0014","closed","Fergana Southwest Airport",40.309101,71.7145,2327,"AS","UZ","UZ-FA","Fergana","no",,,,,,,
+41701,"UZ-0014","closed","Fergana Southwest Airport",40.309101,71.7145,2327,"AS","UZ","UZ-FA","Fergana","no",,,,,,,"UTFE"
 41702,"UZ-0015","closed","Galyabita East Airport",38.419701,68.101097,1940,"AS","UZ","UZ-SU","Galyabita","no",,,,,,,
 41703,"UZ-0016","closed","Guzar Airport",38.634701,66.272797,1679,"AS","UZ","UZ-QA","Guzar","no",,,,,,,
 41704,"UZ-0017","closed","Atakent Airport",40.874993,68.460041,852,"AS","UZ","UZ-JI","Atakent","no",,,,,,,
@@ -79529,7 +79535,7 @@
 41712,"UZ-0025","closed","Kokand Southeast Airport",40.377905,71.093859,1890,"AS","UZ","UZ-FA","Kokand","no",,,,,,,
 41713,"UZ-0026","closed","Qo'shrabot Airport",39.766998,64.312103,715,"AS","UZ","UZ-BU","Chor Bakr","no",,,,,,,"Kosh Rabat"
 41714,"UZ-0027","closed","Kumushkent Airport",39.807999,66.844299,2025,"AS","UZ","UZ-SA","Kumushkent","no",,,,,,,
-41715,"UZ-0028","small_airport","Kuva Southeast Airport",40.483441,72.280825,1973,"AS","UZ","UZ-AN","Markhamat","no",,,,,,,"AG3808, FR38715"
+41715,"UZ-0028","small_airport","Kuva Southeast Airport",40.483441,72.280825,1973,"AS","UZ","UZ-AN","Markhamat","no",,,,,,,"AG3808, FR38715, UTMA"
 41716,"UZ-0029","small_airport","Kuva West Airport",40.504785,71.902458,1591,"AS","UZ","UZ-FA","Ramadan","no",,,,,,,
 41717,"UZ-0030","small_airport","Muglan Airport",38.901798248291016,65.39669799804688,1050,"AS","UZ","UZ-QA","Muglan","no",,,,,,,
 41718,"UZ-0031","small_airport","Muruntau Southeast Airport",41.47116470336914,64.66607666015625,1340,"AS","UZ","UZ-NW","Muruntau","no",,,,,,,
@@ -79612,7 +79618,7 @@
 41796,"UZ-0108","closed","Kolodets Sari Bel West Airport",40.3088,67.8507,991,"AS","UZ","UZ-JI","Kolodets Sari","no",,,,,,,
 41797,"UZ-0109","closed","Kukaral Sedmoy Airport",40.652401,69.197197,1039,"AS","UZ","UZ-TO","Kukaral","no",,,,,,,
 41798,"UZ-0110","closed","Quvvacha Airport",39.498299,63.711498,630,"AS","UZ","UZ-BU","Quvvacha","no",,,,,,,"Kuvacha"
-41799,"UZ-0111","closed","Kuvasay North Airport",40.379501,71.976097,2196,"AS","UZ","UZ-FA","Ualik","no",,,,,,,
+41799,"UZ-0111","closed","Kuvasay North Airport",40.381055,71.975923,2196,"AS","UZ","UZ-FA","Ualik","no",,,,,,,"UTQV"
 41800,"UZ-0112","small_airport","Malekskaya Airport",40.709064,68.581698,865,"AS","KZ","KZ-U-A","Malekskaya","no",,,,,,,
 41801,"UZ-0113","closed","Margelan Airport",40.441502,71.6745,1593,"AS","UZ","UZ-FA","Margelan","no",,,,,,,
 41802,"UZ-0114","closed","Matlha Airport",40.377899,69.183098,930,"AS","UZ","UZ-TO","Parchayuz","no",,,,,,,
@@ -79657,6 +79663,16 @@
 429865,"UZ-0153","small_airport","Sokh Airport",39.987938,71.124866,3720,"AS","UZ","UZ-FA","Sokh","no","UZSO",,,,,,"Suh, Sox, Soxh, UTSO"
 605726,"UZ-0154","closed","Zarafshan Heliport",41.55799,64.18929,1385,"AS","UZ","UZ-NW","Zarafshan","no",,,,,,,
 605754,"UZ-0155","heliport","Congress Center Heliport",39.65936,67.06587,2336,"AS","UZ","UZ-SA","Samarkand","no",,,,,,,
+606147,"UZ-0156","heliport","Khanabad Military Heliport",40.81319,73.08004,3458,"AS","UZ","UZ-NG","Khanabad","no",,,,,,,"UTEBA"
+606148,"UZ-0157","heliport","Kurgontepa Dam Heliport",40.83621,73.05029,2690,"AS","UZ","UZ-AN","Kurgontepa","no",,,,,,,"UTOQN"
+606149,"UZ-0158","heliport","Cutkan Heliport",40.79913,72.95076,2448,"AS","UZ","UZ-AN","Cutkan","no",,,,,,,
+606151,"UZ-0159","heliport","Oltiariq Heliport",40.33206,71.45097,1932,"AS","UZ","UZ-FA","Oltiariq","no",,,,,,,"UTZDI, Altyaryk"
+606152,"UZ-0160","heliport","Kokand Industrial Heliport",40.44938,71.02841,1654,"AS","UZ","UZ-FA","Kakyr","no",,,,,,,"UT13U"
+606153,"UZ-0161","heliport","Chirkay Heliport",40.4859,70.80532,1339,"AS","UZ","UZ-FA","Chirkay","no",,,,,,,"UTKDZ, Navbahor"
+606154,"UZ-0162","heliport","Zomin Brewery Heliport",40.01781,68.43334,1683,"AS","UZ","UZ-JI","Zomin","no",,,,,,,"UTMIE"
+606155,"UZ-0163","heliport","ADM Jizzakh Factory Heliport",40.21381,67.94497,1079,"AS","UZ","UZ-JI","Uchtepa","no",,,,,,,"UT032"
+606156,"UZ-0164","heliport","DEYA Jizzakh Factory Heliport",40.15678,67.90859,1132,"AS","UZ","UZ-JI","Jizzakh","no",,,,,,,"UTMZ5"
+606157,"UZ-0165","heliport","Jizzakh Government Heliport",40.13351,67.82186,1194,"AS","UZ","UZ-JI","Jizzakh","no",,,,,,,"UT8UW"
 26427,"UZ-UT73","small_airport","Maymanak Airport",39.137798,65.165298,1047,"AS","UZ","UZ-QA","Maynanak","no",,,,"UT73",,,
 26429,"UZ-UT77","small_airport","Kungirot Airport",43.082662,58.885077,180,"AS","UZ","UZ-QR","Kungirot","no",,,,"UT77",,,"Kungrad"
 313332,"UZM","small_airport","Hope Bay Aerodrome",68.156,-106.618,150,"NA","CA","CA-NU","Hope Bay","no",,"UZM",,"CHB3",,"https://en.wikipedia.org/wiki/Hope_Bay_Aerodrome",
@@ -81385,7 +81401,7 @@
 25719,"WI25","small_airport","Durand Municipal Airport",44.53889846801758,-92.01409912109375,780,"NA","US","US-WI","Durand","no",,,"WI25","WI25",,,
 604931,"WI26","small_airport","Flying Fox Airport",42.582714,-88.570883,1013,"NA","US","US-WI","Williams Bay","no",,,"WI26","WI26",,,
 25721,"WI27","small_airport","Skyport Airport",44.92020034790039,-91.97489929199219,878,"NA","US","US-WI","Menomonie","no",,,"WI27","WI27",,,
-25722,"WI28","small_airport","Walter's Agri-Center Airport",44.586102,-87.557602,717,"NA","US","US-WI","Algoma","no",,,"WI28","WI28",,,
+25722,"WI28","closed","Walter's Agri-Center Airport",44.585758,-87.557038,717,"NA","US","US-WI","Algoma","no",,,,,,,"WI28"
 25723,"WI29","small_airport","Rush River Airport",44.90549850463867,-92.4834976196289,1078,"NA","US","US-WI","Baldwin","no",,,"WI29","WI29",,,
 25724,"WI30","heliport","St Clare Hospital Heliport",43.48139953613281,-89.72959899902344,965,"NA","US","US-WI","Baraboo","no",,,"WI30","WI30",,,
 25725,"WI31","small_airport","Minnesuing Airport",46.410753,-91.653787,1207,"NA","US","US-WI","Lake Nebagamon","no",,,"WI31","WI31",,,
