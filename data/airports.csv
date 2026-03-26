@@ -16326,6 +16326,7 @@
 35343,"BS-0021","closed","Cistern Field",25.7787,-77.885201,18,"NA","BS","BS-BY","Cistern Cay","no",,,,,,"https://en.wikipedia.org/wiki/Cistern_Field","MYBT, MYX5"
 35349,"BS-0022","closed","Cape Eleuthera Airport",24.7861,-76.2962,9,"NA","BS","BS-SE","Cape Eleuthera","no",,,,,,"https://en.wikipedia.org/wiki/Cape_Eleuthera_Airport","CEL, MYEC, MYZ2"
 602572,"BS-0023","closed","Oakes Field Airport",25.055278,-77.36259,30,"NA","BS","BS-NP","Nassau","no",,,,,"https://www.awm.gov.au/collection/C277945",,
+606183,"BS-0024","large_airport","sunwinnltd",80,89,,"NA","BS","BS-LI","Hồ Chí Minh","no",,,,,"https://sunwinn.ltd/",,
 35303,"BS-NSB","seaplane_base","Bimini North Seaplane Base",25.767,-79.25,,"NA","BS","BS-BI","Bimini","yes",,"NSB",,,,"https://en.wikipedia.org/wiki/North_Bimini_Airport",
 302396,"BSV","small_airport","Besakoa Airport",-15.6725,47.061667,40,"AF","MG","MG-M","Besakoa","no",,"BSV",,,,,
 340533,"BT-0001","heliport","Royal Bhutan Police Heliport",27.464609,89.639314,,"AS","BT","BT-15","Thimphu","no",,,,,,,
@@ -31136,16 +31137,16 @@
 38200,"ID-0002","closed","Kamiri Airfield",-0.971504,134.809006,54,"AS","ID","ID-PA","Kamiri-Numfoor Island","no",,,,,,,
 41492,"ID-0003","small_airport","Pulau Panjang Airport",-5.644444,106.5625,155,"AS","ID","ID-JB","Jakarta","no",,"PPJ","WIHG",,,,"WIIG, Panjang Island"
 350462,"ID-0004","small_airport","Okpahik Airstrip",-4.697855,140.770547,6300,"AS","ID","ID-PP","Okpahik","yes",,,,,,,
-593331,"ID-0006","heliport","Garuda Wisnu Kencana Cultural Park Heliport",-8.80779,115.16264,315,"AS","ID","ID-BA","Kuta Selatan, Badung","no",,,,,,,"GWK"
+593331,"ID-0006","heliport","Garuda Wisnu Kencana Cultural Park Heliport",-8.808354,115.16235,315,"AS","ID","ID-BA","Kuta Selatan, Badung","no",,,,,,,"WAMBR, GWK, Bali Helitour"
 41496,"ID-0007","heliport","Malinau Heliport",3.55264,116.6256,86,"AS","ID","ID-KU","Malinau-Borneo Island","no",,,,,,,
 41497,"ID-0008","small_airport","Berau Airport",2.16350007057,117.68699646,39,"AS","ID","ID-KI","Sokan-Borneo Island","no",,,,,,,
 41498,"ID-0009","heliport","Dili Heliport",-8.54854011536,125.519996643,154,"AS","TL","TL-DI","Dili","no",,,,,,,"DIC"
 46490,"ID-0010","small_airport","Jatiwangi Airport",-6.678375,108.252219444,,"AS","ID","ID-JB",,"no",,,,,,,"sugiri sukani, SKI"
-593332,"ID-0011","heliport","Siloam Hospital Denpasar Heliport",-8.71527,115.18479,,"AS","ID","ID-BA","Kuta, Badung","no",,,,,,,
+593332,"ID-0011","heliport","Siloam Hospital Denpasar Heliport",-8.71527,115.18479,,"AS","ID","ID-BA","Kuta, Badung","no",,,,,,,"WAV31"
 301955,"ID-0012","small_airport","Lasondre Airport",-0.01924,98.30097,30,"AS","ID","ID-SU","Pulau-Pulau Batu","yes","WIMO",,"WIMO","LSE",,"https://en.wikipedia.org/wiki/Lasondre_Airport","Bandar Udara Lasondre"
-46593,"ID-0014","heliport","Mason Sky Tours Heliport",-8.718024,115.205471,20,"AS","ID","ID-BA","Denpasar","no",,,,,,,"BAT Private Helipad"
-46594,"ID-0015","heliport","Discovery Kartika Plaza Heliport",-8.7283,115.166393,10,"AS","ID","ID-BA","Kuta, Badung","yes",,,,,,,
-46597,"ID-0016","heliport","Grand Inna Bali Beach Heliport",-8.676952,115.265071,3,"AS","ID","ID-BA","Denpasar","no",,,,,,,
+46593,"ID-0014","heliport","Mason Sky Tours Heliport",-8.718024,115.205471,20,"AS","ID","ID-BA","Denpasar","no",,,,,,,"WA3S8, BAT Private Helipad"
+46594,"ID-0015","heliport","Discovery Kartika Plaza Heliport",-8.728339,115.166369,10,"AS","ID","ID-BA","Kuta, Badung","yes",,,,,,,"WA45J, Discovery Mall Beach, Kartika Plaza"
+46597,"ID-0016","heliport","Grand Inna Bali Beach Heliport",-8.676952,115.265071,3,"AS","ID","ID-BA","Denpasar","no",,,,,,,"WAH0O"
 349721,"ID-0017","closed","Samarinda Temingdun Airport",-0.484524,117.157082,33,"AS","ID","ID-KI","Samarinda","no",,,,,,"https://en.m.wikipedia.org/wiki/Temindung_Airport","SRI, WALS"
 316780,"ID-0018","closed","Selaru Airstrip",-8.256,130.842,20,"AS","ID","ID-MA","Selaru Island","no",,,,,,,"Lingat"
 302358,"ID-0019","heliport","Paiton Power Helipad",-7.7169054,113.597366,5,"AS","ID","ID-JI","Bhinar","no",,,,"PRO",,,
@@ -31402,7 +31403,7 @@
 430653,"ID-0271","small_airport","Dulis Airstrip",-4.077257,140.661553,860,"AS","ID","ID-PP","Dulis","no",,,,,,,
 41400,"ID-0272","closed","Sawan Airfield",-8.13278,115.172997,680,"AS","ID","ID-BA","Sawan, Buleleng","no",,,,,,,"RZS"
 3271,"ID-0273","small_airport","Marimoi Airport",1.101312,127.702467,114,"AS","ID","ID-MU","Modjid-Celebes Island","no",,,"WAEB",,,,"WA98, North Halmahera"
-593334,"ID-0274","heliport","InterContinental Bali Heliport",-8.7776,115.16827,23,"AS","ID","ID-BA","Kuta Selatan, Badung","no",,,,,,,
+593334,"ID-0274","heliport","InterContinental Bali Heliport",-8.777655,115.168285,23,"AS","ID","ID-BA","Kuta Selatan, Badung","no",,,,,,,"WADN0, Jimbaran Beach"
 505522,"ID-0275","heliport","balikpapan helipad",-1.281721,116.814587,,"AS","ID","ID-KI","Balikpapan","no",,,,,,,
 505611,"ID-0276","closed","Kayuadi Airport",-6.857407,120.797467,43,"AS","ID","ID-SN","Kayuadi","no",,,,,,,"Taka Bonerate, Takabonerate"
 507227,"ID-0277","large_airport","Dhoho International Airport",-7.750278,111.947222,380,"AS","ID","ID-JI","Kediri","no","WARD","DHX","WARD",,"https://www.kediri-airport.com/","https://en.wikipedia.org/wiki/Dhoho_International_Airport","Dhoho"
@@ -31429,9 +31430,9 @@
 593335,"ID-0304","heliport","Fly Bali Heliport",-8.83996,115.16181,367,"AS","ID","ID-BA","Kuta Selatan, Badung","no",,,,,,,
 593336,"ID-0305","heliport","SGi Benoa Heliport",-8.72649,115.21595,7,"AS","ID","ID-BA","Denpasar","no",,,,,,,
 593337,"ID-0306","heliport","Balicopter Klapa Helicopter Landing Area",-8.80247,115.12569,157,"AS","ID","ID-BA","Kuta Selatan, Badung","no",,,,,,,
-593338,"ID-0307","heliport","JAG Heliport",-8.83107,115.20812,210,"AS","ID","ID-BA","Kuta Selatan, Badung","no",,,,,,,
-593341,"ID-0308","heliport","Nusa Dua Heliport",-8.80159,115.23846,7,"AS","ID","ID-BA","Kuta Selatan, Badung","no",,,,,,,
-593343,"ID-0309","heliport","Taro Elephant Safari Park Heliport",-8.39278,115.28513,1975,"AS","ID","ID-BA","Ubud, Gianyar","no",,,,,,,
+593338,"ID-0307","heliport","JAG Heliport",-8.83107,115.20812,210,"AS","ID","ID-BA","Kuta Selatan, Badung","no",,,,,,,"WATEX"
+593341,"ID-0308","heliport","Peninsula Island Nusa Dua Heliport",-8.80159,115.23846,7,"AS","ID","ID-BA","Kuta Selatan, Badung","no",,,,,,,"WA84N"
+593343,"ID-0309","heliport","Taro Elephant Safari Park Heliport",-8.39278,115.28513,1975,"AS","ID","ID-BA","Ubud, Gianyar","no",,,,,,,"WA390, Fly Bali Taro Ubud"
 593344,"ID-0310","heliport","Nusa Lembongan Heliport",-8.68446,115.44672,200,"AS","ID","ID-BA","Nusa Penida, Klungkung","no",,,,,,,
 593348,"ID-0311","heliport","Menjangan Dynasty Resort Heliport",-8.13452,114.56342,49,"AS","ID","ID-BA","Gerokgak, Buleleng","no",,,,,,,
 593349,"ID-0312","heliport","Joyo's Heliport",-8.73018,114.35113,17,"AS","ID","ID-JI","Tegaldlimo, Banyuwangi","no",,,,,,,
@@ -31514,6 +31515,12 @@
 605115,"ID-0395","small_airport","Beoga Airstrip",-3.019129,137.2844,,"AS","ID","ID-PT",,"no",,,,,,,
 605870,"ID-0396","heliport","Grosberg Mine Heliport",-4.062167,137.146387,12913,"AS","ID","ID-PT","Tembagapura","no",,,,,,,
 605895,"ID-0397","small_airport","Kabare Airport",-0.05022,131.001631,41,"AS","ID","ID-PD","Kabare","no",,,,,,,
+606167,"ID-0398","heliport","Felix Demin Heliport",-8.82103,115.12648,531,"AS","ID","ID-BA","Badung","no",,,,,,,"WAP92"
+606168,"ID-0399","heliport","Basarnas Heliport",-8.75546,115.16815,16,"AS","ID","ID-BA","Kuta, Badung","no",,,,,,,"WA20L, BNPP"
+606169,"ID-0400","heliport","Viceroy Bali Heliport",-8.49396,115.27707,853,"AS","ID","ID-BA","Ubud, Gianyar","no",,,,,,,"WA42E, Viceroy Ubud"
+606170,"ID-0401","heliport","Mason Adventure Center Heliport",-8.47995,115.24714,958,"AS","ID","ID-BA","Ubud, Gianyar","no",,,,,,,"WASW1"
+606171,"ID-0402","heliport","WRS Seminyak Heliport",-8.6778,115.15064,,"AS","ID","ID-BA","Seminyak, Badung","no",,,,,,,"WAQ9L"
+606172,"ID-0403","heliport","Prof. dr. I.G.N.G. Ngoerah General Hospital Heliport",-8.67541,115.21304,,"AS","ID","ID-BA","Denpasar","no",,,,,,,"WAVZL, Sanglah Hospital"
 41361,"ID-AAS","small_airport","Apalapsili Airport",-3.882495,139.310932,3100,"AS","ID","ID-PP","Apalapsili","no",,"AAS","WAVR","APA",,"https://en.wikipedia.org/wiki/Apalapsili_Airport",
 41362,"ID-AGD","small_airport","Anggi Airport",-1.3858,133.8737,6644,"AS","ID","ID-PB","Anggi-Papua Island","no",,"AGD","WAUA",,,"https://en.wikipedia.org/wiki/Anggi_Airport","WASG"
 43978,"ID-AHI","small_airport","Mina Wanam Airport",-7.540726,139.110916,22,"AS","ID","ID-PS","Wanam","no",,,,,,,"WT82"
@@ -32482,9 +32489,9 @@
 351121,"IR-0044","heliport","Abhar Heliport",36.13321,49.1988,5197,"AS","IR","IR-19","Abhar","no",,,,,,,
 351122,"IR-0045","heliport","South Ghazal Heliport",36.25167,49.20246,5456,"AS","IR","IR-19","Khorramdarreh","no",,,,,,,
 351123,"IR-0046","heliport","Qazvin Provincial Hospital Heliport",36.3242,49.99643,4528,"AS","IR","IR-26","Qazvin","no",,,,,,,
-351124,"IR-0047","small_airport","Aradan Airport",35.23912,52.50806,2844,"AS","IR","IR-20","Aradan","no",,,,,,,
+351124,"IR-0047","small_airport","Aradan Airport",35.238897,52.508967,2844,"AS","IR","IR-20","Aradan","no",,,,,,,"OIAR"
 351126,"IR-0048","heliport","Third Shaban Hospital Heliport",35.69557,52.03871,6388,"AS","IR","IR-23","Damavand","no",,,,,,,
-351127,"IR-0049","heliport","Shahid Sattari Hospital Heliport",35.44636,51.56062,3176,"AS","IR","IR-23","Qarchak","no",,,,,,,
+351127,"IR-0049","heliport","Shahid Sattari Hospital Heliport",35.44636,51.56062,3176,"AS","IR","IR-23","Qarchak","no",,,,,,,"OI2B5"
 351199,"IR-0050","small_airport","Namakabrud Airport",36.68704,51.3089,-59,"AS","IR","IR-02","Namakabrud","no",,,,,,,"Namakabroud, Shahrak-e Namak Abrud"
 351200,"IR-0051","small_airport","Zibakenar Airport",37.45042,49.88422,-84,"AS","IR","IR-01","Zibakenar","no",,,,,,,"Aliabad-e Ziba Kenar"
 351560,"IR-0052","heliport","Gabd-Kumb Border Heliport",25.38261,61.65259,33,"AS","IR","IR-11","Tamp Kuh","no",,,,,,,
@@ -32529,9 +32536,9 @@
 354798,"IR-0091","heliport","Military Heliport Runway (39x)",35.711762,50.934827,,"AS","IR","IR-23",,"no",,,,,,,
 354852,"IR-0092","heliport","Military Helipads (6x)",35.503671,51.015551,,"AS","IR","IR-23","Teheran","no",,,,,,,
 354853,"IR-0093","heliport","Police Helipad",35.470064,51.014671,,"AS","IR","IR-23","Teheran","no",,,,,,,
-355275,"IR-0094","heliport","Motamedi Hospital Garmsar Heliport",35.209278,52.367351,,"AS","IR","IR-20","Garmsār","no",,,,,,,
+355275,"IR-0094","heliport","Motamedi Hospital Garmsar Heliport",35.209278,52.367351,,"AS","IR","IR-20","Garmsār","no",,,,,,,"OIB5X"
 355276,"IR-0095","small_airport","Asgar Abad Airport",35.334787,51.666161,,"AS","IR","IR-23","Varamin","no",,,,,,,
-355277,"IR-0096","heliport","15 Khordad Varamin Hospital Heliport",35.368149,51.61694,,"AS","IR","IR-23","Varamin","no",,,,,,,
+355277,"IR-0096","heliport","15 Khordad Varamin Hospital Heliport",35.368149,51.61694,,"AS","IR","IR-23","Varamin","no",,,,,,,"OI2I8"
 355278,"IR-0097","heliport","Red Crescent Relief and Rescue Base Heliport",35.307931,51.178894,,"AS","IR","IR-23","Amuk-e-pāyin","no",,,,,,,
 355279,"IR-0098","heliport","Shahid Beheshti Hospital Heliport",34.666357,50.882907,,"AS","IR","IR-25","Qom","no",,,,,,,
 355280,"IR-0099","heliport","Imam Reza Hospital Heliport",34.599228,50.801519,,"AS","IR","IR-25","Qom","no",,,,,,,
@@ -32554,7 +32561,7 @@
 355308,"IR-0116","heliport","Pardis Heliport",35.734343,51.834087,,"AS","IR","IR-23","Pardis","no",,,,,,,
 355309,"IR-0117","heliport","Hazrat Mohammad Clinic Rudehen Heliport",35.73332,51.90557,,"AS","IR","IR-23","Rudehen","no",,,,,,,
 355310,"IR-0118","heliport","Imam Khomeini Hospital Heliport",35.754165,52.737608,,"AS","IR","IR-23","Firuzkuh","no",,,,,,,
-355311,"IR-0119","small_airport","Mayamey Airport",36.421453,55.675084,,"AS","IR","IR-20","Mayamey","no",,,,,,,
+355311,"IR-0119","small_airport","Mayamey Airport",36.421453,55.675084,3442,"AS","IR","IR-20","Mayamey","no",,,,,,,"OISU, Shahroud"
 355312,"IR-0120","small_airport","Esfarayen Agricultural Airport",37.017635,57.564388,,"AS","IR","IR-28","Esfarayen","no",,,,,,,
 355313,"IR-0121","heliport","Esfarayen Heliport",37.07381,57.527474,,"AS","IR","IR-28","Esfarayen","no",,,,,,,
 355314,"IR-0122","closed","Khadem Anlu Airport",37.279504,58.827439,,"AS","IR","IR-09","Khadem Anlu","no",,,,,,,
@@ -32642,19 +32649,19 @@
 605718,"IR-0205","heliport","Shahid Bagheri Complex Heliport",36.44462,59.49088,3366,"AS","IR","IR-09","Mashhad","no",,,,,,,
 605719,"IR-0206","heliport","Luqman Hakim Hospital Heliport",36.551,61.16002,896,"AS","IR","IR-09","Sarakhs","no",,,,,,,
 605896,"IR-0207","heliport","Khatam al-Anbia Hospital Heliport",37.376092,57.951346,3638,"AS","IR","IR-28","Shirvan","no",,,,,,,
-605898,"IR-0208","heliport","North Khorasan Red Crescent Heliport",37.421868,57.283176,3930,"AS","IR","IR-28","Bojnurd","no",,,,,,,
-605899,"IR-0209","heliport","Imam Ali Special Clinic Heliport",37.45301,57.32027,3704,"AS","IR","IR-28","Bojnurd","no",,,,,,,
+605898,"IR-0208","heliport","North Khorasan Red Crescent Heliport",37.421868,57.283176,3930,"AS","IR","IR-28","Bojnurd","no",,,,,,,"OIBS8"
+605899,"IR-0209","heliport","Imam Ali Special Clinic Heliport",37.452998,57.320283,3704,"AS","IR","IR-28","Bojnurd","no",,,,,,,"OIFX4"
 605900,"IR-0210","small_airport","Zergh Abad Agricultural Airport",37.044625,57.278175,3458,"AS","IR","IR-28","Zergh Abad","no",,,,,,,
-605901,"IR-0211","small_airport","Jajarm Airport",36.96321,56.46507,2986,"AS","IR","IR-28","Jajarm","no",,,,,,,
+605901,"IR-0211","small_airport","Jajarm Airport",36.96321,56.46507,2986,"AS","IR","IR-28","Jajarm","no",,,,,,,"OIJA, Jajrom"
 605902,"IR-0212","heliport","Jajarm Iran Alumina Company Heliport",36.95354,56.35295,3120,"AS","IR","IR-28","Jajarm","no",,,,,,,
 605903,"IR-0213","heliport","Javadol-Aeme Hospital Heliport",36.95786,56.3437,3153,"AS","IR","IR-28","Jajarm","no",,,,,,,
 605904,"IR-0214","heliport","Nardin Heliport",37.039251,55.801349,4640,"AS","IR","IR-28","Nardin","no",,,,,,,
-605905,"IR-0215","heliport","Imam Reza Hospital Heliport",36.40841,55.67325,3497,"AS","IR","IR-20","Mayamey","no",,,,,,,
+605905,"IR-0215","heliport","Imam Reza Hospital Heliport",36.40841,55.67325,3497,"AS","IR","IR-20","Mayamey","no",,,,,,,"OI6W8"
 605906,"IR-0216","heliport","158th Shahroud Ranger Brigade Heliport",36.41335,54.99161,4383,"AS","IR","IR-20","Shahroud","no",,,,,,,
 605907,"IR-0217","heliport","Imam Hossein Hospital Shahroud Heliport",36.42123,55.00124,4409,"AS","IR","IR-20","Shahroud","no",,,,,,,
-605908,"IR-0218","heliport","Damghan Provincial Hospital Heliport",36.17041,54.30714,3921,"AS","IR","IR-20","Damghan","no",,,,,,,
-605909,"IR-0219","heliport","Kosar Hospital Heliport",35.597044,53.371888,4026,"AS","IR","IR-20","Semnan","no",,,,,,,
-605910,"IR-0220","heliport","Semnan Provincial Police Headquarters Heliport",35.59018,53.38262,3914,"AS","IR","IR-20","Semnan","no",,,,,,,
+605908,"IR-0218","heliport","Damghan Provincial Hospital Heliport",36.17041,54.30714,3921,"AS","IR","IR-20","Damghan","no",,,,,,,"OICXV"
+605909,"IR-0219","heliport","Kosar Hospital Heliport",35.597044,53.371888,4026,"AS","IR","IR-20","Semnan","no",,,,,,,"OIA36"
+605910,"IR-0220","heliport","Semnan Provincial Police Headquarters Heliport",35.59018,53.38262,3914,"AS","IR","IR-20","Semnan","no",,,,,,,"OICSR"
 605911,"IR-0221","small_airport","Saberin Base Airstrip",35.68411,51.52019,4150,"AS","IR","IR-23","Tehran","no",,,,,,,
 605912,"IR-0222","heliport","Shamsabad Industrial City Heliport",35.3584,51.22359,3202,"AS","IR","IR-23","Shamsabad","no",,,,,,,
 605913,"IR-0223","small_airport","Jafarabad Agricultural Airfield",34.82798,50.73128,2923,"AS","IR","IR-25","Jafarabad","no",,,,,,,
@@ -32668,6 +32675,11 @@
 605922,"IR-0231","heliport","Qasr-e Shirin Border Regiment Medical Heliport",34.52559,45.60622,1366,"AS","IR","IR-05","Qasr-e Shirin","no",,,,,,,
 605923,"IR-0232","heliport","Qasr-e Shirin Hospital Heliport",34.50755,45.5948,1181,"AS","IR","IR-05","Qasr-e Shirin","no",,,,,,,
 605924,"IR-0233","heliport","Khosravi Border Patrol Heliport",34.39121,45.47892,886,"AS","IR","IR-05","Khosravi","no",,,,,,,
+606161,"IR-0234","heliport","Islamic Azad University of Quchan Heliport",37.06685,58.53776,4393,"AS","IR","IR-09","Quchan","no",,,,,,,"OI7UC"
+606162,"IR-0235","heliport","Shirvan Combine Cycle Power Plant Heliport",37.33753,58.05079,3852,"AS","IR","IR-28","Devin","no",,,,,,,"OIFIA"
+606164,"IR-0236","heliport","Barekat Hospital Heliport",35.72437,51.24715,,"AS","IR","IR-23",,"no",,,,,,,
+606165,"IR-0237","heliport","Tehran Air Emergency Heliport",35.53768,51.49819,3330,"AS","IR","IR-23","Tehran","no",,,,,,,
+606166,"IR-0238","heliport","Taqi Abad Heliport",35.5796,51.46216,3435,"AS","IR","IR-23","Tehran","no",,,,,,,"OIG5V"
 3352,"IR-OI24","small_airport","Gonbad-e Kavus Airport",37.246101,55.095901,107,"AS","IR","IR-27","Gonbad-e Kavus","no",,,,"OI24",,,
 317284,"IRU","seaplane_base","Iranamadu Seaplane Base",9.299746,80.448627,102,"AS","LK","LK-4","Iranamadu","no",,"IRU",,,,,
 314970,"IS-0001","closed","Suðureyri Airport",66.1318,-23.544,92,"EU","IS","IS-4","Suðureyri","no",,,,,,,"SUY, BISU"
@@ -51276,7 +51288,7 @@
 23665,"OI06","small_airport","Wagner Airport",39.991687,-84.291615,935,"NA","US","US-OH","West Milton","no",,,"OI06","OI06",,,
 23668,"OI11","small_airport","Hibbetts Airport",40.63742,-81.112141,1060,"NA","US","US-OH","Carrollton","no",,,"OI11","OI11",,,
 3347,"OI13","small_airport","Mahmudabad Airport",30,53.71149826049805,6970,"AS","IR","IR-07",,"no",,,"OI13","OI13",,,
-3348,"OI19","small_airport","Shahid Aryafar Airport",35.5299,51.505798,3380,"AS","IR","IR-23","Firuzabad","no",,,"OIIR","OI19",,,
+3348,"OI19","small_airport","Shahid Aryafar Airport",35.530835,51.505586,3380,"AS","IR","IR-23","Firuzabad","no",,,"OIIR","OI19",,,
 3349,"OI1C","small_airport","Mehtar Kalateh Airport",36.856899,54.202202,-64,"AS","IR","IR-27","Mehtar Kalateh","no",,,"OI1C","OI1C",,,
 3350,"OI20","small_airport","Bahregan Airport",29.840099,50.272701,20,"AS","IR","IR-18","Imam Hassan","no",,"IAQ","OI20","OI20",,"https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D8%AF%DA%AF%D8%A7%D9%87_%D8%A8%D9%87%D8%B1%DA%AF%D8%A7%D9%86",
 23671,"OI22","small_airport","Carroll's Airport",41.333900451660156,-82.10260009765625,755,"NA","US","US-OH","Elyria","no",,,"OI22","OI22",,,
@@ -51401,7 +51413,7 @@
 5181,"OIMC","medium_airport","Sarakhs Airport",36.501202,61.064899,945,"AS","IR","IR-09","Sarakhs","no","OIMC","CKT","OIMC",,,"https://en.wikipedia.org/wiki/Sarakhs_Airport",
 42517,"OIMD","small_airport","Gonabad Airport",34.349998474121094,58.68000030517578,,"AS","IR","IR-09","Gonabad","no",,,"OIMD",,,,"Gulnabad, Goonabad, Juymand, گناباد"
 42518,"OIMH","small_airport","Torbat-e Heydarieh Airport",35.266700744628906,59.21670150756836,4363,"AS","IR","IR-09","Torbat-E-Heidarieh","no",,,"OIMH",,,,"Torbat-E-Heidarieh"
-5182,"OIMJ","small_airport","Shahrud International Airport",36.425301,55.104198,4215,"AS","IR","IR-20","Shahrud","no","OIMJ","RUD","OIMJ",,,"https://en.wikipedia.org/wiki/Shahroud_Airport",
+5182,"OIMJ","small_airport","Shahrud International Airport",36.424889,55.104289,4215,"AS","IR","IR-20","Shahrud","no","OIMJ","RUD","OIMJ",,,"https://en.wikipedia.org/wiki/Shahroud_Airport","Shahroud"
 5183,"OIMM","large_airport","Mashhad International Airport",36.234821,59.642949,3263,"AS","IR","IR-09","Mashhad","yes","OIMM","MHD","OIMM",,"https://mashhad.airport.ir/","https://en.wikipedia.org/wiki/Mashhad_International_Airport","Shahid Hashemi Nejad Airport, Mashhad Shahid Hasheminejad International Airport"
 5184,"OIMN","medium_airport","Bojnord Airport",37.49300003051758,57.30820083618164,3499,"AS","IR","IR-28","Bojnord","yes","OIMN","BJB","OIMN",,,"https://en.wikipedia.org/wiki/Bojnourd_Airport","Bojnourd"
 5185,"OIMS","medium_airport","Sabzevar National Airport",36.16809844970703,57.59519958496094,3010,"AS","IR","IR-09","Sabzevar","yes","OIMS","AFZ","OIMS",,,"https://en.wikipedia.org/wiki/Sabzevar_Airport",
@@ -51430,7 +51442,7 @@
 5202,"OITP","small_airport","Parsabad-Moghan Airport",39.6036,47.8815,251,"AS","IR","IR-24","Parsabad","yes","OITP","PFQ","OITP",,,"https://en.wikipedia.org/wiki/Parsabad-Moghan_Airport",
 5203,"OITR","medium_airport","Urmia Airport",37.6680984497,45.0686988831,4343,"AS","IR","IR-04","Urmia","yes","OITR","OMH","OITR",,,"https://en.wikipedia.org/wiki/Urmia_Airport",
 42525,"OITS","small_airport","Saghez Airport",36.211407,46.313124,4880,"AS","IR","IR-12","Saghez","no",,,"OITS",,,"https://en.wikipedia.org/wiki/Saqqez_Airport","Saqqez"
-5204,"OITT","medium_airport","Tabriz International Airport",38.1339,46.235001,4459,"AS","IR","IR-03","Tabriz","yes","OITT","TBZ","OITT",,"http://www.tabrizairport.ir/","https://en.wikipedia.org/wiki/Tabriz_International_Airport","IRIAF"
+5204,"OITT","large_airport","Tabriz International Airport",38.1339,46.235001,4459,"AS","IR","IR-03","Tabriz","yes","OITT","TBZ","OITT",,"https://www.tabrizairport.ir/","https://en.wikipedia.org/wiki/Tabriz_International_Airport","IRIAF"
 42526,"OITU","medium_airport","Maku National Airport",39.191293,44.928505,3136,"AS","IR","IR-04","Showt","no","OITU","IMQ","OITU",,,"https://en.wikipedia.org/wiki/Maku_International_Airport","Makou"
 5205,"OITZ","medium_airport","Zanjan Airport",36.7737007141,48.3594017029,5382,"AS","IR","IR-19","Zanjan","no","OITZ","JWN","OITZ",,,"https://en.wikipedia.org/wiki/Zanjan_Airport",
 5206,"OIYY","medium_airport","Shahid Sadooghi Airport",31.9048995972,54.2765007019,4054,"AS","IR","IR-21","Yazd","yes","OIYY","AZD","OIYY",,,"https://en.wikipedia.org/wiki/Shahid_Sadooghi_Airport",
@@ -52541,7 +52553,7 @@
 325770,"PH-0028","heliport","Baquioen Heliport",16.084522,120.110154,,"AS","PH","PH-PAN","Sual","no",,,,,,,"Baquioen, Sual"
 325785,"PH-0029","heliport","Sual Power Plant Heliport",16.126615,120.097104,,"AS","PH","PH-PAN","Sual","no",,,,,,"https://en.wikipedia.org/wiki/Sual_Power_Station","Sual Power Plant, Pangasinan"
 325791,"PH-0030","closed","Naulo Point Airstrip",15.713829,119.897844,,"AS","PH","PH-ZMB","Santa Cruz","no",,,,,,,"Naulo Point"
-325799,"PH-0031","heliport","Naval Station Leovigildo Gantioqui Heliport",14.960447,120.071002,,"AS","PH","PH-ZMB","San Miguel","no",,,,,,"https://en.wikipedia.org/wiki/U.S._Naval_Communications_Station_San_Miguel","San Miguel, Naval Station LeoVigildo Gantioqui"
+325799,"PH-0031","heliport","Naval Station Leovigildo Gantioqui Heliport",14.960447,120.071002,36,"AS","PH","PH-ZMB","San Miguel","no",,,,,,"https://en.wikipedia.org/wiki/U.S._Naval_Communications_Station_San_Miguel","San Miguel, Naval Station Leovigildo Gantioqui"
 325809,"PH-0032","heliport","Bataan Nuclear Power Plant Heliport",14.630793,120.315316,,"AS","PH","PH-BAN","Morong","no",,,,,,,"Bataan Nuclear Power Plant"
 325853,"PH-0033","heliport","Manila International Container Terminal (MICT) Heliport",14.597028,120.954743,14,"AS","PH","PH-00","Tondo","no",,,,,,,"MICT, Manila International Container Terminal, ICTSI"
 325864,"PH-0034","closed","Manila North Harbor Container Terminal Helipad",14.619012,120.958809,,"AS","PH","PH-00","Manila","no",,,,,,,"Manila North Harbor Container Terminal"
@@ -52565,13 +52577,13 @@
 325889,"PH-0052","heliport","Manila South Harbor Pier 13 Heliport",14.582711,120.967669,,"AS","PH","PH-00","Manila","no",,,,,,,"Port of Manila, South Harbor"
 325890,"PH-0053","heliport","Manila Hotel Heliport",14.583489,120.973616,,"AS","PH","PH-00","Manila","no",,,,,,,"Manila Hotel"
 325891,"PH-0054","heliport","Port of Manila South Harbor Pier 17 Helipad",14.581421,120.97311,,"AS","PH","PH-00","Manila South Harbor","no",,,,,,,"Port of Manila South Harbor"
-325892,"PH-0055","heliport","Naval Station Jose Andrada Heliport",14.560458,120.985263,,"AS","PH","PH-00","Malate","no",,,,,,,"Naval Station Jose Andrada"
-325893,"PH-0056","heliport","Sofitel Philippine Plaza Hotel Heliport",14.552693,120.980409,,"AS","PH","PH-00","Pasay","no",,,,,,,"Sofitel Philippine Plaza Hotel"
+325892,"PH-0055","heliport","Naval Station Jose Andrada Heliport",14.560458,120.985263,,"AS","PH","PH-00","Malate","no",,,,,,,"Philippine Navy Headquarters"
+325893,"PH-0056","heliport","Sofitel Philippines Plaza Hotel Heliport",14.552693,120.980409,,"AS","PH","PH-00","Pasay","no",,,,,,,"Sofitel Philippines Plaza Hotel"
 325895,"PH-0057","heliport","CCP Open Grounds Heliport",14.552598,120.983714,20,"AS","PH","PH-00","Pasay","no",,,,,,,"CCP Open Field, Pasay"
 325896,"PH-0058","heliport","Conrad Manila Hotel Heliport",14.531926,120.980394,,"AS","PH","PH-00","Pasay","no",,,,,,,"Conrad Manila Hotel, Pasay"
 325900,"PH-0059","heliport","Solaire Manila Resort & Casino Heliport 1",14.523574,120.980773,,"AS","PH","PH-00","Parañaque","no",,,,,,,"Solaire Resort, Solaire Casino, Parañaque"
 325901,"PH-0060","heliport","Solaire Manila Resort & Casino Heliport 2",14.522153,120.980911,,"AS","PH","PH-00","Parañaque","no",,,,,,,"Solaire Manila Resort & Casino, Parañaque"
-325906,"PH-0061","heliport","Fort Felipe Naval Logistics Center Heliport",14.483864,120.917295,,"AS","PH","PH-CAV","Cavite","no",,,,,,,"Fort Felipe, Cavite"
+325906,"PH-0061","heliport","Fort San Felipe Naval Logistics Center Heliport",14.483864,120.917295,3,"AS","PH","PH-CAV","Cavite","no",,,,,,,"Fort Felipe, Cavite"
 325907,"PH-0062","heliport","Petron Rosario Refinery Helipad",14.41274,120.856393,,"AS","PH","PH-CAV","Rosario","no",,,,,,,"Petron Rosario Refinery"
 325908,"PH-0063","heliport","Capipisa (Tanza) Heliport",14.348114,120.781138,,"AS","PH","PH-CAV","Tanza","no",,,,,,,"Capipisa, Tanza"
 325912,"PH-0064","heliport","General Gregorio Lim Marine Base Heliport",14.267422,120.626543,,"AS","PH","PH-CAV","Ternate","no",,,,,,,"General Gregorio Lim Marine Base, Bucana"
@@ -52583,7 +52595,7 @@
 325939,"PH-0070","closed","Barit Island Airstrip",18.869946,121.256533,92,"AS","PH","PH-CAG","Aparri","no",,,,,,"https://en.wikipedia.org/wiki/Barit_Island","Barit"
 325940,"PH-0071","small_airport","Mabag Island Airstrip",18.884767,121.257048,,"AS","PH","PH-CAG","Aparri","no",,,,,,,"Mabag"
 325946,"PH-0072","closed","Camalaniugan Airport",18.301036,121.664958,,"AS","PH","PH-CAG","Catotoran","no",,,,,,"https://en.wikipedia.org/wiki/List_of_airports_in_the_Philippines#Military_airfields","Camalaniugan, Catotoran"
-593345,"PH-0073","small_airport","Camaya Coast Airport",14.44802,120.42486,250,"AS","PH","PH-BAN","Mariveles","no",,,,,,,
+593345,"PH-0073","small_airport","Camaya Coast Airport",14.44802,120.42486,250,"AS","PH","PH-BAN","Mariveles","no",,,,,"https://realestate.camayacoast.com/camaya-pad.html",,"Camaya PAD, Camaya Premium Airpark Development"
 325949,"PH-0074","small_airport","Lal-lo Airstrip",18.129702,121.686544,,"AS","PH","PH-CAG","Lal-lo","no",,,,,,,"Lal-lo"
 325950,"PH-0075","small_airport","Jose Paredes Airbase",18.402542,120.666339,,"AS","PH","PH-ILN","Agaga","no",,,,,,,"Jose Parades, Agaga"
 325951,"PH-0076","closed","Divilacan Airstrip",17.332368,122.299504,26,"AS","PH","PH-ISA","Ilagan","no",,,,,,,"Divilacan"
@@ -52666,7 +52678,7 @@
 326139,"PH-0153","heliport","Nasipit Heliport",8.976852,125.32937,,"AS","PH","PH-AGN","Nasipit","no",,,,,,,"Nasipit"
 326140,"PH-0154","closed","Nasipit Airfield",8.986384,125.337954,,"AS","PH","PH-AGN","Nasipit","no",,,,,,,"Nasipit"
 326143,"PH-0155","closed","Findlay Millar Lumber Airstrip",8.11027,123.88301,3,"AS","PH","PH-LAN","Kolambugan","no",,,,,,,"Baybay, Titunud, Finlay Millar Lumber"
-326144,"PH-0156","small_airport","Refugio Airstrip",10.51524,123.447104,13,"AS","PH","PH-NEC","Calatrava","no",,,,,,,"Refugio"
+326144,"PH-0156","small_airport","Refugio Airstrip",10.51524,123.447104,13,"AS","PH","PH-NEC","Calatrava","no",,,,,,,"Hacienda Refugio"
 326145,"PH-0157","closed","San Carlos Community Airport [under construction]",10.508784,123.434358,10,"AS","PH","PH-NEC","Punao","no",,,,,,,"San Carlos, Punao"
 326146,"PH-0158","heliport","Wallace Air Force Station Heliport",16.619112,120.282509,56,"AS","PH","PH-LUN","Poro Point (San Fernando)","no","RPLW",,"RPLW",,,"https://en.wikipedia.org/wiki/Naval_Station_Ernesto_Ogbinar#Wallace_Drone_Launch_Facility","Ernesto Ogbinar NAS"
 326186,"PH-0159","heliport","Balamban Heliport",10.470439,123.69704,,"AS","PH","PH-CEB","Balamban","no",,,,,,,"Balamban"
@@ -52685,14 +52697,14 @@
 335115,"PH-0172","heliport","Chatham House Helipad",14.559565,121.019472,,"AS","PH","PH-00","Makati","no",,,,,,,"Chatham House, Makati"
 335147,"PH-0173","heliport","Bataan 2020 Helipad",14.768859,120.504089,,"AS","PH","PH-BAN","Samal","no",,,,,,,
 335148,"PH-0174","closed","Sabang South Bay Domestic Airport",14.44186,120.582397,,"AS","PH","PH-BAN","Sabang","no",,,,,,,
-335149,"PH-0175","heliport","Mariveles Power Plant Helipad",14.42238,120.53947,,"AS","PH","PH-BAN","Mariveles","no",,,,,,,
+335149,"PH-0175","heliport","Mariveles Power Plant Heliport",14.422408,120.539422,75,"AS","PH","PH-BAN","Mariveles","no",,,,,,,
 337332,"PH-0176","small_airport","Bicobian Bay Airstrip",17.34772,122.36638,26,"AS","PH","PH-ISA","Ilagan","no",,,,,,,
 336088,"PH-0177","closed","Batangas Airfield",13.77203,121.06114,,"AS","PH","PH-BTG","Batangas","no",,,,,,,
 336811,"PH-0178","small_airport","PAL Aviation and Omni Runway",15.172672,120.564126,,"AS","PH","PH-PAM","Mabalacat","no",,,,,,,
 336812,"PH-0179","heliport","Angeles University Medical Center Helipad",15.144919,120.594875,,"AS","PH","PH-PAM","Angeles","no",,,,,,,
 336814,"PH-0180","heliport","Potipot Island Helipad",15.678205,119.92105,,"AS","PH","PH-ZMB","Candelaria","no",,,,,,,
 336815,"PH-0181","heliport","Anvaya Cove Heliport",14.71879,120.27186,,"AS","PH","PH-BAN","Morong","no",,,,,,,
-336816,"PH-0182","heliport","Hanjin Heavy Industries Corporation Helipad",14.82267,120.20847,,"AS","PH","PH-ZMB","Subic","no",,,,,,,
+336816,"PH-0182","heliport","Naval Operating Base Subic Heliport",14.82267,120.20847,138,"AS","PH","PH-ZMB","Subic","no",,,,,,,"Hanjin Heavy Industries Corporation"
 336817,"PH-0183","closed","Long Beach Airstrip",14.69119,120.26668,,"AS","PH","PH-BAN","Morong","no",,,,,,,
 336818,"PH-0184","closed","Bataan Field",14.45046,120.57002,,"AS","PH","PH-BAN","Mariveles","no",,,,,,,
 336819,"PH-0185","heliport","PhilComSat Heliport",14.58549,121.29397,,"AS","PH","PH-RIZ","Tanay","no",,,,,,,
@@ -52709,10 +52721,10 @@
 337353,"PH-0196","closed","Waloe Airstrip",8.217171,125.783844,220,"AS","PH","PH-AGS","Loreto","no",,,,,,,
 337354,"PH-0197","closed","Guianga Airstrip",7.09551,125.39023,2402,"AS","PH","PH-DVO","Davao","no",,,,,,,"Tamayong"
 337355,"PH-0198","small_airport","Consuelo Airstrip 1",7.64333,126.09444,,"AS","PH","PH-COM","New Bataan","no",,,,,,,"Compostela Airstrip 1"
-337356,"PH-0199","small_airport","Consuelo Airstrip 2",7.633245,126.088822,,"AS","PH","PH-COM","New Bataan","no",,,,,,,"Compostela Airstrip 2"
+337356,"PH-0199","closed","Consuelo Airstrip 2",7.633222,126.088913,,"AS","PH","PH-COM","New Bataan","no",,,,,,,"Compostela Airstrip 2"
 337357,"PH-0200","closed","Cogonon Airstrip",7.58916,126.11055,,"AS","PH","PH-COM","New Bataan","no",,,,,,,
-337358,"PH-0201","small_airport","Dizon Airstrip",7.48762,125.93749,,"AS","PH","PH-COM","Mawab","no",,,,,,,
-337359,"PH-0202","small_airport","Mampising (LADECO-Maryland) Airstrip",7.26207,125.84254,,"AS","PH","PH-COM","Mabini","no",,,,,,,
+337358,"PH-0201","closed","Dizon Airstrip",7.48762,125.93749,,"AS","PH","PH-COM","Mawab","no",,,,,,,
+337359,"PH-0202","closed","Mampising (LADECO-Maryland) Airstrip",7.26207,125.84254,,"AS","PH","PH-COM","Mabini","no",,,,,,,
 337360,"PH-0203","small_airport","Mapawa Airstrip",7.30726,126.1468,2080,"AS","PH","PH-COM","Maragusan","no",,,,,,,"RPAN"
 337361,"PH-0204","small_airport","Mawab Airstrip",7.5323,125.94423,,"AS","PH","PH-COM","Mawab","no",,,,,,,"Sumifru Mawab"
 337362,"PH-0205","small_airport","Neda Airstrip",7.73958,126.07511,223,"AS","PH","PH-COM","Monkayo","no",,,,,,,
@@ -52776,7 +52788,7 @@
 338284,"PH-0263","heliport","One E-Com Center Helipad",14.537586,120.981547,,"AS","PH","PH-00","Pasay","no",,,,,,,
 338286,"PH-0264","heliport","SM Mall of Asia North Wing Helipad",14.53674,120.981671,,"AS","PH","PH-00","Pasay","no",,,,,,,
 338287,"PH-0265","closed","SM Mall of Asia South Wing Helipad",14.533598,120.98181,,"AS","PH","PH-00","Pasay","no",,,,,,,
-338288,"PH-0266","heliport","GSIS Complex Helipad",14.546694,120.984036,,"AS","PH","PH-00","Pasay","no",,,,,,,
+338288,"PH-0266","heliport","Government Service Insurance System (GSIS) Complex Helipad",14.546694,120.984036,,"AS","PH","PH-00","Pasay","no",,,,,,,
 338289,"PH-0267","heliport","Philippine National Bank Financial Complex Heliport",14.548667,120.988382,,"AS","PH","PH-00","Pasay","no",,,,,,,
 338291,"PH-0268","heliport","Malacañang Park Heliport",14.59365,120.99712,,"AS","PH","PH-00","Manila","no",,,,,,,
 338321,"PH-0269","heliport","SM Pampanga Heliport",15.053794,120.698002,,"AS","PH","PH-PAM","San Fernando","no",,,,,,,
@@ -52833,11 +52845,11 @@
 341181,"PH-0320","closed","Angeles Northeast Airfield",15.15326,120.60049,,"AS","PH","PH-PAM","Angeles","no",,,,,,,
 341182,"PH-0321","closed","Grace Park / Manila North Airfield",14.65135,120.99138,,"AS","PH","PH-00","Caloocan","no",,,,,,,
 341187,"PH-0322","heliport","Naval Station Jose Francisco Heliport",14.529907,121.028253,,"AS","PH","PH-00","Taguig","no",,,,,,,
-341192,"PH-0323","heliport","United States Embassy Heliport",14.57617,120.97736,,"AS","PH","PH-00","Manila","no",,,,,,,
+341192,"PH-0323","heliport","United States Embassy Heliport",14.57617,120.97736,10,"AS","PH","PH-00","Manila","no",,,,,,,
 341369,"PH-0324","heliport","SM Southmall Helipad",14.431635,121.011659,,"AS","PH","PH-00","Las Piñas","no",,,,,,,
 341398,"PH-0325","heliport","Fairways Tower Helipad",14.54604,121.04527,,"AS","PH","PH-00","Taguig","no",,,,,,,
 341534,"PH-0326","heliport","James Steelworks Heliport",14.53525,121.36838,,"AS","PH","PH-RIZ","Tanay","no",,,,,,,
-341535,"PH-0327","heliport","Cavite Naval Hospital Heliport",14.483498,120.913526,,"AS","PH","PH-CAV","Cavite","no",,,,,,,
+341535,"PH-0327","heliport","Cavite Naval Hospital Heliport",14.48352,120.913495,7,"AS","PH","PH-CAV","Cavite","no",,,,,,,
 341536,"PH-0328","heliport","Maritime Safety Services Command Heliport",14.495423,120.912314,,"AS","PH","PH-CAV","Cavite","no",,,,,,,
 341538,"PH-0329","heliport","Island Cove Heliport",14.46306,120.92336,,"AS","PH","PH-CAV","Kawit","no",,,,,,,
 341579,"PH-0330","heliport","Belvedere Tower Helipad",14.57963,121.05879,,"AS","PH","PH-00","Pasig","no",,,,,,,
@@ -52861,11 +52873,11 @@
 341597,"PH-0348","heliport","DILG-NAPOLCOM Center Helipad",14.64463,121.03669,,"AS","PH","PH-00","Quezon City","no",,,,,,,
 342106,"PH-0349","closed","New Manila International Airport (Under Construction)",14.742719,120.871831,18,"AS","PH","PH-BUL","Manila","no",,,,,"https://newnaia.com.ph/","https://en.wikipedia.org/wiki/New_Manila_International_Airport","Bulacan International Airport"
 342182,"PH-0350","small_airport","La Libertad Airstrip",7.46943,125.63599,69,"AS","PH","PH-DAV","Santo Tomas","no",,,,,,,"Braulio E. Dujali, Farmington"
-342183,"PH-0351","small_airport","TADECO Santo Tomas Airstrip",7.43677,125.5999,108,"AS","PH","PH-DAV","Santo Tomas","no",,,,,,,
+342183,"PH-0351","small_airport","TADECO Santo Tomas Airstrip",7.436731,125.600035,108,"AS","PH","PH-DAV","Santo Tomas","no",,,,,,,
 342184,"PH-0352","small_airport","MEPI Aerodrome",7.51213,125.64206,89,"AS","PH","PH-DAV","Santo Tomas","no",,,,,,,
 342185,"PH-0353","small_airport","A O Floirendo Airstrip",7.38908,125.57206,118,"AS","PH","PH-DAV","Panabo","no",,,,,,,
 342186,"PH-0354","small_airport","Searbemco Airstrip",7.380145,125.58743,75,"AS","PH","PH-DAV","Panabo","no",,,,,,,"Dapco"
-342187,"PH-0355","small_airport","Evergreen Farms Airstrip",7.30567,125.65782,58,"AS","PH","PH-DAV","Panabo","no",,,,,,,
+342187,"PH-0355","closed","Evergreen Farms Airstrip",7.30567,125.65782,58,"AS","PH","PH-DAV","Panabo","no",,,,,,,
 342188,"PH-0356","small_airport","Kasilak Airstrip",7.3335,125.5971,108,"AS","PH","PH-DAV","Panabo","no",,,,,,,
 342189,"PH-0357","small_airport","Madaum Airstrip",7.38628,125.82884,47,"AS","PH","PH-DAV","Tagum","no",,,,,,,"Hijo Airstrip"
 342190,"PH-0358","small_airport","New Sambog Airstrip",7.60964,125.80363,81,"AS","PH","PH-DAV","New Corella","no",,,,,,,"NECO, New Corella Banana Plantation"
@@ -52925,7 +52937,7 @@
 345372,"PH-0413","heliport","518 Fundidor Street Helipad",14.60105,120.97196,,"AS","PH","PH-00","Manila","no",,,,,,,
 346315,"PH-0414","closed","Sagay Airfield",10.87527,123.41598,171,"AS","PH","PH-NEC","Sagay","no",,,,,,,
 347675,"PH-0415","closed","Lorenville Heliport",15.47625,120.97829,,"AS","PH","PH-NUE","Cabanatuan","no",,,,,,,
-348303,"PH-0416","heliport","AES Masinloc Heliport",15.57493,119.92365,71,"AS","PH","PH-ZMB","Masinloc","no",,,,,,,
+348303,"PH-0416","heliport","AES Masinloc Heliport",15.574906,119.923746,62,"AS","PH","PH-ZMB","Masinloc","no",,,,,,,
 348386,"PH-0417","small_airport","Lapanday Foods Tampakan Airport",6.410262,124.935451,522,"AS","PH","PH-SCO","Tampakan","no",,,,,,,
 348387,"PH-0418","small_airport","Lapanday Foods Guihing Airport",6.69495,125.3609,33,"AS","PH","PH-DAS","Hagonoy","no",,,,,,,
 348388,"PH-0419","small_airport","Kling Airport",5.93761,124.74409,128,"AS","PH","PH-SAR","Kiamba","no",,,,,,,
@@ -52937,10 +52949,10 @@
 348659,"PH-0425","closed","Inandeng Airport",10.52637,119.2811,20,"AS","PH","PH-PLW","San Vicente","no",,,,,,,
 348660,"PH-0426","seaplane_base","Lakawon Resort Seaplane Base",11.03811,123.2026,,"AS","PH","PH-NEC","Cadiz","no",,,,,,,
 348661,"PH-0427","closed","Lutopan Airstrip",10.32139,123.70607,932,"AS","PH","PH-CEB","Toledo","no",,,,,,,
-348662,"PH-0428","small_airport","Nabulao Airstrip",9.664463,122.535617,1492,"AS","PH","PH-NEC","Hinobaan","no",,,,,,,
+348662,"PH-0428","closed","Nabulao Airstrip",9.664463,122.535617,1492,"AS","PH","PH-NEC","Hinobaan","no",,,,,,,"Hinoba-an"
 348729,"PH-0429","small_airport","Cordon Airport",16.65674,121.43291,538,"AS","PH","PH-ISA","Cordon","no",,,,,,,
-349208,"PH-0430","closed","Pradera Verde Executive Airpark",9.90918,123.59019,,"AS","PH","PH-CEB","Argao","no",,,,,,,"FKauley Skyranch"
-349209,"PH-0431","small_airport","Casay Airstrip",9.821379,123.547936,157,"AS","PH","PH-CEB","Dalaguete","no",,,,,,,
+349208,"PH-0430","closed","FKauley Skyranch",9.909174,123.590131,522,"AS","PH","PH-CEB","Argao","no",,,,,,,
+349209,"PH-0431","closed","Casay Airstrip",9.821379,123.547936,157,"AS","PH","PH-CEB","Dalaguete","no",,,,,,,
 349551,"PH-0432","small_airport","Sagpangan Airport",9.51026,118.55405,187,"AS","PH","PH-PLW","Aborlan","no",,,,,,,
 349552,"PH-0433","small_airport","Dacudao Airport",7.2289,125.45724,732,"AS","PH","PH-DVO","Davao","no",,,,,,,
 349553,"PH-0434","closed","Lagao Airport",6.15473,125.16027,308,"AS","PH","PH-SCO","General Santos","no",,,,,,,
@@ -52951,7 +52963,7 @@
 349558,"PH-0439","closed","Diatagon Airport",8.66363,126.13471,13,"AS","PH","PH-SUR","Lianga","no",,,,,,,
 349559,"PH-0440","closed","Lanuza (Carmen) Airport",9.231363,125.997923,43,"AS","PH","PH-SUR","Carmen","no",,,,,,,
 349560,"PH-0441","closed","PICOP Airport",8.195227,126.359843,,"AS","PH","PH-SUR","Bislig","no",,,,,,,
-349561,"PH-0442","small_airport","Tagbina Airport",8.4775,126.13388,115,"AS","PH","PH-SUR","Barobo","no",,,,,,,"Sumifru D10"
+349561,"PH-0442","small_airport","Sumifru Tagbina Airport",8.4775,126.13388,115,"AS","PH","PH-SUR","Barobo","no",,,,,,,"Sumifru D10"
 349562,"PH-0443","closed","Elmore Airfield",12.43947,121.08588,85,"AS","PH","PH-MDC","San Jose","no",,,,,,,
 349563,"PH-0444","closed","Hill Airfield",12.39112,121.05336,33,"AS","PH","PH-MDC","San Jose","no",,,,,,,
 349564,"PH-0445","closed","Murtha Airfield",12.427,121.09905,13,"AS","PH","PH-MDC","San Jose","no",,,,,,,
@@ -52965,12 +52977,12 @@
 351510,"PH-0453","closed","Maraymaray Airport",7.71067,124.95113,,"AS","PH","PH-BUK","Don Carlos","no",,,,,,,
 351511,"PH-0454","closed","Bukidnon Domestic Airport (under construction)",7.70649,124.94924,,"AS","PH","PH-BUK","Don Carlos","no",,,,,,,
 351512,"PH-0455","small_airport","Lurugan Airport",7.98365,125.05351,1713,"AS","PH","PH-BUK","Valencia City","no",,,,,,,
-351513,"PH-0456","small_airport","Del Monte Plantation Airport",8.34813,124.85059,1973,"AS","PH","PH-BUK","Manolo Fortich","no",,,"RPMT",,,,"Camp 3, Manolo Fortich"
+351513,"PH-0456","small_airport","Del Monte Plantation Airport",8.34813,124.85059,1973,"AS","PH","PH-BUK","Manolo Fortich","no","RPMT",,"RPMT",,,,"Camp 3, Manolo Fortich"
 351514,"PH-0457","small_airport","La Filipina Airport",7.47397,125.78789,61,"AS","PH","PH-DAV","Tagum","no",,,,,,,
 351515,"PH-0458","small_airport","Lunga-og Airport",7.54462,125.69984,71,"AS","PH","PH-DAV","Santo Tomas","no",,,,,,,"Kimamon"
 351516,"PH-0459","small_airport","Mindanao Rainbow Agricultural Development Services Airport",7.57119,125.63414,185,"AS","PH","PH-DAV","Santo Tomas","no",,,,,,,"Kapalong"
-351518,"PH-0460","small_airport","Datu Paglas Airport",6.75625,124.85329,75,"AS","PH","PH-MDS","Datu Paglas","no",,,,,,,"Alip River Development & Export Corporation"
-351519,"PH-0461","small_airport","Digal Airport",6.73805,124.82675,61,"AS","PH","PH-MDS","Buluan","no",,,,,,,
+351518,"PH-0460","small_airport","Datu Paglas Airstrip",6.75625,124.85329,75,"AS","PH","PH-MDS","Datu Paglas","no",,,,,,,"Alip River Development & Export Corporation"
+351519,"PH-0461","small_airport","Digal Airport",6.73805,124.82675,61,"AS","PH","PH-MDS","Buluan","no",,,,,,,"La Frutera"
 351520,"PH-0462","medium_airport","Central Mindanao Airport",6.91229,124.92446,164,"AS","PH","PH-NCO","M'lang","no",,,,,,,"M'lang Rural, North Cotabato Rural"
 351522,"PH-0463","closed","President Quirino Airport",6.71163,124.72773,105,"AS","PH","PH-SUK","President Quirino","no",,,,,,,"President Kirinu"
 351523,"PH-0464","small_airport","Lambayong Airport",6.84746,124.64463,52,"AS","PH","PH-SUK","Lambayong","no",,,,,,,
@@ -52986,9 +52998,9 @@
 351887,"PH-0474","closed","Mayon Old Heliport",13.22505,123.71365,1463,"AS","PH","PH-ALB","Legazpi","no",,,,,,,
 351888,"PH-0475","heliport","Mayon Heliport",13.20405,123.71107,873,"AS","PH","PH-ALB","Legazpi","no",,,,,,,
 351910,"PH-0476","heliport","Chinese General Hospital Heliport",14.62562,120.98875,,"AS","PH","PH-00","Manila","no",,,,,,,
-352976,"PH-0477","heliport","Philippine Merchant Marine Academy Heliport",15.00074,120.06641,43,"AS","PH","PH-ZMB","San Narciso","no",,,,,,,
+352976,"PH-0477","heliport","Philippine Merchant Marine Academy Heliport",15.000694,120.066476,43,"AS","PH","PH-ZMB","San Narciso","no",,,,,,,
 353427,"PH-0478","heliport","Dahilayan Heliport",8.21836,124.85042,3747,"AS","PH","PH-BUK","Manolo Fortich","no",,,,,,,
-353614,"PH-0479","heliport","Shangri-La Mactan Island Resort Heliport",10.305879,124.020353,26,"AS","PH","PH-CEB","Lapu-Lapu City","no",,,,,,,
+353614,"PH-0479","heliport","Shangri-La Mactan Island Resort Heliport",10.305879,124.020353,26,"AS","PH","PH-CEB","Lapu-Lapu City","no",,,,,,,"RP4HF"
 353720,"PH-0480","heliport","Isabela Provincial Capitol Heliport",17.10351,121.86579,218,"AS","PH","PH-ISA","Ilagan","no",,,,,,,
 354407,"PH-0481","heliport","Lawak Island (Nanshan Island) Helipad",10.733077,115.802464,,"AS","PH","PH-PLW","Kalayaan (Lawak Island / Nanshan Island)","no",,,,,,"https://en.wikipedia.org/wiki/en:Nanshan%20Island?uselang=en","Nanshan Island"
 354412,"PH-0482","small_airport","Candaraman Airport",8.076386,117.108078,36,"AS","PH","PH-PLW","Balabac","no",,,,,"https://www.s1expeditions.com/",,
@@ -53001,7 +53013,7 @@
 356408,"PH-0489","small_airport","Batag Airport",12.61662,125.05035,46,"AS","PH","PH-NSA","Laoang","no",,,,,,,
 430069,"PH-0490","small_airport","Camotes Airstrip",10.65955,124.37011,70,"AS","PH","PH-CEB","San Francisco","no",,,,,,,"RPSS"
 430070,"PH-0491","closed","Air Juan Cebu City South Road Properties Seaplane Terminal",10.26509,123.87812,,"AS","PH","PH-CEB","Cebu City","no",,,,,,,
-430071,"PH-0492","small_airport","Three Thirty Airstrip",10.01095,123.42209,125,"AS","PH","PH-CEB","Ronda","no",,,,,,,
+430071,"PH-0492","closed","Three Thirty Airstrip",10.01095,123.42209,125,"AS","PH","PH-CEB","Ronda","no",,,,,,,
 430072,"PH-0493","balloonport","Clark Balloonport",15.17718,120.57656,,"AS","PH","PH-PAM","Mabalacat","no",,,,,,,
 430581,"PH-0494","seaplane_base","Busuanga Bay Lodge Seaplane Terminal",12.0231,119.97753,,"AS","PH","PH-PLW","Busuanga","no",,,,,,,
 430582,"PH-0495","seaplane_base","Huma Island Resort Seaplane Terminal",12.05337,119.90455,,"AS","PH","PH-PLW","Busuanga","no",,,,,,,
@@ -53038,7 +53050,7 @@
 504825,"PH-0526","heliport","Camp Abat Heliport",16.0489,120.49207,141,"AS","PH","PH-PAN","Manaoag","no",,,,,,,
 504826,"PH-0527","heliport","Camp Riego de Dios Heliport",14.326586,120.852265,167,"AS","PH","PH-CAV","Tanza","no",,,,,,,
 504827,"PH-0528","heliport","Naval Station Juan Magluyan Heliport",5.06919,119.88565,3,"AS","PH","PH-TAW","Panglima Sugala","no",,,,,,,
-504828,"PH-0529","heliport","Naval Base Rafael Ramos Heliport",10.29672,123.93899,7,"AS","PH","PH-CEB","Lapu-Lapu City","no",,,,,,,
+504828,"PH-0529","heliport","Naval Base Rafael Ramos Heliport",10.29672,123.93899,7,"AS","PH","PH-CEB","Lapu-Lapu City","no",,,,,,,"RP64F"
 504829,"PH-0530","heliport","Biliran Heliport",11.46335,124.47474,3,"AS","PH","PH-BIL","Biliran","no",,,,,,,
 504830,"PH-0531","heliport","Naval Station Carlito Cunanan Heliport",10.02177,118.79342,37,"AS","PH","PH-PLW","Puerto Princesa","no",,,,,,,
 504831,"PH-0532","heliport","Sibaring Heliport",8.18136,117.29615,13,"AS","PH","PH-PLW","Balabac","no",,,,,,,"Sebaring"
@@ -53053,9 +53065,9 @@
 504855,"PH-0541","heliport","Caylabne Bay Resort Heliport",14.27201,120.6482,30,"AS","PH","PH-CAV","Ternate","no",,,,,,,
 504856,"PH-0542","heliport","Paniman Beach Resort Heliport",14.27847,120.66765,33,"AS","PH","PH-CAV","Ternate","no",,,,,,,
 504857,"PH-0543","seaplane_base","Sabang South Bay Seaplane Base",14.44103,120.58456,,"AS","PH","PH-BAN","Sabang","no",,,,,,,
-504860,"PH-0544","small_airport","Tagdangua Airport",7.18966,125.87845,62,"AS","PH","PH-COM","Pantukan","no",,,,,,,"Musahamat Farms"
-504861,"PH-0545","small_airport","PIntatagan Airport",7.0776,125.94147,52,"AS","PH","PH-COM","Pantukan","no",,,,,,,
-504862,"PH-0546","small_airport","Macangao Airport",6.9067,126.07623,108,"AS","PH","PH-DAO","Lupon","no",,,,,,,
+504860,"PH-0544","small_airport","Tagdangua Airstrip",7.18966,125.87845,62,"AS","PH","PH-COM","Pantukan","no",,,,,,,"Musahamat Farms"
+504861,"PH-0545","small_airport","Pantukan Airstrip",7.0776,125.94147,52,"AS","PH","PH-COM","Pantukan","no",,,,,,,"Pintatagan"
+504862,"PH-0546","small_airport","Anflo Airstrip",6.9067,126.07623,108,"AS","PH","PH-DAO","Lupon","no",,,,,,,"Macangao"
 504863,"PH-0547","small_airport","Union Airstrip",7.79083,126.08428,276,"AS","PH","PH-COM","Monkayo","no",,,,,,,
 504864,"PH-0548","small_airport","Talayan Airport",6.97865,124.34272,92,"AS","PH","PH-MDS","Talayan","no",,,,,,,
 504865,"PH-0549","heliport","Plamango Heliport",6.68242,124.3679,1293,"AS","PH","PH-SUK","Esperanza","no",,,,,,,
@@ -53097,9 +53109,9 @@
 514805,"PH-0585","heliport","Voice of America Heliport",15.37914,120.62647,177,"AS","PH","PH-TAR","Concepcion","no",,,,,,,
 516438,"PH-0586","small_airport","Basay Emergency Airport",9.46974,122.66149,1112,"AS","PH","PH-NER","Basay","no",,,,,,,
 516442,"PH-0587","small_airport","Sipalay (San Jose) Airport",9.79231,122.45134,89,"AS","PH","PH-NEC","Sipalay","no",,,,,,,"Maricalum Mining Corporation"
-516444,"PH-0588","closed","Kabankalan City Domestic Airport (under construction)",10.0072,122.85159,194,"AS","PH","PH-NEC","Kabankalan","no",,,,,,,
+516444,"PH-0588","closed","Kabankalan City Domestic Airport (under construction)",10.007355,122.851797,194,"AS","PH","PH-NEC","Kabankalan","no",,,,,,,
 516445,"PH-0589","small_airport","Tambo Airport",9.91655,123.07378,1368,"AS","PH","PH-NER","Tayasan","no",,,,,,,
-516554,"PH-0590","small_airport","Asturias Airstrip",10.540039,123.745703,69,"AS","PH","PH-CEB","Asturias","no",,,,,,,
+516554,"PH-0590","closed","Asturias Airstrip",10.540039,123.745703,69,"AS","PH","PH-CEB","Asturias","no",,,,,,,
 516555,"PH-0591","closed","Medellin Airstrip",11.14193,123.96741,30,"AS","PH","PH-CEB","Medellin","no",,,,,,,
 533505,"PH-0592","heliport","Camella Santo Tomas North Trails Helipad",14.10112,121.16911,581,"AS","PH","PH-BTG","Santo Tomas","no",,,,,,,
 535032,"PH-0593","small_airport","Cagayancillo Airstrip",9.56956,121.18637,20,"AS","PH","PH-PLW","Cagayancillo","no",,,,,,,"Magsaysay"
@@ -53107,8 +53119,8 @@
 535036,"PH-0595","small_airport","Limasawa Airstrip",9.96282,125.06123,,"AS","PH","PH-SLE","Limasawa","no",,,,,,,
 535398,"PH-0596","closed","Latud Airport",8.624722,117.279444,,"AS","PH","PH-PLW","Rizal","no",,,,,,,
 535423,"PH-0597","closed","Punta Baja Airfield",9.0614,117.65386,,"AS","PH","PH-PLW","Rizal","no",,,,,,,
-537863,"PH-0598","small_airport","URC Tolong Airstrip",9.35211,122.84822,33,"AS","PH","PH-NER","Santa Catalina","no",,,,,,,"Caranoche"
-537864,"PH-0599","small_airport","RSY Tolong Airstrip",9.32164,122.87817,43,"AS","PH","PH-NER","Santa Catalina","no",,,,,,,
+537863,"PH-0598","closed","URC Tolong Airstrip",9.35211,122.84822,33,"AS","PH","PH-NER","Santa Catalina","no",,,,,,,"Caranoche"
+537864,"PH-0599","closed","RSY Tolong Airstrip",9.32164,122.87817,43,"AS","PH","PH-NER","Santa Catalina","no",,,,,,,"Sarabia"
 538543,"PH-0600","heliport","National Power Corporation Maramag Heliport",7.70686,125.02583,722,"AS","PH","PH-BUK","Maramag","no",,,,,,,
 538544,"PH-0601","heliport","National Power Corporation Maramag Heliport",7.70686,125.02583,722,"AS","PH","PH-BUK","Maramag","no",,,,,,,
 538643,"PH-0602","closed","Tanauan Airfield",11.10651,125.02015,30,"AS","PH","PH-LEY","Tanauan","no",,,,,,,
@@ -53217,7 +53229,7 @@
 594262,"PH-0705","closed","Malubal Airstrip",7.70255,122.4117,1227,"AS","PH","PH-ZSI","Roseller Lim","no",,,,,,,
 594264,"PH-0706","closed","Mangal Airstrip",6.42516,121.97919,226,"AS","PH","PH-BAS","Sumisip","no",,,,,,,
 594265,"PH-0707","closed","San Luis Airstrip",7.43289,126.54515,69,"AS","PH","PH-DAO","Caraga","no",,,,,,,
-594266,"PH-0708","small_airport","SODACO Airstrip",6.82674,126.10011,177,"AS","PH","PH-DAO","San Isidro","no",,,,,,,
+594266,"PH-0708","closed","SODACO Airstrip",6.82674,126.10011,177,"AS","PH","PH-DAO","San Isidro","no",,,,,,,
 594267,"PH-0709","small_airport","Lebak Airstrip",6.62178,124.055,20,"AS","PH","PH-SUK","Lebak","no",,,,,,,
 594268,"PH-0710","small_airport","T'Boli Airport",6.23948,124.80785,1430,"AS","PH","PH-SCO","T'Boli","no",,,,,,,
 594269,"PH-0711","closed","Padada Airstrip",6.6953,125.34318,36,"AS","PH","PH-DAS","Hagonoy","no",,,,,,,
@@ -53253,6 +53265,13 @@
 605702,"PH-0741","small_airport","Luuk Airport",5.996634,121.309657,38,"AS","PH","PH-SLU","Luuk","no",,,,,,,"Tandu Bato"
 605832,"PH-0742","heliport","NGCP Polanco Substation Heliport",8.48458,123.41343,125,"AS","PH","PH-ZAN","Polanco","no",,,,,,,"RP6I7"
 605869,"PH-0743","heliport","Bongao Heliport",5.029421,119.764366,16,"AS","PH","PH-TAW","Bongao","no",,,,,,,
+606176,"PH-0744","heliport","Sacasun Heliport",10.51356,123.426029,5,"AS","PH","PH-NEC","Punao","no",,,,,,,
+606185,"PH-0745","heliport","Camp Robert Edward M Lucero Heliport",7.19813,124.7855,118,"AS","PH","PH-NCO","Carmen","no",,,,,,,
+606188,"PH-0746","heliport","Dole Heliport",6.08418,125.153348,23,"AS","PH","PH-SCO","General Santos","no",,,,,,,
+606189,"PH-0747","heliport","Royale Pacific Residences Helipad",14.51124,120.97646,,"AS","PH","PH-00","Parañaque","no",,,,,,,
+606190,"PH-0748","heliport","NPC Alliance Mariveles Helipad",14.495651,120.604744,75,"AS","PH","PH-BAN","Mariveles","no",,,,,,,
+606191,"PH-0749","heliport","FAB Helipad",14.43898,120.49845,72,"AS","PH","PH-BAN","Mariveles","no",,,,,,,
+606192,"PH-0750","heliport","Mariveles Ferry Terminal Heliport",14.43581,120.49659,3,"AS","PH","PH-BAN","Mariveles","no",,,,,,,
 5441,"PHBK","medium_airport","Barking Sands Airport",22.0228,-159.785004,23,"OC","US","US-HI","Kekaha","no","PHBK","BKH","PHBK","BKH",,"https://en.wikipedia.org/wiki/Pacific_Missile_Range_Facility","Pacific Missle Range Facility Barking Sands, Kauai"
 5442,"PHDH","small_airport","Kawaihapai Airfield",21.5795,-158.197006,14,"OC","US","US-HI","Mokuleia","no","PHDH","HDH","PHDH","HDH",,"https://en.wikipedia.org/wiki/Dillingham_Airfield","Dillingham"
 17621,"PHHF","small_airport","French Frigate Shoals Airport",23.869467,-166.284977,6,"NA","US","US-HI","Tern Island","no",,,"PHHF","HFS",,"https://en.wikipedia.org/wiki/French_Frigate_Shoals_Airport",
@@ -54862,7 +54881,7 @@
 5439,"RP16","closed","Seahawk LZ Airstrip",6.653909,121.979957,1011,"AS","PH","PH-BAS","Isabela","no",,,,,,,"Cabunbata, Menzi, Seahawk LZ, RP16"
 5440,"RP17","small_airport","Malita Airport",6.402734,125.619264,16,"AS","PH","PH-DOC","Malita","no",,,"RP17","RP17",,,
 31007,"RPEN","small_airport","El Nido Airport",11.202399,119.416087,,"AS","PH","PH-PLW","El Nido","yes","RPEN","ENI","RPEN",,,"https://en.wikipedia.org/wiki/El_Nido_Airport","El Nido"
-5685,"RPLA","small_airport","Pinamalayan Airport",12.9858,121.426003,92,"AS","PH","PH-MDR","Pinamalayan","no",,,"RPLA","RP11",,,
+5685,"RPLA","small_airport","Pinamalayan Airport",12.9858,121.426003,92,"AS","PH","PH-MDR","Pinamalayan","no","RPLA",,"RPLA",,,,"RP11"
 5686,"RPLB","large_airport","Subic Bay International Airport / Naval Air Station Cubi Point",14.794833,120.271883,64,"AS","PH","PH-ZMB","Olongapo","yes","RPLB","SFS","RPLB",,,"https://en.wikipedia.org/wiki/Subic_Bay_International_Airport","Paliparang Pandaigdig ng Look ng Subic, Naval Air Station Cubi Point"
 5687,"RPLC","large_airport","Clark International Airport / Clark Air Base",15.186,120.559998,484,"AS","PH","PH-PAM","Mabalacat","yes","RPLC","CRK","RPLC",,"http://www.clarkairport.com/","https://en.wikipedia.org/wiki/Clark_International_Airport","Diosdado Macapagal International Airport, Paliparang Pandaigdig ng Diosdado Macapagal, Pangyatung Sulapawan ning Clark, Paliparang Pandaigdig ng Clark"
 324042,"RPLE","small_airport","Balesin Island Airport",14.418624,122.03923,25,"AS","PH","PH-BAS","Balesin","no","RPLE","BSI","RPLE",,,"https://en.wikipedia.org/wiki/Balesin_Island_Airport","RPBL, Polilio, E. L. Tordesillas"
@@ -54883,7 +54902,7 @@
 32223,"RPLY","small_airport","Alabat Island Airport",14.2329,121.929118,6,"AS","PH","PH-QUE","Perez","no","RPLY",,"RPLY",,,,
 42465,"RPLZ","small_airport","Bacon Community Airport",13.00696,124.025942,120,"AS","PH","PH-SOR","Sorsogon","no","RPLZ",,"RPLZ",,,,
 5694,"RPMA","medium_airport","Allah Valley Airport",6.367903,124.752431,659,"AS","PH","PH-SCO","Surallah","no","RPMA","AAV","RPMA",,,"https://en.wikipedia.org/wiki/Allah_Valley_Airport","Alah Valley Airport"
-5695,"RPMB","medium_airport","Rajah Buayan Air Base",6.10644,125.235001,28,"AS","PH","PH-SCO","General Santos City","no",,,"RPMB",,,"https://en.wikipedia.org/wiki/Rajah_Buayan_Air_Station","GES, Paliparang Pandaigdig ng Heneral Santos, Tugpahanang Internasyonal sa Heneral Santos"
+5695,"RPMB","medium_airport","Rajah Buayan Air Base",6.105476,125.234882,28,"AS","PH","PH-SCO","General Santos City","no","RPMB",,"RPMB",,,"https://en.wikipedia.org/wiki/Rajah_Buayan_Air_Station","GES, Paliparang Pandaigdig ng Heneral Santos, Tugpahanang Internasyonal sa Heneral Santos"
 5696,"RPMC","medium_airport","Cotabato (Awang) Airport",7.164753,124.209938,189,"AS","PH","PH-MDN","Datu Odin Sinsuat","yes","RPMC","CBO","RPMC",,,"https://en.wikipedia.org/wiki/Cotabato_Airport","Awang, Kutawatu"
 5697,"RPMD","large_airport","Francisco Bangoy International Airport",7.12552,125.646004,96,"AS","PH","PH-DVO","Davao","yes","RPMD","DVO","RPMD",,,"https://en.wikipedia.org/wiki/Francisco_Bangoy_International_Airport","Davao International Airport"
 5698,"RPME","medium_airport","Bancasi Airport",8.9515,125.4788,141,"AS","PH","PH-BTC","Butuan","yes","RPME","BXU","RPME",,,"https://en.wikipedia.org/wiki/Bancasi_Airport",
@@ -54892,7 +54911,7 @@
 5701,"RPMH","medium_airport","Camiguin Airport",9.253894,124.709115,53,"AS","PH","PH-CAM","Mambajao","yes","RPMH","CGM","RPMH",,,"https://en.wikipedia.org/wiki/Camiguin_Airport",
 5702,"RPMI","small_airport","Maria Cristina (Iligan) Airport",8.13049,124.214996,1300,"AS","PH","PH-LAN","Balo-i","no","RPMI","IGN","RPMI",,,"https://en.wikipedia.org/wiki/Maria_Cristina_Airport","Iligan Airport, Balo-i, Lanao del Norte"
 5703,"RPMJ","medium_airport","Jolo Airport",6.05367,121.011002,118,"AS","PH","PH-SLU","Jolo","yes","RPMJ","JOL","RPMJ",,,"https://en.wikipedia.org/wiki/Jolo_Airport",
-5704,"RPML","small_airport","Lumbia Airfield",8.41562,124.611,601,"AS","PH","PH-CGY","Cagayan de Oro","no",,,"RPML",,,"https://en.wikipedia.org/wiki/Lumbia_Airfield","CGY, Cagayan de Oro Airport, Lumbia Airport"
+5704,"RPML","small_airport","Lumbia Airfield",8.415154,124.611171,601,"AS","PH","PH-CGY","Cagayan de Oro","no","RPML",,"RPML",,,"https://en.wikipedia.org/wiki/Lumbia_Airfield","CGY, Cagayan de Oro Airport, Lumbia Airport"
 31919,"RPMM","small_airport","Malabang Airport",7.616911,124.057961,27,"AS","PH","PH-LAS","Malabang","no","RPMM","MLP","RPMM",,,"https://en.wikipedia.org/wiki/Malabang_Airport",
 5705,"RPMN","medium_airport","Sanga Sanga Airport",5.048196,119.743338,15,"AS","PH","PH-TAW","Bongao","yes","RPMN","TWT","RPMN",,,"https://en.wikipedia.org/wiki/Sanga-Sanga_Airport","SGS"
 5706,"RPMO","medium_airport","Labo Airport",8.17851,123.842003,75,"AS","PH","PH-MSC","Ozamiz","yes","RPMO","OZC","RPMO",,,"https://en.wikipedia.org/wiki/Labo_Airport","Barangay Labo, Ozamiz, Misamis Airfield"
@@ -54903,11 +54922,11 @@
 30818,"RPMU","small_airport","Cagayan de Sulu Airport",7.014,118.496002,,"AS","PH","PH-TAW","Mapun","no","RPMU","CDY","RPMU",,,"https://en.wikipedia.org/wiki/Cagayan_de_Sulu_Airport",
 31683,"RPMV","small_airport","Ipil Airport",7.784898,122.6015,,"AS","PH","PH-ZSI","Ipil","no","RPMV","IPE","RPMV",,,"https://en.wikipedia.org/wiki/Ipil_Airport",
 5711,"RPMW","medium_airport","Tandag Airport",9.072002,126.17132,16,"AS","PH","PH-SUR","Tandag","no","RPMW","TDG","RPMW",,,"https://en.wikipedia.org/wiki/Tandag_Airport",
-309718,"RPMX","small_airport","Liloy Community Airport",8.102059,122.670422,,"AS","PH","PH-ZAN","Liloy","no",,,"RPMX",,,,
+309718,"RPMX","small_airport","Liloy Community Airport",8.102059,122.670422,248,"AS","PH","PH-ZAN","Liloy","no","RPMX",,"RPMX",,,,
 308633,"RPMY","large_airport","Laguindingan International Airport",8.612203,124.456496,190,"AS","PH","PH-MSR","Laguindingan","yes","RPMY","CGY","RPMY",,"https://www.universalaviation.aero/locations/philippines/laguindingan-rpmy/","https://en.wikipedia.org/wiki/Laguindingan_International_Airport","IGN, RPML, Cagayan de Oro"
 5712,"RPMZ","large_airport","Zamboanga International Airport",6.92242,122.059998,33,"AS","PH","PH-ZMC","Zamboanga","yes","RPMZ","ZAM","RPMZ",,"https://www.zamboanga.net/","https://en.wikipedia.org/wiki/Zamboanga_International_Airport",
 5713,"RPNS","small_airport","Siargao Airport",9.8591,126.014,10,"AS","PH","PH-SUN","Del Carmen","yes","RPNS","IAO","RPNS",,,"https://en.wikipedia.org/wiki/Siargao_Airport","Sayak Airport"
-302305,"RPSB","small_airport","Bantayan Airport",11.161748,123.7849,60,"AS","PH","PH-CEB","Santa Fe","no",,,"RPSB",,,"https://en.wikipedia.org/wiki/Bantayan_Airport","Bantayan Island, Skydive Santa Fe Cebu"
+302305,"RPSB","small_airport","Bantayan Airport",11.161748,123.7849,60,"AS","PH","PH-CEB","Santa Fe","no","RPSB",,"RPSB",,,"https://en.wikipedia.org/wiki/Bantayan_Airport","Bantayan Island, Skydive Santa Fe Cebu"
 308149,"RPSD","small_airport","Cesar Lim Rodriguez (Taytay-Sandoval) Airport",11.05065,119.519266,80,"AS","PH","PH-PLW","Taytay","no","RPSD","RZP","RPSD",,,"https://en.wikipedia.org/wiki/Taytay_Airport",
 5714,"RPSM","small_airport","Maasin Airport",10.185695,124.783244,328,"AS","PH","PH-SLE","Maasin","no",,,"RPSM",,,"https://en.wikipedia.org/wiki/Panan-awan_Airport",
 309716,"RPSN","small_airport","Ubay Community Airport",10.059037,124.425573,7,"AS","PH","PH-BOH","Ubay","no",,,"RPSN",,,"https://en.wikipedia.org/wiki/Ubay_Airport",
@@ -54920,7 +54939,7 @@
 5717,"RPUF","small_airport","Basa Air Base",14.98724,120.492554,151,"AS","PH","PH-PAM","Floridablanca","no",,,"RPUF",,,"https://en.wikipedia.org/wiki/Basa_Air_Base","Lieutenant Cesar Basa Air Base"
 5718,"RPUG","small_airport","Lingayen Airport",16.034966,120.242191,7,"AS","PH","PH-PAN","Lingayen","no",,,"RPUG",,,"https://en.wikipedia.org/wiki/Lingayen_Airport",
 5719,"RPUH","medium_airport","San Jose Airport",12.361499786399998,121.04699707,14,"AS","PH","PH-MDC","San Jose","yes","RPUH","SJI","RPUH",,,"https://en.wikipedia.org/wiki/McGuire_Field","McGuire Field"
-32226,"RPUI","small_airport","Iba Airport",15.3247556686,119.969497681,11,"AS","PH","PH-ZMB","Iba","no",,,"RPUI",,,"https://en.wikipedia.org/wiki/Iba_Airport","Paliparan ng Iba"
+32226,"RPUI","small_airport","Iba Airport",15.325898,119.968517,11,"AS","PH","PH-ZMB","Iba","no","RPUI",,"RPUI",,,"https://en.wikipedia.org/wiki/Iba_Airport","Paliparan ng Iba"
 32227,"RPUJ","small_airport","Castillejos - Jesus F Magsaysay Airfield",14.94634,120.190194,200,"AS","PH","PH-ZMB","Castillejos","no",,,"RPUJ",,,,"Castillejos"
 32228,"RPUK","small_airport","Calapan National Airport",13.422641,121.201687,11,"AS","PH","PH-MDR","Calapan","no",,,"RPUK",,,"https://en.wikipedia.org/wiki/Calapan_Airport","Calapan, Mindoro"
 5720,"RPUL","small_airport","Basilio Fernando Air Base",13.955,121.125,1220,"AS","PH","PH-BTG","Lipa","no",,,"RPUL",,,"https://en.wikipedia.org/wiki/Basilio_Fernando_Air_Base",
@@ -64646,6 +64665,7 @@
 606006,"TM-0041","heliport","Ashgabat Cardiological Hospital Heliport",37.86872,58.3538,1263,"AS","TM","TM-S","Ashgabat","no",,,,,,,
 606007,"TM-0042","heliport","State Tribune Heliport",37.86939,58.32721,,"AS","TM","TM-S","Ashgabat","no",,,,,,,
 606036,"TM-0043","seaplane_base","(NOT A SEAPLANE BASE) Türkmenbaşy International Seaport",40.004546,53.030532,,"AS","UZ","UZ-U-A","Türkmenbaşy","yes",,,,"TMKRW",,"https://en.wikipedia.org/wiki/T%C3%BCrkmenba%C5%9Fy_International_Seaport",
+606160,"TM-0044","heliport","Gaudan Heliport",37.64986,58.40454,4820,"AS","TM","TM-A","Gaudan","no",,,,,,,"Hawdan"
 6395,"TM-UT50","small_airport","Serakhs Airport",36.491901,61.266499,902,"AS","TM","TM-M","Serakhs","no",,,,,,,"Saraghs Southeast, Sarakhs, UT50"
 6397,"TM-UT52","medium_airport","Mary North Airport",37.66429901123047,61.82699966430664,728,"AS","TM","TM-M","Mary","no",,,,,,,"UT52"
 6398,"TM-UT55","small_airport","Kizyl-Arvat Airport",38.98419952392578,56.356998443603516,338,"AS","TM","TM-B","Kizyl-Arvat","no",,,,,,,"UT55"
@@ -79377,15 +79397,15 @@
 32013,"UTNN","large_airport","Nukus International Airport",42.4884,59.623299,246,"AS","UZ","UZ-QR","Nukus","yes","UZNN","NCU","UTNN",,,"https://en.m.wikipedia.org/wiki/Nukus_Airport","Nokis"
 32559,"UTNT","small_airport","Turtkul Airport",41.57500076293945,60.96659851074219,305,"AS","UZ","UZ-QR","Turtkul","no",,,"UTNT",,,,
 26387,"UTNU","large_airport","Urgench International Airport",41.58274,60.64338,320,"AS","UZ","UZ-XO","Urgench","yes","UZNU","UGC","UTNU",,,"https://en.wikipedia.org/wiki/Urgench_Airport",
-32561,"UTSA","large_airport","Navoi International Airport",40.117599,65.172658,1140,"AS","UZ","UZ-NW","Navoi","yes","UZSA","NVI","UTSA",,,"https://en.wikipedia.org/wiki/Navoi_International_Airport",
-26388,"UTSB","large_airport","Bukhara International Airport",39.775319,64.482279,751,"AS","UZ","UZ-BU","Bukhara","yes","UZSB","BHK","UZSB",,,"https://en.wikipedia.org/wiki/Bukhara_International_Airport","UTSB, Buhara Airport"
+32561,"UTSA","large_airport","Navoi International Airport",40.117599,65.172658,1140,"AS","UZ","UZ-NW","Navoi","yes","UZSA","NVI","UZSA",,,"https://en.wikipedia.org/wiki/Navoi_International_Airport","UTSA"
+26388,"UTSB","large_airport","Bukhara International Airport",39.775319,64.482279,751,"AS","UZ","UZ-BU","Bukhara","yes","UZSB","BHK","UZSB",,,"https://en.wikipedia.org/wiki/Bukhara_International_Airport","UTSB, Buhara, Buxoro"
 41812,"UTSH","small_airport","Shahrisabz Airport",39.068003,66.758388,1900,"AS","UZ","UZ-QA","Shahrisabz","no",,,"UTSH",,,,
 26417,"UTSK","small_airport","Karshi Airport",38.802246,65.773068,1230,"AS","UZ","UZ-QA","Karshi","yes","UZSK","KSQ","UTSK","UT1N",,"https://en.wikipedia.org/wiki/Karshi_Airport","Qarshi Airport"
 26389,"UTSL","small_airport","Karshi-Khanabad Air Base",38.833599,65.921501,1365,"AS","UZ","UZ-QA","Khanabad","no",,,"UTSL",,,"https://en.wikipedia.org/wiki/Karshi-Khanabad_Air_Base","UTSL, K2 Air Base, Qarshi Khanabad Airport"
 41821,"UTSM","small_airport","Tandy Bulak Airport",41.76079177856445,64.60240173339844,716,"AS","UZ","UZ-NW","Tandy Bulak","no",,,"UTSM",,,,
 41685,"UTSN","small_airport","Sugraly Airport",41.613899,64.2332,1396,"AS","UZ","UZ-NW","Zarafshan","no","UZSN","AFS","UZSN",,,"https://en.wikipedia.org/wiki/Zarafshan_Airport","UTSN, UT76, Zarafshon"
 41686,"UTSR","small_airport","Sariasiya Airport",38.41059875488281,67.94519805908203,1949,"AS","UZ","UZ-SU","Sariasiya","no",,,"UTSR",,,,
-26390,"UTSS","large_airport","Samarkand International Airport",39.698187,66.98421,2224,"AS","UZ","UZ-SA","Samarkand","yes","UZSS","SKD","UZSS",,,"https://en.wikipedia.org/wiki/Samarkand_Airport","UTSS"
+26390,"UTSS","large_airport","Samarkand International Airport",39.701842,66.981467,2224,"AS","UZ","UZ-SA","Samarkand","yes","UZSS","SKD","UZSS",,,"https://en.wikipedia.org/wiki/Samarkand_Airport","UTSS"
 26391,"UTST","medium_airport","Termez Airport",37.287261,67.311869,1027,"AS","UZ","UZ-SU","Termez","yes","UZST","TMJ","UTST",,,"https://en.wikipedia.org/wiki/Termez_Airport",
 32562,"UTSU","small_airport","Uchkuduk Airport",42.083099365234375,63.44929885864258,416,"AS","UZ","UZ-NW","Uchkuduk","no",,,"UTSU",,,,
 41687,"UTTP","medium_airport","Tashkent East Airport",41.312889,69.395535,1574,"AS","UZ","UZ-TO","Tashkent","yes","UZTP",,"UZTP",,,"https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi","Tashkent Vostochny Airport"
@@ -79534,7 +79554,7 @@
 41711,"UZ-0024","heliport","Dehqonobod Heliport",38.343389,66.447908,,"AS","UZ","UZ-QA","Dehqonobod","no",,,,,,,
 41712,"UZ-0025","closed","Kokand Southeast Airport",40.377905,71.093859,1890,"AS","UZ","UZ-FA","Kokand","no",,,,,,,
 41713,"UZ-0026","closed","Qo'shrabot Airport",39.766998,64.312103,715,"AS","UZ","UZ-BU","Chor Bakr","no",,,,,,,"Kosh Rabat"
-41714,"UZ-0027","closed","Kumushkent Airport",39.807999,66.844299,2025,"AS","UZ","UZ-SA","Kumushkent","no",,,,,,,
+41714,"UZ-0027","closed","Kumushkent Airport",39.807999,66.844299,2025,"AS","UZ","UZ-SA","Kumushkent","no",,,,,,,"UTDA"
 41715,"UZ-0028","small_airport","Kuva Southeast Airport",40.483441,72.280825,1973,"AS","UZ","UZ-AN","Markhamat","no",,,,,,,"AG3808, FR38715, UTMA"
 41716,"UZ-0029","small_airport","Kuva West Airport",40.504785,71.902458,1591,"AS","UZ","UZ-FA","Ramadan","no",,,,,,,
 41717,"UZ-0030","small_airport","Muglan Airport",38.901798248291016,65.39669799804688,1050,"AS","UZ","UZ-QA","Muglan","no",,,,,,,
@@ -79605,7 +79625,7 @@
 41782,"UZ-0095","small_airport","Karyz Airport",39.01860046386719,66.5188980102539,1674,"AS","UZ","UZ-QA","Ayman","no",,,,,,,
 41783,"UZ-0096","small_airport","Kasan Southwest Airport",39.02119827270508,65.53369903564453,1113,"AS","UZ","UZ-QA","Kasan","no",,,,,,,
 41784,"UZ-0097","closed","Kattakurgan East Airport",39.909,66.305397,1730,"AS","UZ","UZ-SA","Kattakurgan","no",,,,,,,
-41785,"UZ-0098","closed","Kattaming Airport",39.940601,66.094704,1454,"AS","UZ","UZ-SA","Kattaming","no",,,,,,,
+41785,"UZ-0098","closed","Kattaming Airport",39.940601,66.094704,1454,"AS","UZ","UZ-SA","Kattaming","no",,,,,,,"UTPS"
 41786,"UZ-0099","closed","Kazakly Baudark Airport",38.985699,65.823097,1283,"AS","UZ","UZ-QA","Kazakly Baudark","no",,,,,,,
 41787,"UZ-0100","closed","Khatyrchi Northwest Airport",40.053001,65.932404,1372,"AS","UZ","UZ-SA","Khatyrchi","no",,,,,,,
 41788,"UZ-0101","closed","Kahvast Airport",40.199849,68.853511,1230,"AS","UZ","UZ-SI","Kahvast","no",,,,,,,
@@ -79673,6 +79693,7 @@
 606155,"UZ-0163","heliport","ADM Jizzakh Factory Heliport",40.21381,67.94497,1079,"AS","UZ","UZ-JI","Uchtepa","no",,,,,,,"UT032"
 606156,"UZ-0164","heliport","DEYA Jizzakh Factory Heliport",40.15678,67.90859,1132,"AS","UZ","UZ-JI","Jizzakh","no",,,,,,,"UTMZ5"
 606157,"UZ-0165","heliport","Jizzakh Government Heliport",40.13351,67.82186,1194,"AS","UZ","UZ-JI","Jizzakh","no",,,,,,,"UT8UW"
+606159,"UZ-0166","heliport","Jizzakh Military Heliport",40.08628,67.90183,1191,"AS","UZ","UZ-JI","Jizzakh","no",,,,,,,"UT8FW"
 26427,"UZ-UT73","small_airport","Maymanak Airport",39.137798,65.165298,1047,"AS","UZ","UZ-QA","Maynanak","no",,,,"UT73",,,
 26429,"UZ-UT77","small_airport","Kungirot Airport",43.082662,58.885077,180,"AS","UZ","UZ-QR","Kungirot","no",,,,"UT77",,,"Kungrad"
 313332,"UZM","small_airport","Hope Bay Aerodrome",68.156,-106.618,150,"NA","CA","CA-NU","Hope Bay","no",,"UZM",,"CHB3",,"https://en.wikipedia.org/wiki/Hope_Bay_Aerodrome",
@@ -81569,7 +81590,7 @@
 26872,"WMKI","large_airport","Sultan Azlan Shah Airport",4.56733,101.091643,130,"AS","MY","MY-08","Ipoh","yes","WMKI","IPH","WMKI",,,"https://en.wikipedia.org/wiki/Sultan_Azlan_Shah_Airport",
 26873,"WMKJ","large_airport","Senai International Airport",1.64131,103.669998,135,"AS","MY","MY-01","Johor Bahru","yes","WMKJ","JHB","WMKJ",,"https://senaiairport.com","https://en.wikipedia.org/wiki/Senai_International_Airport","Sultan Ismail International Airport"
 26874,"WMKK","large_airport","Kuala Lumpur International Airport",2.74558,101.709999,69,"AS","MY","MY-10","Sepang","yes","WMKK","KUL","WMKK",,,"https://en.wikipedia.org/wiki/Kuala_Lumpur_International_Airport","KLIA"
-26875,"WMKL","medium_airport","Langkawi International Airport",6.329730033874512,99.72869873046875,29,"AS","MY","MY-02","Langkawi","yes","WMKL","LGK","WMKL",,,"https://en.wikipedia.org/wiki/Langkawi_International_Airport",
+26875,"WMKL","large_airport","Langkawi International Airport",6.32973,99.728699,29,"AS","MY","MY-02","Langkawi","yes","WMKL","LGK","WMKL",,,"https://en.wikipedia.org/wiki/Langkawi_International_Airport",
 26876,"WMKM","medium_airport","Malacca International Airport",2.265613,102.252778,35,"AS","MY","MY-04","Malacca","yes","WMKM","MKZ","WMKM",,,"https://en.wikipedia.org/wiki/Malacca_International_Airport","Batu Berendam"
 26877,"WMKN","medium_airport","Sultan Mahmud Airport",5.3826398849487305,103.10299682617188,21,"AS","MY","MY-11","Kuala Terengganu","yes","WMKN","TGG","WMKN",,,"https://en.wikipedia.org/wiki/Sultan_Mahmud_Airport",
 26878,"WMKP","large_airport","Penang International Airport",5.296303,100.276185,11,"AS","MY","MY-07","Penang","yes","WMKP","PEN","WMKP",,,"https://en.wikipedia.org/wiki/Penang_International_Airport",
