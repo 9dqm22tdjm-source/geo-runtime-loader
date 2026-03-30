@@ -9719,7 +9719,6 @@
 604555,"AE-0236","heliport","Al Hamra Heliport",25.68227,55.77373,5,"AS","AE","AE-RK","Nad Al Sili","no",,,,,"https://www.unifiedaviation.net/al-hamra-heliport-booking",,"Al Marjan Island"
 604702,"AE-0237","seaplane_base","Dubai Seaplane Terminal",25.263,55.272,0,"AS","AE","AE-DU",,"no",,"DST",,,,,
 605635,"AE-0238","heliport","Makasib Island Heliport",24.66278,51.82135,7,"AS","AE","AE-AZ","Makasib","no",,,,,,,
-605636,"AE-0239","heliport","(Duplicate)Makasib Island Heliport",24.66278,51.82135,7,"AS","AE","AE-AZ","Makasib","no",,,,,,,
 605637,"AE-0240","heliport","Umm al Ghumaghin Heliport",24.38398,51.57804,16,"AS","AE","AE-AZ","Ras Ghumais","no",,,,,,,
 605638,"AE-0241","heliport","Huwaysat Island Heliport",24.39349,51.50262,20,"AS","AE","AE-AZ","Huwaysat","no",,,,,,,
 605639,"AE-0242","heliport","Ghagha Heliport",24.40456,51.53504,26,"AS","AE","AE-AZ","Ghagha","no",,,,,,,
@@ -17782,6 +17781,8 @@
 604119,"CA-1246","small_airport","London Soaring Society",43.153469,-80.950431,,"NA","CA","CA-ON","Embro","no",,,,,,,
 604891,"CA-1247","seaplane_base","Port Neville Seaplane Dock",50.492163,-126.089272,,"NA","CA","CA-BC",,"no",,,,,,,"PNBC"
 604892,"CA-1248","seaplane_base","McLeod Bay Dock",50.469442,-125.977521,,"NA","CA","CA-BC",,"no",,,,"01BC",,,
+606385,"CA-1249","closed","Fort Conger Airstrip",81.754925,-64.824958,15,"NA","CA","CA-NU","Qikiqtaaluk Region","no",,,,,,,"FCON"
+606387,"CA-1250","closed","Lac Hazen Airstrip",81.823025,-71.360321,10,"NA","CA","CA-NU","Qikiqtaaluk Region","no",,,,,,,"LHAZ"
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -30174,7 +30175,7 @@
 600275,"GR-0106","heliport","Poros Heliport",37.505836,23.457475,16,"EU","GR","GR-I","Poros","no",,,,,,,"Πόρος"
 601163,"GR-0107","heliport","Nea Roda (Ierissos) landing spot",40.377698,23.924441,,"EU","GR","GR-B",,"no",,,,,,,"helipad, landing spot"
 601166,"GR-0108","heliport","Sani Resort Helicopter Landing Spot",40.100461,23.310443,,"EU","GR","GR-B",,"no",,,,,,,
-604508,"GR-0109","medium_airport","(Duplicate)Kasteli Hellenic Air Force Base",35.191341,25.326588,,"AS","GR","GR-M","Kasteli","no",,,,,,"https://en.wikipedia.org/wiki/Kasteli_Airport#History_as_an_Air_Force_Base",
+604508,"GR-0109","medium_airport","(*)Kasteli Hellenic Air Force Base",35.191341,25.326588,1180,"EU","GR","GR-M","Kasteli","no","LGTL",,,,,"https://en.wikipedia.org/wiki/Kasteli_Airport#History_as_an_Air_Force_Base",
 311387,"GRC","small_airport","Grand Cess Airport",4.571,-8.2076,28,"AF","LR","LR-GK","Grand Cess","no",,"GRC",,,,,
 342429,"GS-0001","heliport","Grytviken Emergency Helipad",-54.2824,-36.5095,27,"AN","GS","GS-U-A","Grytviken","no",,,,,,,
 42230,"GT-0001","small_airport","Chiquimula Airport",14.83092,-89.520938,1484,"NA","GT","GT-CQ","Chiquimula","no",,"CIQ","MGCQ",,,"https://en.wikipedia.org/wiki/Chiquimula_Airport",
@@ -33588,6 +33589,7 @@
 605961,"IT-0824","heliport","Rapallo Motor Club A Olivari Heliport",44.35526,9.19578,176,"EU","IT","IT-42","Rapallo (GE)","no",,,,,,,
 605962,"IT-0825","heliport","Rossetti Heliport",44.35708,9.18256,173,"EU","IT","IT-42","Rapallo (GE)","no",,,,,,,
 605963,"IT-0826","heliport","Gaslini Hospital Heliport",44.39334,8.988639,,"EU","IT","IT-42","Genoa (GE)","no",,,,,,,
+606392,"IT-0827","seaplane_base","Laguna di Varano (K.Fly)",41.875248,15.689936,,"EU","IT","IT-75","Cagnano Varano","no",,,,"FG10",,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -43701,7 +43703,7 @@
 4287,"LGST","medium_airport","Sitia Airport",35.21609878540039,26.101299285888672,376,"EU","GR","GR-M","Crete Island","yes","LGST","JSH","LGST",,,"https://en.wikipedia.org/wiki/Sitia_Public_Airport",
 4289,"LGSY","small_airport","Skiros Airport",38.9676017761,24.4871997833,44,"EU","GR","GR-H","Skiros Island","yes","LGSY","SKU","LGSY",,,"https://en.wikipedia.org/wiki/Skyros_Island_National_Airport",
 4290,"LGTG","medium_airport","Tanagra Air Base",38.339802,23.565001,495,"EU","GR","GR-H","Tanagra","no","LGTG",,"LGTG",,,"https://en.wikipedia.org/wiki/Tanagra_Air_Base",
-4291,"LGTL","closed","Kasteli International Airport(Under Construction)",35.172803,25.313068,1180,"AS","GR","GR-M","Crete Island","no",,,,,"https://www.heraklion-airport.gr/en/the-new-airport","https://en.wikipedia.org/wiki/Kasteli_Airport","Καστελίου, LGTL"
+4291,"LGTL","closed","Kasteli International Airport(Under Construction)",35.172803,25.313068,1180,"EU","GR","GR-M","Crete Island","no",,,,,"https://www.heraklion-airport.gr/en/the-new-airport","https://en.wikipedia.org/wiki/Kasteli_Airport","Καστελίου, LGTL"
 4292,"LGTP","small_airport","Tripolis Air Base",37.530602,22.403601,2113,"EU","GR","GR-J","Trípoli","no",,,"LGTP",,,"https://en.wikipedia.org/wiki/Tripoli_Airport_(Greece)",
 4293,"LGTS","large_airport","Thessaloniki Macedonia International Airport",40.51928,22.970009,22,"EU","GR","GR-B","Thessaloniki","yes","LGTS","SKG","LGTS",,"https://www.skg-airport.gr/en","https://en.wikipedia.org/wiki/Thessaloniki_Airport","Makedonia. Macedonia. Salonica"
 4294,"LGTT","small_airport","Tatoi Airport",38.108898,23.7838,785,"EU","GR","GR-I","Tatoi","no",,,"LGTT",,,"https://en.wikipedia.org/wiki/Tatoi_Airport",
@@ -80691,7 +80693,7 @@
 30707,"VNBP","small_airport","Bharatpur Airport",27.678101,84.429398,600,"AS","NP","NP-P3","Bharatpur","yes","VNBP","BHR","VNBP",,,"https://en.wikipedia.org/wiki/Bharatpur_Airport",
 30761,"VNBR","small_airport","Bajura Airport",29.502001,81.668999,4300,"AS","NP","NP-P7","Bajura","no","VNBR","BJU","VNBR",,,"https://en.wikipedia.org/wiki/Bajura_Airport",
 30753,"VNBT","small_airport","Baitadi Airport",29.463421,80.548968,4200,"AS","NP","NP-P7","Baitadi","no","VNBT","BIT","VNBT",,,,
-26593,"VNBW","large_airport","Gautam Buddha International Airport",27.504591,83.414618,358,"AS","NP","NP-P5","Siddharthanagar (Bhairahawa)","yes","VNBW","BWA","VNBW",,,"https://en.wikipedia.org/wiki/Gautam_Buddha_Airport","Bhairahawa Airport"
+26593,"VNBW","large_airport","Gautam Buddha International Airport",27.504636,83.410381,358,"AS","NP","NP-P5","Siddharthanagar (Bhairahawa)","yes","VNBW","BWA","VNBW",,"https://gbia.caanepal.gov.np/","https://en.wikipedia.org/wiki/Gautam_Buddha_International_Airport","Bhairahawa Airport"
 26594,"VNCG","small_airport","Bhadrapur Airport",26.5708007812,88.07959747310001,300,"AS","NP","NP-P1","Bhadrapur","yes","VNCG","BDP","VNCG",,,"https://en.wikipedia.org/wiki/Bhadrapur_Airport","Chandragadhi Airport"
 30931,"VNDG","small_airport","Tulsipur Airport",28.111099,82.294197,2100,"AS","NP","NP-P5","Dang","no","VNDG","DNP","VNDG",,,"https://en.wikipedia.org/wiki/Dang_Airport",
 30913,"VNDH","small_airport","Dhangarhi Airport",28.755283,80.583398,690,"AS","NP","NP-P7","Dhangarhi","no","VNDH","DHI","VNDH",,,"https://en.wikipedia.org/wiki/Dhangadhi_Airport",
@@ -80707,7 +80709,7 @@
 308291,"VNKL","small_airport","Kangel Danda Airport",27.4106333137,86.6465950012,,"AS","NP","NP-P1",,"no",,,"VNKL",,,,
 26596,"VNKT","large_airport","Tribhuvan International Airport",27.6966,85.3591,4390,"AS","NP","NP-P3","Kathmandu","yes","VNKT","KTM","VNKT",,"https://www.tiairport.com.np/","https://en.wikipedia.org/wiki/Tribhuvan_International_Airport","gaucharan, Bagmati"
 31802,"VNLD","small_airport","Lamidanda Airport",27.253099,86.669998,4100,"AS","NP","NP-P1","Lamidanda","no","VNLD","LDN","VNLD",,,"https://en.wikipedia.org/wiki/Lamidanda_Airport",
-28150,"VNLK","small_airport","Lukla Airport",27.686768,86.729479,9380,"AS","NP","NP-P1","Lukla","yes","VNLK","LUA","VNLK",,"https://lukla.caanepal.gov.np/","https://en.wikipedia.org/wiki/Tenzing-Hillary_Airport","Mount Everest, Tenzing Norgay, Sir Edmund Hillary"
+28150,"VNLK","medium_airport","Tenzing-Hillary Airport",27.686768,86.729479,9380,"AS","NP","NP-P1","Lukla","yes","VNLK","LUA","VNLK",,"https://lukla.caanepal.gov.np/","https://en.wikipedia.org/wiki/Tenzing-Hillary_Airport","Lukla, Mount Everest, Tenzing Norgay, Sir Edmund Hillary"
 31856,"VNLT","small_airport","Langtang Airport",28.200000762939453,85.58300018310547,12000,"AS","NP","NP-P3","Langtang","no","VNLT","LTG","VNLT",,,,
 30106,"VNMA","small_airport","Manang Airport",28.641399,84.089203,11001,"AS","NP","NP-P4","Ngawal","no","VNMA","NGX","VNMA",,,"https://en.wikipedia.org/wiki/Manang_Airport",
 31892,"VNMG","small_airport","Meghauli Airport",27.5774,84.22875,600,"AS","NP","NP-P3","Meghauli","no","VNMG","MEY","VNMG",,,"https://en.wikipedia.org/wiki/Meghauli_Airport",
