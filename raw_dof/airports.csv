@@ -10436,7 +10436,7 @@
 38961,"AR-0286","heliport","Oreste Berta Heliport",-31.6269,-64.3922,1869,"SA","AR","AR-X","Alta Gracia","no",,,,"HOB",,,
 38962,"AR-0287","heliport","Argentine Naval Prefecture Principal Official Ballestra Heliport",-34.5772,-58.3838,19,"SA","AR","AR-C","Buenos Aires","no",,,,"HPN",,,"Helipuerto PNA de Oficial Principal Ballestra"
 339851,"AR-0288","small_airport","Haydee Airport",-35.669894,-61.405525,269,"SA","AR","AR-B","Carlos Caceres","no",,,,"CCH",,,
-38964,"AR-0289","small_airport","Parana Aeroclub Airport",-31.7578,-60.3733,196,"SA","AR","AR-E","Parana","no",,,,"ANA",,,
+38964,"AR-0289","small_airport","Parana Aeroclub Airport",-31.757647,-60.373617,196,"SA","AR","AR-E","Parana","no",,,,"ANA",,,
 38965,"AR-0290","small_airport","Parana Club De Planeadores Airport",-31.7314,-60.22,151,"SA","AR","AR-E","Parana","no",,,,"PNA",,,
 38966,"AR-0291","small_airport","Parque Hermoso Airport",-38.0287,-57.6393,196,"SA","AR","AR-B","Mar Del Plata","no",,,,"MPH",,,
 38967,"AR-0292","small_airport","Pedro Luro Airport",-39.4561,-62.6747,88,"SA","AR","AR-B","Pedro Luro","no",,,,"URO",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Pedro_Luro",
@@ -11634,7 +11634,7 @@
 506926,"AU-0536","heliport","Muskoka Helicopter Landing Site",-33.448833,151.073167,26,"OC","AU","AU-NSW","Gunderman","no",,,,"OZHDC",,,
 506931,"AU-0537","heliport","McLean Oval Helicopter Landing Site",-34.556037,148.368001,1385,"OC","AU","AU-NSW","Harden","no",,,,"OZHJK",,,
 507115,"AU-0538","small_airport","Tinbeerwah Airstrip (private)",-26.411335,152.962976,,"OC","AU","AU-QLD","Cooroy","no",,,,"QN00",,,
-507237,"AU-0539","closed","Western Sydney International Airport (Under Construction)",-33.886241,150.715685,,"OC","AU","AU-WA","Sydney","no",,,,,"https://www.wsiairport.com.au/","https://en.wikipedia.org/wiki/Western_Sydney_International_Airport","YSWS, WSI, Nancy Bird Walton"
+507237,"AU-0539","closed","Western Sydney International Airport (Under Construction)",-33.883461,150.712981,,"OC","AU","AU-WA","Sydney","no",,,,,"https://www.wsiairport.com.au/","https://en.wikipedia.org/wiki/Western_Sydney_International_Airport","YSWS, WSI, Nancy Bird Walton"
 507244,"AU-0540","closed","RAAF Station Schofields",-33.713611,150.871111,49,"OC","AU","AU-NSW","Sydney","no",,,,,,"https://en.wikipedia.org/wiki/RAAF_Station_Schofields",
 507245,"AU-0541","closed","Fleurs Aerodrome",-33.863056,150.774167,138,"OC","AU","AU-NSW","Kemps Creek","no",,,,,,"https://en.wikipedia.org/wiki/Fleurs_Aerodrome",
 507246,"AU-0542","closed","Castlereagh Aerodrome",-33.676944,150.6875,151,"OC","AU","AU-NSW","Sydney","no",,,,,,"https://en.wikipedia.org/wiki/Castlereagh_Aerodrome",
@@ -11893,6 +11893,8 @@
 604006,"AU-0796","medium_airport","Nackeroo Airfield",-15.578026,130.475993,,"OC","AU","AU-NT",,"no","YNKR",,,,,"https://en.wikipedia.org/wiki/Nackeroo_Airfield",
 604432,"AU-0797","closed","Denham Airport",-25.884053,113.564408,,"OC","AU","AU-WA",,"no",,,,,,"https://en.wikipedia.org/wiki/Denham_Airport",
 604717,"AU-0798","small_airport","Mundowdna Airstrip",-29.71279,138.227757,,"OC","AU","AU-SA","Mundowdna","no",,,,,,,
+606676,"AU-0799","large_airport","(Duplicate)Western Sydney International Airport",-33.888056,150.714722,262,"OC","AU","AU-QLD","Sydney","yes",,,,,,"https://en.wikipedia.org/wiki/Western_Sydney_International_Airport",
+606679,"AU-0800","closed","RAAF Tuggerah",-33.309335,151.433271,39,"OC","AU","AU-NSW","Tuggerah","no",,,,,"https://sydneypast.blogspot.com/2010/06/thatwwii-landing-strip-at-tuggerah-link.html","https://en.wikipedia.org/wiki/Tuggerah_Aerodrome",
 30622,"AU-AGW","small_airport","Agnew Airport",-12.1456,142.149369,160,"OC","AU","AU-QLD","Agnew","no",,"AGW","YAGN",,,"https://en.wikipedia.org/wiki/Agnew_Airport",
 30666,"AU-AYD","small_airport","Alroy Downs Airport",-19.2908,136.078995,711,"OC","AU","AU-NT","Alroy Downs","no",,"AYD","YALD",,,,
 30808,"AU-BYX","small_airport","Baniyala Airport",-13.1981,136.227005,20,"OC","AU","AU-NT","Baniyala","no",,"BYX","YBNI",,,,
@@ -17782,8 +17784,8 @@
 604891,"CA-1247","seaplane_base","Port Neville Seaplane Dock",50.492163,-126.089272,,"NA","CA","CA-BC",,"no",,,,,,,"PNBC"
 604892,"CA-1248","seaplane_base","McLeod Bay Dock",50.469442,-125.977521,,"NA","CA","CA-BC",,"no",,,,"01BC",,,
 606385,"CA-1249","closed","Fort Conger Airstrip",81.754925,-64.824958,15,"NA","CA","CA-NU","Qikiqtaaluk Region","no",,,,,,,"FCON"
-606387,"CA-1250","closed","Lac Hazen Airstrip",81.823025,-71.360321,10,"NA","CA","CA-NU","Qikiqtaaluk Region","no",,,,,,,"LHAZ"
-606493,"CA-1251","closed","McGill Artic Station (MARS)",79.41596,-90.761018,,"NA","CA","CA-U-A","Axel Heiberg Island","no",,,,,,,
+606387,"CA-1250","small_airport","Lac Hazen Airstrip",81.823025,-71.360321,10,"NA","CA","CA-NU","Qikiqtaaluk Region","no",,,,,,,"LHAZ"
+606493,"CA-1251","small_airport","McGill Arctic Research Station (MARS)",79.41596,-90.761018,,"NA","CA","CA-NU","Axel Heiberg Island","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -26207,7 +26209,7 @@
 17453,"FL86","small_airport","Woodstock Airport",26.582599639892578,-82.09839630126953,5,"NA","US","US-FL","Fort Myers","no",,,"FL86","FL86",,,
 17454,"FL87","heliport","Intra Coastal Police Sub-Station Heliport",25.91699981689453,-80.1498031616211,6,"NA","US","US-FL","North Miami Beach","no",,,"FL87","FL87",,,
 17455,"FL88","small_airport","Bob Paul Airport",26.683700561523438,-81.44979858398438,28,"NA","US","US-FL","La Belle","no",,,"FL88","FL88",,,
-17457,"FL90","small_airport","Salty Approach Airport",26.6033992767,-82.2201004028,6,"NA","US","US-FL","Fort Myers","no",,,"FL90","FL90",,,
+17457,"FL90","small_airport","Salty Approach Airport",26.603585,-82.220055,6,"NA","US","US-FL","North Captiva","no",,,"FL90","FL90","https://visitnorthcaptivaisland.com/north-captiva-island/salty-approach/",,
 17458,"FL91","small_airport","Big Cypress Ranch Airfield",26.309799,-81.227303,22,"NA","US","US-FL","Sunniland","no",,,"FA02","FA02",,,"FL91, Hendry Correctional Institution, Counter Terrorism Advanced Training Center"
 17459,"FL92","heliport","L M Hughey Heliport",27.9414005279541,-82.535400390625,27,"NA","US","US-FL","Tampa","no",,,"FL92","FL92",,,
 17460,"FL93","heliport","Mount Sinai Medical Center Heliport",25.81450080871582,-80.14119720458984,6,"NA","US","US-FL","Miami Beach","no",,,"FL93","FL93",,,
@@ -30417,7 +30419,7 @@
 3183,"HECA","large_airport","Cairo International Airport",30.111534,31.396694,322,"AF","EG","EG-C","Cairo","yes","HECA","CAI","HECA",,,"https://en.wikipedia.org/wiki/Cairo_International_Airport",
 2356,"HECP","medium_airport","Capital International Airport",30.06465,31.839974,761,"AF","EG","EG-C","New Cairo","yes","HECP","CCE","HECP",,,"https://en.wikipedia.org/wiki/Capital_International_Airport_(Egypt)",
 3184,"HECW","medium_airport","Cairo West Air Base",30.116431,30.915535,557,"AF","EG","EG-GZ","Cairo","no","HECW",,"HECW",,,"https://en.wikipedia.org/wiki/Cairo_West_Air_Base","CWE"
-3185,"HEDK","small_airport","Ad Dakhla Airport",25.41116,29.003273,551,"AF","EG","EG-WAD","Dakhla Oases","no","HEDK","DAK","HEDK",,,"https://en.wikipedia.org/wiki/Dakhla_Oasis_Airport",
+3185,"HEDK","small_airport","Dakhla Oasis Airport",25.41116,29.003273,551,"AF","EG","EG-WAD","Dakhla Oases","no","HEDK","DAK","HEDK",,,"https://en.wikipedia.org/wiki/Dakhla_Oasis_Airport",
 3186,"HEGN","large_airport","Hurghada International Airport",27.176776,33.796692,32,"AF","EG","EG-BA","Hurghada","yes","HEGN","HRG","HEGN",,,"https://en.wikipedia.org/wiki/Hurghada_International_Airport","Al Ghardaqah, الغردقة"
 3187,"HEGO","small_airport","El Gouna Private Airport",27.365594,33.668461,39,"AF","EG","EG-BA","El Gouna","no","HEGO",,"HEGO",,,"https://en.wikipedia.org/wiki/El_Gouna_Airport","El Jona"
 3188,"HEGR","medium_airport","El Jora Airport",31.078138,34.153131,331,"AS","EG","EG-SIN","El Jora","no","HEGR","EGH","HEGR",,,"https://en.wikipedia.org/wiki/El_Gora_Airport",
@@ -57785,9 +57787,11 @@
 35466,"SDCW","small_airport","Fazenda Paloma Airport",-20.321423,-48.833504,1709,"SA","BR","BR-SP","Colômbia","no",,,"SDCW","SP0085",,,
 35468,"SDCY","heliport","Camargo Corrêa Heliport",-23.591726,-46.687818,2835,"SA","BR","BR-SP","São Paulo","no",,,"SDCY","SP0307",,,
 35469,"SDCZ","small_airport","Fazenda Bom Jardim Airport",-22.935009,-44.091702,13,"SA","BR","BR-RJ","Mangaratiba","no",,,"SDCZ","RJ0014",,,
+606670,"SDD1","heliport","Marquespan Helistop",-23.331452,-47.850945,2142,"SA","BR","BR-SP","Tatuí","no",,,"SDD1","SP1502",,,
 347577,"SDD2","heliport","Dolce Vita Praia Morro de São Paulo Heliport",-13.412222,-38.914167,26,"SA","BR","BR-BA","Cairu","no",,,"SDD2","BA0375",,,
 347578,"SDD3","small_airport","Fazenda Tangará Airport",-12.634957,-51.276058,735,"SA","BR","BR-MT","Ribeirão Cascalheira","no",,,"SDD3","MT0709",,,
 347579,"SDD4","small_airport","Fazenda Pérola Airport",-12.448789,-45.452741,2395,"SA","BR","BR-BA","São Desidério","no",,,"SDD4","BA0295",,,
+606637,"SDD5","small_airport","Fazenda Retiro 27 Airport",-19.374195,-56.59713,335,"SA","BR","BR-MS","Corumbá","no",,,"SDD5","MS0795",,,
 347580,"SDD6","small_airport","Fazenda Nova Aliança Udo Kudiess e Filhos Airport",-7.523437,-44.499934,1322,"SA","BR","BR-PI","Uruçuí","no",,,"SDD6","PI0084",,,
 347587,"SDD9","small_airport","Pista São Bento",-5.258659,-57.471703,367,"SA","BR","BR-PA","Itaituba","no",,,"SDD9","PA0295",,,
 35471,"SDDB","small_airport","Paradiso Agropecuária Airport",-22.617649,-50.09019,1703,"SA","BR","BR-SP","Campos Novos Paulista","no",,,"SSNZ","SP0877",,,"SDDB, Maggi Agropecuária"
