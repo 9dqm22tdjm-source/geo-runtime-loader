@@ -10647,7 +10647,7 @@
 313015,"AR-0499","small_airport","Punta Delgada Airport",-42.766485,-63.645458,,"SA","AR","AR-U","Punta Delgada","no",,,,,,,
 313021,"AR-0500","small_airport","Camarones Airfield",-44.779007,-65.719672,,"SA","AR","AR-U","Camarones","no",,,,,,,
 313022,"AR-0501","small_airport","Caleta Valdés Field",-42.454874,-63.61908,,"SA","AR","AR-U","Valdés","no",,,,,,,
-313090,"AR-0502","small_airport","Telsen",-42.383333,-66.95,,"SA","AR","AR-U",,"no",,,,,,,
+313090,"AR-0502","small_airport","Telsen",-42.438304,-66.958247,,"SA","AR","AR-U",,"no",,,,,,,
 313091,"AR-0503","small_airport","Gan Gan Field",-42.521363,-68.287861,,"SA","AR","AR-U",,"yes",,,,,,,
 313092,"AR-0504","small_airport","Gastre Field",-42.276165,-69.221892,,"SA","AR","AR-U",,"no",,,,,,,
 313093,"AR-0505","small_airport","Cushamen Field",-42.17195981,-70.666176,,"SA","AR","AR-U",,"no",,,,,,,
@@ -10889,7 +10889,7 @@
 560786,"AR-0741","heliport","Heliplataforma / AM-6 Helideck",-52.608333,-68.127778,104,"SA","AR","AR-V","Cabo Vírgenes","no",,,,"HEA",,,"South Atlantic Ocean"
 37,"AR-0742","closed","Colonia Catriel Airport",-37.909009,-67.83166,1026,"SA","AR","AR-R","Colonia Catriel","no",,,,,,"https://en.wikipedia.org/wiki/Colonia_Catriel_Airport","SA0U, SA30, CCT, CLT"
 5766,"AR-0743","closed","Junin Airport",-34.546359,-60.930487,262,"SA","AR","AR-B","Junin","no",,,,,,"https://en.wikipedia.org/wiki/Jun%C3%ADn_Airport","SAAJ, JNI, NIN"
-5774,"AR-0744","closed","Chamical Airport",-30.345303,-66.294072,1502,"SA","AR","AR-F","Gobernador Gordillo","no",,,,,,,"SACT, GOR"
+5774,"AR-0744","medium_airport","Chamical Airport",-30.345303,-66.294072,1502,"SA","AR","AR-F","Gobernador Gordillo","no","SACT",,,,,,"SACT, GOR"
 5791,"AR-0745","closed","Tinogasta Airport",-28.040796,-67.577552,3968,"SA","AR","AR-K","Tinogasta","no",,,,,,,"SANI, TIN"
 29733,"AR-0746","closed","Don Torcuato Airport",-34.4981,-58.604198,20,"SA","AR","AR-B","Don Torcuato","no",,,,,,"https://en.wikipedia.org/wiki/Don_Torcuato","SADD, SADD, DOT"
 30057,"AR-0747","closed","Lago Argentino Airport",-50.336102,-72.248596,732,"SA","AR","AR-Z","El Calafate","no",,,,,,,"SAWA, ING"
@@ -10904,7 +10904,7 @@
 342657,"AR-0757","small_airport","Estancia San José Airstrip",-49.410757,-72.780266,903,"SA","AR","AR-Z","El Chaltén","no",,,,,,,"Lago Viedma, SCDV"
 594736,"AR-0758","small_airport","Lago Buenos Aires (Los Antiguos) Airfield",-46.55788,-71.61054,948,"SA","AR","AR-Z","Los Antiguos","no",,,,,,,
 594737,"AR-0759","small_airport","Estancia Victoria Airstrip",-46.27989,-71.6778,1010,"SA","AR","AR-Z","Ingeniero Pallavicini","no",,,,,,,
-595357,"AR-0760","small_airport","El Aduar Airstrip",-28.574444,-60.2625,197,"SA","AR","AR-S","Intiyaco","no",,,,"176",,,
+595357,"AR-0760","small_airport","El Aduar Airstrip",-28.571818,-60.26926,197,"SA","AR","AR-S","Intiyaco","no",,,,"176",,,
 595359,"AR-0761","small_airport","El Chou Airstrip",-31.491111,-59.597222,264,"SA","AR","AR-E","Hasenkamp","no",,,,"2989",,,
 595362,"AR-0762","small_airport","Santa Teresa Airstrip",-27.454674,-61.49453,367,"SA","AR","AR-H","General Capdevila","no",,,,"2984",,,
 595365,"AR-0763","small_airport","Estancia 10 Noviembre Airstrip",-35.58308,-62.481018,240,"SA","AR","AR-B","Carlos Tejedor","no",,,,"245",,,
@@ -16327,7 +16327,6 @@
 35343,"BS-0021","closed","Cistern Field",25.7787,-77.885201,18,"NA","BS","BS-BY","Cistern Cay","no",,,,,,"https://en.wikipedia.org/wiki/Cistern_Field","MYBT, MYX5"
 35349,"BS-0022","closed","Cape Eleuthera Airport",24.7861,-76.2962,9,"NA","BS","BS-SE","Cape Eleuthera","no",,,,,,"https://en.wikipedia.org/wiki/Cape_Eleuthera_Airport","CEL, MYEC, MYZ2"
 602572,"BS-0023","closed","Oakes Field Airport",25.055278,-77.36259,30,"NA","BS","BS-NP","Nassau","no",,,,,"https://www.awm.gov.au/collection/C277945",,
-606183,"BS-0024","large_airport","sunwinnltd",80,89,,"NA","BS","BS-LI","Hồ Chí Minh","no",,,,,"https://sunwinn.ltd/",,
 35303,"BS-NSB","seaplane_base","Bimini North Seaplane Base",25.767,-79.25,,"NA","BS","BS-BI","Bimini","yes",,"NSB",,,,"https://en.wikipedia.org/wiki/North_Bimini_Airport",
 302396,"BSV","small_airport","Besakoa Airport",-15.6725,47.061667,40,"AF","MG","MG-M","Besakoa","no",,"BSV",,,,,
 340533,"BT-0001","heliport","Royal Bhutan Police Heliport",27.464609,89.639314,,"AS","BT","BT-15","Thimphu","no",,,,,,,
@@ -54185,6 +54184,8 @@
 538429,"PY-0088","heliport","Asunción Jockey Club Heliport",-25.317999,-57.585011,506,"SA","PY","PY-ASU","La Recoleta","no",,,,,"https://www.jcp.com.py/",,"Jockey Club of Paraguay"
 30531,"PY-0089","closed","Aeródromo de Villa Hayes",-25.154666,-57.560495,210,"SA","PY","PY-15","Villa Hayes","no",,,,,,,"SGNB"
 597859,"PY-0090","small_airport","Aeródromo del Aeroclub Altona",-25.375874,-55.653325,1030,"SA","PY","PY-5","Dr. Juan Eulogio Estigarribia (Campo 9)","no",,,,,"https://asn.flightsafety.org/wikibase/514344",,
+606687,"PY-0091","closed","Aeródromo de Zoro del Pampa",-21.014972,-58.481997,308,"SA","PY","PY-16","Zoro del Pampa","no",,,,,,"https://es.wikipedia.org/wiki/Toro_Pampa",
+606719,"PY-0092","small_airport","Aeródromo de Mayor Pablo Lagerenza",-19.925431,-60.768711,,"SA","PY","PY-16","Mayor Pablo Lagerenza","no",,,,,,"https://es.wikipedia.org/wiki/Mayor_Pablo_Lagerenza",
 41569,"PY-PBT","small_airport","Aeródromo de Puerto Leda",-20.908982,-57.926881,260,"SA","PY","PY-16","Puerto Leda","no",,"PBT",,,,,
 41568,"PY-PCJ","small_airport","Puerto La Victoria Airport",-22.296022,-57.870076,286,"SA","PY","PY-1","Puerto La Victoria","no",,"PCJ","SGLV",,,"https://en.wikipedia.org/wiki/La_Victoria_Airport",
 24336,"PYL","seaplane_base","Perry Island Seaplane Base",60.685298919699996,-147.919006348,0,"NA","US","US-AK","Perry Island","no",,"PYL","PYL","PYL",,,
@@ -56654,7 +56655,7 @@
 41558,"SASL","small_airport","Salar De Cauchari Airport",-24.0191993713,-66.797203064,13000,"SA","AR","AR-Y","Salar de Cauchari","no",,,"SASL","SDC",,,
 5813,"SASO","medium_airport","Orán Airport",-23.1528,-64.329201,1171,"SA","AR","AR-A","Orán","no","SASO","ORA","SASO","ORA",,"https://en.wikipedia.org/wiki/Or%C3%A1n_Airport",
 5814,"SASQ","small_airport","Laboulaye Airport",-34.135399,-63.362301,449,"SA","AR","AR-X","Laboulaye","no",,,"SAOL","LYE",,"https://en.wikipedia.org/wiki/Laboulaye_Airport",
-41545,"SASR","small_airport","Rivadavia Airport",-24.188600540200003,-62.883399963399995,679,"SA","AR","AR-A","Rivadavia","no",,,"SASR","RIV",,,
+41545,"SASR","small_airport","Rivadavia Airport",-24.185927,-62.862353,679,"SA","AR","AR-A","Rivadavia","no",,,"SASR","RIV",,,
 5815,"SAST","medium_airport","General Enrique Mosconi Airport",-22.616877,-63.793015,1472,"SA","AR","AR-A","Tartagal","no","SAST","TTG","SAST","TAR",,"https://en.wikipedia.org/wiki/Tartagal_Airport",
 29791,"SATC","small_airport","Aeródromo de Clorinda",-25.3036,-57.7344,206,"SA","AR","AR-P","Clorinda","no","SATC","CLX","SATC","CLO",,"https://en.wikipedia.org/wiki/Clorinda_Airport",
 5816,"SATD","small_airport","El Dorado Airport",-26.397499,-54.574699,685,"SA","AR","AR-N","El Dorado","no","SATD","ELO","SATD","ELD",,"https://en.wikipedia.org/wiki/El_Dorado_Airport_(Argentina)",
@@ -57592,7 +57593,16 @@
 604953,"SD5F","heliport","São Vicente de Paulo Hospital Helistop",-21.138282,-41.678985,359,"SA","BR","BR-RJ","Bom Jesus do Itabapoana","no",,,"SD5F","RJ0399",,,
 604955,"SD5G","small_airport","Fazenda Viúva Negra Airstrip",-27.641864,-49.761214,3068,"SA","BR","BR-SC","Otacílio Costa","no",,,"SD5G","SC0261",,,
 603894,"SD5I","small_airport","Agrodan  Airstrip",-8.667458,-39.162056,1071,"SA","BR","BR-PE","Belém do São Francisco","no",,,"SD5I","PE0111",,,
+606808,"SD5J","heliport","Ninho das Águias Heliport",-27.008596,-48.615408,7,"SA","BR","BR-SC","Balneário Camboriú","no",,,"SD5J","SC0249",,,
+606809,"SD5K","small_airport","Santa Lucia Airport",-27.09273,-53.022319,814,"SA","BR","BR-RS","Alpestre","no",,,"SD5K","RS0195",,,
 603888,"SD5L","heliport","Teófilo Otoni Regional Hospital Helipad",-17.831536,-41.507514,1106,"SA","BR","BR-MG","Teófilo Otoni","no",,,"SD5L","MG0421",,,
+606813,"SD5M","heliport","Casa Bahls Heliport",-22.723629,-42.850726,46,"SA","BR","BR-RJ","Itaboraí","no",,,"SD5M","RJ0401",,,
+606815,"SD5N","small_airport","Fazenda HD Airstrip",-8.113286,-61.445344,525,"SA","BR","BR-AM","Novo Aripuanã","no",,,"SD5N","AM0121",,,
+606835,"SD5P","heliport","Alphaville Guarajuba Heliport",-12.681627,-38.104447,33,"SA","BR","BR-BA","Camaçari","no",,,"SD5P","BA0520",,,
+606849,"SD5Q","small_airport","Inocência Airport",-19.760682,-51.896498,1818,"SA","BR","BR-MS","Inocência","no",,,"SD5Q","MS0796",,,
+606850,"SD5R","small_airport","Fazenda São Jorge Airport",-13.563394,-49.530561,1319,"SA","BR","BR-GO","Porangatu","no",,,"SD5R","GO0423",,,
+606852,"SD5S","small_airport","Fazenda Balsa Airstrip",-11.600778,-58.439431,971,"SA","BR","BR-MT","Juína","no",,,"SD5S","MT1168",,,
+606854,"SD5U","small_airport","Fazenda Tupan Airport",-13.668789,-56.049785,1526,"SA","BR","BR-MT","Nova Mutum","no",,,"SD5U","MT1170",,,
 605815,"SD5W","heliport","Fazenda Santo Antônio Heliport",-19.314664,-44.151822,2129,"SA","BR","BR-MG","Funilândia","no",,,"SD5W","MG0665",,,
 605813,"SD5X","heliport","Heli Boss Heliport",-23.008569,-43.301817,20,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SD5X","RJ0402",,,
 605811,"SD5Z","small_airport","Fazenda Pamaluce Airstrip",-14.930284,-48.718138,1822,"SA","BR","BR-GO","Niquelândia","no",,,"SD5Z","GO0425",,,
@@ -61323,7 +61333,7 @@
 39421,"SLCE","small_airport","Cabezas Airport",-18.797433,-63.301611,1328,"SA","BO","BO-S","Cordillera","no","SLCE",,"SLCE",,,"https://en.wikipedia.org/wiki/Cabezas_Airport",
 39428,"SLCG","small_airport","Charagua Airport",-19.785601,-63.1884,2040,"SA","BO","BO-S","Cordillera","no",,,"SLCG",,,"https://en.wikipedia.org/wiki/Charagua_Airport",
 39486,"SLCI","small_airport","Caigua Airport",-21.136389,-63.752778,1685,"SA","BO","BO-T","Gran Chaco","no",,,"SLCI",,,"https://en.wikipedia.org/wiki/Caigua_Airport","Carapari, Caigua"
-39492,"SLCL","small_airport","Collpani Airport",-18.891666,-66.783333,12185,"SA","BO","BO-O","Abaroa","no",,,"SLCL",,,"https://en.wikipedia.org/wiki/Challapata_Airport",
+39492,"SLCL","small_airport","Collpani Airport",-18.882706,-66.796671,12185,"SA","BO","BO-O","Abaroa","no",,,"SLCL",,,"https://en.wikipedia.org/wiki/Challapata_Airport",
 39487,"SLCM","small_airport","Camacho Airport",-11.505,-67.6847,690,"SA","BO","BO-N","Camacho","no",,,"SLCM",,,,
 29776,"SLCN","small_airport","Charaña Airport",-17.5947,-69.433098,13339,"SA","BO","BO-L","Charaña","no",,,"SLCN",,,"https://en.wikipedia.org/wiki/Chara%C3%B1a_Airport",
 6182,"SLCO","medium_airport","Capitán Aníbal Arab Airport",-11.039109,-68.782774,889,"SA","BO","BO-N","Cobija","yes","SLCO","CIJ","SLCO",,,"https://en.wikipedia.org/wiki/Cap._Anibal_Arab_Airport",
@@ -61376,7 +61386,7 @@
 39446,"SLIZ","small_airport","Izozog Airport",-18.663834,-63.002335,1082,"SA","BO","BO-S","Cordillera","no",,,"SLIZ",,,"https://en.wikipedia.org/wiki/Izozog_Airport",
 39447,"SLJA","small_airport","Jatata Airport",-11.772833,-67.255997,575,"SA","BO","BO-N","Madre De Dios","no",,,"SLJA",,,"https://en.wikipedia.org/wiki/Jatata_Airport",
 30376,"SLJE","small_airport","San José De Chiquitos Airport",-17.830799,-60.743099,974,"SA","BO","BO-S","San José de Chiquitos","no","SLJE","SJS","SLJE",,,"https://en.wikipedia.org/wiki/San_Jos%C3%A9_de_Chiquitos_Airport",
-30386,"SLJO","small_airport","San Joaquín Airport",-13.0528,-64.661697,456,"SA","BO","BO-B","San Joaquín","no","SLJO","SJB","SLJO",,,"https://en.wikipedia.org/wiki/San_Joaqu%C3%ADn_Airport",
+30386,"SLJO","small_airport","San Joaquín Airport",-13.067209,-64.675205,456,"SA","BO","BO-B","San Joaquín","no","SLJO","SJB","SLJO",,,"https://en.wikipedia.org/wiki/San_Joaqu%C3%ADn_Airport",
 39511,"SLJS","small_airport","Josuani Airport",-13.083333,-66.166664,498,"SA","BO","BO-B","Yacuma","no",,,"SLJS",,,"https://en.wikipedia.org/wiki/Josuani_Airport",
 30375,"SLJV","small_airport","San Javier Airport",-16.2708,-62.470299,1702,"SA","BO","BO-S","San Javier","no","SLJV","SJV","SLJV",,,"https://en.wikipedia.org/wiki/San_Javier_Airport_(Bolivia)",
 39515,"SLLB","small_airport","Las Brizas Airport",-14.516666,-65.76667,722,"SA","BO","BO-B","Yacuma","no",,,"SLLB",,,"https://en.wikipedia.org/wiki/Las_Brizas_Airport",
@@ -61433,7 +61443,7 @@
 39465,"SLSE","small_airport","Santa Teresita Airport",-16.285,-59.495167,756,"SA","BO","BO-S","Angel Sandoval","no",,,"SLSE",,,"https://en.wikipedia.org/wiki/Santa_Teresita_Airport_(Bolivia)",
 39460,"SLSF","small_airport","San Rafael Airport",-17.2891,-62.304,890,"SA","BO","BO-S",,"no",,,"SLSF",,,,
 39462,"SLSG","small_airport","San Miguel De Gaser Airport",-13.9021,-66.1567,700,"SA","BO","BO-B","Yacuma","no",,,"SLSG",,,"https://en.wikipedia.org/wiki/San_Miguel_de_Gaser_Airport",
-39543,"SLSH","small_airport","Santa Ana De Huachi Airport",-15.483334,-67.48333,1640,"SA","BO","BO-L","Sud Yungas","no",,,"SLSH",,,"https://en.wikipedia.org/wiki/Santa_Ana_de_Huachi_Airport",
+39543,"SLSH","small_airport","Santa Ana De Huachi Airport",-15.494724,-67.442415,1640,"SA","BO","BO-L","Sud Yungas","no",,,"SLSH",,,"https://en.wikipedia.org/wiki/Santa_Ana_de_Huachi_Airport",
 30372,"SLSI","small_airport","Capitán Av. Juan Cochamanidis S. Airport",-16.38719,-60.962318,1354,"SA","BO","BO-S","San Ignacio de Velasco","no","SLSI","SNG","SLSI",,,"https://en.wikipedia.org/wiki/Capitán_Av._Juan_Cochamanidis_Airport",
 39535,"SLSJ","small_airport","Salinas Airport",-19.5,-67.33333587646484,12027,"SA","BO","BO-O","Ladislao Cabrera","no",,,"SLSJ",,,,
 39546,"SLSK","small_airport","Santa Rosa Del Sara Airport",-17.104719,-63.608372,850,"SA","BO","BO-S","A. Ibañez","no",,,"SLSK",,,"https://en.wikipedia.org/wiki/Santa_Rosa_del_Sara_Airport",
@@ -61903,7 +61913,7 @@
 547644,"SNF3","small_airport","Fazenda FS1 Airstrip",-8.746322,-47.597106,951,"SA","BR","BR-TO","Itacajá","no",,,"SNF3","TO0145",,,
 555214,"SNF8","small_airport","Fazenda Europa Airport",-9.832902,-50.875615,735,"SA","BR","BR-MT","Vila Rica","no",,,"SNF8","MT1072",,,
 565794,"SNF9","small_airport","Fazenda Latreille Airport",-11.99335,-62.961806,610,"SA","BR","BR-RO","São Miguel do Guaporé","no",,,"SNF9","RO0100",,,
-305,"SNFA","small_airport","Fazenda Santo Antônio Airport",-16.7162,-46.521198,1795,"SA","BR","BR-MG","Unaí","no",,,"SNFA","MG0143",,,
+305,"SNFA","small_airport","Fazenda Vale Verde III Airport",-16.716028,-46.521124,1795,"SA","BR","BR-MG","Unaí","no",,,"SD5H","MG0143",,,"SNFA, Santo Antônio"
 45595,"SNFB","small_airport","Fazenda Minas Gerais Airport",-14.773264,-59.047437,2395,"SA","BR","BR-MT","Pontes E Lacerda","no",,,"SDVM","MT0068",,,"SNFB"
 306,"SNFE","small_airport","Comandante Paschoal Patrocínio Filho Airport",-21.4314,-45.932098,2871,"SA","BR","BR-MG","Alfenas","no",,,"SNFE","SNFE",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Alfenas",
 37080,"SNFF","small_airport","Feijó Airport",-3.809903,-38.614597,82,"SA","BR","BR-CE","Fortaleza","no",,,"SNFF",,,,
@@ -64021,7 +64031,7 @@
 561,"SWMK","small_airport","Maturacá Airport",0.628269,-66.115097,329,"SA","BR","BR-AM","São Gabriel da Cachoeira","no",,,"SWMK","AM0049",,,
 37966,"SWMN","small_airport","Fazenda Montana Airport",-15.214686,-50.836191,1076,"SA","BR","BR-GO","Matrinchã","no",,,"SJSX","GO0086",,,"SWMN, Fazenda Forquilha"
 37967,"SWMO","small_airport","Fazenda Maria José Airport",-17.452777862548828,-54.74222183227539,1716,"SA","BR","BR-MT","Itiquira","no",,,"SWMO",,,,
-37968,"SWMQ","small_airport","Fazenda Muiraquitã Airport",-10.416943550109863,-60.55055618286133,367,"SA","BR","BR-MT","Aripuanã","no",,,"SWMQ",,,,
+37968,"SWMQ","small_airport","Fazenda Muiraquitã Airport",-10.428823,-60.546942,433,"SA","BR","BR-MT","Aripuanã","no",,,"SWMQ","MT0368",,,
 37970,"SWMT","small_airport","Fazenda Centro da Mata Airport",-12.657777786254883,-54.82777786254883,1214,"SA","BR","BR-MT","Nova Ubiratã","no",,,"SWMT",,,,
 37971,"SWMU","small_airport","Surumu Airport",4.31639003754,-60.7005996704,1640,"SA","BR","BR-RR","Pacaraima","no",,,"SWMU",,,,
 37972,"SWMV","small_airport","Paa-Piu Airport",2.72694,-62.9506,984,"SA","BR","BR-RR","Mucajaí","no",,,"SWMV",,,"https://pt.wikipedia.org/wiki/Aeroporto_de_Mucaja%C3%AD",
@@ -79945,7 +79955,7 @@
 40405,"VE-0056","small_airport","Coshiloateri Airport",3.0833330154418945,-65.81500244140625,450,"SA","VE","VE-Z",,"no",,,,,,,
 40406,"VE-0057","small_airport","El Carmen Airport",6.150000095367432,-67.06666564941406,213,"SA","VE","VE-F",,"no",,,,,,,
 40407,"VE-0058","small_airport","El Cedral Airport",7.431666851043701,-69.32666778564453,285,"SA","VE","VE-C","Apure","no",,,,,,,
-40408,"VE-0059","small_airport","El Diamante Airport",6.434721946716309,-65.81888580322266,948,"SA","VE","VE-F",,"no",,,,,,,
+40408,"VE-0059","small_airport","El Diamante Airport",6.449105,-65.830235,948,"NA","VE","VE-F",,"no",,,,,,,
 40409,"VE-0060","closed","El Encantado  Heliport",10.452,-66.7948,328,"SA","VE","VE-M","El Encantado","no",,,,,,,
 40410,"VE-0061","small_airport","El Millanero Airport",8.316666603088379,-67.11166381835938,192,"SA","VE","VE-J",,"no",,,,,,,
 40411,"VE-0062","small_airport","El Samán de Barinas Airport",8.543946,-70.178275,510,"SA","VE","VE-E",,"no",,,,,,,
