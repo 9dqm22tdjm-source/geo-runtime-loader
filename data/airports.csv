@@ -10642,7 +10642,7 @@
 46645,"AR-0494","small_airport","Colonia Sarmiento Airport",-45.582371,-68.999841,877,"SA","AR","AR-U","Sarmiento","no",,,,"STO",,,
 298878,"AR-0495","small_airport","Agroaire Airport",-27.476346,-61.624434,330,"SA","AR","AR-H","Gancedo","no",,,,,"http://guialocal.com.ar/agroaire.html",,
 313007,"AR-0496","small_airport","Aeroclub de El Chaltén Alf. G.N.A. Walter Omar D Anna",-49.53531,-72.51997,1279,"SA","AR","AR-Z","El Chaltén","no",,,,"ELX",,,
-313008,"AR-0497","small_airport","Hipólito Yrigoyen Lago Posadas Airport",-47.565833,-71.74,,"SA","AR","AR-Z",,"no",,,,,,,
+313008,"AR-0497","small_airport","Hipólito Yrigoyen Lago Posadas Airport",-47.557357,-71.740959,,"SA","AR","AR-Z",,"no",,,,,,,
 313014,"AR-0498","small_airport","Estancia La Adela Airport",-42.526064,-64.278661,,"SA","AR","AR-U","Puerto Piramides","no",,,,,,,
 313015,"AR-0499","small_airport","Punta Delgada Airport",-42.766485,-63.645458,,"SA","AR","AR-U","Punta Delgada","no",,,,,,,
 313021,"AR-0500","small_airport","Camarones Airfield",-44.779007,-65.719672,,"SA","AR","AR-U","Camarones","no",,,,,,,
@@ -29831,6 +29831,7 @@
 604409,"GB-1349","small_airport","Fowler's Field Airstrip",51.000764,-0.444937,,"EU","GB","GB-ENG","Billingshurst","no",,,,,,,
 604830,"GB-1350","small_airport","Old Meldrum",57.39204,-2.385107,,"EU","GB","GB-SCT",,"no",,,,,,,
 605698,"GB-1351","closed","Sunderland Airport",54.911742,-1.472938,121,"EU","GB","GB-ENG","Sunderland","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Usworth","Sunderland, Usworth"
+606862,"GB-1352","closed","de Havilland factory airfield",51.765196,-0.237158,254,"EU","GB","GB-ENG","Hatfield","no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO, EG42"
@@ -42231,7 +42232,7 @@
 3914,"KSZL","medium_airport","Whiteman Air Force Base",38.730301,-93.547897,870,"NA","US","US-MO","Knob Noster","no","KSZL","SZL","KSZL","SZL","http://www.whiteman.af.mil/","https://en.wikipedia.org/wiki/Whiteman_Air_Force_Base","Sedalia Glider Base"
 24682,"KSZN","small_airport","Santa Cruz Island Airport",34.06007,-119.915229,50,"NA","US","US-CA","Santa Cruz Island","no","KSZN","SZN","KSZN","SZN",,"https://en.wikipedia.org/wiki/Santa_Cruz_Island_Airport",
 24683,"KSZP","small_airport","Santa Paula Airport",34.34719849,-119.060997,243,"NA","US","US-CA","Santa Paula","no","KSZP","SZP","KSZP","SZP",,"https://en.wikipedia.org/wiki/Santa_Paula_Airport",
-21131,"KSZT","small_airport","Sandpoint Airport",48.299499511719,-116.55999755859,2131,"NA","US","US-ID","Sandpoint","no",,,"KSZT","SZT","http://sandpointairport.com/","https://en.wikipedia.org/wiki/Sandpoint_Airport","S86"
+21131,"KSZT","small_airport","Sandpoint Airport",48.2995,-116.559998,2131,"NA","US","US-ID","Sandpoint","no","KSZT",,"KSZT","SZT","http://sandpointairport.com/","https://en.wikipedia.org/wiki/Sandpoint_Airport",
 21132,"KSZY","small_airport","Robert Sibley Airport",35.20289993286133,-88.49839782714844,610,"NA","US","US-TN","Selmer","no",,,"KSZY","SZY",,,
 21133,"KT00","small_airport","Chambers County Airport",29.7701,-94.662399,21,"NA","US","US-TX","Anahuac","no",,,"KT00","T00",,"https://en.wikipedia.org/wiki/Chambers_County_Airport",
 21134,"KT03","small_airport","Tuba City Airport",36.091146,-111.38286,4513,"NA","US","US-AZ","Tuba City","no",,"TBC",,"T03",,"https://en.wikipedia.org/wiki/Tuba_City_Airport","Tó Naneesdizí"
@@ -56652,7 +56653,7 @@
 39072,"SARV","small_airport","Villa Angela Airport",-27.5915,-60.6864,246,"SA","AR","AR-H","Villa Angela","no",,,"SARV","VAN",,"https://en.wikipedia.org/wiki/Villa_Angela_Airport",
 5811,"SASA","large_airport","Martín Miguel de Güemes International Airport",-24.856001,-65.486198,4088,"SA","AR","AR-A","Salta","yes","SASA","SLA","SASA","SAL",,"https://en.wikipedia.org/wiki/Mart%C3%ADn_Miguel_de_G%C3%BCemes_Airport",
 5812,"SASJ","large_airport","Gobernador Horacio Guzman International Airport",-24.392799,-65.097801,3019,"SA","AR","AR-Y","San Salvador de Jujuy","yes","SASJ","JUJ","SASJ","JUJ",,"https://en.wikipedia.org/wiki/Gobernador_Horacio_Guzm%C3%A1n_International_Airport",
-41558,"SASL","small_airport","Salar De Cauchari Airport",-24.0191993713,-66.797203064,13000,"SA","AR","AR-Y","Salar de Cauchari","no",,,"SASL","SDC",,,
+41558,"SASL","small_airport","Salar De Cauchari Airport",-23.785356,-66.751937,13000,"SA","AR","AR-Y","Salar de Cauchari","no",,,"SASL","SDC",,,
 5813,"SASO","medium_airport","Orán Airport",-23.1528,-64.329201,1171,"SA","AR","AR-A","Orán","no","SASO","ORA","SASO","ORA",,"https://en.wikipedia.org/wiki/Or%C3%A1n_Airport",
 5814,"SASQ","small_airport","Laboulaye Airport",-34.135399,-63.362301,449,"SA","AR","AR-X","Laboulaye","no",,,"SAOL","LYE",,"https://en.wikipedia.org/wiki/Laboulaye_Airport",
 41545,"SASR","small_airport","Rivadavia Airport",-24.185927,-62.862353,679,"SA","AR","AR-A","Rivadavia","no",,,"SASR","RIV",,,
@@ -57106,7 +57107,7 @@
 39123,"SCDS","small_airport","San Andrés Airport",-36.005554,-71.76667,574,"SA","CL","CL-ML","Retiro","no",,,"SCDS",,,"https://en.wikipedia.org/wiki/San_Andr%C3%A9s_Airport",
 6013,"SCDW","small_airport","Almirante Schroeders Airport",-53.610699,-70.470497,160,"SA","CL","CL-MA","Isla Dawson","no",,,"SCDW",,,"https://en.wikipedia.org/wiki/Almirante_Schroeders_Airport",
 39124,"SCEA","small_airport","El Amarillo Airport",-43.006111,-72.478333,1083,"SA","CL","CL-LL","Chaiten","no",,,"SCEA",,,"https://en.wikipedia.org/wiki/El_Amarillo_Airport",
-39125,"SCEB","small_airport","Entrada Baker Airport",-47.184166,-71.976112,1640,"SA","CL","CL-AI","Entrada Baker","no",,,"SCEB",,,"https://en.wikipedia.org/wiki/Entrada_Baker_Airport",
+39125,"SCEB","small_airport","Entrada Baker Airport",-47.166974,-71.992496,1640,"SA","CL","CL-AI","Entrada Baker","no",,,"SCEB",,,"https://en.wikipedia.org/wiki/Entrada_Baker_Airport",
 6014,"SCEC","small_airport","Pelícano Airport",-29.144899,-70.887802,3678,"SA","CL","CL-CO","Estacion Chañaral","no",,,"SCEC",,,"https://en.wikipedia.org/wiki/Pelicano_Airport",
 39126,"SCED","small_airport","Los Cedros Airport",-35.154999,-71.585281,305,"SA","CL","CL-ML","Sagrada Familia","no",,,"SCED",,,"https://en.wikipedia.org/wiki/Los_Cedros_Airport",
 39127,"SCEG","small_airport","El Corte Airport",-33.709999,-70.913055,1024,"SA","CL","CL-RM","Talagante","no",,,"SCEG",,,"https://en.wikipedia.org/wiki/El_Corte_Airport",
