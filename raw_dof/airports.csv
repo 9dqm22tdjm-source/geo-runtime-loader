@@ -19703,7 +19703,7 @@
 525153,"CN-0415","small_airport","Hejing Bayinbuluke Airport",42.976395,83.995543,8219,"AS","CN","CN-65","Hejing","yes","ZWHJ","HJB","ZWHJ",,,"https://en.wikipedia.org/wiki/Hejing_Bayinbuluke_Airport",
 525160,"CN-0416","small_airport","Otog Front Banner Oljoq Airport",38.1712,107.3905,,"AS","CN","CN-15","Otog Front Banner","no",,"OTQ",,,,,
 525757,"CN-0417","small_airport","Qitai Jiangbulake Airport",44.166086,89.55014,,"AS","CN","CN-65","Qitai","yes","ZWQT","JBK","ZWQT",,,"https://en.wikipedia.org/wiki/Qitai_Jiangbulake_Airport",
-525766,"CN-0418","small_airport","Hohhot Shengle International Airport (under construction)",40.480965,111.575174,,"AS","CN","CN-15","Hohhot","no",,,,,,"https://en.wikipedia.org/wiki/Hohhot_Shengle_International_Airport",
+525766,"CN-0418","medium_airport","Hohhot Shengle International Airport (under construction)",40.480965,111.575174,,"AS","CN","CN-15","Hohhot","no",,,,,,"https://en.wikipedia.org/wiki/Hohhot_Shengle_International_Airport",
 525771,"CN-0419","small_airport","Zaozhuang Yiyun Airport (under construction)",34.9074,117.408,,"AS","CN","CN-37","Zaozhuang","no",,,,,,"https://en.wikipedia.org/wiki/Zaozhuang_Yiyun_Airport",
 525772,"CN-0420","small_airport","Honghe Mengzi Airport (under construction)",23.464782,103.347487,,"AS","CN","CN-53","Mengzi","no",,,,,,"https://en.wikipedia.org/wiki/Honghe_Mengzi_Airport",
 525773,"CN-0421","medium_airport","Zhaotong Zhaoyang Airport （Not fully opened)",27.205843,103.691511,,"AS","CN","CN-53","Zhaotong","no","ZPZT","ZAT",,,,"https://en.wikipedia.org/wiki/Zhaotong_Zhaoyang_Airport",
@@ -25927,7 +25927,7 @@
 17306,"FD35","small_airport","Redhead Airport",30.49049949645996,-85.83940124511719,102,"NA","US","US-FL","Ebro","no",,,"FD35","FD35",,,
 17307,"FD36","heliport","Advent Health East Orlando Heliport",28.541224,-81.279941,113,"NA","US","US-FL","Orlando","no",,,"FD36","FD36",,,"Florida Hospital East Orlando"
 17308,"FD37","small_airport","Gentry Airport",28.13719940185547,-81.26339721679688,80,"NA","US","US-FL","St Cloud","no",,,"FD37","FD37",,,
-17309,"FD38","small_airport","Wellington Aero Club Airport",26.646499633789062,-80.29419708251953,19,"NA","US","US-FL","West Palm Beach","no",,,"FD38","FD38",,,
+17309,"FD38","small_airport","Wellington Aero Club Airport",26.6465,-80.294197,19,"NA","US","US-FL","West Palm Beach","no",,,"FD38","FD38",,,
 17310,"FD39","small_airport","Flying Cow Air Ranch Airport",27.1556,-80.691704,19,"NA","US","US-FL","Okeechobee","no",,,"FD39","FD39",,,"Baggett Airpark"
 17312,"FD41","heliport","Grand Cypress Resort Heliport",28.38149,-81.515508,105,"NA","US","US-FL","Orlando","no",,,"FD41","FD41",,,
 17313,"FD42","small_airport","Cooksey Brothers Airport",30.211599349975586,-83.05460357666016,90,"NA","US","US-FL","Live Oak","no",,,"FD42","FD42",,,
@@ -57279,7 +57279,7 @@
 45070,"SCPI","small_airport","Pullami Airport",-36.586667,-71.807778,804,"SA","CL","CL-NB","Coihueco","no",,,"SCPI",,,"https://en.wikipedia.org/wiki/Pullam%C3%AD_Airport",
 39244,"SCPK","small_airport","Puerto Cisnes Airport",-44.759304,-72.697763,45,"SA","CL","CL-AI","Puerto Cisnes","no",,,"SCPK",,,"https://en.wikipedia.org/wiki/Puerto_Cisnes_Airport",
 32267,"SCPL","small_airport","Calpulli Airport",-40.128899,-72.661697,755,"SA","CL","CL-LR","Paillaco","no",,,"SCPL",,,"https://en.wikipedia.org/wiki/Calpulli_Airport",
-39245,"SCPM","small_airport","Pichilemu Airport",-34.394165,-72.019165,82,"SA","CL","CL-LI","Pichilemu","no","SCPM",,"SCPM",,"https://aipchile.dgac.gob.cl/aerodromo/show?designador=SCPM","https://en.wikipedia.org/wiki/Pichilemu_Aerodrome",
+39245,"SCPM","small_airport","Pichilemu Airport",-34.395719,-72.019633,82,"SA","CL","CL-LI","Pichilemu","no","SCPM",,"SCPM",,"https://aipchile.dgac.gob.cl/aerodromo/show?designador=SCPM","https://en.wikipedia.org/wiki/Pichilemu_Aerodrome",
 39246,"SCPN","small_airport","Pillán Airport",-42.546989,-72.494884,33,"SA","CL","CL-LL","Chaiten","no","SCPN",,"SCPN",,,"https://en.wikipedia.org/wiki/Pill%C3%A1n_Airport",
 39247,"SCPO","small_airport","Los Paltos Airport",-34.328056,-70.964165,869,"SA","CL","CL-LI","Quinta de Tilcoco","no","SCPO",,"SCPO",,,"https://en.wikipedia.org/wiki/Isla_Picton_Airport",
 39248,"SCPP","small_airport","Poco a Poco Airport",-37.848888,-72.008331,1680,"SA","CL","CL-BI","Mulchen","no",,,"SCPP",,,"https://en.wikipedia.org/wiki/Poco_a_Poco_Airport",
@@ -61157,7 +61157,7 @@
 40557,"SK-512","small_airport","Centro Administrativo Airport",5.335174,-67.866615,274,"SA","CO","CO-VID","Santa Rita","no",,,,"CAO",,,
 40606,"SK-513","small_airport","Cumachagua Airport",4.016667,-70.883333,433,"SA","CO","CO-VID","Santa Rosalìa","no",,,,"CAV",,,
 40569,"SK-514","small_airport","Cumaribo Airport",4.4483,-69.7807,550,"SA","CO","CO-VID","Cumaribo","no",,,"SKUM","PCE",,"https://en.wikipedia.org/wiki/Cumaribo_Airport",
-40562,"SK-515","small_airport","El Cimarrón Airport",5.939722,-69.264444,359,"SA","CO","CO-VID","La Primavera","no",,,,"LPR",,,
+40562,"SK-515","small_airport","El Cimarrón Airport",5.937102,-69.258016,359,"NA","CO","CO-VID","La Primavera","no",,,,"LPR",,,
 40568,"SK-516","small_airport","El Gavilán Airport",5.226667,-69.737222,381,"SA","CO","CO-VID","La Primavera","no",,,,"LPG",,,
 40560,"SK-517","small_airport","El Tapón Airport",5.15,-69.183333,419,"SA","CO","CO-VID","El Tapón","no",,,,"ETA",,,
 40586,"SK-518","small_airport","Guerima Airport",3.629996,-70.323028,471,"SA","CO","CO-VID","Puerto Carreño","no",,"GMC","SKUV","GRM",,,
@@ -61165,10 +61165,10 @@
 40571,"SK-520","small_airport","La Jaula Airport",5.307778,-69.831944,380,"SA","CO","CO-VID","La Primavera","no",,,,"LJV",,,
 40599,"SK-522","small_airport","La Victoria Airport",3.828056,-70.589167,438,"SA","CO","CO-VID","Puerto Carreño","no",,,,"PTC",,,
 41019,"SK-523","small_airport","Las Gaviotas Airport",4.583333,-70.833333,600,"SA","CO","CO-VID","Las Gaviotas","no",,,,,,,
-40559,"SK-524","small_airport","Pinoquia Airport",6.1525,-68.817778,234,"SA","CO","CO-VID","Puerto Carreño","no",,,,"PNQ",,,
+40559,"SK-524","small_airport","Pinoquia Airport",6.138965,-68.778019,234,"NA","CO","CO-VID","Puerto Carreño","no",,,,"PNQ",,,
 40573,"SK-525","small_airport","Rancho Alegre Airport",5.322778,-69.950556,387,"SA","CO","CO-VID","La Primavera","no",,,,"LPV",,,
 40604,"SK-526","small_airport","San Carlos-Planas Airport",4.033333,-70.833333,449,"SA","CO","CO-VID","Santa Rosalìa","no",,,,"SCS",,,
-40584,"SK-527","small_airport","San José De Ocune Airport",4.082222,-70.253889,560,"SA","CO","CO-VID","Puerto Carreño","no",,,,"PRE",,,
+40584,"SK-527","small_airport","San José De Ocune Airport",4.069765,-70.223912,560,"NA","CO","CO-VID","Puerto Carreño","no",,,,"PRE",,,
 40600,"SK-528","small_airport","Santa Rosalìa Airport",5.233333,-70.683333,377,"SA","CO","CO-VID","Santa Rosalìa","no",,,,"CAO",,,
 41041,"SK53","small_airport","Yaguarito Airport",3.88,-73.339996,836,"SA","CO","CO-MET","Surimena","no",,,"SK53","SK53",,,
 30615,"SKAC","small_airport","Araracuara Airport",-0.600854,-72.398011,1250,"SA","CO","CO-CAQ","Araracuara","no","SKAC","ACR","SKAC","ACR",,"https://en.wikipedia.org/wiki/Araracuara_Airport",
@@ -61251,7 +61251,7 @@
 32314,"SKNQ","small_airport","Reyes Murillo Airport",5.710348,-77.261868,12,"SA","CO","CO-CHO","Nuquí","yes","SKNQ","NQU","SKNQ","NQU",,"https://en.wikipedia.org/wiki/Reyes_Murillo_Airport",
 6141,"SKNV","medium_airport","Benito Salas Airport",2.95015,-75.294,1464,"SA","CO","CO-HUI","Neiva","yes","SKNV","NVA","SKNV","NVA",,"https://en.wikipedia.org/wiki/Benito_Salas_Airport","La Manguita"
 6142,"SKOC","medium_airport","Aguas Claras Airport",8.31506,-73.3583,3850,"SA","CO","CO-NSA","Ocaña","no","SKOC","OCV","SKOC","OCV",,"https://en.wikipedia.org/wiki/Aguas_Claras_Airport",
-32126,"SKOE","small_airport","Orocue Airport",4.79222,-71.3564,434,"SA","CO","CO-CAS","Orocue","no","SKOE","ORC","SKOE","ORC",,"https://en.wikipedia.org/wiki/Orocue_Airport",
+32126,"SKOE","small_airport","Orocue Airport",4.790355,-71.348187,434,"NA","CO","CO-CAS","Orocue","no","SKOE","ORC","SKOE","ORC",,"https://en.wikipedia.org/wiki/Orocue_Airport",
 41034,"SKOL","small_airport","Puerto López Airport",4.089869,-72.976483,599,"SA","CO","CO-MET","Puerto López","no",,,"SKOL",,,,
 32315,"SKOR","small_airport","Orito Airport",0.669444,-76.88,1132,"SA","CO","CO-PUT","Orito","no",,,"SKOR","ORI",,"https://en.wikipedia.org/wiki/Orito_Airport",
 6143,"SKOT","small_airport","Otu Airport",7.010532,-74.715398,2060,"SA","CO","CO-ANT","Remedios","no","SKOT","OTU","SKOT",,,"https://en.wikipedia.org/wiki/Ot%C3%BA_Airport","El Rhin"
@@ -80616,7 +80616,7 @@
 26552,"VIDD","medium_airport","Safdarjung Airport",28.585453,77.203563,705,"AS","IN","IN-DL","New Delhi","no","VIDD",,"VIDD",,,"https://en.wikipedia.org/wiki/Safdarjung_Airport",
 26553,"VIDF","small_airport","Pithoragarh Airport",29.593599,80.239197,4910,"AS","IN","IN-UT","Pithoragarh","no",,,"VIDF",,,"https://en.wikipedia.org/wiki/Pithoragarh_Airport",
 26554,"VIDN","medium_airport","Dehradun Jolly Grant Airport",30.189243,78.176651,1831,"AS","IN","IN-UT","Dehradun (Jauligrant)","yes","VIDN","DED","VIDN",,"http://aai.aero/allAirports/dehradun_generalinfo.jsp","https://en.wikipedia.org/wiki/Jolly_Grant_Airport","Jauligrant, Jolly Grant"
-26555,"VIDP","large_airport","Indira Gandhi International Airport",28.55563,77.09519,777,"AS","IN","IN-DL","New Delhi","yes","VIDP","DEL","VIDP",,"http://www.newdelhiairport.in/","https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport","Palam Air Force Station"
+26555,"VIDP","large_airport","Indira Gandhi International Airport",28.55563,77.09519,777,"AS","IN","IN-DL","New Delhi","yes","VIDP","DEL","VIDP",,"https://www.newdelhiairport.in/","https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport","Palam Air Force Station"
 26556,"VIDX","small_airport","Hindon Airport / Hindon Air Force Station",28.707701,77.358902,700,"AS","IN","IN-UP","Ghaziabad","yes","VIDX","HDO","VIDX",,,"https://en.wikipedia.org/wiki/Hindon_Airport",
 333095,"VIF","heliport","Vieste Heliport",41.866417,16.165116,14,"EU","IT","IT-75","Vieste","no",,,,,,,
 26557,"VIGG","medium_airport","Kangra Airport",32.164902,76.263018,2525,"AS","IN","IN-HP","Kangra","yes","VIGG","DHM","VIGG",,"https://www.aai.aero/en/airports/kangra-gaggal","https://en.wikipedia.org/wiki/Kangra_Airport","Dharamshala, Gaggal"
