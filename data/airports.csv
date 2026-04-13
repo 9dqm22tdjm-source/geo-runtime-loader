@@ -2731,7 +2731,7 @@
 9363,"2CO8","heliport","East Morgan County Hospital Heliport",40.25830078125,-103.64900207519531,4280,"NA","US","US-CO","Brush","no",,,"2CO8","2CO8",,,
 9364,"2CO9","heliport","Lands End Heliport",39.072167,-108.511167,4630,"NA","US","US-CO","Grand Junction","no",,,"2CO9","2CO9",,,
 9365,"2D1","small_airport","Lee Field",40.968398,-81.098585,1062,"NA","US","US-OH","Alliance","no",,,"2D1","2D1",,"https://en.wikipedia.org/wiki/Barber_Airport","Barber Airport"
-9366,"2D3","seaplane_base","Gooding Lake Seaplane Base",61.62770080566406,-149.23899841308594,500,"NA","US","US-AK","Palmer","no",,,"2D3","2D3",,,
+9366,"2D3","seaplane_base","Gooding Lake Seaplane Base",61.627701,-149.238998,500,"NA","US","US-AK","Palmer","no",,,"2D3","2D3",,,"66AK"
 9367,"2D6","heliport","Bannock Heliport",40.106998443603516,-80.97540283203125,1100,"NA","US","US-OH","Bannock","no",,,"2D6","2D6",,,
 9368,"2D7","small_airport","Beach City Airport",40.64659881591797,-81.55609893798828,984,"NA","US","US-OH","Beach City","no",,,"2D7","2D7",,,
 9369,"2DE2","small_airport","Willaview Airport",38.85499954223633,-75.57219696044922,63,"NA","US","US-DE","Farmington","no",,,"2DE2","2DE2",,,
@@ -4741,7 +4741,7 @@
 11318,"4A2","small_airport","Atmautluak Airport",60.866699,-162.272996,17,"NA","US","US-AK","Atmautluak","yes",,"ATT",,"4A2",,"https://en.wikipedia.org/wiki/Atmautluak_Airport","08AK"
 11319,"4A3","seaplane_base","Lake Lucille Seaplane Base",61.57460021972656,-149.47300720214844,300,"NA","US","US-AK","Wasilla","no",,,"4A3","4A3",,,
 46295,"4AA4","heliport","South Peninsula Hospital Heliport",59.652303,-151.549902,370,"NA","US","US-AK","Homer","no",,,"4AA4","4AA4",,,
-11320,"4AK","small_airport","Livengood Camp Airport",65.467,-148.6534,425,"NA","US","US-AK","Livengood","no",,"LIV","4AK","4AK",,,
+11320,"4AK","small_airport","Livengood Camp Airport",65.467,-148.6534,425,"NA","US","US-AK","Livengood","no",,"LIV","4AK","4AK",,,"4AK2"
 11321,"4AK0","seaplane_base","Niklason Lake Seaplane Base",61.6291999817,-149.270996094,380,"NA","US","US-AK","Wasilla","no",,,"4AK0","4AK0",,,
 11322,"4AK1","small_airport","Inigok Airport",70.00379943847656,-153.0780029296875,192,"NA","US","US-AK","Deadhorse","no",,,"4AK1","4AK1",,,
 11323,"4AK2","small_airport","St John Homestead Airport",61.55799865722656,-149.4239959716797,250,"NA","US","US-AK","Wasilla","no",,,"4AK2","4AK2",,,
@@ -4894,7 +4894,7 @@
 11482,"4IS7","small_airport","Litchfield Restricted Landing Area",40.073101,-88.399498,704,"NA","US","US-IL","Seymour","no",,,"4IS7","4IS7",,,
 11483,"4IS8","small_airport","Leigh Farm Airport",40.02170181274414,-89.55010223388672,730,"NA","US","US-IL","Sparland","no",,,"4IS8","4IS8",,,
 11484,"4IS9","small_airport","Weidner Airport",39.085899353027344,-89.95890045166016,667,"NA","US","US-IL","Bunker Hill","no",,,"4IS9","4IS9",,,
-11485,"4K0","small_airport","Pedro Bay Airport",59.796925,-154.129994,45,"NA","US","US-AK","Pedro Bay","yes",,"PDB","4K0","4K0",,"https://en.wikipedia.org/wiki/Pedro_Bay_Airport",
+11485,"4K0","small_airport","Pedro Bay Airport",59.796925,-154.129994,45,"NA","US","US-AK","Pedro Bay","yes",,"PDB","4K0","4K0",,"https://en.wikipedia.org/wiki/Pedro_Bay_Airport","AK04"
 11487,"4K5","small_airport","Ouzinkie Airport",57.942094,-152.464314,55,"NA","US","US-AK","Ouzinkie","yes",,"KOZ",,"4K5",,"https://en.wikipedia.org/wiki/Ouzinkie_Airport",
 11488,"4KA","small_airport","Tununak Airport",60.569638,-165.246649,14,"NA","US","US-AK","Tununak","yes",,"TNK","POKA","4KA",,"https://en.wikipedia.org/wiki/Tununak_Airport","AK45"
 11489,"4KS1","small_airport","Amar Farms Airport",38.685298919677734,-95.03299713134766,1020,"NA","US","US-KS","Wellsville","no",,,"4KS1","4KS1",,,
@@ -6563,7 +6563,7 @@
 13173,"6A5","small_airport","Warf Airport",36.323474,-79.709272,820,"NA","US","US-NC","Reidsville","no",,,,"6A5",,,
 13174,"6A6","small_airport","Kimball Municipal Airport",43.756356,-98.979821,1755,"NA","US","US-SD","Kimball","no",,,,"6A6",,,"SD27"
 13175,"6A7","seaplane_base","Brocker Lake Seaplane Base",61.4818000793,-149.772994995,100,"NA","US","US-AK","Big Lake","no",,,"6A7","6A7",,,
-13177,"6AK","small_airport","Rainy Pass Lodge Airport",62.08409881591797,-152.71800231933594,1900,"NA","US","US-AK","Rainy Pass","no",,,"6AK","6AK",,,
+13177,"6AK","small_airport","Rainy Pass Lodge Airport",62.084099,-152.718002,1900,"NA","US","US-AK","Rainy Pass","no",,,"6AK","6AK",,,"6AK6"
 13178,"6AK1","small_airport","Platinum Mine Airport",58.91170120239258,-161.71400451660156,100,"NA","US","US-AK","Platinum","no",,,"6AK1","6AK1",,,
 13179,"6AK2","small_airport","Sleepers Strip Airport",61.251579,-149.966125,125,"NA","US","US-AK","Point Mackenzie","no",,,"6AK2","6AK2",,,
 13180,"6AK3","small_airport","Butler Aviation Airport",60.727784,-151.27779,185,"NA","US","US-AK","Nikiski","no",,,"6AK3","6AK3",,,
@@ -9846,7 +9846,7 @@
 299324,"AHY","small_airport","Ambatolhy Airport",-20.015833333299998,45.535,340,"AF","MG","MG-U","Ambatolahy","no",,"AHY",,,,,
 335970,"AI-0001","closed","Scrub Island Airfield",18.28812,-62.945352,,"NA","AI","AI-U-A","Scrub Island","no",,,,,,,
 299328,"AIP","small_airport","Ailinglaplap Airok Airport",7.279422,168.8257,16,"OC","MH","MH-ALL","Bigatyelang Island","no",,"AIC",,,,"https://en.wikipedia.org/wiki/Ailinglaplap_Airok_Airport",
-16096,"AK0","small_airport","Jakes Bar Airport",61.21870040893555,-142.88999938964844,1052,"NA","US","US-AK","Mccarthy","no",,,"AK0","AK0",,,
+16096,"AK0","small_airport","Jakes Bar Airport",61.2187,-142.889999,1052,"NA","US","US-AK","McCarthy","no",,,"AK0","AK0",,,"4AK4"
 16097,"AK00","small_airport","Anchor River Airpark",59.783144,-151.853156,120,"NA","US","US-AK","Anchor Point","no",,,"AK00","AK00",,,
 45282,"AK01","small_airport","Alaska Airpark",60.528983,-150.625133,320,"NA","US","US-AK","Sterling","no",,,"AK01","AK01",,,
 16098,"AK02","small_airport","Bear Creek 1 Airport",65.53990173339844,-161.06199645996094,575,"NA","US","US-AK","Bear Creek","no",,,"AK02","AK02",,,
@@ -12378,6 +12378,7 @@
 341275,"AZ-0024","heliport","XDMX Heliport",40.3506,49.79858,540,"AS","AZ","AZ-BA","Baku","no",,,,,,,
 341276,"AZ-0025","heliport","Sangachal Oil Terminal Heliport",40.200361,49.492087,,"AS","AZ","AZ-BA","Sangachal","no",,,,,,,
 510075,"AZ-0026","heliport","Sadarak Army Border Post Helipad",39.641422,44.831085,,"AS","AZ","AZ-SAD","Sadarak","no",,,,,,,
+607585,"AZ-0027","large_airport","keonhacai5is",79,89,,"AS","AZ","AZ-CUL","Thành phố Hồ Chí Minh","yes",,,,,"https://keonhacai5.is/",,
 16388,"AZ00","small_airport","Morton Field Ultralight Flightpark",32.80679,-113.503876,475,"NA","US","US-AZ","Dateland","no",,,"AZ00","AZ00",,,
 16389,"AZ01","small_airport","Outback Ranch Airstrip",33.847732,-113.57106,1980,"NA","US","US-AZ","Wenden","no",,,"AZ01","AZ01",,,
 16390,"AZ02","heliport","Gateway East KNXV-TV Heliport",33.454181,-111.983753,1185,"NA","US","US-AZ","Phoenix","no",,,"AZ02","AZ02",,,
@@ -16050,7 +16051,7 @@
 37824,"BR-3039","small_airport","Cabixi Airport",-13.68595,-60.691466,1247,"SA","BR","BR-MT","Cabixi","no",,,,,,,"SWCX"
 37825,"BR-3040","small_airport","Fazenda Aparecida do Norte Airport",-12.845088,-56.97719,1004,"SA","BR","BR-MT","Nova Maringá","no",,,,,,,"SWCY"
 37826,"BR-3041","small_airport","Fazenda Duas Âncoras Airport",-14.938234,-52.173453,927,"SA","BR","BR-MT","Barra do Garças","no",,,"SS6D","MT1091",,,"SWDA, Seção Sede"
-37827,"BR-3042","small_airport","Fazenda Eldorado Airport",-15.576944,-52.218887,1086,"SA","BR","BR-MT","Barra Do Garças","no",,,,"SWDB",,,"SWDB"
+37827,"BR-3042","small_airport","Fazenda Eldorado Airport",-15.577153,-52.219093,1086,"SA","BR","BR-MT","Barra do Garças","no",,,,,,,"SWDB"
 37831,"BR-3043","small_airport","Dois Irmãos Airport",-11.733611,-49.333889,771,"SA","BR","BR-TO","Peixe","no",,,,,,,"SWDI"
 37833,"BR-3044","small_airport","Fazenda Dona Olga Airport",-13.019722,-61.16861,680,"SA","BR","BR-RO","Colorado d'Oeste","no",,,,,,,"SWDK"
 37834,"BR-3045","small_airport","Rosário do Leste Airport",-14.816944,-56.417221,699,"SA","BR","BR-MT","Rosário do Leste","no",,,,,,,"SWDO"
@@ -16100,7 +16101,7 @@
 37951,"BR-3089","small_airport","Fazenda Conceição Airport",-11.000278,-58.215279,1164,"SA","BR","BR-MT","Juara","no",,,,,,,"SWLK"
 37952,"BR-3090","small_airport","Fazenda Excalibur Airport",-15.296307,-60.368679,971,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,,,,,"SWLM"
 37964,"BR-3091","small_airport","Monte Alegre de Goiás Airport",-13.2497215271,-46.871387481689,1821,"SA","BR","BR-GO","Monte Alegre De Goiás","no",,,,"SWML",,,"SWML"
-37965,"BR-3092","small_airport","Buritizal Agropastoril Ltda Airport",-9.289453,-60.696678,315,"SA","BR","BR-MT","Aripuanã","no",,,,"SWMM",,,"SWMM"
+37965,"BR-3092","small_airport","Buritizal Agropastoril Ltda Airport",-9.289453,-60.696678,315,"SA","BR","BR-MT","Aripuanã","no",,,,,,,"SWMM"
 37969,"BR-3093","small_airport","Morro Redondo Airport",-14.250556,-48.083889,2067,"SA","BR","BR-GO","Niquelândia","no",,,,,,,"SWMR"
 37975,"BR-3094","small_airport","Nobres Airport",-14.707222,-56.338333,722,"SA","BR","BR-MT","Nobres","no",,,,,,,"SWNB"
 37976,"BR-3095","small_airport","Fazenda Vale do Juruena Airport",-9.400047,-58.229372,673,"SA","BR","BR-MT","Nova Bandeirantes","no",,,"SIKS","MT0649",,,"SWNC, Fazenda Procomp"
@@ -23848,7 +23849,7 @@
 351446,"EG-0018","heliport","Borj El Arab Stadium Heliport",30.99648,29.72718,85,"AF","EG","EG-ALX","Iking Maryut","no",,,,,,,
 351447,"EG-0019","heliport","Kafr el-Sheikh Heliport",31.09911,30.95668,16,"AF","EG","EG-KFS","Kafr el-Sheikh","no",,,,,,,
 351448,"EG-0020","heliport","Saudi Arabian Embassy Helipad",30.03155,31.21808,138,"AF","EG","EG-GZ","Giza","no",,,,,,,
-351595,"EG-0021","closed","Shallufa Airfield",30.056542,32.540474,59,"AF","EG","EG-SUZ","Al Ganayen","no",,,,,,,"RAF Shallufa, Suez Airport"
+351595,"EG-0021","closed","RAF Shallufa",30.056542,32.540474,59,"AF","EG","EG-SUZ","Al Ganayen","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Shallufa","RAF Shallufa, Suez Airport"
 355364,"EG-0022","heliport","Residential Helipads (3x)",27.032601,28.126566,295,"AF","EG","EG-WAD","Farafa Oasis","no",,,,,,,
 355366,"EG-0023","heliport","Helipads (4x) runway",27.056642,27.991662,249,"AF","EG","EG-WAD","Farafa Oasis","no",,,,,,,
 430120,"EG-0024","heliport","Toshka Pump Station Heliport",22.63762,31.85165,617,"AF","EG","EG-ASN",,"no",,,,,,,
@@ -25106,6 +25107,7 @@
 602850,"ES-0373","heliport","Villarrobledo Health Center Helipad",39.264834,-2.593504,2352,"EU","ES","ES-CM","Villarrobledo","no",,,,"LEJFZ",,,
 604256,"ES-0374","heliport","Palma Hospital Heliport",39.583853,2.631692,195,"EU","ES","ES-IB","Palma de Mallorca","no",,,,,,,
 604257,"ES-0375","heliport","Naval Station Heliport",39.54745,2.619789,60,"EU","ES","ES-IB","Palma de Mallorca","no",,,,,,,
+607588,"ES-0376","small_airport","Aeródromo de Casinos",39.725009,-0.733848,,"EU","ES","ES-VC","Casinos","no",,,,,,,
 599574,"ESAN","heliport","Norra Alvsborgs County Hospital Heliport",58.319006,12.26819,312,"EU","SE","SE-Q","Trollhättan","no","ESEN",,"ESAN","NAL",,,
 2643,"ESCF","medium_airport","Malmen Air Base",58.397666,15.522422,308,"EU","SE","SE-E","Linköping","no","ESCF",,"ESCF",,,"https://en.wikipedia.org/wiki/Malmen_Airbase",
 2645,"ESCM","small_airport","Ärna Air Base",59.897301,17.5886,68,"EU","SE","SE-C","Uppsala","no","ESCM",,"ESCM",,,"https://en.wikipedia.org/wiki/%C3%84rna",
@@ -28396,7 +28398,7 @@
 17490,"GA17","small_airport","Flint River Nursery Airport",32.168800354003906,-83.97350311279297,320,"NA","US","US-GA","Byromville","no",,,"GA17","GA17",,,
 17491,"GA18","small_airport","Big Creek Flying Ranch Airport",34.832381,-83.409226,1650,"NA","US","US-GA","Clayton","no",,,"GA18","GA18",,,"Rickman Airfield"
 4684,"GA1A","small_airport","Kayes Airport",14.431300163269043,-11.43970012664795,161,"AF","ML","ML-1",,"no",,,"GA1A","GA1A",,,
-17493,"GA2","small_airport","Peach State Aerodrome",33.183534,-84.377997,926,"NA","US","US-GA","Williamson","no",,,,"GA2","https://www.peachstateaero.com/","https://en.wikipedia.org/wiki/Peach_State_Airport","Alexander Memorial Airport, Peach State Airport, Candler Field, Antique Acres"
+17493,"GA2","small_airport","Peach State Aerodrome",33.183534,-84.377997,926,"NA","US","US-GA","Williamson","no",,,,"GA2","https://www.peachstateaero.com/","https://en.wikipedia.org/wiki/Peach_State_Airport","3GA7, Alexander Memorial Airport, Peach State Airport, Candler Field, Antique Acres"
 17494,"GA20","small_airport","Stafford Airport",30.8111,-81.462799,28,"NA","US","US-GA","Saint Marys","no",,,"GA20","GA20",,,
 17495,"GA21","small_airport","Patterson Island Airport",31.461299896240234,-81.33869934082031,10,"NA","US","US-GA","Darien","no",,,"GA21","GA21",,,
 17496,"GA22","small_airport","Jordans Airport",31.438499450683594,-84.70829772949219,250,"NA","US","US-GA","Arlington","no",,,"GA22","GA22",,,
@@ -38399,7 +38401,7 @@
 3405,"KBGR","medium_airport","Bangor International Airport",44.806364,-68.826668,192,"NA","US","US-ME","Bangor","yes","KBGR","BGR","KBGR","BGR","https://flybangor.com","https://en.wikipedia.org/wiki/Bangor_International_Airport",
 336952,"KBH","small_airport","Kahama Airstrip",-3.847,32.6865,,"AF","TZ","TZ-22","Kahama","no",,"KBH",,,,"https://en.wikipedia.org/wiki/Kahama_Airstrip",
 19373,"KBHB","medium_airport","Hancock County-Bar Harbor Airport",44.45000076,-68.3615036,83,"NA","US","US-ME","Bar Harbor","yes","KBHB","BHB","KBHB","BHB",,"https://en.wikipedia.org/wiki/Hancock_County-Bar_Harbor_Airport",
-19374,"KBHC","small_airport","Baxley Municipal Airport",31.71380043029785,-82.393798828125,201,"NA","US","US-GA","Baxley","no",,,"KBHC","BHC",,,
+19374,"KBHC","small_airport","Baxley Municipal Airport",31.7138,-82.393799,201,"NA","US","US-GA","Baxley","no",,,"KBHC","BHC",,,"30J"
 19375,"KBHK","small_airport","Baker Municipal Airport",46.347599,-104.259002,2975,"NA","US","US-MT","Baker","no",,,"KBHK","BHK",,"https://en.wikipedia.org/wiki/Baker_Municipal_Airport","3U6"
 3406,"KBHM","large_airport","Birmingham-Shuttlesworth International Airport",33.562877,-86.750712,650,"NA","US","US-AL","Birmingham","yes","KBHM","BHM","KBHM","BHM","http://www.flybirmingham.com/","https://en.wikipedia.org/wiki/Birmingham_International_Airport_(US)",
 16500,"KBID","small_airport","Block Island State Airport",41.168446,-71.578631,108,"NA","US","US-RI","Block Island","yes","KBID","BID","KBID","BID","http://www.blockislandri.net/blockislandairport.htm","https://en.wikipedia.org/wiki/Block_Island_State_Airport",
@@ -38687,7 +38689,7 @@
 21154,"KCWC","small_airport","Kickapoo Downtown Airport",33.85779953,-98.49040222,1003,"NA","US","US-TX","Wichita Falls","no","KCWC","KIP","KCWC","CWC","http://www.wichitafallstx.gov/index.aspx?nid=704","https://en.wikipedia.org/wiki/Kickapoo_Downtown_Airport","KT47, T47, JKP"
 19572,"KCWF","small_airport","Chennault International Airport",30.2106,-93.143204,17,"NA","US","US-LA","Lake Charles","no","KCWF","CWF","KCWF","CWF","http://www.chennault.org/","https://en.wikipedia.org/wiki/Chennault_International_Airport","Chennault Industrial Airpark"
 19573,"KCWI","small_airport","Clinton Municipal Airport",41.8311004639,-90.3291015625,708,"NA","US","US-IA","Clinton","no","KCWI","CWI","KCWI","CWI",,"https://en.wikipedia.org/wiki/Clinton_Municipal_Airport_(Iowa)",
-19575,"KCWV","small_airport","Claxton Evans County Airport",32.195099,-81.869598,112,"NA","US","US-GA","Claxton","no",,,"KCWV","CWV",,,
+19575,"KCWV","small_airport","Claxton Evans County Airport",32.195099,-81.869598,112,"NA","US","US-GA","Claxton","no",,,"KCWV","CWV",,,"2J1"
 19576,"KCXE","small_airport","Chase City Municipal Airport",36.788299560546875,-78.50160217285156,503,"NA","US","US-VA","Chase City","no",,,"KCXE","CXE",,,
 3474,"KCXL","small_airport","Calexico International Airport",32.6694984436,-115.513000488,4,"NA","US","US-CA","Calexico","no","KCXL","CXL","KCXL","CXL","http://calexico.ca.gov/index.php?option=com_content&task=blogcategory&id=77&Itemid=90","https://en.wikipedia.org/wiki/Calexico_International_Airport",
 3475,"KCXO","medium_airport","Conroe-North Houston Regional Airport",30.351801,-95.414497,245,"NA","US","US-TX","Houston","no","KCXO","CXO","KCXO","CXO","https://web.archive.org/web/20160301220928/http://www.lonestarairport.org:80/","https://en.wikipedia.org/wiki/Lone_Star_Executive_Airport","Montgomery County Airport, Lone Star Executive Airport"
@@ -52183,7 +52185,7 @@
 25015,"PAFL","small_airport","Tin Creek Airport",62.532191,-153.612809,1151,"NA","US","US-AK","Farewell Lake","no",,,"PAFL","TNW",,,"2Z9"
 5363,"PAFM","medium_airport","Ambler Airport",67.105529,-157.855339,334,"NA","US","US-AK","Ambler","yes","PAFM","ABL","PAFM","AFM",,"https://en.wikipedia.org/wiki/Ambler_Airport","Z60"
 5364,"PAFR","small_airport","Bryant Army Airfield",61.266399,-149.653,378,"NA","US","US-AK","Fort Richardson","no","PAFR","FRN","PAFR","FRN",,"https://en.wikipedia.org/wiki/Bryant_Army_Heliport","Bryant Army Airfield"
-17469,"PAFS","small_airport","Nikolai Airport",63.017949,-154.360399,441,"NA","US","US-AK","Nikolai","yes","PAFS","NIB","PAFS","FSP",,"https://en.wikipedia.org/wiki/Nikolai_Airport","5N1"
+17469,"PAFS","small_airport","Nikolai Airport",63.017949,-154.360399,441,"NA","US","US-AK","Nikolai","yes","PAFS","NIB","PAFS","FSP",,"https://en.wikipedia.org/wiki/Nikolai_Airport","5NI"
 5365,"PAGA","medium_airport","Edward G. Pitka Sr Airport",64.736198,-156.936997,153,"NA","US","US-AK","Galena","yes","PAGA","GAL","PAGA","GAL",,"https://en.wikipedia.org/wiki/Edward_G._Pitka_Sr._Airport",
 17575,"PAGB","small_airport","Galbraith Lake Airport",68.4796981812,-149.490005493,2663,"NA","US","US-AK","Galbraith Lake","no","PAGB","GBH","PAGB","GBH",,"https://en.wikipedia.org/wiki/Galbraith_Lake_Airport",
 17595,"PAGG","small_airport","Kwigillingok Airport",59.876499,-163.169005,18,"NA","US","US-AK","Kwigillingok","yes","PAGG","KWK","PAGG","GGV",,"https://en.wikipedia.org/wiki/Kwigillingok_Airport","A85, AK85"
@@ -52268,10 +52270,10 @@
 24199,"PAOO","small_airport","Toksook Bay Airport",60.541401,-165.087006,59,"NA","US","US-AK","Toksook Bay","yes","PAOO","OOK","PAOO","OOK",,"https://en.wikipedia.org/wiki/Toksook_Bay_Airport",
 5394,"PAOR","medium_airport","Northway Airport",62.9613,-141.929001,1715,"NA","US","US-AK","Northway","yes","PAOR","ORT","PAOR","ORT",,"https://en.wikipedia.org/wiki/Northway_Airport",
 5395,"PAOT","medium_airport","Ralph Wien Memorial Airport",66.88469696,-162.598999,14,"NA","US","US-AK","Kotzebue","yes","PAOT","OTZ","PAOT","OTZ",,"https://en.wikipedia.org/wiki/Ralph_Wien_Memorial_Airport",
-23953,"PAOU","small_airport","Nelson Lagoon Airport",56.0075,-161.160004,14,"NA","US","US-AK","Nelson Lagoon","yes","PAOU","NLG","PAOU","OUL",,"https://en.wikipedia.org/wiki/Nelson_Lagoon_Airport",
+23953,"PAOU","small_airport","Nelson Lagoon Airport",56.0075,-161.160004,14,"NA","US","US-AK","Nelson Lagoon","yes","PAOU","NLG","PAOU","OUL",,"https://en.wikipedia.org/wiki/Nelson_Lagoon_Airport","Z73"
 5396,"PAPB","medium_airport","St George Airport",56.577345,-169.663823,125,"NA","US","US-AK","St George","yes","PAPB","STG","PAPB","PBV",,"https://en.wikipedia.org/wiki/St._George_Airport_(Alaska)","A8L"
 5397,"PAPC","medium_airport","Port Clarence Coast Guard Station",65.2537002563,-166.85899353,10,"NA","US","US-AK","Port Clarence","no","PAPC","KPC","PAPC","KPC",,"https://en.wikipedia.org/wiki/Port_Clarence_Coast_Guard_Station",
-24081,"PAPE","small_airport","Perryville Airport",55.9065,-159.16091,29,"NA","US","US-AK","Perryville","yes","PAPE","KPV","PAPE","PEV",,"https://en.wikipedia.org/wiki/Perryville_Airport","AK05"
+24081,"PAPE","small_airport","Perryville Airport",55.9065,-159.16091,29,"NA","US","US-AK","Perryville","yes","PAPE","KPV","PAPE","PEV",,"https://en.wikipedia.org/wiki/Perryville_Airport","AK05, AK5"
 5398,"PAPG","medium_airport","Petersburg James A Johnson Airport",56.80170059,-132.9450073,111,"NA","US","US-AK","Petersburg","yes","PAPG","PSG","PAPG","PSG",,"https://en.wikipedia.org/wiki/Petersburg_James_A._Johnson_Airport",
 5399,"PAPH","medium_airport","Port Heiden Airport",56.957893,-158.630219,95,"NA","US","US-AK","Port Heiden","yes","PAPH","PTH","PAPH","PTH",,"https://en.wikipedia.org/wiki/Port_Heiden_Airport",
 24205,"PAPK","small_airport","Napaskiak Airport",60.7029,-161.778,24,"NA","US","US-AK","Napaskiak","yes","PAPK","PKA","PAPK","PKA",,"https://en.wikipedia.org/wiki/Napaskiak_Airport",
@@ -52302,7 +52304,7 @@
 5413,"PASY","medium_airport","Eareckson Air Station",52.71229935,174.1139984,95,"NA","US","US-AK","Shemya","no","PASY","SYA","PASY","SYA",,"https://en.wikipedia.org/wiki/Eareckson_Air_Station",
 24807,"PATA","small_airport","Ralph M Calhoun Memorial Airport",65.1744,-152.108994,236,"NA","US","US-AK","Tanana","yes","PATA","TAL","PATA","TAL",,"https://en.wikipedia.org/wiki/Ralph_M._Calhoun_Memorial_Airport",
 25014,"PATC","small_airport","Tin City Long Range Radar Station Airport",65.563103,-167.921997,271,"NA","US","US-AK","Tin City","yes","PATC","TNC","PATC","TNC",,"https://en.wikipedia.org/wiki/Tin_City_LRRS_Airport",
-24908,"PATE","small_airport","Teller Airport",65.240402,-166.339005,294,"NA","US","US-AK","Teller","yes","PATE","TLA","PATE","TER",,"https://en.wikipedia.org/wiki/Teller_Airport","AK54"
+24908,"PATE","small_airport","Teller Airport",65.240402,-166.339005,294,"NA","US","US-AK","Teller","yes","PATE","TLA","PATE","TER",,"https://en.wikipedia.org/wiki/Teller_Airport","AK54, K54"
 5414,"PATG","small_airport","Togiak Airport",59.052799,-160.397003,21,"NA","US","US-AK","Togiak Village","yes","PATG","TOG","PATG","TOG",,"https://en.wikipedia.org/wiki/Togiak_Airport",
 24910,"PATK","medium_airport","Talkeetna Airport",62.320499420166,-150.09399414062,358,"NA","US","US-AK","Talkeetna","no","PATK","TKA","PATK","TKA",,"https://en.wikipedia.org/wiki/Talkeetna_Airport",
 5415,"PATL","medium_airport","Tatalina LRRS Airport",62.894401550299996,-155.977005005,964,"NA","US","US-AK","Takotna","no","PATL","TLJ","PATL","TLJ",,"https://en.wikipedia.org/wiki/Tatalina_LRRS_Airport",
@@ -57495,7 +57497,7 @@
 602156,"SD0M","small_airport","Fazenda Campo Dania Airstrip",-18.580421,-57.478666,2657,"SA","BR","BR-MS","Corumbá","no",,,"SD0M","MS0787",,,
 602158,"SD0Q","small_airport","Fazenda Boa Esperança Airstrip",-19.618428,-49.051116,2267,"SA","BR","BR-MG","Comendador Gomes","no",,,"SD0Q","MG0636",,,
 602160,"SD0S","heliport","Henrimar Bahia Marina Heliport",-12.979469,-38.518192,23,"SA","BR","BR-BA","Salvador","no",,,"SD0S","BA0492",,,
-24503,"SD1","heliport","Soldotna Hospital H Heliport",60.492637,-151.078967,99,"NA","US","US-AK","Soldotna","no",,,,"SD1",,,
+24503,"SD1","heliport","Soldotna Hospital Heliport",60.492637,-151.078967,99,"NA","US","US-AK","Soldotna","no",,,,"SD1",,,"AK32"
 599964,"SD10","small_airport","Fazenda Vale do Juruena 2 Airport",-9.3914,-58.221169,735,"SA","BR","BR-MT","Nova Bandeirantes","no",,,"SD10","MT1134",,,
 599965,"SD11","small_airport","Amazon Runway",-3.231842,-60.486547,151,"SA","BR","BR-AM","Manacapuru","no",,,"SD11","AM0120",,,
 24504,"SD13","small_airport","Hofer Private Airport",44.86712,-98.07396,1368,"NA","US","US-SD","Doland","no",,,,"SD13",,,"Richfield Township, Spink County"
@@ -62021,7 +62023,9 @@
 37115,"SNHY","heliport","Hospital Esperança Heliport",-8.066944122314453,-34.89500045776367,159,"SA","BR","BR-PE","Recife","no",,,"SNHY",,,,
 45564,"SNHZ","heliport","Amazonas State Government Palace Heliport",-3.092774,-60.060239,213,"SA","BR","BR-AM","Manaus","no",,,"SNHZ",,,,"Palácio do Governo do Estado do Amazonas Heliport"
 606488,"SNI2","small_airport","Fazenda Mãe Rainha Airstrip",-17.916846,-47.155226,3301,"SA","BR","BR-MG","Guarda-Mor","no",,,"SNI2","MG0619",,,
+607520,"SNI3","small_airport","Fazenda Paineiras Airport",-11.376822,-57.677889,1024,"SA","BR","BR-MT","Juara","no",,,"SNI3","MT1081",,,
 604816,"SNI4","small_airport","Fazenda Kênia Airport",-15.286274,-52.033265,961,"SA","BR","BR-MT","Araguaiana","no",,,"SNI4","MT1083",,,
+607518,"SNI7","small_airport","Mara Rosa Airport",-4.037067,-49.164672,1700,"SA","BR","BR-GO","Mara Rosa","no",,,"SNI7","GO0391",,,
 604811,"SNI8","heliport","Dream Car Heliport",-23.599151,-47.159956,2861,"SA","BR","BR-SP","São Roque","no",,,"SNI8","SP1482",,,
 604814,"SNI9","heliport","Asa Alumínio Heliport",-22.957355,-47.098237,2861,"SA","BR","BR-SP","Campinas","no",,,"SNI9","SP1481","https://www.asaaluminio.com.br/en/our-story",,
 321,"SNIB","small_airport","Itaberaba Airport",-12.5,-40.269901,929,"SA","BR","BR-BA","Itaberaba","no",,,"SNIB","SNIB",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Itaberaba",
@@ -62047,6 +62051,7 @@
 552715,"SNJ2","small_airport","Fazenda Serra da Prata Airport",2.260722,-61.064676,312,"SA","BR","BR-RR","Iracema","no",,,"SNJ2","RR0158",,,
 604802,"SNJ3","small_airport","Fazenda Confinamento Airport",-11.909943,-62.802968,545,"SA","BR","BR-RO","São Miguel do Guaporé","no",,,"SNJ3","RO0099",,,
 604809,"SNJ4","small_airport","Flora Airport",-13.018333,-55.885833,1345,"SA","BR","BR-MT","Sorriso","no",,,"SNJ4","MT1080",,,
+607517,"SNJ5","small_airport","Fazenda Jacarandá Airport",-13.061896,-48.964663,1176,"SA","BR","BR-GO","Porangatu","no",,,"SNJ5","GO0422",,,
 604808,"SNJ6","heliport","Nitzan Heliport",-23.127822,-48.873531,2753,"SA","BR","BR-SP","Avaré","no",,,"SNJ6","SP1480",,,
 604803,"SNJ7","small_airport","Fazenda Jijú Airstrip",3.190728,-59.92644,306,"SA","BR","BR-RR","Bonfim","no",,,"SNJ7","RR0146",,,
 604807,"SNJ8","small_airport","Fazenda São João Airport",-14.659017,-47.036847,1425,"SA","BR","BR-GO","Flores de Goiás","no",,,"SNJ8","GO0389",,,
@@ -62114,6 +62119,7 @@
 569405,"SNM4","small_airport","Fazenda São Pedro Airport",-12.768291,-61.347918,774,"SA","BR","BR-RO","Corumbiara","no",,,"SNM4","RO0103",,,
 606482,"SNM5","small_airport","Fazenda Santa Martha Airport",-18.218535,-50.029812,1775,"SA","BR","BR-GO","Bom Jesus de Goiás","no",,,"SNM5","GO0428",,,
 569415,"SNM6","small_airport","Fazenda Mimosa Airport",-22.396719,-53.680777,1306,"SA","BR","BR-MS","Ivinhema","yes",,,"SNM6","MS0754",,,
+607515,"SNM7","small_airport","Fazenda Monte Verde Airport",-11.088697,-55.647903,1152,"SA","BR","BR-MT","Itaúba","no",,,"SNM7","MT0851",,,
 569440,"SNM8","small_airport","Fazenda Zago Airstrip",-11.118944,-45.124689,2021,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SNM8","BA0473",,,
 569615,"SNM9","small_airport","Associação Quilombola de Pedras Negras do Guaporé Airport",-12.849533,-62.900483,594,"SA","BR","BR-RO","São Francisco do Guaporé","no",,,"SNM9","RO0078",,,
 350,"SNMA","small_airport","Monte Alegre Airport",-1.9958,-54.0742,325,"SA","BR","BR-PA","Monte Alegre","no","SNMA","MTE","SNMA","SNMA",,"https://en.wikipedia.org/wiki/Monte_Alegre_Airport",
@@ -77785,7 +77791,7 @@
 524442,"US-8447","small_airport","Michael Skypark Airport",41.166669,-104.449479,5640,"NA","US","US-WY","Hillsdale","no",,,"WY45","WY45",,,
 524547,"US-8448","heliport","Akutan Seaplane Base Heliport",54.134358,-165.778048,10,"NA","US","US-AK","Akutan","yes",,,,,,,
 524641,"US-8449","heliport","West Yellowstone Clinic Helipad",44.658183,-111.103985,6667,"NA","US","US-MT","West Yellowstone","no",,,,,,,
-524739,"US-8450","small_airport","Pilot Station Airport",61.96169,-162.941944,473,"NA","US","US-AK","Pilot Station","yes",,"PQS","0AK","0AK",,"https://en.wikipedia.org/wiki/Pilot_Station_Airport",
+524739,"US-8450","small_airport","Pilot Station Airport",61.96169,-162.941944,473,"NA","US","US-AK","Pilot Station","yes",,"PQS","0AK","0AK",,"https://en.wikipedia.org/wiki/Pilot_Station_Airport","AK10"
 524819,"US-8451","closed","Old West Yellowstone Airport",44.662029,-111.118469,6657,"NA","US","US-MT","West Yellowstone","no",,,,,,,
 525705,"US-8452","small_airport","Trinchera Ranch Airstrip",37.46434,-105.406517,8283,"NA","US","US-CO","Fort Garland","no",,,,"CO92",,,
 525718,"US-8453","small_airport","Murrow Field on the Divide Airport",36.427132,-107.000824,7550,"NA","US","US-NM","Gavilan","no",,,,"NM99",,,
