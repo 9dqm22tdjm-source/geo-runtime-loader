@@ -15944,7 +15944,7 @@
 37495,"BR-2932","small_airport","Fazenda Santa Rita Airport",-22.264683,-55.48203,1686,"SA","BR","BR-MS","Ponta Porã","no",,,,,,,"SSHJ"
 37500,"BR-2933","small_airport","Fazenda Paraíso Airport",-20.562363,-54.864178,1280,"SA","BR","BR-MS","Terenos","no",,,,,,,"SSHQ"
 37504,"BR-2934","small_airport","Fazenda Macaraí Airport",-23.413937,-54.013517,1056,"SA","BR","BR-MS","Itaquiraí","no",,,,,,,"SSHW"
-37505,"BR-2935","small_airport","Fazenda Primavera",-19.480568,-52.798395,1574,"SA","BR","BR-MS","Água Clara","no",,,,"SSIB",,,"SSIB, Fazenda Suely, SWPJ."
+37505,"BR-2935","small_airport","Fazenda Primavera",-19.480568,-52.798395,1574,"SA","BR","BR-MS","Água Clara","no",,,,,,,"SSIB, Fazenda Suely, SWPJ."
 37508,"BR-2936","small_airport","Fazenda Santa Maria Airport",-20.267874,-55.73184,617,"SA","BR","BR-MS","Aquidauana","no",,,,,,,"SSIG"
 37511,"BR-2937","small_airport","Boqueirão Alegre Airport",-30.254004,-55.846174,732,"SA","BR","BR-RS","Quaraí","no",,,,,,,"SSIM"
 37512,"BR-2938","small_airport","Candiota Airport",-31.494567,-53.691949,741,"SA","BR","BR-RS","Candiota","no",,,,,,,"SSIO"
@@ -16100,7 +16100,7 @@
 37950,"BR-3088","small_airport","Fazenda Liberdade Airport",-17.005154,-56.471658,361,"SA","BR","BR-MT","Barão de Melgaço","no",,,,,,,"SWLI"
 37951,"BR-3089","small_airport","Fazenda Conceição Airport",-11.000278,-58.215279,1164,"SA","BR","BR-MT","Juara","no",,,,,,,"SWLK"
 37952,"BR-3090","small_airport","Fazenda Excalibur Airport",-15.296307,-60.368679,971,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,,,,,"SWLM"
-37964,"BR-3091","small_airport","Monte Alegre de Goiás Airport",-13.2497215271,-46.871387481689,1821,"SA","BR","BR-GO","Monte Alegre De Goiás","no",,,,"SWML",,,"SWML"
+37964,"BR-3091","small_airport","Monte Alegre de Goiás Airport",-13.249631,-46.870976,1821,"SA","BR","BR-GO","Monte Alegre de Goiás","no",,,,,,,"SWML"
 37965,"BR-3092","small_airport","Buritizal Agropastoril Ltda Airport",-9.289453,-60.696678,315,"SA","BR","BR-MT","Aripuanã","no",,,,,,,"SWMM"
 37969,"BR-3093","small_airport","Morro Redondo Airport",-14.250556,-48.083889,2067,"SA","BR","BR-GO","Niquelândia","no",,,,,,,"SWMR"
 37975,"BR-3094","small_airport","Nobres Airport",-14.707222,-56.338333,722,"SA","BR","BR-MT","Nobres","no",,,,,,,"SWNB"
@@ -16109,41 +16109,41 @@
 37982,"BR-3097","small_airport","Fazenda Araçatuba Airport",-15.190932,-57.708372,493,"SA","BR","BR-MT","Lambari d'Oeste","no",,,,,,,"SWNL"
 37983,"BR-3098","small_airport","Normândia Airport",3.879933,-59.623589,282,"SA","BR","BR-RR","Normândia","no",,,,,,,"SWNM"
 37984,"BR-3099","small_airport","Novo Intento Airport",2.78,-60.616669,282,"SA","BR","BR-RR","Cantá","no",,,,,,,"SWNN"
-37985,"BR-3100","small_airport","Nova Olinda do Norte Airport",-3.888357,-59.07998,121,"SA","BR","BR-AM","Nova Olinda do Norte","no",,,,"SWNO",,,"SWNO"
-37987,"BR-3101","small_airport","Fazenda Santo Antônio Airport",-18.965000152588,-50.798610687256,1493,"SA","BR","BR-GO","Caçu","no",,,,"SWNT",,,"SWNT"
-37989,"BR-3102","small_airport","Fazenda Tuiuiu Airport",-13.798631,-55.458696,1525,"SA","BR","BR-MT","Nobres","no",,,,"SWNW",,,"SWNW"
-37992,"BR-3103","heliport","Number One Heliport",-15.789167404175,-47.887500762939,3753,"SA","BR","BR-DF","Brasília","no",,,,"SWNZ",,,"SWNZ"
-37996,"BR-3104","small_airport","Ouro Fino Airport",2.934148,-60.724504,282,"SA","BR","BR-RR","Boa Vista","no",,,,"SWOF",,,"SWOF"
-37997,"BR-3105","small_airport","Fazenda Juara Airport",-11.817694,-57.566954,1200,"SA","BR","BR-MT","Juara","no",,,,"SWOI",,,"SWOI"
-37998,"BR-3106","small_airport","Fazenda Nova Alvorada Airport",-11.57333278656,-58.269721984863,1092,"SA","BR","BR-MT","Brasnorte","no",,,,"SWOJ",,,"SWOJ"
-38001,"BR-3107","small_airport","Fazenda Salto Bello II Airport",-14.961111,-53.488056,1889,"SA","BR","BR-MT","Novo São Joaquim","no",,,,"SWOM",,,"SWOM"
+37985,"BR-3100","small_airport","Nova Olinda do Norte Airport",-3.888357,-59.07998,121,"SA","BR","BR-AM","Nova Olinda do Norte","no",,,,"AM0021",,,"SWNO"
+37987,"BR-3101","small_airport","Fazenda Santo Antônio Airport",-18.965,-50.798611,1493,"SA","BR","BR-GO","Caçu","no",,,,,,,"SWNT"
+37989,"BR-3102","small_airport","Fazenda Tuiuiu Airport",-13.798631,-55.458696,1525,"SA","BR","BR-MT","Nobres","no",,,,,,,"SWNW"
+37992,"BR-3103","heliport","Number One Heliport",-15.790124,-47.887348,3753,"SA","BR","BR-DF","Brasília","no",,,,,,,"SWNZ"
+37996,"BR-3104","small_airport","Ouro Fino Airport",2.934148,-60.724504,282,"SA","BR","BR-RR","Boa Vista","no",,,,,,,"SWOF"
+37997,"BR-3105","small_airport","Fazenda Juara Airport",-11.817694,-57.566954,1200,"SA","BR","BR-MT","Juara","no",,,,,,,"SWOI"
+37998,"BR-3106","small_airport","Fazenda Nova Alvorada Airport",-11.565805,-58.275773,1092,"SA","BR","BR-MT","Brasnorte","no",,,,,,,"SWOJ"
+38001,"BR-3107","small_airport","Fazenda Salto Bello II Airport",-14.961111,-53.488056,1889,"SA","BR","BR-MT","Novo São Joaquim","no",,,,,,,"SWOM"
 38003,"BR-3108","closed","Fazenda Três Marias do Água Limpa Airport",-15.07364,-51.3943,1050,"SA","BR","BR-GO","Britânia","no",,,,,,,"SWOO, GO0139"
 38007,"BR-3109","small_airport","Fazenda Tapajós Airport",-15.171944,-48.953056,2289,"SA","BR","BR-GO","Goianésia","no",,,,,,,"SWOS"
 38010,"BR-3110","small_airport","Retiro Arrombadinho Airport",-17.507386,-55.408076,423,"SA","BR","BR-MT","Itiquira","no",,,,,,,"SWOV"
 38012,"BR-3111","small_airport","Estância Barbosa Airport",-15.765556,-56.495556,623,"SA","BR","BR-MT","Nossa Senhora do Livramento","no",,,,,,,"SWOX"
 38013,"BR-3112","small_airport","Fazenda Duas Barras Airport",-16.016865,-52.810407,1239,"SA","BR","BR-MT","Pontal do Araguaia","no",,,,,,,"SWOY"
-38022,"BR-3113","small_airport","Fazenda São Caetano Airport",-16.041653,-53.030139,1587,"SA","BR","BR-MT","Pontal do Araguaia","no",,,,"SWPJ",,,"SWPJ"
-38025,"BR-3114","small_airport","Paranã Airport",-12.627595,-47.847759,886,"SA","BR","BR-TO","Paranã","no",,,,"SWPN",,,"SWPN"
-38026,"BR-3115","small_airport","Fazenda Porta do Amazônia Airport",-10.265277862549,-51.241390228271,787,"SA","BR","BR-MT","Santa Terezinha","no",,,,"SWPO",,,"SWPO"
-38030,"BR-3116","small_airport","Fazenda Piratinga Airport",-13.617222,-55.013332,1706,"SA","BR","BR-MT","Sinop","no",,,,"SWPT",,,"SWPT"
-38032,"BR-3117","small_airport","Pouso da Garça Airport",-16.967222,-56.417221,377,"SA","BR","BR-MT","Barão de Melgaço","no",,,,"SWPW",,,"SWPW"
-38037,"BR-3118","small_airport","Campos de Júlio Airport",-13.414722442627,-59.267501831055,2132,"SA","BR","BR-MT","Campos De Júlio","no",,,,"SWQJ",,,"SWQJ"
-38038,"BR-3119","small_airport","Fazenda Boa Vista Airport",-15.093319,-56.37704,688,"SA","BR","BR-MT","Acorizal","no",,,,"SWQM",,,"SWQM"
-38039,"BR-3120","heliport","Spa-Unicordis Heliport",-15.763611,-48.2575,3691,"SA","BR","BR-GO","Santo Antônio do Descoberto","no",,,,"SWQN",,,"SWQN"
-38042,"BR-3121","small_airport","Fazenda Maristela Airport",-16.116667,-58.969166,833,"SA","BR","BR-MT","Porto Esperidião","no",,,,"SWQV",,,"SWQV"
-38044,"BR-3122","small_airport","Fazenda Barro Preto Airport",-13.335495,-46.901991,1578,"SA","BR","BR-GO","Monte Alegre De Goiás","no",,,,"SWQX",,,"SWQX"
-38045,"BR-3123","small_airport","Fazenda Quatro Irmãos Airport",-20.876941,-53.556023,1509,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,,"SWQZ",,,"SWQZ"
-38047,"BR-3124","small_airport","Fazenda Rio dos Bugres Airport",-14.816944122314,-56.95055770874,1148,"SA","BR","BR-MT","Barra Do Bugres","no",,,,"SWRB",,,"SWRB"
-38053,"BR-3125","small_airport","Santo Antônio do Descoberto Airport",-15.930556,-48.333611,3674,"SA","BR","BR-GO","Santo Antônio do Descoberto","no",,,,"SWRM",,,"SWRM"
+38022,"BR-3113","small_airport","Fazenda São Caetano Airport",-16.041653,-53.030139,1587,"SA","BR","BR-MT","Pontal do Araguaia","no",,,,,,,"SWPJ"
+38025,"BR-3114","small_airport","Paranã Airport",-12.627595,-47.847759,886,"SA","BR","BR-TO","Paranã","no",,,,,,,"SWPN"
+38026,"BR-3115","small_airport","Fazenda Porta do Amazônia Airport",-10.267499,-51.24404,787,"SA","BR","BR-MT","Santa Terezinha","no",,,,,,,"SWPO"
+38030,"BR-3116","small_airport","Fazenda Piratinga Airport",-13.617222,-55.013332,1706,"SA","BR","BR-MT","Sinop","no",,,,,,,"SWPT"
+38032,"BR-3117","small_airport","Pouso da Garça Airport",-16.967222,-56.417221,377,"SA","BR","BR-MT","Barão de Melgaço","no",,,,,,,"SWPW"
+38037,"BR-3118","small_airport","Campos de Júlio Airport",-13.414722,-59.267502,2132,"SA","BR","BR-MT","Campos de Júlio","no",,,,,,,"SWQJ"
+38038,"BR-3119","small_airport","Fazenda Boa Vista Airport",-15.093319,-56.37704,688,"SA","BR","BR-MT","Acorizal","no",,,,,,,"SWQM"
+38039,"BR-3120","heliport","Spa-Unicordis Heliport",-15.763611,-48.2575,3691,"SA","BR","BR-GO","Santo Antônio do Descoberto","no",,,,,,,"SWQN"
+38042,"BR-3121","small_airport","Fazenda Maristela Airport",-16.115426,-58.971974,833,"SA","BR","BR-MT","Porto Esperidião","no",,,,,,,"SWQV"
+38044,"BR-3122","small_airport","Fazenda Barro Preto Airport",-13.335495,-46.901991,1578,"SA","BR","BR-GO","Monte Alegre De Goiás","no",,,,,,,"SWQX"
+38045,"BR-3123","small_airport","Fazenda Quatro Irmãos Airport",-20.876941,-53.556023,1509,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,,,,,"SWQZ"
+38047,"BR-3124","small_airport","Fazenda Rio dos Bugres Airport",-14.816944,-56.950558,1148,"SA","BR","BR-MT","Barra do Bugres","no",,,,,,,"SWRB"
+38053,"BR-3125","small_airport","Santo Antônio do Descoberto Airport",-15.930556,-48.333611,3674,"SA","BR","BR-GO","Santo Antônio do Descoberto","no",,,,,,,"SWRM"
 38059,"BR-3126","small_airport","Fazenda Vale do Rio Verde Airport",-12.166944,-56.53389,1378,"SA","BR","BR-MT","Diamantino","no",,,,"SWRV",,,"SWRV"
 38061,"BR-3127","small_airport","Fazenda Santa Cruz do Pessoê Airport",-15.161573,-60.440383,764,"SA","BR","BR-MT","Vila Bela Da Santíssima Trindade","no",,,,"SWRX",,,"SWRX"
 38063,"BR-3128","small_airport","Fazenda São João Airport",-12.289167,-56.53389,1476,"SA","BR","BR-MT","Diamantino","no",,,,"SWSA",,,"SWSA"
-38064,"BR-3129","small_airport","Fazenda Sabiá Airport",-15.228871,-51.975217,951,"SA","BR","BR-MT","Araguaiana","no",,,,"SWSB",,,"SWSB"
-38067,"BR-3130","small_airport","São Raimundo II Airport",-9.965737,-56.154791,932,"SA","BR","BR-MT","Alta Floresta","no",,,,"SWSH",,,"SWSH"
-38068,"BR-3131","small_airport","Fazenda São Marco Airport",3.052839,-60.479586,295,"SA","BR","BR-RR","Boa Vista","no",,,,"SWSK",,,"SWSK"
-38071,"BR-3132","small_airport","Sertânia Airport",-13.7502784729,-55.633888244629,1772,"SA","BR","BR-MT","Sertânia","no",,,,"SWSR",,,"SWSR"
-38073,"BR-3133","small_airport","Santa Terezinha Airport",-10.464722,-50.518612,663,"SA","BR","BR-MT","Santa Terezinha","no",,"STZ",,"SWST",,"https://en.wikipedia.org/wiki/Santa_Terezinha_Airport","SWST"
-38074,"BR-3134","small_airport","Fazenda Santa Juliana Airport",-12.875085,-52.020235,1230,"SA","BR","BR-MT","Ribeirão Cascalheira","no",,,,"SWSU",,,"SWSU"
+38064,"BR-3129","small_airport","Fazenda Sabiá Airport",-15.228871,-51.975217,951,"SA","BR","BR-MT","Araguaiana","no",,,,,,,"SWSB"
+38067,"BR-3130","small_airport","São Raimundo II Airport",-9.965737,-56.154791,932,"SA","BR","BR-MT","Alta Floresta","no",,,,,,,"SWSH"
+38068,"BR-3131","small_airport","Fazenda São Marco Airport",3.052839,-60.479586,295,"SA","BR","BR-RR","Boa Vista","no",,,,,,,"SWSK"
+38071,"BR-3132","small_airport","Sertânia Airport",-13.750278,-55.633888,1772,"SA","BR","BR-MT","Sertânia","no",,,,,,,"SWSR"
+38073,"BR-3133","closed","Santa Terezinha Airport",-10.462921,-50.52312,663,"SA","BR","BR-MT","Santa Terezinha","no",,,,,,"https://en.wikipedia.org/wiki/Santa_Terezinha_Airport","SWST, STZ, MT0011"
+38074,"BR-3134","small_airport","Fazenda Santa Juliana Airport",-12.875085,-52.020235,1230,"SA","BR","BR-MT","Ribeirão Cascalheira","no",,,,,,,"SWSU"
 38078,"BR-3135","small_airport","São Simão Airport",-15.914596,-60.148355,705,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,,"SWSY",,,"SWSY"
 38081,"BR-3136","small_airport","Tabajara Airport",-8.9169435501099,-62.117221832275,722,"SA","BR","BR-RO","Ariquemes","no",,,,"SWTB",,,"SWTB"
 38083,"BR-3137","small_airport","Fazenda Sete de Setembro Airport",-13.880673,-52.400002,1066,"SA","BR","BR-MT","Água Boa","no",,,,,,,"SWTD"
@@ -19792,6 +19792,7 @@
 605894,"CN-0500","small_airport","Xinxiang Pingyuan Airport",35.238728,113.744239,250,"AS","CN","CN-41","Xinxiang","no",,,,,,,
 606039,"CN-0501","medium_airport","Hancheng Heyang Airport",35.329133,110.3829,,"AS","CN","CN-61","Zhiyang Town","no",,,,,"https://centreforaviation.com/data/profiles/newairports/hancheng-heyang-airport",,
 607048,"CN-0502","heliport","Dulata Border Heliport",43.67436,80.6277,2507,"AS","CN","CN-65","Ili (Qapqal)","no",,,,,,,
+607615,"CN-0503","closed","Foshan Gaoming International Airport (Under construction)",22.882068,112.574149,,"AS","CN","CN-44","Foshan","no",,,,,,"https://en.wikipedia.org/wiki/Foshan_Gaoming_International_Airport","Pearl River Delta Airport, Foshan, Guangzhou New Airport"
 43974,"CN-JNZ","medium_airport","Sanshilipu Air Base",39.289671,121.762195,,"AS","CN","CN-21","Dalian (Jinzhou)","no",,,,,,,"Shilipu"
 16821,"CN01","heliport","Mendocino Coast District Hospital Heliport",39.431876,-123.799621,108,"NA","US","US-CA","Fort Bragg","no",,,"CN01","CN01",,,
 45313,"CN02","heliport","San Francisco VA Medical Center Heliport",37.783331,-122.506389,350,"NA","US","US-CA","San Francisco","no",,,"CN02","CN02",,,
@@ -20060,6 +20061,7 @@
 45101,"CO-0495","closed","Santa Fé de Antioquía Airport",6.500631,-75.822521,1500,"SA","CO","CO-ANT","Santa Fé de Antioquía","no",,,,,,,"SKSF, SKSF, SFA"
 600294,"CO-0496","small_airport","Aterrizaje Field",2.258121,-69.913469,499,"SA","CO","CO-GUA","Morichal Nuevo","no",,,,,,,"Geriara North"
 600295,"CO-0497","closed","Geiriari North 2 Airstrip",2.26907,-69.88447,519,"SA","CO","CO-GUA","Morichal Nuevo","no",,,,,,,
+607603,"CO-0498","heliport","isla de malpelo",4.003481,-81.605646,,"NA","CO","CO-VAC","Santuario di Fauna e Flora di Malpelo","no",,,,,,"https://www.youtube.com/watch?v=ctEVCdIXO30",
 41597,"CO-LCR","small_airport","Virgilio Barco Vargas (La Chorrera) Airport",-1.456361,-72.801086,564,"SA","CO","CO-AMA","La Chorrera","yes",,"LCR","SKHZ",,,"https://en.wikipedia.org/wiki/La_Chorrera_Airport",
 16854,"CO00","small_airport","Flagler Aerial Spraying Inc Airport",39.279998779296875,-103.06700134277344,4945,"NA","US","US-CO","Flagler","no",,,"CO00","CO00",,,
 16855,"CO01","heliport","General Mail Facility Heliport",39.792621,-104.899104,5223,"NA","US","US-CO","Denver","no",,,"CO01","CO01",,,
@@ -33637,6 +33639,8 @@
 606392,"IT-0827","seaplane_base","Laguna di Varano (K.Fly)",41.875248,15.689936,,"EU","IT","IT-75","Cagnano Varano","no",,,,"FG10",,,
 606507,"IT-0828","seaplane_base","Idroscalo di Spotorno",44.218942,8.415297,,"EU","IT","IT-U-A","Spotorno","no",,,,"SPOT","https://www.volidimare.it/",,
 606530,"IT-0829","closed","Glacier du Dolent",45.917871,7.048202,,"EU","IT","IT-U-A","Courmayeur","no",,,,,,,
+607609,"IT-0830","heliport","Monzino helipad",45.799958,6.883525,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
+607612,"IT-0831","heliport","Cervinia Heliport",45.926901,7.624576,,"EU","IT","IT-U-A","Valtournenche","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
