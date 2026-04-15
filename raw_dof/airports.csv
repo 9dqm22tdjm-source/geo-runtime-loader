@@ -22678,7 +22678,7 @@
 329265,"DE39","heliport","ChristianaCare Wilmington Hospital Heliport",39.751111,-75.550556,200,"NA","US","US-DE","Wilmington","no",,,"DE39","DE39",,,
 336115,"DEQ","small_airport","Deqing Moganshan Airport",30.504264,120.107388,,"AS","CN","CN-33","Huzhou","no",,"DEQ",,,,"https://en.wikipedia.org/wiki/Deqing_Moganshan_Airport",
 315622,"DEX","small_airport","Nop Goliat Dekai Airport",-4.8557,139.482006,198,"AS","ID","ID-PP","Dekai","yes","WAVD","DEX","WAVD",,,"https://en.wikipedia.org/wiki/Nop_Goliat_Dekai_Airport","Nop Goliath"
-32704,"DFCA","small_airport","Kaya Airport",13.067,-1.1,984,"AF","BF","BF-SMT","Kaya","no","DFCA","XKY","DFCA",,,"https://en.wikipedia.org/wiki/Kaya_Airport",
+32704,"DFCA","small_airport","Kaya Airport",13.077361,-1.100278,984,"AF","BF","BF-SMT","Kaya","no","DFCA","XKY","DFCA",,,"https://en.wikipedia.org/wiki/Kaya_Airport",
 30887,"DFCB","small_airport","Barsalogho Airport",13.4,-1.067,1083,"AF","BF","BF-SMT","Barsalogho","no","DFCB",,"DFCB",,,"https://en.wikipedia.org/wiki/Barsalogho_Airport","DFCB"
 32132,"DFCC","small_airport","Ouahigouya Airport",13.655287,-2.322067,1089,"AF","BF","BF-YAT","Ouahigouya","no","DFCC","OUG","DFCC",,,"https://en.wikipedia.org/wiki/Ouahigouya_Airport",
 30888,"DFCD","small_airport","Didyr Airport",12.55,-2.617,958,"AF","BF","BF-SNG","Didyr","no","DFCD",,"DFCD",,,"https://en.wikipedia.org/wiki/Didyr_Airport",
@@ -24731,9 +24731,10 @@
 44869,"ER-0001","small_airport","Dahlak South Airfield",15.68151,40.104431,,"AF","ER","ER-SK","Dahlak Kebir","no",,,,,,,
 340217,"ER-0002","small_airport","Dahlak Central Airfield",15.72753,40.07532,,"AF","ER","ER-SK","Dhu Bellu","no",,,,,,,
 340218,"ER-0003","small_airport","Dahlak West Airfield",15.75794,39.97046,,"AF","ER","ER-SK","Melill","no",,,,,,,
-348864,"ER-0004","small_airport","Omhajer Airport",14.32168,36.63028,1946,"AF","ER","ER-GB","Omhajer","no",,,,,,,
+348864,"ER-0004","small_airport","Omhajer Airport",14.32168,36.63028,1946,"AF","ER","ER-GB","Omhajer","no","HHOH",,"HHOH",,,,"Oma Hager, Umm Hagar, Minhajer, Om Hayer, Om Hager, Om Ager, Minkhadzher"
 594836,"ER-0005","closed","Otumlo Airfield",15.61353,39.44008,,"AF","ER","ER-SK","Massawa","no",,,,,,,
 594837,"ER-0006","small_airport","Keren Airfield",15.78437,38.42529,4678,"AF","ER","ER-AN","Keren","no","HHKN",,"HHKN",,,,
+607637,"ER-0007","closed","Derhib Airstrip",16.066476,37.551969,1640,"AF","ER","ER-AN",,"no",,,,,,,
 17180,"ERO","heliport","Eldred Rock CG Light Station Helipad",58.971655,-135.222157,33,"NA","US","US-AK","Eldred Rock","no",,,,"ERO",,"https://en.wikipedia.org/wiki/Eldred_Rock_Light",
 302496,"ERT","small_airport","Erdenet Airport",48.983056,104.150556,4200,"AS","MN","MN-035","Erdenet","no",,"ERT",,,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Erdenet",
 45168,"ES-0001","small_airport","Trebujena Airfield",36.858889,-6.139167,12,"EU","ES","ES-AN","Trebujena","no",,,"LETJ",,"http://www.aerodromodetrebujena.com/",,
@@ -25286,6 +25287,8 @@
 347322,"ET-0014","closed","Buno Bedelle Airport",8.447604,36.341035,6560,"AF","ET","ET-OR","Bedelle","no",,,,,,,"XBL, XBL"
 599255,"ET-0015","closed","Bulchi Airport",6.288333,36.886667,4500,"AF","ET","ET-SN","Sawla","no",,,,,,,"BCY, HABU, Felege Neway, Bulk’ī"
 604510,"ET-0016","closed","Bishoftu International Airport(Under Construction)",8.697235,38.798834,,"AF","ET","ET-OR","Bishoftu","no",,,,,,"https://en.wikipedia.org/wiki/Bishoftu_International_Airport",
+607634,"ET-0017","closed","Almata Airstrip",12.344751,39.585015,5000,"AF","ET","ET-TI","Alamata","no",,,,,,,"Alamat'a, Alomata, Alemata, Alomato"
+607636,"ET-0018","closed","Mekele Airstrip",13.516469,39.464106,6600,"AF","ET","ET-TI","Mekelle","no",,,,,,,"Mek'ele, Maqalle, Maqale, Makalle, Makale, Macalle"
 31534,"ET-GLC","small_airport","Geladi Airport",6.984439849849999,46.4213981628,1383,"AF","ET","ET-SO","Geladi","no",,"GLC","HAGL",,,,
 32294,"ET-SHC","small_airport","Shire Inda Selassie Airport",14.075699,38.273592,6207,"AF","ET","ET-TI","Shire Inda Selassie","yes",,"SHC","HASR",,,"https://en.wikipedia.org/wiki/Shire_Airport","Indaselassie, Indasilase"
 300112,"ET31","heliport","Sheridan Barracks Landing Area",47.482778,11.066944,2362,"EU","DE","DE-BY","Garmisch-Partenkirchen","no",,,,,,,
@@ -30455,7 +30458,7 @@
 324060,"HHAG","small_airport","Agordat Airport",15.536313,37.865546,,"AF","ER","ER-GB","Agordat","no","HHAG",,"HHAG",,,,
 607203,"HHAK","small_airport","Adi Keyh Airfield",14.827129,39.365238,7991,"AF","ER","ER-DU","Adi Keyh","no","HHAK",,"HHAK",,,,"Adi Keih, Adi Caieh"
 607205,"HHAL","small_airport","Alghena Airfield",17.335379,38.519347,1262,"AF","ER","ER-DU","Alghena","no","HHAL",,"HHAL",,,,"Alghiena"
-3202,"HHAS","large_airport","Asmara International Airport",15.2919,38.910702,7661,"AF","ER","ER-SK","Asmara","yes","HHAS","ASM","HHAS",,,"https://en.wikipedia.org/wiki/Asmara_International_Airport",
+3202,"HHAS","medium_airport","Asmara International Airport",15.2919,38.910702,7661,"AF","ER","ER-SK","Asmara","yes","HHAS","ASM","HHAS",,,"https://en.wikipedia.org/wiki/Asmara_International_Airport","Yohannes International."
 341734,"HHBA","small_airport","Barentu Airport",15.122394,37.614335,,"AF","ER","ER-GB","Barentu","no","HHBA",,"HHBA",,,,
 607208,"HHBL","small_airport","Beilul Airfield",13.263459,42.375229,15,"AF","ER","ER-DK","Beilul","no","HHBL",,"HHBL",,,,"Baylour"
 607210,"HHGU","small_airport","Gura Airfield",15.026849,39.039836,6435,"AF","ER","ER-DU","Gura","no","HHGU",,"HHGU",,,,"Gura'e, Gura'i"
@@ -30463,6 +30466,7 @@
 607212,"HHMF","small_airport","Fatuma Airfield",14.888492,40.316948,44,"AF","ER","ER-SK","Mersa Fatuma","no","HHMF",,"HHMF",,,,"Mersa Fat'ma, Fatima Eri"
 607213,"HHMG","small_airport","Gulbub Airstrip",16.410961,39.182422,13,"AF","ER","ER-DU","Mersa Gulbub","no","HHMG",,"HHMG",,,,"Marsa Gūlbūb"
 3203,"HHMS","medium_airport","Massawa International Airport",15.67,39.370098,194,"AF","ER","ER-SK","Massawa","no","HHMS","MSW","HHMS",,,"https://en.wikipedia.org/wiki/Massawa_International_Airport",
+607632,"HHNF","small_airport","Nakfa Airfield",16.673176,38.505549,5660,"AF","ER","ER-SK","Nakfa","no","HHNF",,"HHNF",,,,"Nak'fa, Nacfa"
 3204,"HHSB","medium_airport","Assab International Airport",13.0718,42.645,46,"AF","ER","ER-DK","Assab","no","HHSB","ASA","HHSB",,,"https://en.wikipedia.org/wiki/Assab_International_Airport",
 32435,"HHTS","small_airport","Tessenei Airport",15.104322,36.681711,2018,"AF","ER","ER-GB","Tessenei","no","HHTS","TES","HHTS",,,"https://en.wikipedia.org/wiki/Teseney_Airport",
 17623,"HI01","small_airport","Princeville Airport",22.209313,-159.44515,344,"OC","US","US-HI","Hanalei","no",,"HPV","HI01","HI01",,"https://en.wikipedia.org/wiki/Princeville_Airport",
@@ -33641,6 +33645,8 @@
 606530,"IT-0829","closed","Glacier du Dolent",45.917871,7.048202,,"EU","IT","IT-U-A","Courmayeur","no",,,,,,,
 607609,"IT-0830","heliport","Monzino helipad",45.799958,6.883525,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
 607612,"IT-0831","heliport","Cervinia Heliport",45.926901,7.624576,,"EU","IT","IT-U-A","Valtournenche","no",,,,,,,
+607625,"IT-0832","heliport","Eliporto Calasca",45.998243,8.169043,,"EU","IT","IT-21","Calasca-Castiglione","no",,,,,,,
+607628,"IT-0833","heliport","Helipad  Piedimulera",46.022684,8.273048,,"EU","IT","IT-21","Piedimulera","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -80798,7 +80804,6 @@
 605573,"VN-0082","heliport","People's Hospital No. 115 Heliport",10.775372,106.668101,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 605574,"VN-0083","heliport","Saigon Times Square Heliport",10.773857,106.704695,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 605575,"VN-0084","heliport","Police Heliport",10.7584,106.686185,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
-606995,"VN-0085","large_airport","apptaixiuonlinegold",80,89,,"AS","VN","VN-NC","Hồ chí minh","no",,,,,"https://apptaixiuonline.gold/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
@@ -81318,7 +81323,7 @@
 26780,"WAGG","medium_airport","Tjilik Riwut Airport",-2.227146,113.943388,82,"AS","ID","ID-KT","Palangkaraya","yes","WAGG","PKY","WAGG",,,"https://en.wikipedia.org/wiki/Tjilik_Riwut_Airport","WRBP, WAOP"
 595145,"WAGL","small_airport","Long Apari Airport",3.083333,116.433333,253,"AS","ID","ID-KI","Long Apar","no",,,"WAGL",,,,
 525300,"WAGP","small_airport","Purukcahu Airport",-0.688419,114.444829,442,"AS","ID","ID-KT",,"no",,,"WAGP",,,,
-332202,"WAHI","medium_airport","Yogyakarta International Airport",-7.905338,110.057264,24,"AS","ID","ID-YO","Yogyakarta","yes","WAHI","YIA","WAHI",,,"https://en.wikipedia.org/wiki/Yogyakarta_International_Airport","Kulon Progo"
+332202,"WAHI","large_airport","Yogyakarta International Airport",-7.905338,110.057264,24,"AS","ID","ID-YO","Yogyakarta","yes","WAHI","YIA","WAHI",,"https://www.yogyakarta-airport.co.id/","https://en.wikipedia.org/wiki/Yogyakarta_International_Airport","Kulon Progo"
 26833,"WAHL","medium_airport","Tunggul Wulung Airport",-7.64506,109.033997,69,"AS","ID","ID-JT","Cilacap","yes","WAHL","CXP","WAHL",,,"https://en.wikipedia.org/wiki/Tunggul_Wulung_Airport","WIIL, WIHL"
 41395,"WAHP","small_airport","Jenderal Besar Soedirman Airport",-7.461239,109.414124,225,"AS","ID","ID-JT","Purwokerto-Java Island","no","WAHP","PWL","WAHP",,,"https://en.wikipedia.org/wiki/Purwokerto_Airport","WICP, WIAP, Wirasaba, Purbalingga"
 42250,"WAHU","small_airport","Dewadaru Airport",-5.80091,110.47838,35,"AS","ID","ID-JT","Karimunjawa","yes","WAHU","KWB","WAHU",,,"https://en.wikipedia.org/wiki/Dewadaru_Airport","Karimun Jawa, Karimun Java"
@@ -81413,9 +81418,9 @@
 30846,"WARC","small_airport","Ngloram Airport",-7.195522,111.545287,131,"AS","ID","ID-JT","Blora","no","WARC","CPF","WARC",,,"https://en.wikipedia.org/wiki/Ngloram_Airport","Cepu, WRSC"
 46586,"WARE","small_airport","Notohadinegoro Airport",-8.242494,113.693476,281,"AS","ID","ID-JI","Jember","yes","WARE","JBB","WARE",,,"https://en.wikipedia.org/wiki/Notohadinegoro_Airport","Jember, Jenggawah"
 26786,"WARI","small_airport","Iswahjudi Air Base",-7.61577,111.433998,361,"AS","ID","ID-JI","Magetan","no",,,"WARI",,,"https://en.wikipedia.org/wiki/Iswahjudi_Air_Force_Base","WIAR, Iswahyudi"
-26787,"WARJ","large_airport","Adisutjipto International Airport",-7.78818,110.431999,379,"AS","ID","ID-YO","Yogyakarta","yes","WAHH","JOG","WAHH",,"http://adisutjipto-airport.co.id/","https://en.wikipedia.org/wiki/Adisutjipto_Airport","WIIJ, WARJ, Adisucipto"
+26787,"WARJ","medium_airport","Adisutjipto International Airport",-7.78818,110.431999,379,"AS","ID","ID-YO","Yogyakarta","yes","WAHH","JOG","WAHH",,"https://adisutjipto-airport.co.id/","https://en.wikipedia.org/wiki/Adisutjipto_Airport","WIIJ, WARJ, Adisucipto"
 3266,"WARP","small_airport","Pagerungan Airport",-6.956515,115.931107,13,"AS","ID","ID-JI","Sapeken","no","WARP",,"WARP",,,,"West Java Islands, Pagerungan Besar, Torohhiga"
-26788,"WARQ","medium_airport","Adisumarmo Airport",-7.516044,110.757492,421,"AS","ID","ID-JT","Surakarta","yes","WAHQ","SOC","WAHQ",,"https://adisumarmo-airport.com/en","https://en.wikipedia.org/wiki/Adisumarmo_Airport","WRSQ, WARQ, Adi Soemarmo, Adi Sumarmo"
+26788,"WARQ","large_airport","Adisoemarmo International Airport",-7.516044,110.757492,421,"AS","ID","ID-JT","Surakarta","yes","WAHQ","SOC","WAHQ",,"https://adisumarmo-airport.com/en","https://en.wikipedia.org/wiki/Adisumarmo_Airport","WRSQ, WARQ, Adi Soemarmo, Adi Sumarmo"
 26789,"WARR","large_airport","Juanda International Airport",-7.37983,112.787003,9,"AS","ID","ID-JI","Surabaya","yes","WARR","SUB","WARR",,"http://www.juanda-airport.com/","https://en.wikipedia.org/wiki/Juanda_International_Airport","WRSJ, Sedati, Sidoarjo"
 26790,"WARS","large_airport","Jenderal Ahmad Yani Airport",-6.970732,110.373244,10,"AS","ID","ID-JT","Semarang","yes","WAHS","SRG","WAHS",,"https://www.ahmadyani-airport.com/id","https://en.wikipedia.org/wiki/Achmad_Yani_Airport","WIIS, WARS"
 32389,"WART","small_airport","Trunojoyo Airport",-7.022391,113.887699,10,"AS","ID","ID-JI","Sumenep","no","WART","SUP","WART","TRJ",,"https://en.wikipedia.org/wiki/Trunojoyo_Airport","WRST, Madura"
