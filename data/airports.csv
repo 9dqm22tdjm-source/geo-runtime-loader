@@ -12378,7 +12378,6 @@
 341275,"AZ-0024","heliport","XDMX Heliport",40.3506,49.79858,540,"AS","AZ","AZ-BA","Baku","no",,,,,,,
 341276,"AZ-0025","heliport","Sangachal Oil Terminal Heliport",40.200361,49.492087,,"AS","AZ","AZ-BA","Sangachal","no",,,,,,,
 510075,"AZ-0026","heliport","Sadarak Army Border Post Helipad",39.641422,44.831085,,"AS","AZ","AZ-SAD","Sadarak","no",,,,,,,
-607585,"AZ-0027","large_airport","keonhacai5is",79,89,,"AS","AZ","AZ-CUL","Thành phố Hồ Chí Minh","yes",,,,,"https://keonhacai5.is/",,
 16388,"AZ00","small_airport","Morton Field Ultralight Flightpark",32.80679,-113.503876,475,"NA","US","US-AZ","Dateland","no",,,"AZ00","AZ00",,,
 16389,"AZ01","small_airport","Outback Ranch Airstrip",33.847732,-113.57106,1980,"NA","US","US-AZ","Wenden","no",,,"AZ01","AZ01",,,
 16390,"AZ02","heliport","Gateway East KNXV-TV Heliport",33.454181,-111.983753,1185,"NA","US","US-AZ","Phoenix","no",,,"AZ02","AZ02",,,
@@ -29988,7 +29987,7 @@
 309162,"GHE","small_airport","Garachiné Airport",8.0644,-78.3673,42,"SA","PA","PA-5","Garachiné","no",,"GHE",,,,"https://en.wikipedia.org/wiki/Garachin%C3%A9_Airport",
 308082,"GIG","small_airport","Black Diamond/Flying R Ranch Airport",50.645,-114.203,4060,"NA","CA","CA-AB",,"no",,,"CBD8","CBD8",,"https://en.wikipedia.org/wiki/Black_Diamond/Flying_R_Ranch_Aerodrome",
 299108,"GL-0001","closed","NEEM Camp Skiway",79.45,-51.006,,"NA","GL","GL-NE","NEEM Camp","no",,,,,,"https://en.wikipedia.org/wiki/NEEM_Camp","North Greenland Eemian Ice Drilling Project"
-44053,"GL-0002","small_airport","Gisp Ice Landing Strip",72.59619,-38.42145,10545,"NA","GL","GL-NE","Summit Camp","no",,,,,,,"GISGA"
+44053,"GL-0002","medium_airport","Summit Camp Landing Strip",72.59619,-38.42145,10545,"NA","GL","GL-NE","Summit Camp","no",,,,,,,"GISGA"
 44064,"GL-0003","small_airport","NorthGRIP Airport",75.099998,-42.316666,,"NA","GL","GL-NE","NorthGRIP","no",,,,,,,"GIRPA, North Greenland Ice Core Project"
 44067,"GL-0004","small_airport","Raven Skiway",66.316666,-46.283333,,"NA","GL","GL-QA","Raven Camp","no",,,,,,,"RABVA, DYE-2 Radar Site"
 44071,"GL-0005","small_airport","Sødalen Landingstrip",68.16747,-31.51479,,"NA","GL","GL-SE","Sodalen","no",,,,,,,"SUDUL"
@@ -30842,7 +30841,7 @@
 600232,"HR-0042","heliport","Split Naval Heliport",43.523491,16.422211,5,"EU","HR","HR-17","Split","no",,,,,,,
 313249,"HRC","small_airport","Sary Su Airport",48.3974,70.1915,1307,"AS","KZ","KZ-ULY","Zhayrem","no",,"HRC",,,,,"Zhairem, Жайрем"
 313252,"HRN","heliport","Heron Island Helipad",-23.441765,151.911416,8,"OC","AU","AU-QLD","Heron Island","no",,,"YHRN","YHRN",,,"HRN"
-3236,"HRYG","medium_airport","Gisenyi Airport",-1.6771999597549438,29.258899688720703,5082,"AF","RW","RW-04","Gisenyi","no","HRYG","GYI","HRYG",,,"https://en.wikipedia.org/wiki/Grayson_County_Airport",
+3236,"HRYG","medium_airport","Gisenyi Airport",-1.6772,29.2589,5082,"AF","RW","RW-04","Gisenyi","no","HRYG","GYI","HRYG",,,"https://en.wikipedia.org/wiki/Gisenyi_Airport",
 30801,"HRYI","small_airport","Butare Airport",-2.59583,29.7367,5801,"AF","RW","RW-05","Butare","no","HRYI","BTQ","HRYI",,,"https://en.wikipedia.org/wiki/Butare_Airport",
 31612,"HRYN","small_airport","Nemba Airport",-2.336167,30.206658,4905,"AF","RW","RW-02","Nemba","no","HRYN",,"HRYN",,,"https://en.wikipedia.org/wiki/Nemba_Airport",
 31613,"HRYO","small_airport","Gabiro Airport",-1.5499999523162842,30.382999420166016,4806,"AF","RW","RW-02","Gabiro","no",,,"HRYO",,,,
@@ -31262,10 +31261,10 @@
 310500,"ID-0092","small_airport","Lokok Airstrip",1.02159,110.050738,1855,"AS","ID","ID-KB","Lokok","no",,,"WIAS",,,,"WZ70"
 310502,"ID-0093","small_airport","Long Alango Airstrip",2.9304,115.8512,1292,"AS","ID","ID-KU","Long Alango","no",,,"WAQE",,,,"WZ71"
 310513,"ID-0094","small_airport","Long Rungan Airport",3.598904,115.840817,2880,"AS","ID","ID-KU","Long Rungan","yes","WAQH",,"WAQH",,,,"WZ86, Long Rongan"
-310515,"ID-0095","small_airport","Long Segar Airstrip",0.7981,116.8157,120,"AS","ID","ID-KI","Long Segar","no",,,,,,,"WZ87"
+310515,"ID-0095","small_airport","Long Segar Airstrip",0.7981,116.8157,120,"AS","ID","ID-KI","Long Segar","no","WAOE",,"WAOE",,,,"WZ87"
 310518,"ID-0096","small_airport","Luban Airstrip",-4.213917,140.559755,840,"AS","ID","ID-PP","Luban","no",,,,"LUB",,,"WZ91"
 310521,"ID-0097","small_airport","Lumbis Airstrip",4.3038,116.2175,575,"AS","ID","ID-KU","Lumbis","no",,,,,,,"WZ94"
-310523,"ID-0098","small_airport","Madya Raya Airstrip",-0.865,111.6637,380,"AS","ID","ID-KB","Madya Raya","no",,,,,,,"WZ96"
+310523,"ID-0098","small_airport","Madya Raya Airstrip",-0.865,111.6637,380,"AS","ID","ID-KB","Madya Raya","no","WIAU",,"WIAU",,,,"WZ96"
 310525,"ID-0099","small_airport","Magoda Airstrip",-3.9906,135.8532,5260,"AS","ID","ID-PT","Magoda","no",,,,"MGD",,,"WZ98, Magode"
 310606,"ID-0100","small_airport","Oklip Airstrip",-4.762095,140.780554,6300,"AS","ID","ID-PP","Oklip","yes",,,,"OKL",,,"WW43"
 310679,"ID-0101","small_airport","Nalca Airstrip",-4.3636,139.8351,5250,"AS","ID","ID-PP","Kalca","no","WRHI",,"WRHI",,,,"WW22"
@@ -33650,6 +33649,8 @@
 607710,"IT-0834","heliport","La Thuile Helicopter landing site",45.683908,6.885982,,"EU","IT","IT-U-A","La Thuile","no",,,,,,,
 607712,"IT-0835","heliport","Rifugio Deffeyes Helicopter landing site",45.675602,6.986387,,"EU","IT","IT-23","La Thuile","no",,,,,,,
 607714,"IT-0836","heliport","Val Veny helicopter landing zone",45.799397,6.922696,,"EU","IT","IT-23","La Thuile","no",,,,,,,
+607731,"IT-0837","heliport","Helipad Monte Bianco Tunnel",45.817143,6.951256,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
+607733,"IT-0838","heliport","Franco Gaeta Helipad",45.814604,6.955853,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -40625,7 +40626,7 @@
 35224,"KP-0014","small_airport","Koksan Highway Airport",38.732703,126.659875,,"AS","KP","KP-06","Koksan","no",,,,,,"https://en.wikipedia.org/wiki/List_of_highway_airstrips_in_North_Korea; https://en.wikipedia.org/wiki/Koksan_South_Highway_Strip",
 35225,"KP-0015","medium_airport","Koksan Air Base",38.690201,126.606003,840,"AS","KP","KP-06","Koksan","no",,,,,,"https://en.wikipedia.org/wiki/Koksan_Airport","곡산비행장, 谷山飛行場"
 35226,"KP-0016","small_airport","Kilchu Highway Airport",40.912601470947266,129.30799865722656,,"AS","KP","KP-09",,"no",,,,,,,
-35227,"KP-0017","small_airport","Kangdong Airport",39.16088,126.042452,75,"AS","KP","KP-01","Kangdong","no",,,,,,"https://en.wikipedia.org/wiki/Kangdong_Airport",
+35227,"KP-0017","closed","Kangdong Airport",39.16088,126.042452,75,"AS","KP","KP-01","Kangdong","no",,,,,,"https://en.wikipedia.org/wiki/Kangdong_Airport",
 35228,"KP-0018","small_airport","Kaechon Airport",39.753657,125.902119,33,"AS","KP","KP-02","Kaechon","no",,,,,,"https://en.wikipedia.org/wiki/Kaechon_Airport",
 35229,"KP-0019","small_airport","Hyon-ni Airport",38.613517,127.452393,1913,"AS","KP","KP-07","Hoeyang","no",,,,,,"https://en.wikipedia.org/wiki/Hyon_Ni_Airport",
 35230,"KP-0020","medium_airport","Hwangju Airbase",38.653459,125.78888,26,"AS","KP","KP-06","Hwangju","no",,,"ZKHW",,,"https://en.wikipedia.org/wiki/Hwangju_Airport",
@@ -80686,7 +80687,7 @@
 26550,"VICG","large_airport","Shaheed Bhagat Singh International Airport",30.6735,76.788498,1012,"AS","IN","IN-CH","Chandigarh","yes","VICG","IXC","VICG",,,"https://en.wikipedia.org/wiki/Chandigarh_Airport","Chandigarh Air Force Station"
 26551,"VICX","medium_airport","Kanpur Airport",26.404301,80.410103,410,"AS","IN","IN-UP","Kanpur","yes",,"KNU","VEKA","VEKA",,"https://en.wikipedia.org/wiki/Kanpur_Airport","VECX (IAF Stn), VICX, Ganesh Shankar Vidyarthi Airport, Chakeri Air Force Station"
 26552,"VIDD","medium_airport","Safdarjung Airport",28.585453,77.203563,705,"AS","IN","IN-DL","New Delhi","no","VIDD",,"VIDD",,,"https://en.wikipedia.org/wiki/Safdarjung_Airport",
-26553,"VIDF","small_airport","Pithoragarh Airport",29.593599,80.239197,4910,"AS","IN","IN-UT","Pithoragarh","no",,,"VIDF",,,"https://en.wikipedia.org/wiki/Pithoragarh_Airport",
+26553,"VIDF","small_airport","Pithoragarh Airport",29.593599,80.239197,4910,"AS","IN","IN-UT","Pithoragarh","no","VIPG",,"VIPG",,,"https://en.wikipedia.org/wiki/Pithoragarh_Airport","Naini–Saini"
 26554,"VIDN","medium_airport","Dehradun Jolly Grant Airport",30.189243,78.176651,1831,"AS","IN","IN-UT","Dehradun (Jauligrant)","yes","VIDN","DED","VIDN",,"http://aai.aero/allAirports/dehradun_generalinfo.jsp","https://en.wikipedia.org/wiki/Jolly_Grant_Airport","Jauligrant, Jolly Grant"
 26555,"VIDP","large_airport","Indira Gandhi International Airport",28.55563,77.09519,777,"AS","IN","IN-DL","New Delhi","yes","VIDP","DEL","VIDP",,"https://www.newdelhiairport.in/","https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport","Palam Air Force Station"
 26556,"VIDX","small_airport","Hindon Airport / Hindon Air Force Station",28.707701,77.358902,700,"AS","IN","IN-UP","Ghaziabad","yes","VIDX","HDO","VIDX",,,"https://en.wikipedia.org/wiki/Hindon_Airport",
