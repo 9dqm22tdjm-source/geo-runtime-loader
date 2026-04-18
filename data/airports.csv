@@ -18755,7 +18755,7 @@
 576220,"CHA3","seaplane_base","Hydro Aéroport de Montréal",45.544,-73.515,23,"NA","CA","CA-QC","Montréal","no",,,"CHA3","CHA3",,"https://en.wikipedia.org/wiki/Montr%C3%A9al/Hydro_A%C3%A9roport_de_Montr%C3%A9al_Water_Airport","Longueuil"
 320215,"CHB2","heliport","Hudson Bay Helicopters Heliport",58.7664,-94.1677,20,"NA","CA","CA-MB","Churchill","no",,,"CHB2","CHB2","http://hudsonbayheli.com/",,
 1034,"CHC3","heliport","Barrhead (Healthcare Centre) Heliport",54.1182820612,-114.400066137,2121,"NA","CA","CA-AB","Barrhead","no",,,"CHC3","CHC3",,,"HC3"
-308295,"CHC5","small_airport","Hayes Camp Aerodrome",66.655556,-91.545,780,"NA","CA","CA-NU",,"no",,,"CHC5","CHC5",,"https://en.wikipedia.org/wiki/Hayes_Camp_Aerodrome",
+308295,"CHC5","small_airport","Hayes Camp Aerodrome",66.661012,-91.55346,780,"NA","CA","CA-NU",,"no",,,"CHC5","CHC5",,"https://en.wikipedia.org/wiki/Hayes_Camp_Aerodrome",
 320174,"CHD2","heliport","Hardisty Health Centre Helipad",52.6689,-111.307101,2075,"NA","CA","CA-AB","Hardistry","no",,,"CHD2","CHD2",,,
 1036,"CHD3","heliport","Hanna District Ambulance Heliport",51.651126,-111.92929,2687,"NA","CA","CA-AB","Hanna","no",,,"CHD3","CHD3",,,
 311598,"CHD4","small_airport","Harydale Farms Airport",43.108333,-81.019167,1050,"NA","CA","CA-ON","Thamesford","no",,,"CHD4","CHD4",,"https://en.wikipedia.org/wiki/Thamesford_(Harydale_Farms)_Aerodrome",
@@ -29987,7 +29987,7 @@
 309162,"GHE","small_airport","Garachiné Airport",8.0644,-78.3673,42,"SA","PA","PA-5","Garachiné","no",,"GHE",,,,"https://en.wikipedia.org/wiki/Garachin%C3%A9_Airport",
 308082,"GIG","small_airport","Black Diamond/Flying R Ranch Airport",50.645,-114.203,4060,"NA","CA","CA-AB",,"no",,,"CBD8","CBD8",,"https://en.wikipedia.org/wiki/Black_Diamond/Flying_R_Ranch_Aerodrome",
 299108,"GL-0001","closed","NEEM Camp Skiway",79.45,-51.006,,"NA","GL","GL-NE","NEEM Camp","no",,,,,,"https://en.wikipedia.org/wiki/NEEM_Camp","North Greenland Eemian Ice Drilling Project"
-44053,"GL-0002","medium_airport","Summit Camp Landing Strip",72.59619,-38.42145,10545,"NA","GL","GL-NE","Summit Camp","no",,,,,,,"GISGA"
+44053,"GL-0002","small_airport","Gisp Ice Landing Strip",72.59619,-38.42145,10545,"NA","GL","GL-NE","Summit Camp","no",,,,,,,"GISGA"
 44064,"GL-0003","small_airport","NorthGRIP Airport",75.099998,-42.316666,,"NA","GL","GL-NE","NorthGRIP","no",,,,,,,"GIRPA, North Greenland Ice Core Project"
 44067,"GL-0004","small_airport","Raven Skiway",66.316666,-46.283333,,"NA","GL","GL-QA","Raven Camp","no",,,,,,,"RABVA, DYE-2 Radar Site"
 44071,"GL-0005","small_airport","Sødalen Landingstrip",68.16747,-31.51479,,"NA","GL","GL-SE","Sodalen","no",,,,,,,"SUDUL"
@@ -31265,15 +31265,15 @@
 310518,"ID-0096","small_airport","Luban Airstrip",-4.213917,140.559755,840,"AS","ID","ID-PP","Luban","no",,,,"LUB",,,"WZ91"
 310521,"ID-0097","small_airport","Lumbis Airstrip",4.3038,116.2175,575,"AS","ID","ID-KU","Lumbis","no",,,,,,,"WZ94"
 310523,"ID-0098","small_airport","Madya Raya Airstrip",-0.865,111.6637,380,"AS","ID","ID-KB","Madya Raya","no","WIAU",,"WIAU",,,,"WZ96"
-310525,"ID-0099","small_airport","Magoda Airstrip",-3.9906,135.8532,5260,"AS","ID","ID-PT","Magoda","no",,,,"MGD",,,"WZ98, Magode"
+310525,"ID-0099","small_airport","Magoda Airstrip",-3.9906,135.8532,5260,"AS","ID","ID-PT","Magoda","no","WRPS",,"WRPS","MGD",,,"WZ98, Magode"
 310606,"ID-0100","small_airport","Oklip Airstrip",-4.762095,140.780554,6300,"AS","ID","ID-PP","Oklip","yes",,,,"OKL",,,"WW43"
 310679,"ID-0101","small_airport","Nalca Airstrip",-4.3636,139.8351,5250,"AS","ID","ID-PP","Kalca","no","WRHI",,"WRHI",,,,"WW22"
-310682,"ID-0102","small_airport","Nanga Labang Airstrip",0.228,111.65084,83,"AS","ID","ID-KB","Nanga Labang","no",,,,,,,"WW24"
-310692,"ID-0103","small_airport","Nanga Mawong Airstrip",-0.4322,112.3271,286,"AS","ID","ID-KB","Nanga Mawong","no",,,,,,,"WW26"
+310682,"ID-0102","small_airport","Nanga Labang Airstrip",0.228,111.65084,83,"AS","ID","ID-KB","Nanga Labang","no","WIFA",,"WIFA",,,,"WW24"
+310692,"ID-0103","small_airport","Nanga Mawong Airstrip",-0.4322,112.3271,286,"AS","ID","ID-KB","Nanga Mawong","no","WIFB",,"WIFB",,,,"WW26"
 310695,"ID-0104","small_airport","Nanga Merakai Airstrip",0.7024,111.5225,112,"AS","ID","ID-KB","Nanga Merakai","no",,,,"MER",,,"WW52"
-310697,"ID-0105","small_airport","Nanga Nyabu Airstrip",1.0152,112.714,146,"AS","ID","ID-KB","Nanga Nyabu","no",,,,,,,"WW27"
-310699,"ID-0106","small_airport","Nanga Ruan Airstrip",0.6283,113.1753,278,"AS","ID","ID-KB","Nanga Ruan","no",,,,,,,"WW29"
-310701,"ID-0107","small_airport","Nenei Airstrip",-1.492,133.9956,2864,"AS","ID","ID-PB","Nenei","no",,,,"NEN",,,"WW31"
+310697,"ID-0105","small_airport","Nanga Nyabu Airstrip",1.013399,112.713643,146,"AS","ID","ID-KB","Nanga Nyabu","no","WIFD",,"WIFD",,,,"WW27"
+310699,"ID-0106","small_airport","Nanga Ruan Airstrip",0.628052,113.175298,278,"AS","ID","ID-KB","Nanga Ruan","no","WIFH",,"WIFH",,,,"WW29"
+310701,"ID-0107","small_airport","Nenei Airstrip",-1.491906,133.99587,2864,"AS","ID","ID-PB","Nenei","no","WRHK",,"WRHK","NEN",,,"WW31"
 310703,"ID-0108","closed","Nain Baru Airstrip",1.403182,115.327,1783,"AS","ID","ID-KU","Nian Baru","no",,,,,,,"WT78"
 310705,"ID-0109","small_airport","Nania Airstrip",-4.362913,139.30244,7060,"AS","ID","ID-PP","Nania","no","WAVI",,"WAVI","NIN",,,"WW34"
 310838,"ID-0110","small_airport","Nipsan Airstrip",-4.116755,139.647303,6000,"AS","ID","ID-PP","Nipsan","no",,,,"NIP",,,"WW35"
@@ -33651,6 +33651,11 @@
 607714,"IT-0836","heliport","Val Veny helicopter landing zone",45.799397,6.922696,,"EU","IT","IT-23","La Thuile","no",,,,,,,
 607731,"IT-0837","heliport","Helipad Monte Bianco Tunnel",45.817143,6.951256,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
 607733,"IT-0838","heliport","Franco Gaeta Helipad",45.814604,6.955853,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
+607739,"IT-0839","heliport","Entrevers helipad",45.812223,6.95949,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
+607741,"IT-0840","heliport","elisuperficie Rifugio Bertone",45.810035,6.978738,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
+607757,"IT-0841","heliport","Elisuperficie Rifugio Walter Bonatti",45.847224,7.034061,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
+607759,"IT-0842","heliport","Elisuperficie St. Pierre",45.704965,7.219713,,"EU","IT","IT-U-A","St. Pierre","no",,,,,,,
+607761,"IT-0843","heliport","elisuperfice Pile",45.686216,7.310929,,"EU","IT","IT-23","Gressan","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -48982,6 +48987,7 @@
 607718,"MX-2530","heliport","Center for Higher Naval Studies Heliport",19.318639,-99.11534,,"NA","MX","MX-DIF","Coyoacán","no",,,,,,,
 607719,"MX-2531","heliport","Center for Higher Naval Studies Heliport",19.318639,-99.11534,7358,"NA","MX","MX-DIF","Coyoacán","no",,,,,,,
 607720,"MX-2532","heliport","Naval Advanced Training Center Heliport",19.280975,-100.162757,7257,"NA","MX","MX-MEX","Valle de Bravo","no",,,,,,,
+607736,"MX-2533","heliport","Puerto Cortés Naval Base Heliport",24.475969,-111.821334,1,"NA","MX","MX-BCS","Comondú","no",,,,,,,"Isla Santa Margarita"
 30631,"MX-AJS","small_airport","Punta Abreojos Airport",26.7272,-113.558998,26,"NA","MX","MX-BCS","Mulegé","no",,"AJS",,"AJS",,"https://en.wikipedia.org/wiki/Punta_Abreojos_Airstrip","MX86"
 30671,"MX-AZG","small_airport","Apatzingán - Pablo L. Sidar Airport",19.093399,-102.393997,1033,"NA","MX","MX-MIC","Apatzingán","no",,"AZG","MMAG","AZG",,"https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Pablo_L._Sidar","MM16"
 43044,"MX-CEO","small_airport","El Crucero Airport",27.407301,-109.928001,114,"NA","MX","MX-SON","Cajeme","no",,,,"CEO",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_El_Crucero_(Sonora)",
@@ -56743,7 +56749,7 @@
 5830,"SAWB","small_airport","Gustavo Marambio Airport",-64.238297,-56.630798,760,"AN","AQ","AQ-U-A","Marambio Base","no",,,"SAWB","MBI",,"https://en.wikipedia.org/wiki/Marambio_Airport",
 5831,"SAWC","large_airport","El Calafate - Commander Armando Tola International Airport",-50.281997,-72.053949,669,"SA","AR","AR-Z","El Calafate","yes",,"FTE","SAWC","ECA","http://www.aeropuertoelcalafate.com/en/","https://en.wikipedia.org/wiki/Comandante_Armando_Tola_International_Airport",
 5832,"SAWD","medium_airport","Puerto Deseado Airport",-47.7353,-65.9041,268,"SA","AR","AR-Z","Puerto Deseado","yes","SAWD","PUD","SAWD","ADO",,"https://en.wikipedia.org/wiki/Puerto_Deseado_Airport",
-5833,"SAWE","medium_airport","Hermes Quijada International Airport",-53.7777,-67.7494,65,"SA","AR","AR-V","Rio Grande","yes","SAWE","RGA","SAWE","GRA",,"https://en.wikipedia.org/wiki/Hermes_Quijada_Airport","Hermes Quijada, Gobernador Ramón Trejo Noel"
+5833,"SAWE","medium_airport","Gobernador Ramón Trejo Noel International Airport",-53.7777,-67.7494,65,"SA","AR","AR-V","Rio Grande","yes","SAWE","RGA","SAWE","GRA",,"https://en.wikipedia.org/wiki/Hermes_Quijada_Airport","Hermes Quijada, Gobernador Ramón Trejo Noel"
 5834,"SAWG","large_airport","Piloto Civil Norberto Fernández International Airport",-51.608791,-69.308948,61,"SA","AR","AR-Z","Rio Gallegos","yes","SAWG","RGL","SAWG","GAL",,"https://en.wikipedia.org/wiki/Piloto_Civil_Norberto_Fern%C3%A1ndez_International_Airport","Brigadier General D. A. Parodi"
 5835,"SAWH","medium_airport","Ushuaia - Malvinas Argentinas International Airport",-54.8433,-68.2958,102,"SA","AR","AR-V","Ushuaia","yes","SAWH","USH","SAWH","USU",,"https://en.wikipedia.org/wiki/Ushuaia_%E2%80%93_Malvinas_Argentinas_International_Airport",
 5836,"SAWJ","medium_airport","Capitan D Daniel Vazquez Airport",-49.306816,-67.802596,203,"SA","AR","AR-Z","San Julian","no","SAWJ","ULA","SAWJ","SJU",,"https://en.wikipedia.org/wiki/Capit%C3%A1n_Jos%C3%A9_Daniel_Vazquez_Airport",
@@ -79821,6 +79827,7 @@
 606157,"UZ-0165","heliport","Jizzakh Government Heliport",40.13351,67.82186,1194,"AS","UZ","UZ-JI","Jizzakh","no",,,,,,,"UT8UW"
 606159,"UZ-0166","heliport","Jizzakh Military Heliport",40.08628,67.90183,1191,"AS","UZ","UZ-JI","Jizzakh","no",,,,,,,"UT8FW"
 607133,"UZ-0167","heliport","Karakalpakia Heliport",44.77798,56.19314,397,"AS","UZ","UZ-QR","Karakalpakia","no",,,,,,,
+607748,"UZ-0168","heliport","NMMC Heliport",40.15125,65.342393,1117,"AS","UZ","UZ-NW","Karmana","no",,,,,"https://ngmk.org/en/",,"Navoi, Кармана, Навои"
 26427,"UZ-UT73","small_airport","Maymanak Airport",39.137798,65.165298,1047,"AS","UZ","UZ-QA","Maynanak","no",,,,"UT73",,,
 26429,"UZ-UT77","small_airport","Kungirot Airport",43.082662,58.885077,180,"AS","UZ","UZ-QR","Kungirot","no",,,,"UT77",,,"Kungrad"
 313332,"UZM","small_airport","Hope Bay Aerodrome",68.156,-106.618,150,"NA","CA","CA-NU","Hope Bay","no",,"UZM",,"CHB3",,"https://en.wikipedia.org/wiki/Hope_Bay_Aerodrome",
@@ -81367,7 +81374,7 @@
 26763,"WALS","medium_airport","Aji Pangeran Tumenggung Pranoto International Airport",-0.374478,117.250128,82,"AS","ID","ID-KI","Samarinda","yes","WALS","AAP","WALS",,,"https://en.wikipedia.org/wiki/Aji_Pangeran_Tumenggung_Pranoto_International_Airport","Sungai Siring Airport"
 26764,"WALT","small_airport","Tanjung Santan Airport",-0.092633,117.439109,121,"AS","ID","ID-KI","Santan-Borneo Island","no","WALT",,"WALT","TSX",,,"WRLT"
 26765,"WALV","small_airport","Bunyu Airport",3.45572,117.866997,118,"AS","ID","ID-KU","Bunju Island","no","WAQB",,"WAQB",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Bunyu","BYQ, WALV, WRLV, WA1C"
-26766,"WALX","small_airport","Mangkajang Airport",2.00751,117.749001,47,"AS","ID","ID-KI","Mangkajang-Borneo Island","no",,,"WAQK",,,,
+26766,"WALX","small_airport","Mangkajang Airport",2.007244,117.748983,47,"AS","ID","ID-KI","Mangkajang-Borneo Island","no","WAQK",,"WAQK",,,,"WALX"
 31540,"WAMA","small_airport","Gamarmalamo Airport",1.838134,127.786191,157,"AS","ID","ID-MU","Galela","no","WAEG","GLX","WAEG",,,"https://en.wikipedia.org/wiki/Gamar_Malamo_Airport","WAMA, Celebes Island"
 32631,"WAMD","small_airport","Jailolo/Kuripasai Airport",1.1169999837875366,127.48300170898438,50,"AS","ID","ID-MU","Kuripasai-Celebes Island","no",,,"WAMD",,,,
 331796,"WAME","small_airport","Buli Airport",0.917144,128.382116,7,"AS","ID","ID-MU","Pekaulang","no","WAEM","PGQ","WAEM",,,"https://en.wikipedia.org/wiki/Buli_Airport","WAME"
@@ -81829,6 +81836,8 @@
 605116,"WRFC","small_airport","Endomen Airstrip",-4.224099,139.881753,3609,"AS","ID","ID-PP","Endomen","no","WRFC",,"WRFC",,,,
 598463,"WRFE","small_airport","Proyam Airstrip",-3.716667,138.733333,4928,"AS","ID","ID-PP","Erageam","no",,,"WRFE",,,,
 599480,"WRGS","small_airport","Kwelamdua Airstrip",-4.690176,139.755245,5285,"AS","ID","ID-PP","Kwelamdua","no",,,"WRGS",,,,
+607751,"WRHC","small_airport","Makki Airstrip",-3.969521,138.629268,6747,"AS","ID","ID-PP","Makki","no","WRHC",,"WRHC",,,,"Yugumia"
+607754,"WRHD","small_airport","Mbuwa Airstrip",-4.23834,138.465659,6810,"AS","ID","ID-PP","Mbuwa","no","WRHD",,"WRHD",,,,
 599471,"WRIQ","small_airport","Somanente Airstrip",-2.201166,138.86909,133,"AS","ID","ID-PA","Somanente","no",,,"WRIQ",,,,
 598454,"WRJG","small_airport","Ures Airstrip",-2.955556,139.621111,525,"AS","ID","ID-PA","Kaureh","no",,,"WRJG",,,,
 41477,"WRKJ","small_airport","Mena Airport",-9.183889389038086,124.58916473388672,320,"AS","ID","ID-NT","Mena-Timor Island","no",,,"WRKJ",,,,
@@ -81841,12 +81850,15 @@
 311283,"WRLJ","small_airport","Tanjung Bara Airport",0.5605,117.64435,48,"AS","ID","ID-KI","Sangata","no",,,"WALB",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Tanjung_Bara",
 41487,"WRLN","small_airport","Long Mawang Airport",1.7992,114.9043,1976,"AS","ID","ID-KU","Long Mawang-Borneo Island","no",,,"WALN",,,,"WRLN, Long Nawang"
 35278,"WRLP","small_airport","Long Apung Airport",1.706932,114.969934,2437,"AS","ID","ID-KU","Long Apung-Borneo Island","yes","WAQL","LPU","WAQL",,,"https://en.wikipedia.org/wiki/Long_Apung_Airport",
+607756,"WRLR","small_airport","Modio Airstrip",-4.066384,135.790291,4618,"AS","ID","ID-PT","Modio","no","WRLR",,"WRLR",,,,
 41488,"WRLU","small_airport","Sangkulirang Airport",1.00089,117.996002,34,"AS","ID","ID-KI","Sangkulirang-Borneo Island","no",,,"WALU",,,,"WRLU"
 598304,"WRLV","small_airport","Wapoga Airstrip",-3.040179,136.377255,3327,"AS","ID","ID-PA","Syewa Merare","no",,,"WRLV",,,,
 41489,"WRLW","small_airport","Muara Wahau Airport",1.193225,116.955886,205,"AS","ID","ID-KI","Miau Baru","no","WALW",,"WALW",,,,"WRLW"
 598461,"WRLX","small_airport","Tigi Airstrip",-4.025408,136.21185,5607,"AS","ID","ID-PT","Tigi Timur","no",,,"WRLX",,,,
 41490,"WRLY","heliport","Senipah Heliport",-0.975679,117.147701,38,"AS","ID","ID-KI","Senipah","no",,,"WALY",,,,"WRLY, WW98, SZH"
+607755,"WRMH","small_airport","Miaro Airstrip",-6.197837,139.008001,33,"AS","ID","ID-PS","Miaro","no","WRMH",,"WRMH",,,,
 598301,"WRNB","small_airport","Weri Airstrip",-3.289248,137.831717,320,"AS","ID","ID-PT","Weri","no",,,"WRNB",,,,
+607753,"WRRP","small_airport","Mayado Airstrip",-1.909542,133.157418,213,"AS","ID","ID-PB","Meyado","no","WRRP",,"WRRP",,,,
 340684,"WS-0001","closed","Lalomalava Airport",-14.031827,-171.435114,,"OC","WS","WS-FA","Lalomalava","no",,,,,,,"LAV, LAV"
 25895,"WS01","seaplane_base","Archie's Seaplane Base",42.73749923706055,-89.0708999633789,768,"NA","US","US-WI","Janesville","no",,,"WS01","WS01",,,
 25896,"WS02","small_airport","Polish Paradise Airport",43.74250030517578,-89.71600341796875,1030,"NA","US","US-WI","Oxford","no",,,"WS02","WS02",,,
