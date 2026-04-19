@@ -103,7 +103,7 @@
 6621,"01PN","small_airport","Bierly(Personal Use) Airport",40.930599212646484,-77.73889923095703,960,"NA","US","US-PA","Bellefonte","no",,,"01PN","01PN",,,
 6622,"01PS","small_airport","Nort's Resort Airport",41.59590148925781,-76.02960205078125,1040,"NA","US","US-PA","Meshoppen","no",,,"01PS","01PS",,,
 6623,"01SC","small_airport","York Airport",35.032100677490234,-81.25279998779297,779,"NA","US","US-SC","York","no",,,"01SC","01SC",,,
-6624,"01TA","heliport","Thirty Thirty Matlock Office Center Heliport",32.69419860839844,-97.11579895019531,630,"NA","US","US-TX","Arlington","no",,,"01TA","01TA",,,
+6624,"01TA","closed","Thirty Thirty Matlock Office Center Helistop",32.694867,-97.115964,630,"NA","US","US-TX","Arlington","no",,,,,,,"01TA"
 6625,"01TE","small_airport","Smith Field",32.737598,-96.428001,505,"NA","US","US-TX","Forney","no",,,"01TE","01TE",,,"02F"
 6626,"01TN","small_airport","Colonial Air Park",34.99589920043945,-89.73059844970703,370,"NA","US","US-TN","Collierville","no",,,"01TN","01TN",,,
 340858,"01TT","heliport","Clute Fire & EMS Station #1 Heliport",29.012067,-95.402119,7,"NA","US","US-TX","Clute","no",,,"01TT","01TT",,,
@@ -11092,6 +11092,7 @@
 594439,"AT-0090","closed","Markersdorf Airfield",48.18544,15.49419,840,"EU","AT","AT-3","Markersdorf-Haindorf","no",,,,,,,
 594440,"AT-0091","closed","Reichenau Airport",47.271238,11.421206,1886,"EU","AT","AT-7","Innsbruck","no",,,,,,,
 594443,"AT-0092","closed","Raffelding Airfield",48.29197,14.05555,869,"EU","AT","AT-4","Alkoven","no",,,,,,,
+607803,"AT-0093","small_airport","Spannberg Airstrip",48.45051,16.749122,682,"EU","AT","AT-3","Spannberg","no",,,,,,,"Flugplatz Spannberg, Flugplatz Österreich, Austrian Airfield, Grass Strip, Challenging"
 336953,"AT03","medium_airport","Concordia Skyway",-75.103278,123.35825,10725,"AN","AQ","AQ-U-A","Concordia Station","no",,,"AT03",,,"https://en.wikipedia.org/wiki/Concordia_Station",
 341265,"AT13","small_airport","Zucchelli Ice Runway",-74.68109,164.12756,,"AN","AQ","AQ-U-A","Zucchelli Station","no",,,"AT13",,,,
 330063,"AT25","small_airport","Showa Station Skiway",-69.006167,39.59,95,"AN","AQ","AQ-U-A","Showa Station","no",,,"AT25",,,"https://en.wikipedia.org/wiki/Showa_Station_(Antarctica)","Syowa Station"
@@ -30202,6 +30203,7 @@
 601163,"GR-0107","heliport","Nea Roda (Ierissos) landing spot",40.377698,23.924441,,"EU","GR","GR-B",,"no",,,,,,,"helipad, landing spot"
 601166,"GR-0108","heliport","Sani Resort Helicopter Landing Spot",40.100461,23.310443,,"EU","GR","GR-B",,"no",,,,,,,
 604508,"GR-0109","medium_airport","(*)Kasteli Hellenic Air Force Base",35.191341,25.326588,1180,"EU","GR","GR-M","Kasteli","no","LGTL",,,,,"https://en.wikipedia.org/wiki/Kasteli_Airport#History_as_an_Air_Force_Base",
+607799,"GR-0110","closed","Old Paros National Airport",37.010581,25.12879,,"EU","GR","GR-L",,"no",,,,,,"https://en.wikipedia.org/wiki/Old_Paros_National_Airport","LGPA, PAS"
 311387,"GRC","small_airport","Grand Cess Airport",4.571,-8.2076,28,"AF","LR","LR-GK","Grand Cess","no",,"GRC",,,,,
 342429,"GS-0001","heliport","Grytviken Emergency Helipad",-54.2824,-36.5095,27,"AN","GS","GS-U-A","Grytviken","no",,,,,,,
 42230,"GT-0001","small_airport","Chiquimula Airport",14.83092,-89.520938,1484,"NA","GT","GT-CQ","Chiquimula","no",,"CIQ","MGCQ",,,"https://en.wikipedia.org/wiki/Chiquimula_Airport",
@@ -31480,7 +31482,7 @@
 593378,"ID-0318","heliport","PT Bumi Suksesindo Heliport",-8.60175,114.03169,39,"AS","ID","ID-JI","Pesanggaran, Banyuwangi","no",,,,,,,
 26749,"ID-0319","closed","Selaparang Airport",-8.56056,116.095097,52,"AS","ID","ID-NB","Mataram","no",,,,,,"https://en.wikipedia.org/wiki/Selaparang_Airport","WRRA, Ampenan, WADA, AMI"
 26795,"ID-0320","closed","Jefman Airport",-0.926358,131.121002,10,"AS","ID","ID-PB","Jefman","no",,,,,,"https://en.wikipedia.org/wiki/Jefman_Airport","SOQ, WASS, Sorong"
-41376,"ID-0321","closed","Keisah Airport",-7.66667,140.5,81,"AS","ID","ID-PS","Keisah","no",,,,,,,"KEA, ID-KEA"
+41376,"ID-0321","closed","Keisah Airport",-7.70226,140.512932,54,"AS","ID","ID-PS","Keisah","no",,,,,,,"KEA"
 41384,"ID-0322","closed","Mangun Jaya Airport",-2.73333,103.567001,76,"AS","ID","ID-SS","Mangun Jaya","no",,,,,,,"MJY, MJY, ID-MJY"
 41387,"ID-0323","closed","Muting Airport",-7.3147,140.5668,70,"AS","ID","ID-PS","Muting","no",,,,,,,"WW21, MUF, ID-MUF"
 41399,"ID-0324","small_airport","Yuruf Airport [UNUSABLE]",-3.628919,140.953689,1844,"AS","ID","ID-PA","Amgotro","no",,"RUF","WAJE",,,,
@@ -33656,6 +33658,13 @@
 607757,"IT-0841","heliport","Elisuperficie Rifugio Walter Bonatti",45.847224,7.034061,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
 607759,"IT-0842","heliport","Elisuperficie St. Pierre",45.704965,7.219713,,"EU","IT","IT-U-A","St. Pierre","no",,,,,,,
 607761,"IT-0843","heliport","elisuperfice Pile",45.686216,7.310929,,"EU","IT","IT-23","Gressan","no",,,,,,,
+607809,"IT-0844","heliport","Eliporto centro addstramento alpino",45.735107,7.353201,,"EU","IT","IT-U-A","Aosta","no",,,,,,,
+607811,"IT-0845","heliport","Heliport Aosta",45.738938,7.367588,,"EU","IT","IT-23","Aosta","no",,,,,,,
+607813,"IT-0846","heliport","Helipad Ao",45.739507,7.367524,,"EU","IT","IT-U-A","Aosta","no",,,,,,,
+607815,"IT-0847","heliport","Helipad Ao 2",45.739544,7.367122,,"EU","IT","IT-23","Aosta","no",,,,,,,
+607817,"IT-0848","heliport","Helipad Ao 3",45.740929,7.38189,,"EU","IT","IT-23","Aosta","no",,,,,,,
+607819,"IT-0849","heliport","Helipad centrale idroelettrica Valpelline",45.825749,7.331346,,"EU","IT","IT-23","Valpellline","no",,,,,,,
+607821,"IT-0850","heliport","Rifugio Franco Chiarella Helipad",45.910466,7.304921,,"EU","IT","IT-23","Ollomont","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -70654,6 +70663,7 @@
 606221,"US-12932","heliport","Camp Pendleton HLZ",33.433608,-117.558764,,"NA","US","US-CA",,"no",,,,,,,
 606265,"US-12933","small_airport","Bright Hour Ranch Airport",27.19532,-81.928894,,"NA","US","US-FL",,"no",,,,,,,
 606267,"US-12934","small_airport","Bright Hour Ranch Airport",27.188308,-81.750104,,"NA","US","US-FL",,"no",,,,,,,
+607824,"US-12935","small_airport","HD Farm & Ranch Airport",30.849273,-98.202923,1408,"NA","US","US-TX","Burnet","no",,,"01TA","01TA",,,
 334358,"US-1294","small_airport","Curry Ridge Airport",32.723321,-113.938501,329,"NA","US","US-AZ","Tacna","no",,,"AZ60","AZ60",,,
 334361,"US-1295","closed","Keystone XL Whitewater Heliport",48.7575,-107.524167,2774,"NA","US","US-MT","Whitewater","no",,,,,,,"MT26"
 334362,"US-1296","small_airport","Wapshilla Airport",45.941616,-116.763597,1410,"NA","US","US-ID","Winchester","no",,,,"I45",,,"ID50"
@@ -70894,7 +70904,7 @@
 335939,"US-1531","small_airport","Stone Cabin Airstrip",39.77741,-110.31729,,"NA","US","US-UT","Sunnyside","no",,,,,,,
 335940,"US-1532","closed","Spiral Jetty Airstrip",41.457889,-112.686805,4240,"NA","US","US-UT","Corinne","no",,,,,,,
 335941,"US-1533","small_airport","Locomotive Springs Airstrip",41.707379,-112.919873,4225,"NA","US","US-UT","Snowville","no",,,"UT94","UT94","https://utahbackcountrypilots.org/airstrips/LOCOMOTIVESPRINGS",,
-335942,"US-1534","closed","Taylor Flat Airport",40.88985,-109.16491,5626,"NA","US","US-UT","Dutch John","no",,,,,,,
+335942,"US-1534","small_airport","Taylor Flat Airport",40.889829,-109.164435,5636,"NA","US","US-UT","Dutch John","no",,,"TF9","TF9",,,
 335943,"US-1535","heliport","McCamey County Hospital Helipad",31.115368,-102.211191,,"NA","US","US-TX","McCamey","no",,,,,,,
 335944,"US-1536","heliport","Rankin County Hospital Helipad",31.232642,-101.934521,,"NA","US","US-TX","Rankin","no",,,,,,,
 335945,"US-1537","closed","Power Line Lake Bed Airstrip",39.143026,-119.397767,,"NA","US","US-NV","Yerington","no",,,,,,,
