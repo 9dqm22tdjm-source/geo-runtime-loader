@@ -12908,6 +12908,7 @@
 598543,"BH-0021","closed","Bahrain International Karting Circuit Helipad",26.024461,50.506666,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598544,"BH-0022","closed","Bahrain International Circuit South Helipad",26.027766,50.511129,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598579,"BH-0023","heliport","Sheik Isa Air Base Helipad",25.946174,50.608078,,"AS","BH","BH-14","Al Dur","no",,,,,,,
+608059,"BH-0024","large_airport","dasbui",70,123,,"AS","BH","BH-16","hà nội","no",,,,,"https://dasbui.com/",,
 30705,"BHL","small_airport","Bahía de los Ángeles Airport",28.9786,-113.560997,34,"NA","MX","MX-BCN","Ensenada","no",,"BHL",,"BAX",,"https://en.wikipedia.org/wiki/Bah%C3%ADa_de_los_%C3%81ngeles_Airport",
 302410,"BHT","small_airport","Brighton Downs Airport",-23.363333,141.562778,390,"OC","AU","AU-QLD","Brighton Downs","no",,"BHT","YBTD",,,,
 318985,"BI-0001","small_airport","Ruyigi Airport",-3.471371,30.231485,5194,"AF","BI","BI-RY","Ruyigi","no",,,,,,,
@@ -21695,7 +21696,7 @@
 2074,"DAOV","medium_airport","Ghriss Airport",35.207699,0.147142,1686,"AF","DZ","DZ-29","Ghriss","no","DAOV","MUW","DAOV",,,"https://en.wikipedia.org/wiki/Ghriss_Airport",
 300333,"DAOY","small_airport","El Bayadh Airport",33.721667,1.0925,4493,"AF","DZ","DZ-32","El Bayadh","no","DAOY","EBH","DAOY",,,"https://en.wikipedia.org/wiki/El_Bayadh_Airport",
 31678,"DATG","small_airport","In Guezzam Airport",19.560518,5.749326,1312,"AF","DZ","DZ-58","In Guezzam","no","DATG","INF","DATG",,,"https://en.wikipedia.org/wiki/In_Guezzam_Airport",
-30777,"DATM","small_airport","Bordj Badji Mokhtar Airport",21.3778,0.92698,1303,"AF","DZ","DZ-52","Bordj Badji Mokhtar","yes","DATM","BMW","DATM",,,"https://en.wikipedia.org/wiki/Bordj_Mokhtar_Airport",
+30777,"DATM","medium_airport","Bordj Badji Mokhtar Airport",21.3778,0.92698,1303,"AF","DZ","DZ-52","Bordj Badji Mokhtar","yes","DATM","BMW","DATM",,,"https://en.wikipedia.org/wiki/Bordj_Mokhtar_Airport",
 2075,"DAUA","medium_airport","Touat-Cheikh Sidi Mohamed Belkebir Airport",27.837601,-0.186414,919,"AF","DZ","DZ-01","Adrar","yes","DAUA","AZR","DAUA",,,"https://en.wikipedia.org/wiki/Touat_Cheikh_Sidi_Mohamed_Belkebir_Airport","لكبير  مطار أدرار – توات الشيخ سيدي محمد بن"
 2076,"DAUB","large_airport","Biskra - Mohamed Khider Airport",34.79318,5.738899,289,"AF","DZ","DZ-07","Biskra","yes","DAUB","BSK","DAUB",,,"https://en.wikipedia.org/wiki/Biskra_Airport",
 2077,"DAUE","medium_airport","El Golea Airport",30.580732,2.861595,1306,"AF","DZ","DZ-50","El Menia","yes","DAUE","ELG","DAUE",,,"https://en.wikipedia.org/wiki/El_Golea_Airport",
@@ -30042,7 +30043,7 @@
 3106,"GMFM","medium_airport","Bassatine Airport",33.879101,-5.51512,1890,"AF","MA","MA-03","Meknes","no","GMFM","MEK","GMFM",,,"https://en.wikipedia.org/wiki/Bassatine_Air_Base",
 3107,"GMFO","large_airport","Oujda Angads Airport",34.789558,-1.926041,1535,"AF","MA","MA-02","Ahl Angad","yes","GMFO","OUD","GMFO",,,"https://en.wikipedia.org/wiki/Angads_Airport","Oujda Airfield"
 30474,"GMFZ","small_airport","Taza Airport",34.231887,-3.94701,1890,"AF","MA","MA-03","Taza","no","GMFZ",,"GMFZ",,,"https://en.wikipedia.org/wiki/Taza_Airport",
-3108,"GMMA","large_airport","Smara Airport",26.731987,-11.683655,350,"AF","EH","EH-U-A","Smara","no","GMMA","SMW","GMMA",,,"https://en.wikipedia.org/wiki/Smara_Airport","GSMA, Semara, Semara Airport"
+3108,"GMMA","medium_airport","Smara Airport",26.731987,-11.683655,350,"AF","EH","EH-U-A","Smara","yes","GMMA","SMW","GMMA",,,"https://en.wikipedia.org/wiki/Smara_Airport","GSMA, Semara, Semara Airport"
 31544,"GMMB","small_airport","Ben Slimane Airport",33.655399,-7.22145,627,"AF","MA","MA-06","Ben Slimane","no","GMMB","GMD","GMMB",,,"https://en.wikipedia.org/wiki/Ben_Slimane_Airport",
 29694,"GMMD","large_airport","Beni Mellal Airport",32.401895,-6.315905,1694,"AF","MA","MA-05","Oulad Yaich","yes","GMMD","BEM","GMMD",,"http://ww.onda.ma","https://en.wikipedia.org/wiki/Beni_Mellal_Airport",
 3109,"GMME","large_airport","Rabat-Salé Airport",34.051498,-6.75152,276,"AF","MA","MA-04","Rabat","yes","GMME","RBA","GMME",,"https://www.onda.ma/en/Our-Airports/Rabat-Sale-Airport","https://en.wikipedia.org/wiki/Sale_Airport",
@@ -32895,7 +32896,7 @@
 308700,"IT-0064","small_airport","Campo di volo Ploia",44.884167,8.780833,420,"EU","IT","IT-21","San Giuliano Vecchio (AL)","no",,,,"ALTOR",,,
 308701,"IT-0065","small_airport","Il Laghetto Airfield",44.777885,8.13034,450,"EU","IT","IT-21","Castagnole delle Lanze (AT)","no",,,,"ATCAL","http://www.trattorialaghetto.it/campo_volo.htm",,"Campo volo Il Laghetto"
 308702,"IT-0066","closed","Campo Volo Angela e Sara",45.163889,8.123333,427,"EU","IT","IT-21","Verrua Savoia (TO)","no",,,,,,,"TOVER, TOVER"
-308703,"IT-0067","small_airport","Altiporto Chamois",45.833793,7.618504,5600,"EU","IT","IT-23","Chamois (AO)","no",,,,"AOCHA",,,
+308703,"IT-0067","small_airport","Chamois Altiport",45.833502,7.617651,5600,"EU","IT","IT-23","Chamois (AO)","no",,,,"AOCHA","https://lovechamois.it/en/motivo/the-first-altiport/",,"AO02"
 308704,"IT-0068","small_airport","Chatelair Airfield",45.74,7.480556,1500,"EU","IT","IT-23","Nus (AO)","no",,,,"AONUS","http://www.aeroclubcorradogex.com/",,"AO03, Aeroclub Corrado Gex, Campo di Volo Chatelair"
 308705,"IT-0069","small_airport","Airfield ASD Carisio Gliding Club",45.446617,8.191496,150,"EU","IT","IT-21","Carisio (VC)","no",,,,"VCCAR","http://www.flyclubvoyager.it/",,"Campo Volo Falchi della Baraggia, Carisio Gliding Club"
 308706,"IT-0070","closed","Malabaila Airfield",44.678889,7.818611,935,"EU","IT","IT-21","Cherasco (CN)","no",,,,,,,"Campo di Volo Malabaila, CNCHE"
@@ -33684,10 +33685,13 @@
 607906,"IT-0856","heliport","Elisuperficie del Parc Hotel Billia",45.754188,7.639945,,"EU","IT","IT-23","Saint-Vincent","no",,,,,,,
 607908,"IT-0857","heliport","Elisuperficie Echallod",45.6399,7.708942,,"EU","IT","IT-23","Armad","no",,,,,,,
 607911,"IT-0858","heliport","Elisuperfice Bocchetta di Eclou",45.777955,7.795722,,"EU","IT","IT-U-A","Saint-Jean","no",,,,,,,
-607913,"IT-0859","heliport","Elisuperficie di Champoluc",45.839855,7.730293,,"EU","IT","IT-23","Ayas","no",,,,,,,
+607913,"IT-0859","heliport","Champoluc Heliport",45.839857,7.730419,,"EU","IT","IT-23","Ayas (AO)","no",,,,,,,
 608032,"IT-0860","heliport","Elisuperficie Rifugio 3A",46.423992,8.335034,,"EU","IT","IT-21","Comune di Formazza","no",,,,,,,
 608034,"IT-0861","heliport","Elisuperficie di Bognanco",46.126605,8.195238,,"EU","IT","IT-21","Comune di Bognanco","no",,,,,,,
 608036,"IT-0862","heliport","Elisuperficie di Monteossolano",46.126522,8.237026,,"EU","IT","IT-21","Comune di Domodossola","no",,,,,,,
+608049,"IT-0863","heliport","Eliporto Rotor Italia",46.134884,8.310948,,"EU","IT","IT-21","Comune di Masera","no",,,,,,,
+608051,"IT-0864","heliport","Eliporto Eliossola",46.122169,8.298696,,"EU","IT","IT-21","Comune di Domodossola","no",,,,,,,
+608053,"IT-0865","heliport","Eliporto Alpe Cheggio",46.085071,8.115469,,"EU","IT","IT-21","Comune di Antrona Schieranco","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -44003,16 +44007,16 @@
 29442,"LIRH","small_airport","Frosinone Air Base",41.648537,13.294573,,"EU","IT","IT-62","Frosinone","no","LIRH",,"LIRH","FR04",,"https://it.wikipedia.org/wiki/Aeroporto_di_Frosinone","QFR"
 4374,"LIRI","medium_airport","Salerno Costa d'Amalfi Airport",40.620399,14.9113,123,"EU","IT","IT-72","Salerno","yes","LIRI","QSR","LIRI","SA02","http://www.aeroportosalerno.it/","https://en.wikipedia.org/wiki/Salerno_Costa_d%27Amalfi_Airport","Mario Martucci Airport, Aeroporto di Salerno Costa d'Amalfi, Salerno-Pontecagnano Airport"
 4375,"LIRJ","medium_airport","Marina di Campo Airport",42.760871,10.239811,31,"EU","IT","IT-52","Campo nell'Elba (LI)","yes","LIRJ","EBA","LIRJ","LI04",,"https://en.wikipedia.org/wiki/Marina_di_Campo_Airport","Elba"
-4376,"LIRL","medium_airport","Latina Air Base",41.5424,12.909,94,"EU","IT","IT-62","Latina","no",,,"LIRL","LT02",,"https://it.wikipedia.org/wiki/Aeroporto_di_Latina","E Comani"
-4377,"LIRM","medium_airport","Grazzanise Air Base",41.060799,14.0819,29,"EU","IT","IT-72","Caserta","no",,,"LIRM","CE07",,"http://it.wikipedia.org/wiki/Aeroporto_di_Caserta-Grazzanise","C Romagnoli"
+4376,"LIRL","medium_airport","Latina Air Base",41.5424,12.909,94,"EU","IT","IT-62","Latina","no","LIRL",,"LIRL","LT02",,"https://it.wikipedia.org/wiki/Aeroporto_di_Latina","QLT, E Comani"
+4377,"LIRM","medium_airport","Grazzanise Air Base",41.060799,14.0819,29,"EU","IT","IT-72","Caserta","no","LIRM",,"LIRM","CE07",,"http://it.wikipedia.org/wiki/Aeroporto_di_Caserta-Grazzanise","C Romagnoli"
 4378,"LIRN","large_airport","Naples International Airport",40.886002,14.2908,294,"EU","IT","IT-72","Napoli","yes","LIRN","NAP","LIRN","NA01","http://www.portal.gesac.it/","https://en.wikipedia.org/wiki/Naples_International_Airport","Capodichino Airport, Aeroporto Internazionale di Napoli-Capodichino Ugo Niutta, Ariopuorto 'nternazziunale 'e Napule-Capodichino Ugo Niutta"
 4379,"LIRP","large_airport","Pisa International Airport",43.683899,10.3927,6,"EU","IT","IT-52","Pisa (PI)","yes","LIRP","PSA","LIRP","PI05","http://www.pisa-airport.com/","https://en.wikipedia.org/wiki/Pisa_International_Airport","Galileo Galilei Airport, San Giusto Airport"
 4380,"LIRQ","large_airport","Florence Airport, Peretola",43.808558,11.202822,142,"EU","IT","IT-52","Firenze (FI)","yes","LIRQ","FLR","LIRQ","FI04","http://www.aeroporto.firenze.it/","https://en.wikipedia.org/wiki/Florence_Airport","Firenze, Amerigo Vespucci Airport, Aeroporto di Firenze-Peretola"
 4381,"LIRS","medium_airport","Grosseto Corrado Baccarini Air Base / Grosseto Airport",42.759701,11.0719,17,"EU","IT","IT-52","Grosseto (GR)","no","LIRS","GRS","LIRS","GR06",,"https://en.wikipedia.org/wiki/Grosseto_Airport","C Baccarini"
-4382,"LIRU","medium_airport","Rome Urbe Airport",41.952096,12.502231,55,"EU","IT","IT-62","Rome","no",,,"LIRU","RM10",,"https://en.wikipedia.org/wiki/Rome_Urbe_Airport","ROM"
-4383,"LIRV","medium_airport","Viterbo Airport",42.430199,12.0642,992,"EU","IT","IT-62","Viterbo","no",,,"LIRV","VT03",,"https://en.wikipedia.org/wiki/Rome_Viterbo_Airport","T Fabri"
+4382,"LIRU","medium_airport","Rome Urbe Airport",41.952096,12.502231,55,"EU","IT","IT-62","Rome","no","LIRU",,"LIRU","RM10",,"https://en.wikipedia.org/wiki/Rome_Urbe_Airport","ROM"
+4383,"LIRV","medium_airport","Viterbo Airport",42.435297,12.061362,992,"EU","IT","IT-62","Viterbo","no","LIRV",,"LIRV","VT03",,"https://en.wikipedia.org/wiki/Rome_Viterbo_Airport","T Fabri"
 4384,"LIRZ","large_airport","Perugia San Francesco d'Assisi – Umbria International Airport",43.095901,12.5132,697,"EU","IT","IT-55","Perugia (PG)","yes","LIRZ","PEG","LIRZ","PG10","http://www.airport.umbria.it/","https://en.wikipedia.org/wiki/Perugia_San_Francesco_d%27Assisi_%E2%80%93_Umbria_International_Airport","Perugia San Francesco d'Assisi, Perugia Sant'Egidio Airport, Umbria International Airport"
-309714,"LIVD","small_airport","Dobbiaco-Toblach Airstrip",46.727021,12.230723,4068,"EU","IT","IT-32","Toblach (Dobbiaco) (BZ)","no",,,"LIVD","BZ04","http://www.aeroclubdobbiaco.it/","http://it.wikipedia.org/wiki/Aeroporto_di_Dobbiaco",
+309714,"LIVD","small_airport","Dobbiaco-Toblach Airstrip",46.727021,12.230723,4068,"EU","IT","IT-32","Toblach (Dobbiaco) (BZ)","no","LIVD",,"LIVD","BZ04","http://www.aeroclubdobbiaco.it/","http://it.wikipedia.org/wiki/Aeroporto_di_Dobbiaco",
 308672,"LIVV","small_airport","Moncucco Airfield",45.344613,7.919072,781,"EU","IT","IT-21","Cascina Moncucco (TO)","no","LIVV",,"LIVV","TO03","http://www.flyclubbaronerosso.it/",,"Aviosuperficie Moncucco"
 29648,"LJAJ","small_airport","Ajdovščina Airfield",45.889198,13.8869,381,"EU","SI","SI-001","Ajdovščina","no",,,"LJAJ",,"http://www.aeroklub-jk-ajdovscina.si/","https://en.wikipedia.org/wiki/Ajdov%C5%A1%C4%8Dina_Airport",
 30071,"LJBL","small_airport","Lesce Airfield",46.357201,14.1739,1654,"EU","SI","SI-102","Lesce","no",,,"LJBL",,"http://www.alc-lesce.si/","https://en.wikipedia.org/wiki/Lesce-Bled_Airport",
@@ -52635,7 +52639,7 @@
 5431,"PGSN","medium_airport","Saipan International Airport",15.119384,145.728848,215,"OC","MP","MP-U-A","I Fadang, Saipan","yes","PGSN","SPN","PGSN","GSN",,"https://en.wikipedia.org/wiki/Saipan_International_Airport","Francisco C. Ada"
 5432,"PGUA","medium_airport","Andersen Air Force Base",13.584,144.929998,627,"OC","GU","GU-U-A","Yigo","no","PGUA","UAM","PGUA","UAM","http://www.andersen.af.mil/","https://en.wikipedia.org/wiki/Andersen_Air_Force_Base",
 5433,"PGUM","large_airport","Antonio B. Won Pat International Airport",13.485,144.797282,298,"OC","GU","GU-U-A","Hagåtña","yes","PGUM","GUM","PGUM","GUM","http://www.guamairport.com/","https://en.wikipedia.org/wiki/Antonio_B._Won_Pat_International_Airport","NGM, NAS Agana"
-5434,"PGWT","large_airport","Tinian International Airport",15.000453,145.618974,271,"OC","MP","MP-U-A","Tinian Island","yes","PGWT","TIQ","PGWT","TNI",,"https://en.wikipedia.org/wiki/Tinian_International_Airport",
+5434,"PGWT","medium_airport","Francisco Manglona Borja / Tinian International Airport",14.999207,145.619355,271,"OC","MP","MP-U-A","Tinian Island","yes","PGWT","TIQ","PGWT","TNI",,"https://en.wikipedia.org/wiki/Tinian_International_Airport",
 308652,"PH-0002","small_airport","San Antonio Airport",12.417,124.2742,3,"AS","PH","PH-NSA","San Antonio","no",,,,,,"https://en.wikipedia.org/wiki/San_Antonio_Airport_(Philippines)","Dalupiri, Dalupiri Island National, Luparan han San Antonio, Paliparan ng San Antonio, Tugpahanan sa San Antonio"
 308653,"PH-0003","small_airport","Azagra Airstrip",12.2799,122.6246,10,"AS","PH","PH-ROM","San Fernando","no",,,,,,,
 309719,"PH-0004","small_airport","Wao Airport",7.63652,124.73388,,"AS","PH","PH-LAS","Wao","no",,,,,,,"Landing a Wao"
@@ -64553,7 +64557,7 @@
 24791,"TA84","small_airport","Miller Ranch Airport",28.354999542236328,-99.93319702148438,750,"NA","US","US-TX","Carrizo Springs","no",,,"TA84","TA84",,,
 24793,"TA86","small_airport","Dennis's Flying Farm Airport",32.60599899291992,-95.93499755859375,500,"NA","US","US-TX","Canton","no",,,"TA86","TA86",,,
 24794,"TA87","small_airport","Carter-Norman Airport",33.105599,-97.545258,737,"NA","US","US-TX","Boyd","no",,,"TA87","TA87",,,
-24795,"TA88","heliport","Premier Aviation Inc Heliport",32.70009994506836,-97.05030059814453,590,"NA","US","US-TX","Grand Prairie","no",,,"TA88","TA88",,,
+24795,"TA88","closed","Premier Aviation Inc Heliport",32.700127,-97.050562,590,"NA","US","US-TX","Grand Prairie","no",,,,,,,"TA88"
 24796,"TA89","small_airport","Vaughan Ranch Airport",31.523799896240234,-98.80030059814453,1310,"NA","US","US-TX","Mullin","no",,,"TA89","TA89",,,
 24798,"TA91","heliport","Childress Regional Medical Center Heliport",34.444400787353516,-100.21800231933594,1952,"NA","US","US-TX","Childress","no",,,"TA91","TA91",,,
 24800,"TA93","small_airport","LM Ranch Airport",33.631166,-96.733812,770,"NA","US","US-TX","Sherman","no",,,"TA93","TA93",,,
@@ -65270,6 +65274,7 @@
 25029,"TS12","heliport","Cig 809 Heliport",28.982500076293945,-96.02880096435547,53,"NA","US","US-TX","Bay City","no",,,"TS12","TS12",,,
 25031,"TS14","small_airport","Smith Flying Service Airport",32.108699798583984,-98.48799896240234,1275,"NA","US","US-TX","De Leon","no",,,"TS14","TS14",,,
 25032,"TS15","small_airport","Cibolo Creek Ranch Airport",29.893564,-104.261207,4400,"NA","US","US-TX","Marfa","no",,,"TS15","TS15",,,
+608045,"TS16","heliport","Christus Health Mount Pleasant Heliport",33.169722,-95.003889,390,"NA","US","US-TX","Mount Pleasant","no",,,"TS16","TS16",,,
 25034,"TS17","heliport","First Bank Plaza Garage Heliport",29.734174,-95.500342,105,"NA","US","US-TX","Houston","no",,,"TS17","TS17",,,
 25035,"TS18","small_airport","Kingsland Estates Airport",30.654956,-98.484928,873,"NA","US","US-TX","Kingsland","no",,,"TS18","TS18",,,
 45842,"TS21","small_airport","Roy Ranch Airport",33.084833,-101.114833,2366,"NA","US","US-TX","Justiceburg","no",,,"TS21","TS21",,,
@@ -70722,6 +70727,7 @@
 608010,"US-12951","small_airport","Dawsons Landing Airport",45.991007,-108.17139,2941,"NA","US","US-MT","Worden","no",,,"MT85","MT85",,,
 608015,"US-12952","heliport","Northern Montana Hospital Heliport",48.537905,-109.68428,2588,"NA","US","US-MT","Havre","no",,,"MT87","MT87",,,
 608026,"US-12953","heliport","Grady South Fulton Emergency Center Heliport",33.608368,-84.608311,900,"NA","US","US-U-A","Union City","no",,,"8GA0","8GA0",,,
+608043,"US-12954","small_airport","Borich Sky Ranch Airport",30.440319,-97.358431,594,"NA","US","US-TX","Coupland","no",,,"TA88","TA88",,,
 334362,"US-1296","small_airport","Wapshilla Airport",45.941616,-116.763597,1410,"NA","US","US-ID","Winchester","no",,,,"I45",,,"ID50"
 334365,"US-1297","closed","Army Reserve Parking Lot Heliport",43.305528,-91.791265,859,"NA","US","US-IA","Decorah","no",,,,,,,"1IA1"
 334368,"US-1298","closed","PAF Cannery Airport",58.725948,-156.950868,60,"NA","US","US-AK","South Naknek","no",,,,,,,"AK35, 3AK"
@@ -76161,7 +76167,7 @@
 353617,"US-6727","small_airport","Forest Moon Ranch Airport",38.374293,-115.170057,5233,"NA","US","US-NV","Hiko","no",,,,,,,"Hot Creek Butte"
 353618,"US-6728","closed","Butterfield Springs Airport",38.444875,-115.012313,5310,"NA","US","US-NV","Lund","no",,,,,,,
 353619,"US-6729","closed","Holt Camp Creek Airport",39.13398,-115.04551,6434,"NA","US","US-NV","Ely","no",,,,,,,
-353620,"US-6730","small_airport","Moorman Ranch Airport",39.3668,-115.3139,6481,"NA","US","US-NV","Ely","no",,,,,,,
+353620,"US-6730","closed","Moorman Ranch Airport",39.3668,-115.3139,6481,"NA","US","US-NV","Ely","no",,,,,,,
 353621,"US-6731","closed","Moorman Ranch East Airport",39.35243,-115.3017,6500,"NA","US","US-NV","Ely","no",,,,,,,
 353678,"US-6732","closed","Brown Ranch Airport",29.30368,-99.44243,920,"NA","US","US-TX","Sabinal","no",,,,,,,"Sabinal East"
 353679,"US-6733","small_airport","McQuown Ranch Ultralightport",29.47239,-99.70361,1210,"NA","US","US-TX","Sabinal","no",,,,,,,"Howard Ranch"
