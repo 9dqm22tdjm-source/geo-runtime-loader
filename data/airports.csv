@@ -8556,7 +8556,7 @@
 15200,"8TS1","small_airport","Retta Airport",32.54180145263672,-97.24199676513672,700,"NA","US","US-TX","Burleson","no",,,"8TS1","8TS1",,,
 15201,"8TS2","small_airport","Henrietta Airport",33.78340148925781,-98.21700286865234,932,"NA","US","US-TX","Henrietta","no",,,"8TS2","8TS2",,,
 15202,"8TS3","small_airport","Bruner Airport",31.390199661254883,-95.47329711914062,387,"NA","US","US-TX","Latexo","no",,,"8TS3","8TS3",,,
-15203,"8TS4","heliport","Memorial City General Hospital Heliport",29.780707,-95.545169,88,"NA","US","US-TX","Houston","no",,,"8TS4","8TS4",,,
+15203,"8TS4","heliport","Memorial City General Hospital Heliport",29.780707,-95.545169,88,"NA","US","US-TX","Houston","no",,,"8TS4","8TS4",,,"XA82, Hermann Meml City Med Cntr"
 15205,"8TS6","small_airport","Moore Airport",32.533199310302734,-96.32250213623047,418,"NA","US","US-TX","Kaufman","no",,,"8TS6","8TS6",,,
 15206,"8TS7","small_airport","Wyatt 3-Rivers Airport",32.2449,-97.726097,615,"NA","US","US-TX","Glen Rose","no",,,"8TS7","8TS7",,,
 15207,"8TS8","small_airport","RNK Ranch Airport",29.9174,-100.913002,1945,"NA","US","US-TX","Del Rio","no",,,"8TS8","8TS8",,,
@@ -12908,7 +12908,6 @@
 598543,"BH-0021","closed","Bahrain International Karting Circuit Helipad",26.024461,50.506666,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598544,"BH-0022","closed","Bahrain International Circuit South Helipad",26.027766,50.511129,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598579,"BH-0023","heliport","Sheik Isa Air Base Helipad",25.946174,50.608078,,"AS","BH","BH-14","Al Dur","no",,,,,,,
-608059,"BH-0024","large_airport","dasbui",70,123,,"AS","BH","BH-16","hà nội","no",,,,,"https://dasbui.com/",,
 30705,"BHL","small_airport","Bahía de los Ángeles Airport",28.9786,-113.560997,34,"NA","MX","MX-BCN","Ensenada","no",,"BHL",,"BAX",,"https://en.wikipedia.org/wiki/Bah%C3%ADa_de_los_%C3%81ngeles_Airport",
 302410,"BHT","small_airport","Brighton Downs Airport",-23.363333,141.562778,390,"OC","AU","AU-QLD","Brighton Downs","no",,"BHT","YBTD",,,,
 318985,"BI-0001","small_airport","Ruyigi Airport",-3.471371,30.231485,5194,"AF","BI","BI-RY","Ruyigi","no",,,,,,,
@@ -19109,7 +19108,7 @@
 348450,"CL-0009","closed","Campo Cerro Manantiales Airport",-52.54046,-69.3702,60,"SA","CL","CL-MA","Primavera","no",,,,,,,
 348520,"CL-0010","small_airport","Mónaco Airport",-34.263583,-71.96753,475,"SA","CL","CL-LI","Pichilemu","no",,,"SCMN",,,"https://en.wikipedia.org/wiki/Mónaco_Aerodrome",
 348522,"CL-0011","closed","Marimenuco Airfield",-38.7391,-71.2018,3717,"SA","CL","CL-AT","Lonquimay","no",,,,,,"https://en.wikipedia.org/wiki/Marimenuco_Airfield","SCNU"
-348523,"CL-0012","small_airport","Achibueno Airport",-36.141999,-71.374,1673,"SA","CL","CL-ML","Linares","no",,,"SCAV",,,"https://en.wikipedia.org/wiki/Achibueno_Airport",
+348523,"CL-0012","small_airport","Achibueno Airport",-36.141999,-71.374,1673,"SA","CL","CL-ML","Linares","no","SCAV",,"SCAV",,,"https://en.wikipedia.org/wiki/Achibueno_Airport",
 348526,"CL-0013","small_airport","Catapilco Airport",-32.563805,-71.287698,309,"SA","CL","CL-VS","Zapallar","no",,,"SCCP",,,,
 348540,"CL-0014","small_airport","Domeyko Airfield",-28.96787,-70.922703,2403,"SA","CL","CL-AT","Domeyko","no",,,,,,"https://en.wikipedia.org/wiki/Domeyko_Airfield","SCDK"
 348831,"CL-0016","heliport","Edificio Torre Nueva Santa María Helipad",-33.422742,-70.621952,2400,"SA","CL","CL-RM","Santiago","no",,,,"ETNSM",,,
@@ -19140,6 +19139,7 @@
 605504,"CL-0042","heliport","Santa Laura Heliport",-32.990378,-71.217944,440,"SA","CL","CL-VS","Olmué","no","SHOL",,"SHOL",,,,
 605530,"CL-0043","heliport","Quillota-Petorca Biprovincial Hospital Helistop",-32.901881,-71.252916,456,"SA","CL","CL-VS","Quillota","no","SHBI",,"SHBI",,,,
 605667,"CL-0044","heliport","Helipuerto Hospital Militar de Santiago",-33.451289,-70.53684,,"SA","CL","CL-U-A","La Reina","no",,,,,,,
+608077,"CL-0045","small_airport","Grupo Tamarena Airport",-33.716163,-70.973665,875,"SA","CL","CL-RM","Talagante","no","SCAD",,"SCAD",,,,
 1641,"CL-SC49","small_airport","Oficina Victoria Airport",-20.734699249267578,-69.62570190429688,3280,"SA","CL","CL-TA","Oficina Victoria","no",,,"SC49",,,,
 16719,"CL00","heliport","USC University Hospital Heliport",34.061623,-118.201585,476,"NA","US","US-CA","Los Angeles","no",,,"CL00","CL00",,,
 16720,"CL01","small_airport","Eagle Field",36.899899,-120.667999,153,"NA","US","US-CA","Dos Palos","no",,,"CL01","CL01",,"https://en.wikipedia.org/wiki/Eagle_Field_(airport)",
@@ -21563,6 +21563,7 @@
 599398,"CZ-0285","small_airport","Rabi Airfield",49.275146,13.627812,1480,"EU","CZ","CZ-PL","Rabi","no",,,,"LKRABI",,,
 601186,"CZ-0286","small_airport","Jilmovi Ultralight Strip",49.3983,16.32169,,"EU","CZ","CZ-JM",,"no",,,,,,,
 604047,"CZ-0287","closed","Zábřeh Airfield",49.900235,16.900061,928,"EU","CZ","CZ-OL","Zábřeh","no",,,,,,,
+608082,"CZ-0288","small_airport","Bošovice Airstrip",49.060506,16.843395,,"EU","CZ","CZ-JM",,"no",,,,,,,
 2005,"CZAC","small_airport","York Landing Airport",56.089401,-96.089203,621,"NA","CA","CA-MB","York Landing","no","CZAC","ZAC","CZAC",,,"https://en.wikipedia.org/wiki/York_Landing_Airport",
 2006,"CZAM","medium_airport","Shuswap Regional Airport",50.682802,-119.228996,1751,"NA","CA","CA-BC","Salmon Arm","no","CZAM","YSN","CZAM",,"http://www.salmonarm.ca/index.aspx?nid=228","https://en.wikipedia.org/wiki/Salmon_Arm_Airport","AM4, Shuswap Regional Airport, Salmon Arm Airport"
 2007,"CZBA","small_airport","Burlington Executive Airpark",43.441453,-79.850103,602,"NA","CA","CA-ON","Burlington","no","CZBA",,"CZBA",,"http://www.burlingtonairpark.com/","https://en.wikipedia.org/wiki/Burlington_Executive_Aerodrome","ZBA"
@@ -27840,6 +27841,7 @@
 605977,"FR-1326","small_airport","Champseru Airfield",48.50128,1.67677,472,"EU","FR","FR-CVL","Champseru","no",,,,,,,
 606630,"FR-1327","heliport","DZ Machézal",45.922722,4.305139,,"EU","FR","FR-ARA","Machézal","no",,,,,,,
 607963,"FR-1328","small_airport","(Duplicate)Altiport de la Serre d'Aulon",42.83611,0.27222,,"EU","FR","FR-OCC",,"no",,,,"LF6525",,,
+608076,"FR-1329","heliport","La Herliere DZ",50.205785,2.561609,,"EU","FR","FR-HDF","La Herliere","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -29856,6 +29858,7 @@
 604830,"GB-1350","small_airport","Old Meldrum",57.39204,-2.385107,,"EU","GB","GB-SCT",,"no",,,,,,,
 605698,"GB-1351","closed","Sunderland Airport",54.911742,-1.472938,121,"EU","GB","GB-ENG","Sunderland","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Usworth","Sunderland, Usworth"
 606862,"GB-1352","closed","de Havilland factory airfield",51.765196,-0.237158,254,"EU","GB","GB-ENG","Hatfield","no",,,,,,,
+608086,"GB-1353","small_airport","Hillgate Farm Airstrip",52.667378,-0.031328,,"EU","GB","GB-ENG","Peterborough","no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121725,-2.053202,150,"EU","GB","GB-SCT","Foula","yes",,"FOA",,,,"https://en.wikipedia.org/wiki/Foula_Airfield","EGFO, EG42"
@@ -30853,6 +30856,7 @@
 600207,"HR-0040","small_airport","Badljevina Airstrip",45.50546,17.17799,,"EU","HR","HR-07",,"no",,,,,,,
 600215,"HR-0041","heliport","Našice Barracks Heliport",45.484955,18.075061,415,"EU","HR","HR-14","Našice","no",,,,,,,
 600232,"HR-0042","heliport","Split Naval Heliport",43.523491,16.422211,5,"EU","HR","HR-17","Split","no",,,,,,,
+608084,"HR-0043","closed","Topolje Agro Airstrip",45.64906,16.36121,,"EU","HR","HR-01",,"no",,,,,,,
 313249,"HRC","small_airport","Sary Su Airport",48.3974,70.1915,1307,"AS","KZ","KZ-ULY","Zhayrem","no",,"HRC",,,,,"Zhairem, Жайрем"
 313252,"HRN","heliport","Heron Island Helipad",-23.441765,151.911416,8,"OC","AU","AU-QLD","Heron Island","no",,,"YHRN","YHRN",,,"HRN"
 3236,"HRYG","medium_airport","Gisenyi Airport",-1.6772,29.2589,5082,"AF","RW","RW-04","Gisenyi","no","HRYG","GYI","HRYG",,,"https://en.wikipedia.org/wiki/Gisenyi_Airport",
@@ -32980,7 +32984,7 @@
 316436,"IT-0149","small_airport","Le Tartarughe Volanti Airfield",45.609722,9.486667,646,"EU","IT","IT-25","Trezzo d'Adda (MI)","no",,,,"MITRE",,,"Campo di Volo ""Le Tartarughe Volanti"""
 316612,"IT-0150","small_airport","Francesco Baracca Airfield",45.842203,12.193594,269,"EU","IT","IT-34","Nervesa della Battaglia","no",,,,"TVNER",,,"Jonathan, Baracca, F. Baracca, Aviosuperficie F. Baracca"
 316747,"IT-0151","small_airport","Bibione Airfield",45.669654,13.039451,1,"EU","IT","IT-34","San Michele al Tagliamento (VE)","no",,,,,,,"Pegasus Flying Club Lignano"
-316750,"IT-0152","small_airport","Aviosuperficie Olivola",41.17751,14.74734,,"EU","IT","IT-72","Benevento (BN)","no",,,"LIRO","BNBEN","http://www.aeroclubbenevento.it","https://it.wikipedia.org/wiki/Aeroporto_di_Benevento-Olivola","Gen. Nicola COLLARILE"
+316750,"IT-0152","small_airport","Benevento-Olivola Airport",41.17751,14.74734,678,"EU","IT","IT-72","Benevento (BN)","no","LIRO",,"LIRO","BNBEN","http://www.aeroclubbenevento.it","https://it.wikipedia.org/wiki/Aeroporto_di_Benevento-Olivola","Gen. Nicola Collarile"
 316751,"IT-0153","small_airport","Volturno Fly Aviosuperficie",41.1575,14.3669444,63,"EU","IT","IT-72","Limatolo","no",,,,,"http://www.volturnofly.it",,
 316752,"IT-0154","small_airport","Alituscia Airfield",42.226894,12.119422,1270,"EU","IT","IT-62","Vejano (VT)","no",,,,"VTVEJ","http://www.alituscia.it",,"VT13, Aviosuperficie Alituscia"
 316753,"IT-0155","small_airport","Acquasparta Airfield",42.684167,12.552778,,"EU","IT","IT-55","Acquasparta (TR)","no",,,,,,,"Campo di Volo Acquasparta"
@@ -33201,7 +33205,7 @@
 319917,"IT-0370","small_airport","Pica Airfield",42.696389,13.916985,246,"EU","IT","IT-65","Notaresco (TE)","no",,,,"TENOT",,,"TE01, Aviosuperficie Pica, Campo di Volo Pica"
 319924,"IT-0371","small_airport","Ca' Quinta di Sarego Airfield",45.432833,11.383333,114,"EU","IT","IT-34","Sarego (VI)","no",,,,"VISAR",,,"Campo di Volo Ca' Quinta di Sarego"
 319926,"IT-0372","small_airport","San Mauro Airfield",46.068333,13.366883,351,"EU","IT","IT-36","Premariacco (UD)","no",,,,"UDPRE",,,"Aviosuperficie ""San Mauro"""
-319952,"IT-0373","small_airport","Serristori Airfield",43.332567,11.857861,859,"EU","IT","IT-52","Castiglion Fiorentino (AR)","no",,,"LIQQ","AR04","http://www.centroserristori.it","https://it.wikipedia.org/wiki/Aviosuperficie_Serristori","Serristori, Centro di volo Serristori, Aviosuperficie Serristori"
+319952,"IT-0373","small_airport","Serristori Airfield",43.332567,11.857861,859,"EU","IT","IT-52","Castiglion Fiorentino (AR)","no","LIQQ",,"LIQQ","AR04","http://www.centroserristori.it","https://it.wikipedia.org/wiki/Aviosuperficie_Serristori","Serristori, Centro di volo Serristori, Aviosuperficie Serristori"
 319954,"IT-0374","small_airport","Asolo Flight Airfield",45.758333,11.896111,252,"EU","IT","IT-34","Asolo (TV)","no",,,,"TVASO",,,"Campo di Volo ""Asolo Flight"""
 319956,"IT-0375","small_airport","San Marco Volo Airfield",45.771043,11.996559,348,"EU","IT","IT-34","Caerano San Marco (TV)","no",,,,"TVCAE","https://www.qnhfly.com/en/airfield/272/aviosuperficie-san-marco-volo",,"TV05, Campo di Volo ""San Marco Volo"""
 319958,"IT-0376","small_airport","Montebelluna Airfield",45.748181,12.057152,275,"EU","IT","IT-34","Montebelluna (TV)","no",,,,"TVMBL",,,"Aviosuperficie Montebelluna"
@@ -33692,6 +33696,9 @@
 608049,"IT-0863","heliport","Eliporto Rotor Italia",46.134884,8.310948,,"EU","IT","IT-21","Comune di Masera","no",,,,,,,
 608051,"IT-0864","heliport","Eliporto Eliossola",46.122169,8.298696,,"EU","IT","IT-21","Comune di Domodossola","no",,,,,,,
 608053,"IT-0865","heliport","Eliporto Alpe Cheggio",46.085071,8.115469,,"EU","IT","IT-21","Comune di Antrona Schieranco","no",,,,,,,
+608067,"IT-0866","heliport","Elisuperficie Corpo Nazionale Soccorso Alpiino",46.071392,8.268548,,"EU","IT","IT-21","Villadossola","no",,,,,,,
+608069,"IT-0867","heliport","Elisuperficie Gurro",46.084774,8.554809,,"EU","IT","IT-21","Comune di Gurro","no",,,,,,,
+608071,"IT-0868","heliport","Elisuperficie di Spoccia",46.090224,8.602456,,"EU","IT","IT-21","Comune di Cavaglio-Spoccia","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -43981,29 +43988,30 @@
 4355,"LIPH","large_airport","Treviso Airport",45.648399,12.1944,59,"EU","IT","IT-34","Treviso (TV)","yes","LIPH","TSF","LIPH","TV01","http://www.trevisoairport.it","https://en.wikipedia.org/wiki/Treviso_Airport","Venice-Treviso, Treviso-Sant'Angelo, Treviso Antonio Canova Airport"
 4356,"LIPI","medium_airport","Udine-Rivolto Air Base",45.978699,13.0493,179,"EU","IT","IT-36","Codroipo (UD)","no","LIPI",,"LIPI","UD16",,"http://it.wikipedia.org/wiki/Aeroporto_di_Rivolto","M Visentini"
 4357,"LIPK","medium_airport","Forlì-Luigi Ridolfi International Airport",44.194801,12.0701,97,"EU","IT","IT-45","Forlì (FC)","yes","LIPK","FRL","LIPK","FC03","https://www.forliairport.net/","https://en.wikipedia.org/wiki/Forl%C3%AC_Airport","L Ridolfi, Ronco di Forlì"
-4358,"LIPL","medium_airport","Ghedi Air Base",45.432551,10.268612,333,"EU","IT","IT-25","Ghedi (BS)","no",,,"LIPL","BS12",,"https://en.wikipedia.org/wiki/Ghedi_Air_Base","A Fusco"
-29437,"LIPM","small_airport","Modena-Marzaglia Airfield",44.631389,10.808611,184,"EU","IT","IT-45","Marzaglia (MO)","no",,,"LIPM","MO11",,"https://it.wikipedia.org/wiki/Aeroporto_di_Modena",
-4359,"LIPN","small_airport","Verona-Boscomantico Airfield",45.472,10.9279,286,"EU","IT","IT-34","Verona","no",,,"LIPN","VR11",,"https://it.wikipedia.org/wiki/Aeroporto_di_Verona-Boscomantico","Skydive Verona"
+4358,"LIPL","medium_airport","Ghedi Air Base",45.432551,10.268612,333,"EU","IT","IT-25","Ghedi (BS)","no","LIPL",,"LIPL","BS12",,"https://en.wikipedia.org/wiki/Ghedi_Air_Base","A Fusco"
+29437,"LIPM","small_airport","Modena-Marzaglia Airfield",44.631389,10.808611,184,"EU","IT","IT-45","Marzaglia (MO)","no","LIPM",,"LIPM","MO11",,"https://it.wikipedia.org/wiki/Aeroporto_di_Modena",
+4359,"LIPN","small_airport","Verona-Boscomantico Airfield",45.472,10.9279,286,"EU","IT","IT-34","Verona","no","LIPN",,"LIPN","VR11",,"https://it.wikipedia.org/wiki/Aeroporto_di_Verona-Boscomantico","Skydive Verona"
 4360,"LIPO","medium_airport","Brescia Gabriele d'Annunzio Airport",45.428902,10.3306,355,"EU","IT","IT-25","Montichiari (BS)","yes","LIPO","VBS","LIPO","BS04","http://www.aeroportobrescia.it/en/business_t6/","https://en.wikipedia.org/wiki/Brescia_Airport","Brescia-Montichiari"
-4361,"LIPQ","large_airport","Trieste Airport",45.827499,13.4722,39,"EU","IT","IT-36","Ronchi dei Legionari/Trieste","yes","LIPQ","TRS","LIPQ","GO02","http://www.triesteairport.it","https://en.wikipedia.org/wiki/Trieste_%E2%80%93_Friuli_Venezia_Giulia_Airport","Ronchi Dei Legionari Airport, Trieste-Ronchi dei Legionari Airport"
+4361,"LIPQ","large_airport","Trieste Airport",45.827862,13.466672,39,"EU","IT","IT-36","Ronchi dei Legionari/Trieste","yes","LIPQ","TRS","LIPQ","GO02","http://www.triesteairport.it","https://en.wikipedia.org/wiki/Trieste_%E2%80%93_Friuli_Venezia_Giulia_Airport","Ronchi Dei Legionari Airport, Trieste-Ronchi dei Legionari Airport"
 4362,"LIPR","large_airport","Federico Fellini International Airport",44.020024,12.612198,40,"EU","IT","IT-45","Rimini (RN)","yes","LIPR","RMI","LIPR","RN01","http://www.riminiairport.com/english/","https://en.wikipedia.org/wiki/Federico_Fellini_International_Airport","Rimini Miramare Airport, Rimini San Marino International Airport"
-4363,"LIPS","medium_airport","Istrana Air Base",45.684358,12.087107,137,"EU","IT","IT-34","Istrana (TV)","no",,,"LIPS","TV16",,"https://en.wikipedia.org/wiki/Istrana_Air_Base","V Bragadin"
-4365,"LIPU","medium_airport","Padova Gino Allegri Airfield",45.395316,11.847124,44,"EU","IT","IT-34","Padova (PD)","no",,,"LIPU","PD11",,"https://en.wikipedia.org/wiki/Padua_Airport","Padua"
-29438,"LIPV","small_airport","Venice-Lido Giovanni Nicelli Airfield",45.428299,12.3881,15,"EU","IT","IT-34","Venezia (VE)","no",,,"LIPV","VE06",,"https://en.wikipedia.org/wiki/Venice-Lido_Airport","Giovanni Nicelli, Venice-San Nicolò, Venezia-Lido"
+4363,"LIPS","medium_airport","Istrana Air Base",45.684382,12.086594,137,"EU","IT","IT-34","Istrana (TV)","no","LIPS",,"LIPS","TV16",,"https://en.wikipedia.org/wiki/Istrana_Air_Base","V Bragadin"
+4365,"LIPU","medium_airport","Padova Gino Allegri Airfield",45.395316,11.847124,44,"EU","IT","IT-34","Padova (PD)","no","LIPU",,"LIPU","PD11",,"https://en.wikipedia.org/wiki/Padua_Airport","Padua"
+29438,"LIPV","small_airport","Venice-Lido Giovanni Nicelli Airfield",45.428779,12.388733,15,"EU","IT","IT-34","Venezia (VE)","no","LIPV",,"LIPV","VE06",,"https://en.wikipedia.org/wiki/Venice-Lido_Airport","Giovanni Nicelli, Venice-San Nicolò, Venezia-Lido"
 4366,"LIPX","large_airport","Verona Villafranca Valerio Catullo Airport",45.394955,10.887303,239,"EU","IT","IT-34","Caselle (VR)","yes","LIPX","VRN","LIPX","VR10","http://www.aeroportoverona.it/","https://en.wikipedia.org/wiki/Verona_Airport","Valerio Catullo, Villafranca International Airport, Valerio Catullo Airport, Villafranca Airport"
 4367,"LIPY","medium_airport","Marche Airport",43.616299,13.3623,49,"EU","IT","IT-57","Falconara Marittima (AN)","yes","LIPY","AOI","LIPY","AN01","http://www.aeroportomarche.com/index.php?lang=english","https://en.wikipedia.org/wiki/Marche_Airport","Ancona, Ancona Falconara Airport, Falconara, Raffaello Sanzio Airport"
 4368,"LIPZ","large_airport","Venice Marco Polo Airport",45.505299,12.3519,7,"EU","IT","IT-34","Venezia (VE)","yes","LIPZ","VCE","LIPZ","VE05","http://www.veniceairport.com/core/index.jsp?_requestid=37300&language=en","https://en.wikipedia.org/wiki/Venice_Marco_Polo_Airport","Venezia-Tessera, Venice-Tessera"
 29439,"LIQB","small_airport","Arezzo Molin Blanco Airfield",43.455248,11.847393,814,"EU","IT","IT-52","Arezzo (AR)","no","LIQB",,"LIQB","AR03",,"https://it.wikipedia.org/wiki/Aeroporto_di_Arezzo","QZO"
 316455,"LIQG","small_airport","Cecina Airfield",43.2856,10.521183,,"EU","IT","IT-52","Cecina (LI)","no",,,"LIQG","LI05",,,"Aviosuperficie Cecina, Porta della Maremma"
 29440,"LIQL","small_airport","Lucca-Tassignano Airport",43.825825,10.577928,39,"EU","IT","IT-52","Capannori (LU)","no","LIQL",,"LIQL","LU02",,"http://it.wikipedia.org/wiki/Aeroporto_di_Lucca-Tassignano","Enrico Squaglia Airport, LCV"
-30337,"LIQN","small_airport","Rieti Airfield",42.4272,12.8517,1278,"EU","IT","IT-62","Rieti","no",,,"LIQN","RI01",,"https://en.wikipedia.org/wiki/Rieti_Airport",
-4369,"LIQS","medium_airport","Siena-Ampugnano Airport",43.256302,11.255,634,"EU","IT","IT-52","Ampugnano (SI)","no","LIQS",,"LIQS","SI01",,"https://en.wikipedia.org/wiki/Siena-Ampugnano_Airport","Malignano Airfield"
+30337,"LIQN","small_airport","Rieti Airfield",42.4272,12.8517,1278,"EU","IT","IT-62","Rieti (RI)","no","LIQN",,"LIQN","RI01",,"https://en.wikipedia.org/wiki/Rieti_Airport","QRT"
+4369,"LIQS","medium_airport","Siena-Ampugnano Airport",43.254942,11.255084,634,"EU","IT","IT-52","Ampugnano (SI)","no","LIQS",,"LIQS","SI01",,"https://en.wikipedia.org/wiki/Siena-Ampugnano_Airport","SAY, Malignano Airfield"
 29441,"LIQW","medium_airport","Sarzana-Luni Bartolomeo Arrigoni Airport",44.087375,9.987877,45,"EU","IT","IT-42","Sarzana (SP)","no","LIQW",,"LIQW","SP01",,"http://it.wikipedia.org/wiki/Aeroporto_di_Sarzana-Luni","Bartolomeo Arrigoni"
 4370,"LIRA","large_airport","Ciampino–G. B. Pastine International Airport",41.798769,12.595331,427,"EU","IT","IT-62","Rome","yes","LIRA","CIA","LIRA","RM12",,"https://en.wikipedia.org/wiki/Ciampino%E2%80%93G._B._Pastine_International_Airport","ROM, Giovan Battista Pastine Airport"
 319749,"LIRC","heliport","Centocelle Heliport",41.8729,12.5637,158,"EU","IT","IT-62","Rome","no",,,"LIRC",,,"https://en.wikipedia.org/wiki/Centocelle_Airport",
-4371,"LIRE","medium_airport","Pratica Di Mare Air Base",41.654499,12.4452,41,"EU","IT","IT-62","Pomezia","no",,,"LIRE","RM22",,"https://en.wikipedia.org/wiki/Pratica_di_Mare_Air_Base","M de Bernardi"
+608064,"LIRD","heliport","Poggio Ballone Remote Radar Station Heliport",42.829018,10.880784,2037,"EU","IT","IT-52","Tirli (GR)","no","LIRD",,"LIRD",,,,
+4371,"LIRE","medium_airport","Pratica di Mare Air Base",41.654499,12.4452,41,"EU","IT","IT-62","Pomezia (RM)","no","LIRE",,"LIRE","RM22",,"https://en.wikipedia.org/wiki/Pratica_di_Mare_Air_Base","M de Bernardi"
 4372,"LIRF","large_airport","Rome–Fiumicino Leonardo da Vinci International Airport",41.804532,12.251998,13,"EU","IT","IT-62","Rome","yes","LIRF","FCO","LIRF","RM11","http://www.adr.it/portal/portal/adr/Fiumicino/Leonardo_da_vinci/Header_Window?action=2","https://en.wikipedia.org/wiki/Rome_Fiumicino_Airport","ROM, Rome Fiumicino Airport, Fiumicino Airport"
-4373,"LIRG","medium_airport","Guidonia Air Base",41.990299,12.7408,289,"EU","IT","IT-62","Guidonia","no",,,"LIRG","RM13",,"https://it.wikipedia.org/wiki/Aeroporto_di_Guidonia","Alfredo Barbieri"
+4373,"LIRG","medium_airport","Guidonia Air Base",41.990299,12.7408,289,"EU","IT","IT-62","Guidonia (RM)","no","LIRG",,"LIRG","RM13",,"https://it.wikipedia.org/wiki/Aeroporto_di_Guidonia","Alfredo Barbieri"
 29442,"LIRH","small_airport","Frosinone Air Base",41.648537,13.294573,,"EU","IT","IT-62","Frosinone","no","LIRH",,"LIRH","FR04",,"https://it.wikipedia.org/wiki/Aeroporto_di_Frosinone","QFR"
 4374,"LIRI","medium_airport","Salerno Costa d'Amalfi Airport",40.620399,14.9113,123,"EU","IT","IT-72","Salerno","yes","LIRI","QSR","LIRI","SA02","http://www.aeroportosalerno.it/","https://en.wikipedia.org/wiki/Salerno_Costa_d%27Amalfi_Airport","Mario Martucci Airport, Aeroporto di Salerno Costa d'Amalfi, Salerno-Pontecagnano Airport"
 4375,"LIRJ","medium_airport","Marina di Campo Airport",42.760871,10.239811,31,"EU","IT","IT-52","Campo nell'Elba (LI)","yes","LIRJ","EBA","LIRJ","LI04",,"https://en.wikipedia.org/wiki/Marina_di_Campo_Airport","Elba"
@@ -44850,7 +44858,7 @@
 35093,"LV-8037","closed","Penkule Airfield",56.474862,23.190107,151,"EU","LV","LV-041",,"no",,,,,,"https://en.wikipedia.org/wiki/T%C4%93rvete",
 31026,"LV-8038","closed","Jelgava Airfield",56.672798,23.679199,20,"EU","LV","LV-JEL","Jelgava","no",,,,,,,"EVEA"
 31027,"LV-8039","closed","Vaiņode Air Base",56.405781,21.887198,518,"EU","LV","LV-112","Vaiņode","no",,,,,,"https://en.wikipedia.org/wiki/Vai%C5%86ode_Air_Base","EVFA, Vainodo, Vainede, Vaynede, Vaynodo, Toyvanede"
-44006,"LV-8040","medium_airport","Daugavpils International Airport",55.944721,26.665001,398,"EU","LV","LV-111","Daugavpils","no","EVDA","DGP","EVDA",,,"https://en.wikipedia.org/wiki/Daugavpils_International_Airport","EVDA, DGP"
+44006,"LV-8040","closed","Daugavpils International Airport",55.944721,26.665001,398,"EU","LV","LV-111","Daugavpils","no",,,,,,"https://en.wikipedia.org/wiki/Daugavpils_International_Airport","EVDA, DGP"
 324016,"LV-8041","closed","Augstkalne Airfield",56.41318,23.319409,187,"EU","LV","LV-026","Augstkalne","no",,,,,,"https://lv.wikipedia.org/wiki/Augstkalnes_lidlauks","EVMA"
 324017,"LV-8042","closed","Rēzekne Airfield",56.556389,27.212778,,"EU","LV","LV-077","Rēzekne","no",,,,,,"https://en.wikipedia.org/wiki/Rezekne_Airport","EVNA"
 44005,"LV-8043","small_airport","Cēsis Airfield",57.32379,25.323229,367,"EU","LV","LV-022","Cesis","no","EVCA",,,,"https://mikc.lv/","https://lv.wikipedia.org/wiki/C%C4%93su_lidlauks",
@@ -50471,6 +50479,7 @@
 42222,"NO-0127","closed","Svea Airport",77.896944,16.725,32,"EU","NO","NO-21","Svea","no",,,,,,"https://en.wikipedia.org/wiki/Svea_Airport","ENSA"
 597398,"NO-0128","heliport","Jotun FPSO",59.241167,2.3945,,"EU","NO","NO-XX","Block 25/11 - Balder field","no",,,,"ENXN",,,"ENXN, Oil&Gas"
 598385,"NO-0129","closed","Petrojarl Knarr Helideck",61.781944,2.831944,116,"EU","NO","NO-XX","Norwegian Sea","no",,,,,"https://alterainfra.com/vessels/petrojarl-knarr",,"ENQP"
+608081,"NO-0130","small_airport","Torod Airstrip",59.1841,10.40582,,"EU","NO","NO-39",,"no",,,,,,,
 306971,"NOM","small_airport","Nomad River Airport",-6.294,142.234167,305,"OC","PG","PG-WPD","Nomad River","no",,"NOM","AYNR","NDR",,,
 308248,"NOO","small_airport","Naoro Airport",-9.254455,147.621352,2372,"OC","PG","PG-CPM","Naoro Vilage","no",,"NOO","AYNL","NAO",,,
 308292,"NP-0001","small_airport","Kamal Bazar Airport",29.0531,81.34256,6440,"AS","NP","NP-P7","Kamal Bazar","no",,,,,,,
@@ -53796,6 +53805,8 @@
 598074,"PL-0282","heliport","Szczecin Hospital Heliport",53.450159,14.50603,157,"EU","PL","PL-ZP","Szczecin","no",,,,"H767",,,
 607717,"PL-0283","heliport","Dr. Ludwik Rydygier Provincial Hospital Heliport",54.118322,22.926273,590,"EU","PL","PL-PD","Suwałki","no",,,,,"https://szpital.suwalki.pl/",,
 607972,"PL-0284","small_airport","Osieczany Ultralight Strip",49.849164,19.987822,,"EU","PL","PL-MA",,"no",,,,,,,
+608083,"PL-0285","small_airport","Irządze Airstrip",50.62249,19.7113,,"EU","PL","PL-SL",,"no",,,,,,,
+608085,"PL-0286","small_airport","Pałowo Airstrip",54.44638,16.81782,,"EU","PL","PL-ZP","Słupsk","no",,,,,,,
 5493,"PLCH","large_airport","Cassidy International Airport",1.986278,-157.350011,5,"OC","KI","KI-L","Kiritimati","yes","PLCH","CXI","PLCH",,,"https://en.wikipedia.org/wiki/Cassidy_International_Airport","Christmas Island, Banana"
 32466,"PLFA","small_airport","Tabuaeran Island Airport",3.89944,-159.389008,,"OC","KI","KI-L","Tabuaeran Island","no","PLFA","TNV","PLFA",,,"https://de.wikipedia.org/wiki/Flugplatz_Tabuaeran","Fanning Island"
 6493,"PLPA","small_airport","Palmyra (Cooper) Airport",5.888748,-162.077866,5,"OC","UM","UM-95","Palmyra Island Atoll","no","PLPA",,"PLPA","P16",,"https://en.wikipedia.org/wiki/Palmyra_(Cooper)_Airport",
@@ -57046,7 +57057,7 @@
 5997,"SBVH","medium_airport","Brigadeiro Camarão Airport",-12.6944,-60.098301,2018,"SA","BR","BR-RO","Vilhena","yes","SBVH","BVH","SBVH","RO0003",,"https://en.wikipedia.org/wiki/Vilhena_Airport","Vilhena Airport"
 5998,"SBVT","large_airport","Eurico de Aguiar Salles International Airport",-20.258,-40.285,34,"SA","BR","BR-ES","Vitória","yes","SBVT","VIX","SBVT","ES0001","https://vitoria-airport.com.br","https://en.wikipedia.org/wiki/Eurico_de_Aguiar_Salles_Airport","Goiabeiras Airport"
 5999,"SBYA","small_airport","Iauaretê Airport",0.610384,-69.179992,466,"SA","BR","BR-AM","São Gabriel da Cachoeira","no","SBYA",,"SBYA","AM9005",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Iauaret%C3%AA",
-6000,"SBYS","medium_airport","Campo Fontenelle",-21.984692,-47.341207,1968,"SA","BR","BR-SP","Pirassununga","no",,"QPS","SBYS","SP9002",,"https://pt.wikipedia.org/wiki/Aeródromo_Campo_de_Fontenelle",
+6000,"SBYS","medium_airport","Campo Fontenelle",-21.984692,-47.341207,1968,"SA","BR","BR-SP","Pirassununga","no","SBYS",,"SBYS","SP9002",,"https://pt.wikipedia.org/wiki/Aeródromo_Campo_de_Fontenelle","QPS"
 308204,"SBZM","medium_airport","Presidente Itamar Franco Airport",-21.513086,-43.173069,1348,"SA","BR","BR-MG","Juiz de Fora","yes","SBZM","IZA","SBZM",,,"https://en.wikipedia.org/wiki/Zona_da_Mata_Regional_Airport","SDZY, Zona da Mata Regional Airport, Juiz de Fora Airport"
 343549,"SC-0001","heliport","Silhouette Heliport",-4.48403,55.2525,,"AF","SC","SC-15","Silhouette","no",,,,,,,
 343550,"SC-0002","heliport","North Island Heliport",-4.3971,55.24979,,"AF","SC","SC-15","North Island","no",,,,,,,
@@ -57143,27 +57154,27 @@
 24496,"SC98","small_airport","Mount Holly Airport",33.054298400878906,-80.0833969116211,55,"NA","US","US-SC","Goose Creek","no",,,"SC98","SC98",,,
 24497,"SC99","small_airport","Whiteplains Airport",33.963902,-81.3592,520,"NA","US","US-SC","Lexington","no",,,,"9SC",,,"SC99"
 39087,"SCAA","closed","Añorada Airport",-41.042778,-73.047501,459,"SA","CL","CL-LL","Frutillar","no",,,,,,"https://en.wikipedia.org/wiki/A%C3%B1orada_Airport","SCAA"
-39088,"SCAB","small_airport","El Alba Airport",-33.658694,-71.289877,450,"SA","CL","CL-RM","La Lumbrera","no",,,"SCAB",,,"https://en.wikipedia.org/wiki/El_Alba/La_Lumbrera_Airport",
+39088,"SCAB","small_airport","El Alba Airport",-33.658755,-71.290135,450,"SA","CL","CL-RM","La Lumbrera","no","SCAB",,"SCAB",,,"https://en.wikipedia.org/wiki/El_Alba/La_Lumbrera_Airport",
 30304,"SCAC","small_airport","Pupelde Airport",-41.904251,-73.796571,315,"SA","CL","CL-LL","Ancud","no","SCAC","ZUD","SCAC",,,"https://en.wikipedia.org/wiki/Pupelde_Airfield",
-39089,"SCAD","small_airport","Santa Adriana Airport",-30.628611,-71.273056,558,"SA","CL","CL-CO","Ovalle","no",,,"SCAD",,,"https://en.wikipedia.org/wiki/Santa_Adriana_Airport",
-39090,"SCAE","small_airport","El Buitre Airport",-18.508938,-70.290707,328,"SA","CL","CL-AP","Arica","no",,,"SCAE",,,"https://en.wikipedia.org/wiki/El_Buitre_Airfield",
+39089,"SCAD","small_airport","Santa Adriana Airport",-30.628611,-71.273056,558,"SA","CL","CL-CO","Ovalle","no",,,,,,"https://en.wikipedia.org/wiki/Santa_Adriana_Airport",
+39090,"SCAE","small_airport","El Buitre Airport",-18.508938,-70.290707,328,"SA","CL","CL-AP","Arica","no","SCAE",,"SCAE",,,"https://en.wikipedia.org/wiki/El_Buitre_Airfield",
 32255,"SCAG","small_airport","Agua Santa Airport",-34.551476,-71.335891,476,"SA","CL","CL-LI","Palmilla","no",,,"SCAG",,,"https://en.wikipedia.org/wiki/Agua_Santa_Airport",
-32256,"SCAH","small_airport","Tolquien Airport",-42.4494018555,-73.5246963501,551,"SA","CL","CL-LL","Achao","no",,,"SCAH",,,"https://en.wikipedia.org/wiki/Achao_Airport",
-348511,"SCAI","small_airport","Curacautín Airport",-38.431514,-71.923027,1667,"SA","CL","CL-AR","Curacautín","no",,,"SCAI",,,"https://es.wikipedia.org/wiki/Aeródromo_de_Curacautín",
+32256,"SCAH","small_airport","Tolquien Airport",-42.450728,-73.525277,551,"SA","CL","CL-LL","Achao","no","SCAH",,"SCAH",,,"https://en.wikipedia.org/wiki/Achao_Airport",
+348511,"SCAI","small_airport","Curacautín Airport",-38.431514,-71.923027,1667,"SA","CL","CL-AR","Curacautín","no","SCAI",,"SCAI",,,"https://es.wikipedia.org/wiki/Aeródromo_de_Curacautín",
 39091,"SCAJ","small_airport","Las Alpacas Airport",-36.145279,-71.763054,550,"SA","CL","CL-ML","Retiro","no",,,"SCAJ",,,"https://en.wikipedia.org/wiki/Las_Alpacas_Airport",
-39092,"SCAK","small_airport","Atacalco Airport",-36.919383,-71.577764,2362,"SA","CL","CL-NB","Recinto","no",,,"SCAK",,,"https://en.wikipedia.org/wiki/Atacalco_Airport",
-45054,"SCAL","small_airport","Valchac Airport",-47.116279,-72.481975,1116,"SA","CL","CL-AI","Cochrane","no",,,"SCAL",,,,
+39092,"SCAK","small_airport","Atacalco Airport",-36.919383,-71.577764,2362,"SA","CL","CL-NB","Recinto","no","SCAK",,"SCAK",,,"https://en.wikipedia.org/wiki/Atacalco_Airport",
+45054,"SCAL","small_airport","Valchac Airport",-47.115148,-72.478728,1116,"SA","CL","CL-AI","Cochrane","no","SCAL",,"SCAL",,,,
 39093,"SCAM","small_airport","Alempue Airport",-34.865002,-71.101944,1083,"SA","CL","CL-ML","Teno","no",,,"SCAM",,,"https://en.wikipedia.org/wiki/Alempue_Airport",
-30082,"SCAN","small_airport","San Rafael Airport",-32.814201,-70.646698,2461,"SA","CL","CL-VS","Los Andes","no","SCAN","LOB","SCAN",,,"https://en.wikipedia.org/wiki/San_Rafael_Airport_(Chile)",
-39094,"SCAO","small_airport","Palo Alto Airport",-34.733055,-71.740837,279,"SA","CL","CL-LI","Lolol","no",,,"SCAO",,,"https://en.wikipedia.org/wiki/Palo_Alto_Airport_(Lolol)",
+30082,"SCAN","small_airport","San Rafael Airport",-32.813912,-70.646642,2461,"SA","CL","CL-VS","Los Andes","no","SCAN","LOB","SCAN",,,"https://en.wikipedia.org/wiki/San_Rafael_Airport_(Chile)",
+39094,"SCAO","small_airport","Palo Alto Airport",-34.732506,-71.740766,279,"SA","CL","CL-LI","Lolol","no","SCAO",,"SCAO",,,"https://en.wikipedia.org/wiki/Palo_Alto_Airport_(Lolol)",
 29657,"SCAP","small_airport","Alto Palena Airport",-43.611492,-71.805452,794,"SA","CL","CL-LL","Palena","no","SCAP","WAP","SCAP",,,"https://en.wikipedia.org/wiki/Alto_Palena_Airfield",
-39095,"SCAQ","small_airport","Arquilhué Airport",-40.198299,-72.029198,590,"SA","CL","CL-LR","Lago Ranco","no",,,"SCAQ",,,"https://en.wikipedia.org/wiki/Arquilhue_Airport",
+39095,"SCAQ","small_airport","Arquilhué Airport",-40.198166,-72.031152,590,"SA","CL","CL-LR","Lago Ranco","no","SCAQ",,"SCAQ",,,"https://en.wikipedia.org/wiki/Arquilhue_Airport",
 6001,"SCAR","medium_airport","Chacalluta International Airport",-18.348499,-70.338699,167,"SA","CL","CL-AP","Arica","yes","SCAR","ARI","SCAR",,"https://aeropuertoarica.cl/","https://en.wikipedia.org/wiki/Chacalluta_International_Airport",
 30301,"SCAS","small_airport","Cabo Juan Román Airfield",-45.3992,-72.670303,30,"SA","CL","CL-AI","Puerto Aysén","no","SCAS","WPA","SCAS",,,"https://en.wikipedia.org/wiki/Cabo_Juan_Rom%C3%A1n_Airfield","Aeródromo Cabo 1° Juan Román"
-6002,"SCAT","medium_airport","Desierto de Atacama Airport",-27.2611999512,-70.7791976929,670,"SA","CL","CL-AT","Copiapo","yes","SCAT","CPO","SCAT",,,"https://en.wikipedia.org/wiki/Desierto_de_Atacama_Airport",
-32257,"SCAU","small_airport","Juan Enrique Airport",-33.8936,-70.885597,1263,"SA","CL","CL-RM","Paine","no",,,"SCAU",,,"https://en.wikipedia.org/wiki/Juan_Enrique_Airport",
-39097,"SCAY","small_airport","Ayacara Airport",-42.310832,-72.790275,80,"SA","CL","CL-LL","Ayacara","no",,,"SCAY",,,"https://en.wikipedia.org/wiki/Ayacara_Airport",
-39098,"SCAZ","small_airport","Azopardo Airport",-54.481014,-68.940689,59,"SA","CL","CL-MA","Timaukel","no",,,"SCAZ",,,"https://en.wikipedia.org/wiki/Azopardo_Airport",
+6002,"SCAT","medium_airport","Desierto de Atacama Airport",-27.2612,-70.779198,670,"SA","CL","CL-AT","Copiapo","yes","SCAT","CPO","SCAT",,,"https://en.wikipedia.org/wiki/Desierto_de_Atacama_Airport",
+32257,"SCAU","small_airport","Juan Enrique Airport",-33.893835,-70.885536,1263,"SA","CL","CL-RM","Paine","no","SCAU",,"SCAU",,,"https://en.wikipedia.org/wiki/Juan_Enrique_Airport",
+39097,"SCAY","small_airport","Ayacara Airport",-42.307818,-72.787643,80,"SA","CL","CL-LL","Ayacara","no","SCAY",,"SCAY",,,"https://en.wikipedia.org/wiki/Ayacara_Airport",
+39098,"SCAZ","small_airport","Azopardo Airport",-54.481014,-68.940689,59,"SA","CL","CL-MA","Timaukel","no","SCAZ",,"SCAZ",,,"https://en.wikipedia.org/wiki/Azopardo_Airport",
 6003,"SCBA","medium_airport","Balmaceda Airport",-45.915968,-71.689499,1722,"SA","CL","CL-AI","Balmaceda","yes","SCBA","BBA","SCBA",,"https://aeropuertodebalmaceda.cl/","https://en.wikipedia.org/wiki/Balmaceda_Airport",
 45055,"SCBB","small_airport","Del Bío Bío Airport",-37.587222,-72.503611,249,"SA","CL","CL-BI","Negrete","no",,,"SCBB",,,,
 39099,"SCBC","small_airport","Cacique Blanco Airport",-44.23111,-71.864166,750,"SA","CL","CL-AI","Lago Verde","no",,,"SCBC",,,"https://en.wikipedia.org/wiki/Cacique_Blanco_Airport",
