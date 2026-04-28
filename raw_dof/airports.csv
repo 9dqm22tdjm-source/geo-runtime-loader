@@ -9966,7 +9966,6 @@
 324078,"AL-0016","closed","Shkodër Airport",42.089361,19.509111,,"EU","AL","AL-10","Shkodër","no",,,,,,,"LASK, LASK"
 341255,"AL-0017","closed","Sarandë Airfield",39.876113,20.037663,,"EU","AL","AL-12","Sarandë","no",,,,,,"https://en.wikipedia.org/wiki/Sarand%C3%AB_Airfield","LASR"
 594441,"AL-0018","closed","Shijak Airfield",41.33102,19.54983,72,"EU","AL","AL-02","Shijak","no",,,,,,,
-605715,"AL-0019","large_airport","(Duplicate)Vlora International Airport",40.605556,19.426111,8,"EU","AL","AL-12","Vlorë","no","LAVL","VLO",,,"https://vlora-airport.com/","https://en.wikipedia.org/wiki/Vlora_International_Airport",
 16197,"AL05","small_airport","Sehoy Airport",32.22010040283203,-85.46800231933594,331,"NA","US","US-AL","Hurtsboro","no",,,"AL05","AL05",,,
 16199,"AL07","heliport","EAMC-Lanier Heliport",32.829531,-85.168711,640,"NA","US","US-AL","Valley","no",,,"AL07","AL07",,,"Geo H Lanier Memorial Hosp"
 16200,"AL08","small_airport","Perdido Winds Airpark",30.424400329589844,-87.5353012084961,75,"NA","US","US-AL","Elberta","no",,,"AL08","AL08",,,
@@ -10923,6 +10922,7 @@
 596544,"AR-0767","medium_airport","Aeroestación Yabotí",-27.180308,-54.107368,400,"SA","AR","AR-N","El Soberbio","yes",,,,,,,
 603863,"AR-0768","medium_airport","(Duplicate)Aeropuerto Pergamino",-33.89603,-60.5748,,"SA","AR","AR-B",,"no",,,,,,,
 605461,"AR-0769","heliport","Intermediate Zone km17 Heliport",-22.536499,-63.969063,1878,"SA","AR","AR-A","General Enrique Moscon","no",,,,"2234",,,
+608121,"AR-0770","small_airport","Las Tres Marias Airport",-27.737967,-58.776847,193,"SA","AR","AR-W","El Sombreo","no",,,,"2216",,,
 16296,"AR02","heliport","Johnson Regional Medical Center Heliport",35.461216,-93.445383,491,"NA","US","US-AR","Clarksville","no",,,"AR02","AR02",,,"AR71, Johnson County Regional Hospital Heliport"
 16297,"AR03","small_airport","Centerville Airstrip",35.128718,-93.205798,350,"NA","US","US-AR","Centerville","no",,,"AR03","AR03",,,
 16299,"AR05","small_airport","John Harris Field",35.21590042114258,-93.30490112304688,1770,"NA","US","US-AR","Chickala","no",,,"AR05","AR05",,,
@@ -21973,7 +21973,7 @@
 315574,"DE-0235","small_airport","Hohenthann Airfield",48.664444,12.053611,1435,"EU","DE","DE-BY","Hohenthann","no",,,,,,,
 315575,"DE-0236","small_airport","Irsingen-Hesselberg Airfield",49.038375,10.503145,,"EU","DE","DE-BY","Gerolfingen","no",,,,,,,
 315576,"DE-0237","small_airport","Landau-Ebenberg Airfield",49.176859,8.131229,525,"EU","DE","DE-BW","Landau in der Pfalz","no",,,,,,,
-315577,"DE-0238","small_airport","Klippeneck Airfield",48.1075,8.7627778,3215,"EU","DE","DE-BW","Denkingen","no",,,,,"http://www.klippeneck.de/","https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Klippeneck",
+315577,"DE-0238","small_airport","Klippeneck Airfield",48.1075,8.762778,3215,"EU","DE","DE-BW","Denkingen","no",,,,,"http://www.klippeneck.de/","https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Klippeneck",
 315579,"DE-0239","small_airport","Wasentegernbach",48.2777778,12.2222222,,"EU","DE","DE-BY",,"no",,,,,,,
 315580,"DE-0240","small_airport","Weilerswist UL",50.719051,6.84989,446,"EU","DE","DE-NW","Weilerswist","no",,,,,,,"Müggenhausen, Nordeifel"
 315582,"DE-0241","small_airport","Wildberg Airfield",47.600278,9.741944,1726,"EU","DE","DE-BW","Weißensberg","no",,,,,,,
@@ -23016,6 +23016,7 @@
 554286,"DZ-0053","small_airport","Ouled Mahmoud Airport",28.61283,0.03651,886,"AF","DZ","DZ-54","Metarfa","no",,,,,,,
 312615,"DZ-0054","closed","Skikda Airport",36.8641,6.9516,27,"AF","DZ","DZ-21","Skikda","no",,,,,,"https://en.wikipedia.org/wiki/Skikda_Airport","DABP, SKI, Philippeville Airfield"
 602984,"DZ-0055","small_airport","Tinzaouten North Airport",20.056657,3.026991,,"AF","DZ","DZ-58",,"no",,,,"DATZ",,,
+608119,"DZ-0056","heliport","1st November University Hospital Heliport",35.701086,-0.582824,459,"AF","DZ","DZ-31","Oran","no",,,,,"http://www.ehuoran.dz/",,
 17156,"E07","small_airport","Tatum Airport",33.2611999512,-103.277000427,3986,"NA","US","US-NM","Tatum","no",,,"18T","18T",,"https://en.wikipedia.org/wiki/Tatum_Airport","NM18, E07"
 17157,"E20","seaplane_base","Lake Berryessa Seaplane Base",38.550979,-122.227682,440,"NA","US","US-CA","Napa","no",,,,"E20",,,
 17159,"E32","small_airport","Lindrith Airpark",36.29140090942383,-107.05599975585938,7202,"NA","US","US-NM","Lindrith","no",,,"E32","E32",,,
@@ -23444,7 +23445,7 @@
 28609,"EDMI","small_airport","Illertissen Airfield",48.235,10.1377,1680,"EU","DE","DE-BY","Illertissen","no",,,"EDMI",,"http://www.lvi-illertissen.de","https://de.wikipedia.org/wiki/Flugplatz_Illertissen",
 28613,"EDMJ","small_airport","Jesenwang Airfield",48.174366,11.125363,1860,"EU","DE","DE-BY","Jesenwang","no",,,"EDMJ",,,"https://de.wikipedia.org/wiki/Flugplatz_Jesenwang",
 28619,"EDMK","small_airport","Kempten-Durach Airfield",47.691944,10.338056,2339,"EU","DE","DE-BY","Durach","no",,,"EDMK",,,"https://de.wikipedia.org/wiki/Flugplatz_Kempten-Durach",
-28630,"EDML","medium_airport","Landshut Airfield",48.512019,12.034865,1312,"EU","DE","DE-BY","Landshut","no","EDML","QLG","EDML",,"https://www.landen-in-landshut.de/","https://de.wikipedia.org/wiki/Flugplatz_Landshut",
+28630,"EDML","medium_airport","Landshut Airfield",48.512019,12.034865,1312,"EU","DE","DE-BY","Landshut","no","EDML",,"EDML",,"https://www.landen-in-landshut.de/","https://de.wikipedia.org/wiki/Flugplatz_Landshut","QLG"
 2251,"EDMN","small_airport","Mindelheim-Mattsies Airfield",48.106945,10.525,1857,"EU","DE","DE-BY","Tussenhausen","no","EDMN",,,,,"https://de.wikipedia.org/wiki/Flugplatz_Mindelheim-Mattsies","GrobAircraft"
 2252,"EDMO","medium_airport","Oberpfaffenhofen Airport",48.081402,11.2831,1947,"EU","DE","DE-BY","Weßling","no","EDMO","OBF","EDMO",,"http://www.edmo-airport.de","https://de.wikipedia.org/wiki/Flugplatz_Oberpfaffenhofen","Weßling"
 28746,"EDMP","small_airport","Vilsbiburg Airfield",48.426109,12.345278,1450,"EU","DE","DE-BY","Vilsbiburg","no",,,"EDMP",,,"https://de.wikipedia.org/wiki/Flugplatz_Vilsbiburg",
@@ -27234,7 +27235,7 @@
 528779,"FR-0716","small_airport","Brandes La Perouille Airfield",46.690833,1.530278,535,"EU","FR","FR-CVL",,"no",,,,"LF3623",,,
 528780,"FR-0717","small_airport","Vicq sur Nahon Airfield",47.110833,1.563611,500,"EU","FR","FR-CVL",,"no",,,,"LF3625",,,
 528781,"FR-0718","small_airport","Prissac Airfield",46.519444,1.311944,582,"EU","FR","FR-CVL",,"no",,,,"LF3628","http://www.aerodrome-prissac-ulm.fr/",,
-528782,"FR-0719","small_airport","Le Pavillon Airfield",46.673333,1.461944,525,"EU","FR","FR-CVL",,"no",,,,"LF3630",,,
+528782,"FR-0719","closed","Le Pavillon Airfield",46.673333,1.461944,525,"EU","FR","FR-CVL",,"no",,,,,,,"LF3630"
 528783,"FR-0720","small_airport","Reuilly Airfield",47.075556,2.025556,495,"EU","FR","FR-CVL",,"no",,,,"LF3651","http://www.ulmazur.fr",,
 528784,"FR-0721","small_airport","Villentrois Les Mardelles Airfield",47.17,1.444444,413,"EU","FR","FR-CVL",,"no",,,,"LF3652",,,
 528785,"FR-0722","small_airport","Channay-Rillé Airfield",47.461034,0.236731,300,"EU","FR","FR-CVL","Rillé, Indre-et-Loire","no",,,,"LF3753","https://www.ulm-channay.com",,"Base ULM Channay-Rillé, Base ULM Channay-sur-Lathan"
@@ -31078,6 +31079,7 @@
 317531,"HU-0079","closed","Terpes Airport",47.974924,20.146968,519,"EU","HU","HU-HE","Terpes","no",,,,,,,"LHTE"
 597970,"HU-0080","small_airport","Pilis Airfield",47.30361,19.52895,,"EU","HU","HU-PE",,"no","LHPL",,,,,,
 603993,"HU-0081","heliport","Miskolc Heliport",48.13071,20.792152,380,"EU","HU","HU-BZ","Miskolc","no",,,,,,,
+608120,"HU-0082","heliport","Szentes Heliport",46.616714,20.28359,259,"EU","HU","HU-CS","Szentes","no",,,,,,,"Légimentő bázis"
 3262,"HUAJ","small_airport","Adjumani Airport",3.339239,31.763854,2611,"AF","UG","UG-N","Adjumani","no","HUAJ",,"HUAJ",,,"https://en.wikipedia.org/wiki/Adjumani_Airport",
 32234,"HUAR","medium_airport","Arua Airport",3.049152,30.911714,3951,"AF","UG","UG-N","Arua","yes","HUAR","RUA","HUAR",,,"https://en.wikipedia.org/wiki/Arua_Airport",
 318929,"HUBU","small_airport","Bundibugyo Airport",0.67349,30.025483,3100,"AF","UG","UG-W","Bundibugyo","no","HUBU",,"HUBU",,,"https://en.wikipedia.org/wiki/Bundibugyo_Airport",
@@ -33699,6 +33701,11 @@
 608067,"IT-0866","heliport","Elisuperficie Corpo Nazionale Soccorso Alpiino",46.071392,8.268548,,"EU","IT","IT-21","Villadossola","no",,,,,,,
 608069,"IT-0867","heliport","Elisuperficie Gurro",46.084774,8.554809,,"EU","IT","IT-21","Comune di Gurro","no",,,,,,,
 608071,"IT-0868","heliport","Elisuperficie di Spoccia",46.090224,8.602456,,"EU","IT","IT-21","Comune di Cavaglio-Spoccia","no",,,,,,,
+608100,"IT-0869","heliport","Elisuperficie di Cavaglio S.Donnino",46.068981,8.646723,,"EU","IT","IT-21","Comune di Cavaglio-Spoccia","no",,,,,,,
+608102,"IT-0870","heliport","Elisuperficie Alpe Marzone",46.058011,8.307971,,"EU","IT","IT-21","Comune di Beura-Cardezza","no",,,,,,,
+608106,"IT-0871","heliport","Elisuperficie privata",46.053358,8.263977,,"EU","IT","IT-21","Comune di Villadossola","no",,,,,,,
+608112,"IT-0872","heliport","Elisuperficie del Bacino",46.04981,8.248082,,"EU","IT","IT-21","Comune di Pallanzeno","no",,,,,,,
+608114,"IT-0873","heliport","Eliporto del Lago d'Antrona",46.056154,8.097487,,"EU","IT","IT-21","Comune di Antrona","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -43866,7 +43873,7 @@
 4301,"LHOY","small_airport","Őcsény Airfield",46.306138,18.767386,295,"EU","HU","HU-TO","Őcsény","no",,,"LHOY",,,"https://hu.wikipedia.org/wiki/%C5%90cs%C3%A9nyi_rep%C3%BCl%C5%91t%C3%A9r",
 30239,"LHPA","small_airport","Pápa Air Base",47.363602,17.500799,466,"EU","HU","HU-VE","Pápa","no",,,"LHPA",,,"https://en.wikipedia.org/wiki/P%C3%A1pa_Air_Base",
 4302,"LHPP","large_airport","Pécs-Pogány International Airport",45.988891,18.242044,651,"EU","HU","HU-BA","Pécs","yes","LHPP","PEV","LHPP",,"http://www.airportpecs.hu/","https://en.wikipedia.org/wiki/P%C3%A9cs-Pog%C3%A1ny_International_Airport","Pecs South Airport, QPJ"
-4303,"LHPR","medium_airport","Győr-Pér Airport",47.628436,17.804718,424,"EU","HU","HU-GS","Győr","yes","LHPR","QGY","LHPR",,"http://www.lhpr.hu","https://en.wikipedia.org/wiki/Gy%C5%91r-P%C3%A9r_International_Airport","QGY"
+4303,"LHPR","medium_airport","Győr-Pér Airport",47.628436,17.804718,424,"EU","HU","HU-GS","Győr","yes","LHPR",,"LHPR",,"http://www.lhpr.hu","https://en.wikipedia.org/wiki/Gy%C5%91r-P%C3%A9r_International_Airport","QGY"
 4304,"LHSA","small_airport","Szentkirályszabadja Airfield",47.0779,17.968399,919,"EU","HU","HU-VE","Szentkirályszabadja","no",,,"LHSA",,,"https://hu.wikipedia.org/wiki/Veszpr%C3%A9m-Szentkir%C3%A1lyszabadja_Rep%C3%BCl%C5%91t%C3%A9r",
 317532,"LHSB","small_airport","Szabadszállás-Balázspuszta Airfield",46.900278,19.366389,325,"EU","HU","HU-BK","Szabadszállás","no",,,"LHSB",,,,
 317567,"LHSI","small_airport","Sitke Airfield",47.234558,17.027178,,"EU","HU","HU-VA","Sitke","no","LHSI",,"LHSI",,,,
@@ -55511,7 +55518,7 @@
 46223,"RU-0356","heliport","Mitino Heliport",55.868563,37.372935,486,"EU","RU","RU-MOS","Putilkovo","no",,,,"HA35",,,"ХА35, Вертодром Митино, Путилково"
 46224,"RU-0357","heliport","City Clinical Hospital No.36 Helipad",55.7913297014,37.7401989698,,"EU","RU","RU-MOW","Moscow","no",,,,,,,"GKB-36 Helipad, Вертолётная площадка ГКБ-36, Вертолётная площадка Городская Клиническая Больница № 36"
 46225,"RU-0358","heliport","Grachi Helipad",55.4382719556,38.0714249611,,"EU","RU","RU-MOS","Ilinskoye","no",,,,,,,"Вертолётная площадка Грачи"
-46226,"RU-0359","small_airport","Voskresensk Airstrip",55.308006,38.596964,499,"AS","RU","RU-MOS","Voskresensk","no",,,"UUMV",,,,"УУМЖ, ВПП Воскресенск, Воскресенськ"
+46226,"RU-0359","small_airport","Voskresensk Airstrip",55.308006,38.596964,499,"EU","RU","RU-MOS","Voskresensk","no",,,"UUMV",,,,"УУМЖ, ВПП Воскресенск, Воскресенськ"
 46227,"RU-0360","heliport","Mavrino Helipad",55.27367,37.2973,618,"EU","RU","RU-MOW","Mavrino","no",,,,"H720",,,"Х720, Вертолётная площадка Маврино"
 46228,"RU-0361","small_airport","Burny Airfield",60.61188,30.474349,45,"EU","RU","RU-LEN","Solovyovo","no",,,"ULSJ",,,,"Burnaya Airfield, Аэродром Бурный, Аэродром Бурная, УЛСЙ"
 46229,"RU-0362","small_airport","Bolshoy Lutsk Airstrip",59.4120340638,28.577284812900004,39,"EU","RU","RU-LEN","Kingisepp","no",,,,,,,"ВПП Большой Луцк"
@@ -56159,7 +56166,7 @@
 35023,"RU-10005","closed","Lodeynoye Pole Air Base",60.709999,33.57,56,"EU","RU","RU-LEN","Lodeynoye Pole","no",,,,,,"https://en.wikipedia.org/wiki/Lodeynoye_Pole_(air_base)","Аэродром Лодейное Поле, XLPO, RU-187"
 35068,"RU-10006","closed","Salmi Air Base",61.321701049805,32.00830078125,20,"EU","RU","RU-KR","Ilinskiy","no",,,,,,"https://en.wikipedia.org/wiki/Salmi","RU-400"
 35081,"RU-10007","closed","Siversky Air Base",59.356701,30.036699,341,"EU","RU","RU-LEN","Siversky","no",,,,,,"https://en.wikipedia.org/wiki/Siversky_(air_base)","ULLS, XLLS"
-42910,"RU-10008","closed","Tushino Airport",55.818333,37.426666,420,"AS","RU","RU-MOW","Moscow","no",,,,,,"https://en.wikipedia.org/wiki/Tushino_Airport","UUUS, УУУС, Тушино"
+42910,"RU-10008","closed","Tushino Airport",55.818333,37.426666,420,"EU","RU","RU-MOW","Moscow","no",,,,,,"https://en.wikipedia.org/wiki/Tushino_Airport","UUUS, УУУС, Тушино"
 42911,"RU-10009","closed","Biysk Airport",52.478686,85.342513,620,"AS","RU","RU-ALT","Biysk","no",,,,,,"https://en.wikipedia.org/wiki/Biysk_Airport","Аэропорт Бийск, UNBI"
 526777,"RU-1001","closed","Sabetta Terminal Construction Heliport",71.274076,72.073982,,"EU","RU","RU-YAN","Sabetta","no",,,,,,,"CLOSED, Oil & Gas, Yamal LNG project, Sabetta terminal port, NOVATEK"
 42912,"RU-10010","closed","Rubtsovsk Airport",51.58925,81.204208,709,"AS","RU","RU-ALT","Rubtsovsk","no",,,,,,"https://en.wikipedia.org/wiki/Rubtsovsk_Airport","UNBR, УНБР, Рубцовск"
@@ -59104,6 +59111,11 @@
 601245,"SI07","small_airport","Estancia Brasil Airstrip",-19.761892,-55.599967,422,"SA","BR","BR-MS","Aquidauana","no",,,"SI07","MS0792",,,
 600504,"SI0M","heliport","Inhotim Heliport",-20.126936,-44.214253,2428,"SA","BR","BR-MG","Brumadinho","no",,,"SI0M","MG0646",,,
 606523,"SI10","heliport","Fazenda Marcelo - Agrocuca Heliport",-24.200603,-50.755267,2315,"SA","BR","BR-PR","Ortigueira","no",,,"SI10","PR0259",,,
+608116,"SI1C","heliport","Fazenda Verdana",-23.079985,-48.622765,2825,"SA","BR","BR-SP","Itatinga","no",,,"SI1C","SP1510",,,
+608111,"SI1D","heliport","Fortaleza Heliport",-21.580078,-46.748819,2371,"SA","BR","BR-SP","Divinolândia","no",,,"SI1D","SP1508",,,
+608108,"SI1E","small_airport","Fazenda Califórnia Airport",-3.138447,-48.928334,197,"SA","BR","BR-PA","Moju","no",,,"SI1E","PA0448",,,
+608090,"SI1G","heliport","Haras Espera Feliz Heliport",-22.808114,-42.490614,204,"SA","BR","BR-RJ","Rio Bonito","no",,,"SI1G","RJ0403",,,
+608088,"SI1H","small_airport","Fazenda Santa Vitória Airport",-18.763325,-50.24379,1648,"SA","BR","BR-MG","Santa Vitória","no",,,"SI1H","MG0673",,,
 352922,"SI22","small_airport","Fazenda Santa Helena Airport",-18.303983,-55.651875,499,"SA","BR","BR-MS","Corumbá","no",,,"SI22","MS0482",,,
 353275,"SI23","small_airport","Fazenda Água Fina Airport",-14.504167,-55.492778,1214,"SA","BR","BR-MT","Rosário Oeste","no",,,"SI23","MT0797",,,
 352939,"SI24","small_airport","Fazenda Cambará Airstrip",-20.138056,-52.978333,1234,"SA","BR","BR-MS","Água Clara","no",,,"SI24","MS0605",,,
@@ -60767,7 +60779,7 @@
 40993,"SK-007","small_airport","Indira Airport",7.943978,-76.696973,20,"SA","CO","CO-ANT","Turbo","no",,,,"INA",,,"Villanueva 2"
 323648,"SK-0070","small_airport","Mokraď Airstrip",49.096416,19.733499,2589,"EU","SK","SK-ZI","Jakubovany","no",,,,,,,"Agria"
 323742,"SK-0071","small_airport","Klčov Airstrip",48.994162,20.664952,,"EU","SK","SK-PV","Klčov","no",,,,,,,
-323872,"SK-0072","small_airport","Komoča ULM",47.97054,18.040467,,"EU","SK","SK-NJ","Komoča","no","LZKA",,,"LZKOMO",,,
+323872,"SK-0072","small_airport","Komoča Airfield",47.97054,18.040467,,"EU","SK","SK-NJ","Komoča","no","LZKA",,,,"https://airportkomoca.com/",,
 323952,"SK-0073","small_airport","Vankovia Airstrip",48.7640939,17.526797,,"EU","SK","SK-TC","Vankovia","no",,,,,,,
 324049,"SK-0074","small_airport","Rozhanovce Airstrip",48.751817,21.328326,656,"EU","SK","SK-KI","Rozhanovce","no",,,,,,,
 324146,"SK-0075","small_airport","Tomášovce Airstrip",48.35997,19.642739,,"EU","SK","SK-BC","Tomášovce","no",,,,,,,
@@ -79639,7 +79651,7 @@
 31838,"UUBS","small_airport","Smolensk South Airport",54.745,32.065,820,"EU","RU","RU-SMO","Smolensk","no","UUBS",,"UUBS",,,"https://en.wikipedia.org/wiki/Smolensk_South_Airport","Smolensk Yuzhny Airport, Аэропорт Смоленск Южный, УУБС"
 42967,"UUBW","large_airport","Zhukovsky International Airport",55.553299,38.150002,377,"EU","RU","RU-MOS","Moscow","yes","UUBW","ZIA","UUBW",,"http://zia.aero/","https://en.wikipedia.org/wiki/Zhukovsky_International_Airport","Аэропорт Раменское, Zhukovsky Air Base, Gromov Flight Research Institute, Лётно-исследовательский институт имени М. М. Громова, ЛИИ, Ramenskoye, Ramenskoye Airport"
 26394,"UUDD","large_airport","Domodedovo International Airport",55.408798,37.9063,588,"EU","RU","RU-MOS","Moscow","yes","UUDD","DME","UUDD",,"http://www.domodedovo.ru/en/","https://en.wikipedia.org/wiki/Domodedovo_International_Airport","MOW, Аэропорт Домоде́дово"
-26395,"UUDL","large_airport","Golden Ring Yaroslavl International Airport",57.560699,40.157398,287,"AS","RU","RU-YAR","Tunoshna","yes","UUDL","IAR","UUDL",,,"https://en.wikipedia.org/wiki/Tunoshna",
+26395,"UUDL","large_airport","Golden Ring Yaroslavl International Airport",57.560699,40.157398,287,"EU","RU","RU-YAR","Tunoshna","yes","UUDL","IAR","UUDL",,,"https://en.wikipedia.org/wiki/Tunoshna",
 26396,"UUEE","large_airport","Sheremetyevo International Airport",55.976858,37.41121,622,"EU","RU","RU-MOS","Moscow","yes","UUEE","SVO","UUEE",,"http://svo.aero/","https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport","УУЕЕ, Москва, MOW, Международный аэропорт Шереметьево, Alexander S. Pushkin"
 42990,"UUEI","small_airport","Kimry Airfield",56.798302,37.330002,449,"EU","RU","RU-TVE","Kimry","no",,,"UUEI",,"http://www.aero-club.ru/borki.php","https://en.wikipedia.org/wiki/Kimry_Airport","Borki,Kletino,Кимры,Борки,Клетино"
 26397,"UUEM","medium_airport","Migalovo Air Base",56.82469940185547,35.7577018737793,469,"EU","RU","RU-TVE","Tver","no","UUEM","KLD","UUEM",,,"https://en.wikipedia.org/wiki/Migalovo",
