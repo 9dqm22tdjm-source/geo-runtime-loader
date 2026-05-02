@@ -30494,10 +30494,10 @@
 17623,"HI01","small_airport","Princeville Airport",22.209313,-159.44515,344,"OC","US","US-HI","Hanalei","no",,"HPV","HI01","HI01",,"https://en.wikipedia.org/wiki/Princeville_Airport",
 17625,"HI03","small_airport","Hanamaulu Airstrip",22.041896,-159.388746,404,"OC","US","US-HI","Hanamaulu","no",,,"HI03","HI03",,,
 17626,"HI04","heliport","Hilo Medical Center Heliport",19.718464,-155.114422,487,"OC","US","US-HI","Hilo","no",,,"HI04","HI04",,,
-17627,"HI05","closed","Honokaa Airstrip",20.08334,-155.502252,1440,"NA","US","US-HI","Honokaa","no",,,,,,,"HI05"
+17627,"HI05","small_airport","Honokaa Airstrip [UNUSABLE]",20.08334,-155.502252,1440,"OC","US","US-HI","Honokaa, Hawaiʻi","no",,,"HI05","HI05",,,
 17628,"HI07","heliport","Waikoloa Heliport",19.920546,-155.860628,119,"OC","US","US-HI","Waikoloa Village","no",,"WKL","HI07","HI07",,,
 17629,"HI09","heliport","Honolulu Municipal Building Heliport",21.304213,-157.854802,231,"OC","US","US-HI","Honolulu","no",,,"HI09","HI09",,,
-17630,"HI12","heliport","Kahuku Medical Center Heliport",21.676956,-157.955166,40,"NA","US","US-HI","Kahuku","no",,,,,,,"HI12, K6YR1"
+17630,"HI12","heliport","Kahuku Medical Center Heliport",21.676956,-157.955166,40,"OC","US","US-HI","Kahuku, O'ahu","no",,,,,,,"HI12, K6YR1"
 17632,"HI18","heliport","Lucy Henriques Medical Center Heliport",20.02174,-155.663466,2707,"OC","US","US-HI","Waimea (Kamuela)","no",,,"HI18","HI18",,,
 4780,"HI22","closed","Tinian Heliport",14.963692,145.627127,75,"OC","MP","MP-U-A","San Jose, Tinian","no",,,,,,,"HI22"
 17633,"HI23","small_airport","Mountain View Airstrip",19.546359,-155.108116,1500,"OC","US","US-HI","Mountain View","no",,,"HI23","HI23",,,
@@ -30505,7 +30505,7 @@
 17635,"HI25","small_airport","Kaalaiki Airstrip",19.122507,-155.578398,1964,"OC","US","US-HI","Naalehu","no",,,"HI25","HI25",,,
 17636,"HI27","small_airport","Upper Paauilo Airstrip",20.028196,-155.388162,1520,"OC","US","US-HI","Paauilo","no",,,"HI27","HI27",,,
 17637,"HI28","small_airport","Pahala Airstrip",19.215392,-155.468559,1195,"OC","US","US-HI","Pahala","no",,,"HI28","HI28",,,
-17640,"HI32","closed","Pepeekeo Airstrip",19.846402,-155.107021,675,"NA","US","US-HI","Pepeekeo","no",,,,,,,"HI32"
+17640,"HI32","closed","Pepeekeo Airstrip",19.846402,-155.107021,675,"OC","US","US-HI","Pepeekeo, Hawaiʻi","no",,,,,,,"HI32"
 17641,"HI33","small_airport","Haiku Airstrip",21.966071,-159.426963,385,"OC","US","US-HI","Lihue","no",,,"HI33","HI33",,,"Puhi Airstrip"
 17642,"HI38","heliport","The Queen's Medical Center Heliport",21.308197,-157.853645,102,"OC","US","US-HI","Honolulu","no",,,"HI38","HI38",,,
 17643,"HI40","heliport","Kuakini Medical Center Heliport",21.32111,-157.85669,175,"OC","US","US-HI","Honolulu","no",,,"HI40","HI40",,,
@@ -53416,7 +53416,7 @@
 606192,"PH-0750","heliport","Mariveles Ferry Terminal Heliport",14.43581,120.49659,3,"AS","PH","PH-BAN","Mariveles","no",,,,,,,
 5441,"PHBK","medium_airport","Barking Sands Airport",22.0228,-159.785004,23,"OC","US","US-HI","Kekaha","no","PHBK","BKH","PHBK","BKH",,"https://en.wikipedia.org/wiki/Pacific_Missile_Range_Facility","Pacific Missle Range Facility Barking Sands, Kauai"
 5442,"PHDH","small_airport","Kawaihapai Airfield",21.5795,-158.197006,14,"OC","US","US-HI","Mokuleia","no","PHDH","HDH","PHDH","HDH",,"https://en.wikipedia.org/wiki/Dillingham_Airfield","Dillingham"
-17621,"PHHF","small_airport","French Frigate Shoals Airport",23.869467,-166.284977,6,"NA","US","US-HI","Tern Island","no",,,"PHHF","HFS",,"https://en.wikipedia.org/wiki/French_Frigate_Shoals_Airport",
+17621,"PHHF","small_airport","French Frigate Shoals Airport",23.869467,-166.284977,6,"OC","US","US-HI","Tern Island","no",,,"PHHF","HFS",,"https://en.wikipedia.org/wiki/French_Frigate_Shoals_Airport",
 5443,"PHHI","small_airport","Wheeler Army Airfield",21.481637,-158.037048,837,"OC","US","US-HI","Wahiawa","no","PHHI","HHI","PHHI","HHI",,"https://en.wikipedia.org/wiki/Wheeler_Army_Airfield",
 5444,"PHHN","medium_airport","Hana Airport",20.795601,-156.014008,78,"OC","US","US-HI","Hana","yes","PHHN","HNM","PHHN","HNM",,"https://en.wikipedia.org/wiki/Hana_Airport",
 335883,"PHIK","medium_airport","Hickam Air Force Base",21.335278,-157.948333,13,"OC","US","US-HI","Honolulu","no","PHIK",,"PHIK","HIK","https://www.hickam.af.mil","https://en.wikipedia.org/wiki/Hickam_Air_Force_Base",
@@ -53428,8 +53428,8 @@
 5450,"PHMK","medium_airport","Molokai Airport",21.152901,-157.095993,454,"OC","US","US-HI","Kaunakakai","yes","PHMK","MKK","PHMK","MKK",,"https://en.wikipedia.org/wiki/Molokai_Airport",
 5451,"PHMU","medium_airport","Waimea Kohala Airport",20.001301,-155.667999,2671,"OC","US","US-HI","Waimea (Kamuela)","yes","PHMU","MUE","PHMU","MUE",,"https://en.wikipedia.org/wiki/Waimea-Kohala_Airport",
 5452,"PHNG","medium_airport","Kaneohe Bay MCAS (Marion E. Carl Field) Airport",21.4505,-157.768005,24,"OC","US","US-HI","Kaneohe","no","PHNG","NGF","PHNG","NGF","http://www.mcbhawaii.marines.mil/Units/SubordinateCommands/MarineCorpsAirStation.aspx","https://en.wikipedia.org/wiki/Marine_Corps_Air_Station_Kaneohe_Bay",
-5453,"PHNL","large_airport","Daniel K. Inouye International Airport",21.318387,-157.92567,13,"NA","US","US-HI","Honolulu, Oahu","yes","PHNL","HNL","PHNL","HNL","http://airports.hawaii.gov/hnl/","https://en.wikipedia.org/wiki/Daniel_K._Inouye_International_Airport","Hickam Air Force Base, HIK, PHIK, KHNL, Honolulu International"
-23310,"PHNP","closed","Ford Island Naval Auxiliary Landing Field",21.362946,-157.961784,18,"NA","US","US-HI","Honolulu","no",,,,,,"https://en.wikipedia.org/wiki/Naval_Auxiliary_Landing_Field_Ford_Island","PHNP, NPS"
+5453,"PHNL","large_airport","Daniel K. Inouye International Airport",21.318387,-157.92567,13,"OC","US","US-HI","Honolulu, Oahu","yes","PHNL","HNL","PHNL","HNL","http://airports.hawaii.gov/hnl/","https://en.wikipedia.org/wiki/Daniel_K._Inouye_International_Airport","Hickam Air Force Base, HIK, PHIK, KHNL, Honolulu International"
+23310,"PHNP","closed","Ford Island Naval Auxiliary Landing Field",21.362946,-157.961784,18,"OC","US","US-HI","Honolulu, Oahu","no",,,,,,"https://en.wikipedia.org/wiki/Naval_Auxiliary_Landing_Field_Ford_Island","PHNP, NPS"
 5454,"PHNY","medium_airport","Lanai Airport",20.785675,-156.951324,1308,"OC","US","US-HI","Lanai City","yes","PHNY","LNY","PHNY","LNY",,"https://en.wikipedia.org/wiki/Lanai_Airport",
 5455,"PHOG","large_airport","Kahului International Airport",20.896263,-156.431837,54,"OC","US","US-HI","Kahului","yes","PHOG","OGG","PHOG","OGG","https://airports.hawaii.gov/ogg/","https://en.wikipedia.org/wiki/Kahului_Airport",
 24070,"PHPA","small_airport","Port Allen Airport",21.8969,-159.602997,24,"OC","US","US-HI","Hanapepe","no","PHPA","PAK","PHPA","PAK",,"https://en.wikipedia.org/wiki/Port_Allen_Airport",
@@ -53824,6 +53824,7 @@
 607972,"PL-0284","small_airport","Osieczany Ultralight Strip",49.849164,19.987822,,"EU","PL","PL-MA",,"no",,,,,,,
 608083,"PL-0285","small_airport","Irządze Airstrip",50.62249,19.7113,,"EU","PL","PL-SL",,"no",,,,,,,
 608085,"PL-0286","small_airport","Pałowo Airstrip",54.44638,16.81782,,"EU","PL","PL-ZP","Słupsk","no",,,,,,,
+608243,"PL-0287","small_airport","Osiek Airstrip",53.182736,19.390247,,"EU","PL","PL-KP",,"no",,,,,,,
 5493,"PLCH","large_airport","Cassidy International Airport",1.986278,-157.350011,5,"OC","KI","KI-L","Kiritimati","yes","PLCH","CXI","PLCH",,,"https://en.wikipedia.org/wiki/Cassidy_International_Airport","Christmas Island, Banana"
 32466,"PLFA","small_airport","Tabuaeran Island Airport",3.89944,-159.389008,,"OC","KI","KI-L","Tabuaeran Island","no","PLFA","TNV","PLFA",,,"https://de.wikipedia.org/wiki/Flugplatz_Tabuaeran","Fanning Island"
 6493,"PLPA","small_airport","Palmyra (Cooper) Airport",5.888748,-162.077866,5,"OC","UM","UM-95","Palmyra Island Atoll","no","PLPA",,"PLPA","P16",,"https://en.wikipedia.org/wiki/Palmyra_(Cooper)_Airport",
@@ -55939,7 +55940,7 @@
 348670,"RU-0768","closed","Romanovo Airfield",56.66735,39.24273,568,"EU","RU","RU-YAR","Romanovo","no",,,,,,,"ZCG1, ЗЦГ1, Романово, Lyubimtsevo"
 348671,"RU-0769","small_airport","Nekrasovo Airfield",57.78792,40.84022,256,"EU","RU","RU-KOS","Nekrasovo","no",,,,,,,
 348672,"RU-0770","small_airport","Manturovo Airfield",58.36749,44.7957,374,"EU","RU","RU-KOS","Manturovo","no",,,,,,,
-349399,"RU-0771","heliport","Belokurikha Heliport",52.04691,84.90723,725,"AS","RU","RU-ALT","Belokurikha","no",,,,,,,
+349399,"RU-0771","heliport","Sychevka Heliport",52.04691,84.90723,725,"AS","RU","RU-ALT","Belokurikha","no",,,,"HHZ6",,,"ХХЗ6, Белокуриха"
 349400,"RU-0772","small_airport","Belokurikha Airport",52.0645,85.02143,741,"AS","RU","RU-ALT","Belokurikha","no",,,,,,,
 351016,"RU-0773","small_airport","Ustinovo Aerodrome",54.85274,60.00283,1293,"EU","RU","RU-CHE","Miass","no",,,,,,,
 351017,"RU-0774","small_airport","Galitskiy Aerodrome",54.83703,58.36763,1388,"EU","RU","RU-CHE","Yuryuzan","no",,,,,,,
@@ -56468,7 +56469,7 @@
 34998,"RU-6553","closed","Khada Bulak Air Base",50.599998474121094,116.38300323486328,2339,"AS","RU","RU-ZAB","Sherlovaya Gora","no",,,,,,"https://en.wikipedia.org/wiki/Khada_Bulak",
 35029,"RU-6558","medium_airport","Lyambir Air Base",54.28499984741211,45.16830062866211,653,"EU","RU","RU-MO","Saransk","no",,,,,,"https://en.wikipedia.org/wiki/Lyambir","Ljambr, Ljambir, Лямбирь"
 35103,"RU-6560","medium_airport","Ulan-Ude East Airport",51.849998,107.737999,1670,"AS","RU","RU-BU","Ulan Ude","no",,,"XIUW",,,"https://en.wikipedia.org/wiki/Ulan-Ude_Vostochny_Airport","Ulan-Ude Vostochny Airport, Аэропорт Улан-Удэ Восточный"
-35036,"RU-6687","medium_airport","Michurinsk Air Base",52.917455,40.365826,538,"AS","RU","RU-TAM","Michurinsk","no",,,,"XUWM",,"https://en.wikipedia.org/wiki/Michurinsk_(air_base)","ЬУВМ, Мичуринск, Michurinsk Northwest, Kozlov"
+35036,"RU-6687","medium_airport","Michurinsk Air Base",52.917455,40.365826,538,"EU","RU","RU-TAM","Michurinsk","no",,,,"XUWM",,"https://en.wikipedia.org/wiki/Michurinsk_(air_base)","ЬУВМ, Мичуринск, Michurinsk Northwest, Kozlov"
 34992,"RU-6699","closed","Idritsa Air Base",56.34830093383789,28.893299102783203,443,"EU","RU","RU-PSK","Idritsa","no",,,,,,"https://en.wikipedia.org/wiki/Idritsa",
 35072,"RU-6878","small_airport","Savasleyka Air Base",55.439999,42.310001,335,"EU","RU","RU-NIZ","Vykska","no",,,,"XUDE",,"https://en.wikipedia.org/wiki/Savasleyka","Savasleika, Savastleyka, Savostleyka, Murom"
 35043,"RU-6960","closed","Nivenskoye Air Base",54.562333,20.603224,66,"EU","RU","RU-KGD","Kaliningrad","no",,,,,,"https://en.wikipedia.org/wiki/Nivenskoye","XMWN, ЬМВН, Нивенское"
@@ -58613,7 +58614,7 @@
 29318,"SE-0095","closed","Urasa Air Base",56.6814002991,14.9467000961,,"EU","SE","SE-G","Växjö","no",,,,,,"http://sv.wikipedia.org/wiki/Ur%C3%A5sa_flygbas","ESFU, ESFU"
 29319,"SE-0096","closed","Byholma Air Base",56.7834014893,13.6014003754,,"EU","SE","SE-G","Byholma","no",,,,,,"http://sv.wikipedia.org/wiki/Byholma_flygbas","ESFY, ESFY"
 29341,"SE-0097","closed","Björkvik Air Base",58.790798,16.571199,,"EU","SE","SE-D","Björkvik","no",,,,,,,"ESKX"
-29349,"SE-0098","closed","Trelleborg Airport",55.3833007812,13.0310001373,,"EU","SE","SE-M","Trelleborg","no",,,,,,,"Maglarp Airport, ESMR"
+29349,"SE-0098","closed","Trelleborg Airfield",55.383301,13.031,,"EU","SE","SE-M","Trelleborg","no",,,,,,,"Maglarp Airport, ESMR"
 29351,"SE-0099","closed","Tingsryd Airport",56.5331,14.9641,,"EU","SE","SE-G","Tingsryd","no",,,,,,,"ESMW"
 29356,"SE-0100","closed","Färila Air Base",61.897999,15.7053,676,"EU","SE","SE-X","Färila","no",,,,,,"https://sv.wikipedia.org/wiki/F%C3%A4rila_flygbas","ESNF, Föne"
 29357,"SE-0101","closed","Kubbe Air Base",63.632499694824,17.936000823975,,"EU","SE","SE-Y","Kubbe","no",,,,,,,"ESNI, ESNI"
@@ -58632,6 +58633,7 @@
 596437,"SE-0114","small_airport","Esgrene Field",58.132092,11.775177,20,"EU","SE","SE-Q","Svanesund, Ourst","no",,,,,"http://orustfly.com/",,"Burås/Grenegård"
 597819,"SE-0115","closed","Göteborg Torslanda",57.70761,11.77764,,"EU","SE","SE-Q",,"no",,,,,,"https://en.wikipedia.org/wiki/Torslanda_Airport","ESGB, GOT"
 599651,"SE-0116","heliport","Gotska Sandön Heliport",58.391302,19.191707,,"EU","SE","SE-I","Gotska Sandön","no",,,,,,,
+608242,"SE-0117","small_airport","Fridhem Farm Airstrip",55.42708,13.0087,,"EU","SE","SE-M",,"no",,,,,,,
 2170,"SE01","small_airport","Alba Elena Airport",-2.173581,-79.280763,150,"SA","EC","EC-G","Bucay","no",,,"SEAE",,,,"SE01, Coronel Marcelino Mariduena"
 2171,"SE02","small_airport","Guabital Airport",-2.773399,-79.702411,45,"SA","EC","EC-G","Soledad","no",,,"SEGB",,,,"SE02"
 2172,"SE03","small_airport","Las Peñas Airport",-2.94716,-80.1007,3,"SA","EC","EC-G","Puerto Grande","no",,,"SEEN",,,,"SE03"
@@ -66113,6 +66115,7 @@
 335177,"UEKO","small_airport","Delgey Airport",59.907533,118.649383,,"EU","RU","RU-SA",,"no",,,"UEKO",,,,
 335163,"UEKU","small_airport","Kutana Airport",59.028719,131.788731,,"EU","RU","RU-SA",,"yes",,,"UEKU",,,,
 335165,"UEKY","small_airport","Keng-Kyuyol Airport",68.076828,145.985126,,"EU","RU","RU-SA","Keng-Kyuyol","no",,,"UEKY",,,,
+608246,"UELD","small_airport","Yukovsk Airport",56.894064,124.870462,2759,"EU","RU","RU-SA","Chulman","no",,,"UELD",,,,"УЕЛД, Юковск, Чульман"
 5751,"UELL","medium_airport","Chulman Airport",56.913898468018,124.91400146484,2812,"AS","RU","RU-SA","Neryungri","yes","UELL","NER","UELL",,,"https://en.wikipedia.org/wiki/Chulman_Airport","Neryungri Airport, Аэропорт Чульман, Аэропорт Нерюнгри, CNN"
 335178,"UELT","small_airport","Torgo Airport",58.44634,119.504728,,"EU","RU","RU-SA",,"no",,,"UELT",,,,
 32509,"UEMA","medium_airport","Moma Airport",66.450861,143.261551,656,"AS","RU","RU-SA","Khonuu","yes","UEMA","MQJ","UEMA",,,"https://en.wikipedia.org/wiki/Moma_Airport","Аэропорт Мома"
@@ -66377,7 +66380,7 @@
 6488,"ULAA","medium_airport","Talagi Airport",64.60030364990234,40.71670150756836,62,"EU","RU","RU-ARK","Archangelsk","yes","ULAA","ARH","ULAA",,,"https://en.wikipedia.org/wiki/Talagi_Airport","Арха́нгельск, Archangel"
 604039,"ULAD","heliport","Severodvinsk Heliport",64.531319,39.774132,163,"EU","RU","RU-ARK","Severodvinsk","no",,,"ULAD",,,,"УЛАД, Северодвинск"
 35124,"ULAH","medium_airport","Vaskovo Airport",64.441704,40.4217,82,"EU","RU","RU-ARK","Arkhangelsk","no",,"VKV","ULAH","ULAH",,"https://en.wikipedia.org/wiki/Vaskovo_Airport","Аэропорт Архангельск Васьково, УЛАХ, ЬЛАХ, Vas'kovo"
-44768,"ULAL","small_airport","Leshukonskoye Airport",64.8960037231,45.7229995728,220,"EU","RU","RU-ARK","Leshukonskoye","yes","ULAL","LDG","ULAL",,,"https://en.wikipedia.org/wiki/Leshukonskoye_Airport","Leshukonskoe Airport, Аэропорт Лешуконское"
+44768,"ULAL","small_airport","Leshukonskoye Airport",64.896004,45.723,220,"EU","RU","RU-ARK","Leshukonskoye","yes","ULAL","LDG","ULAL",,,"https://en.wikipedia.org/wiki/Leshukonskoye_Airport","УЛАЛ, Leshukonskoe Airport, Аэропорт Лешуконское"
 32040,"ULAM","medium_airport","Naryan Mar Airport",67.639999,53.121899,36,"EU","RU","RU-NEN","Naryan Mar","yes","ULAM","NNM","ULAM",,,"https://en.wikipedia.org/wiki/Naryan-Mar_Airport","Нарья́н-Мар"
 46485,"ULAO","small_airport","Onega Airfield",63.909376,38.121786,59,"EU","RU","RU-ARK","Onega","no",,,"ULAO",,,"https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B5%D0%B3%D0%B0_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)","Аэропорт Онега, УЛАО"
 44755,"ULAR","small_airport","Kargopol",61.515033,38.912039,420,"EU","RU","RU-ARK","Kargopol","no",,,"ULAR",,,,"Аэропорт Каргополь, УЛАР"
@@ -79677,7 +79680,7 @@
 42995,"UUOD","small_airport","Pridacha Airport",51.652861,39.256244,344,"EU","RU","RU-VOR","Voronezh","no",,,"UUOD",,"http://www.vaso.ru/","https://en.wikipedia.org/wiki/Pridacha_Airport","УУОД, Аэропорт Придача, Repnoe Airport, Voronezh East Airport"
 26399,"UUOK","medium_airport","Kursk East Airport",51.7505989074707,36.29560089111328,686,"EU","RU","RU-KRS","Kursk","yes","UUOK","URS","UUOK",,,"https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport","Kursk Vostochny Airport"
 31846,"UUOL","medium_airport","Lipetsk Airport",52.70280075073242,39.53779983520508,584,"EU","RU","RU-LIP","Lipetsk","yes","UUOL","LPK","UUOL",,,"https://en.wikipedia.org/wiki/Lipetsk_Airport",
-26400,"UUOO","large_airport","Voronezh International Airport",51.813683,39.231711,514,"AS","RU","RU-VOR","Voronezh","yes","UUOO","VOZ","UUOO",,,"https://en.wikipedia.org/wiki/Voronezh_International_Airport","Chertovitskoye Airport, Chertovitskoe Airport, Аэропорт Воронеж, Аэропорт Чертовицкое"
+26400,"UUOO","medium_airport","Voronezh International Airport",51.814324,39.230948,514,"EU","RU","RU-VOR","Voronezh","yes","UUOO","VOZ","UUOO",,,"https://en.wikipedia.org/wiki/Voronezh_International_Airport","УУОО, Chertovitskoye Airport, Chertovitskoe Airport, Аэропорт Воронеж, Аэропорт Чертовицкое"
 604037,"UUOQ","small_airport","Parus Airfield",51.587233,39.490063,366,"EU","RU","RU-VOR","Parusnoye","no",,,"UUOQ",,,,"УУОЯ, Парус, Парусное"
 32427,"UUOT","medium_airport","Donskoye Airport",52.806099,41.4828,413,"EU","RU","RU-TAM","Tambov","no","UUOT","TBW","UUOT",,,"https://en.wikipedia.org/wiki/Tambov_Donskoye_Airport",
 600077,"UUOW","small_airport","Valuyki  Airfield",50.224929,38.110891,593,"EU","RU","RU-BEL","Valuyki","no",,,"UUOW",,,,"УУОВ, Валуйки"
@@ -79721,7 +79724,7 @@
 26408,"UWOO","medium_airport","Orenburg Central Airport",51.792668,55.457229,387,"AS","RU","RU-ORE","Orenburg","yes","UWOO","REN","UWOO",,"http://www.airoport.orenair.ru/","https://en.wikipedia.org/wiki/Orenburg_Tsentralny_Airport","Orenburg Tsentralny Airport, Аэропорт Центральный"
 26409,"UWOR","medium_airport","Orsk Airport",51.072498,58.5956,909,"AS","RU","RU-ORE","Orsk","yes","UWOR","OSW","UWOR",,,"https://en.wikipedia.org/wiki/Orsk_Airport",
 335161,"UWOS","small_airport","Svetlyy Airport",50.800721,60.902367,978,"AS","RU","RU-ORE",,"yes",,,"UWOS",,,,
-32155,"UWPP","medium_airport","Penza Airport",53.110599517822266,45.02109909057617,614,"EU","RU","RU-PNZ","Penza","yes","UWPP","PEZ","UWPP",,,"https://en.wikipedia.org/wiki/Penza_Airport","Penza South"
+32155,"UWPP","medium_airport","Penza Airport",53.1106,45.021099,614,"AS","RU","RU-PNZ","Penza","yes","UWPP","PEZ","UWPP",,,"https://en.wikipedia.org/wiki/Penza_Airport","УВПП, Пенза, Penza South"
 42965,"UWPS","large_airport","Saransk International Airport",54.12513,45.212257,676,"EU","RU","RU-MO","Saransk","yes","UWPS","SKX","UWPS",,,"https://en.wikipedia.org/wiki/Saransk_Airport","Аэропорт Саранск"
 30804,"UWSB","medium_airport","Balakovo Airport",51.858299,47.745602,95,"AS","RU","RU-SAR","Balakovo","yes","UWSB","BWO","UWSB",,,"https://en.wikipedia.org/wiki/Balakovo_Airport","Malaya Bykovka Airport, Аэропорт Балаково, Аэропорт Малая Быковка"
 339001,"UWSG","large_airport","Gagarin International Airport",51.712778,46.171111,103,"AS","RU","RU-SAR","Saratov","yes","UWSG","GSV","UWSG",,"http://gsv.aero/en/","https://en.wikipedia.org/wiki/Saratov_Gagarin_Airport","УВСГ, Гагарин, Саратов"
@@ -83653,7 +83656,7 @@
 38511,"YNES","small_airport","Nelson Springs Airport",-17.299999237060547,129.2830047607422,,"OC","AU","AU-NT",,"no",,,"YNES",,,,
 333683,"YNEY","heliport","Nelly Bay Heliport",-19.161882,146.853769,,"OC","AU","AU-QLD","Nelly Bay, Magnetic Island","no",,,"YNEY",,,,
 27838,"YNGB","small_airport","Nagambie Airport",-36.73830032348633,145.125,,"OC","AU","AU-VIC",,"no",,,"YNGB",,,,
-27083,"YNGU","medium_airport","Ngukurr Airport",-14.7228,134.746994,45,"OC","AU","AU-NT",,"no","YNGU","RPM","YNGU",,,"https://en.wikipedia.org/wiki/Ngukurr_Airport",
+27083,"YNGU","medium_airport","Ngukurr Airport",-14.7228,134.746994,45,"OC","AU","AU-NT","Roper River","no","YNGU","RPM","YNGU",,,"https://en.wikipedia.org/wiki/Ngukurr_Airport",
 525292,"YNGW","small_airport","Skydive Nagambie Airport",-36.788471,145.039724,475,"OC","AU","AU-VIC",,"no",,,"YNGW",,,,
 27084,"YNHL","small_airport","Nhill Airport",-36.310088,141.643375,454,"OC","AU","AU-VIC","Nhill","no",,,"YNHL",,,"https://en.wikipedia.org/wiki/Nhill_Airport",
 27839,"YNHP","small_airport","Northampton Airport",-28.342045,114.716964,916,"OC","AU","AU-WA","East Bowes","no",,,"YNHP",,,,
