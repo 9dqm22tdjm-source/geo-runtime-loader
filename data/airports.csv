@@ -12105,7 +12105,7 @@
 61,"AYKV","medium_airport","Kavieng Airport",-2.57940006256,150.807998657,7,"OC","PG","PG-NIK","Kavieng","yes","AYKV","KVG","AYKV",,,"https://en.wikipedia.org/wiki/Kavieng_Airport",
 42764,"AYKW","small_airport","Kawito Airport",-7.977006912229999,142.823577881,72,"OC","PG","PG-WPD","Kawito","no","AYKW","KWO","AYKW","KWT",,,
 31837,"AYKY","small_airport","Londolovit Airport",-3.04361009598,152.628997803,167,"OC","PG","PG-NIK","Londolovit","yes","AYKY","LNV","AYKY",,,"https://en.wikipedia.org/wiki/Lihir_Island_Airport","Lihir Island, Kunaye"
-313788,"AYKZ","small_airport","Kairiru Airstrip",-3.3687,143.5546,60,"OC","PG","PG-ESW","Kairiru Island","no",,,"AYKZ","KAI",,,
+313788,"AYKZ","small_airport","Kairiru Airstrip",-3.368744,143.554225,60,"OC","PG","PG-ESW","Kairiru Island","no","AYKZ",,"AYKZ","KAI",,,
 312686,"AYLB","small_airport","Lab Lab Airport",-5.7204,148.0566,160,"OC","PG","PG-MPL","Lab Lab Mission","no","AYLB","LAB","AYLB","LAB",,,"Lablab"
 314947,"AYLC","small_airport","Lake Campbell Airstrip",-6.7486,142.6037,585,"OC","PG","PG-WPD","Lake Campbell","no",,,"AYLC",,,,
 313941,"AYLE","small_airport","Lele Airstrip",-5.2192,151.3938,1600,"OC","PG","PG-EBR","Leli","no",,,"AYLE","LELE",,,"Leli"
@@ -21365,7 +21365,7 @@
 316646,"CZ-0081","small_airport","Třebíč Airfield",49.198333,15.903056,1594,"EU","CZ","CZ-VY","Třebíč","no",,,,"LKTREB",,,
 316648,"CZ-0082","small_airport","Borovník Airfield",49.358611,16.242222,,"EU","CZ","CZ-JM","Borovník","no",,,,"LKBORO",,,
 316649,"CZ-0083","small_airport","Škudly Airstrip",50.021944,15.520556,,"EU","CZ","CZ-ST","Přelouč","no",,,,,,,
-316650,"CZ-0084","small_airport","Dačice Airfield",49.06986,15.456004,1621,"EU","CZ","CZ-JC","Dačice","no",,,,,,,
+316650,"CZ-0084","closed","Dačice Airfield",49.06986,15.456004,1621,"EU","CZ","CZ-JC","Dačice","no",,,,,,,
 316656,"CZ-0085","small_airport","Jehnědí Airfield",49.965,16.309722,1476,"EU","CZ","CZ-PA","Jehnědí","no",,,,"LKJEHN",,,
 316657,"CZ-0086","small_airport","Kunětice Airfield",50.068333,15.8125,728,"EU","CZ","CZ-PA","Kunětice","no",,,,"LKKUNE",,,
 316658,"CZ-0087","small_airport","Charvátce Airfield",50.433427,13.811113,915,"EU","CZ","CZ-US","Libčeves","no",,,,"LKCHAR",,,"Letiště Charvátce"
@@ -24470,7 +24470,7 @@
 2566,"ENAT","medium_airport","Alta Airport",69.976097,23.3717,9,"EU","NO","NO-56","Alta","yes","ENAT","ALF","ENAT",,"https://avinor.no/en/airport/alta-airport/","https://en.wikipedia.org/wiki/Alta_Airport",
 319091,"ENAX","heliport","Ålesund Heliport, Hospital",62.462942,6.312435,,"EU","NO","NO-15","Ålesund","no",,,"ENAX",,,"https://en.wikipedia.org/wiki/%C3%85lesund_Heliport,_Hospital",
 319093,"ENBA","heliport","Barentsburg Heliport, Heerodden",78.101098,14.205777,92,"EU","NO","NO-21","Barentsburg","no","ENBA",,"ENBA",,,"https://en.wikipedia.org/wiki/Barentsburg_Heliport,_Heerodden",
-29253,"ENBE","heliport","Balder A FPU",59.190601,2.35806,,"EU","NO","NO-XX",,"no",,,"ENBE",,,,
+29253,"ENBE","heliport","Balder A FPU",59.190601,2.35806,,"EU","NO","NO-XX","North Sea","no","ENBE",,"ENBE",,,,
 298358,"ENBG","heliport","Grønneviksøren (Haukeland Sykehus) Heliport",60.37988,5.346029,10,"EU","NO","NO-46","Bergen","no",,,"ENBG",,,"https://en.wikipedia.org/wiki/Bergen_Heliport,_Gr%C3%B8nneviks%C3%B8ren",
 318215,"ENBJ","heliport","Bjørnøya Heliport",74.5038889,19,,"EU","NO","NO-21","Herwighamna","no",,,"ENBJ",,,,"Bjørnøya"
 29254,"ENBL","small_airport","Førde Airport, Bringeland",61.391102,5.75694,1046,"EU","NO","NO-46","Førde","yes","ENBL","FDE","ENBL",,"https://avinor.no/en/airport/forde-airport/","https://en.wikipedia.org/wiki/F%C3%B8rde_Airport%2C_Bringeland","bringeland"
@@ -25382,26 +25382,26 @@
 30031,"EYKL","small_airport","Klaipėda Airfield",55.712021,21.242892,59,"EU","LT","LT-KL","Klaipėda","no","EYKL",,"EYKL",,"http://www.airportklaipeda.lt/","https://en.wikipedia.org/wiki/Klaip%C4%97da_Airport","KLJ, Klaipėdos oro uostas"
 2761,"EYKS","small_airport","S. Darius and S. Girėnas Airfield",54.879799,23.8815,246,"EU","LT","LT-KU","Kaunas","no","EYKS",,"EYKS",,,"https://en.wikipedia.org/wiki/S._Darius_and_S._Gir%C4%97nas_Airport",
 30011,"EYKT","small_airport","Kartena Airfield",55.921791,21.566704,259,"EU","LT","LT-KL","Kartena","no","EYKT",,"EYKT",,,,
-30521,"EYLN","small_airport","Valenčiūnai Airfield",55.0214,22.9739,171,"EU","LT","LT-MR","Valenčiūnai","no",,,"EYLN",,,,
+30521,"EYLN","closed","Valenčiūnai Airfield",55.0214,22.9739,171,"EU","LT","LT-MR","Valenčiūnai","no",,,,,,,"EYLN"
 30486,"EYMA","small_airport","Mazeikiai / J.Kumpikeviciaus Airfield",56.230598,22.259399,259,"EU","LT","LT-TE","Tirkšliai / Mažeikiai","no","EYMA",,"EYMA",,,,
 30397,"EYMM","small_airport","Sasnava Airfield",54.66433,23.455279,240,"EU","LT","LT-MR","Sasnava","no","EYMM",,"EYMM",,,,
-30150,"EYMO","small_airport","Molėtai Airfield",55.112801,25.336399,650,"EU","LT","LT-UT","Molėtai","no",,,"EYMO",,,,
-29650,"EYNA","small_airport","Akmenė Airfield",56.242199,22.733101,259,"EU","LT","LT-SA","Akmenė","no",,,"EYNA",,,,
+30150,"EYMO","small_airport","Molėtai Airfield",55.112875,25.336484,650,"EU","LT","LT-UT","Molėtai","no","EYMO",,"EYMO",,,,
+29650,"EYNA","small_airport","Akmenė Airfield",56.242199,22.733101,259,"EU","LT","LT-SA","Akmenė","no","EYNA",,"EYNA",,,,
 43205,"EYND","small_airport","Nida Airfield",55.327778,21.045834,6,"EU","LT","LT-KL","Nida","no",,,"EYNI",,,"https://en.wikipedia.org/wiki/Nida_Airfield",
-324054,"EYNE","heliport","Nemirseta Heliport",55.861276,21.07831,,"EU","LT","LT-KL","Nemirseta","no",,,"EYNE",,,,
+324054,"EYNE","heliport","Nemirseta Heliport",55.861442,21.078986,,"EU","LT","LT-KL","Nemirseta","no","EYNE",,"EYNE",,,,
 2762,"EYPA","large_airport","Palanga International Airport",55.973202,21.093901,33,"EU","LT","LT-KL","Palanga","yes","EYPA","PLQ","EYPA",,"http://www.palanga-airport.lt/","https://en.wikipedia.org/wiki/Palanga_International_Airport",
-331448,"EYPH","heliport","Paluknys Heli Base",54.486807,24.997326,,"EU","LT","LT-VL",,"no",,,"EYPH",,,,
-30237,"EYPI","small_airport","Panevėžys Istra Airfield",55.827499,24.358299,171,"EU","LT","LT-PN","Panevėžys /  Istra","no",,,"EYPI",,,"https://lt.wikipedia.org/wiki/%C4%AEstros_aerodromas",
+331448,"EYPH","heliport","Paluknys Heli Base",54.486807,24.997326,,"EU","LT","LT-VL",,"no","EYPH",,"EYPH",,,,
+30237,"EYPI","small_airport","Panevėžys Istra Airfield",55.828144,24.35704,171,"EU","LT","LT-PN","Panevėžys /  Istra","no","EYPI",,"EYPI",,,"https://lt.wikipedia.org/wiki/%C4%AEstros_aerodromas",
 30238,"EYPN","small_airport","Panevėžys Airfield",55.709512,24.345188,171,"EU","LT","LT-PN","Panevėžys","no",,,"EYPN",,,,
 2763,"EYPP","medium_airport","Panevėžys Air Base",55.729400634765625,24.460800170898438,197,"EU","LT","LT-PN","Panevėžys","no","EYPP","PNV","EYPP",,,"https://en.wikipedia.org/wiki/Panev%C4%97%C5%BEys_Air_Base","Pajuostis, Tulpė"
-30273,"EYPR","small_airport","Pociūnai Airfield",54.649399,24.061899,200,"EU","LT","LT-KU","Pociūnai","no",,,"EYPR",,"http://www.pociunai.lt/","https://en.wikipedia.org/wiki/Poci%C5%ABnai_Airport",
-30353,"EYRD","small_airport","Rūdiškės Airfield",54.495602,24.717501,522,"EU","LT","LT-VL","Rūdiškės","no",,,"EYRD",,,"https://lt.wikipedia.org/wiki/R%C5%ABdi%C5%A1ki%C5%B3_aerodromas",
+30273,"EYPR","small_airport","Pociūnai Airfield",54.652212,24.058748,200,"EU","LT","LT-KU","Pociūnai","no","EYPR",,"EYPR",,"http://www.pociunai.lt/","https://en.wikipedia.org/wiki/Poci%C5%ABnai_Airport",
+30353,"EYRD","small_airport","Rūdiškės Airfield",54.495661,24.718023,522,"EU","LT","LT-VL","Rūdiškės","no","EYRD",,"EYRD",,,"https://lt.wikipedia.org/wiki/R%C5%ABdi%C5%A1ki%C5%B3_aerodromas",
 30348,"EYRK","small_airport","Rokiškio aerodromas",55.971924,25.604239,459,"EU","LT","LT-PN","Rokiškis","no",,,"EYRK",,,,
-30347,"EYRO","small_airport","Rojūnai Airfield",55.610802,24.2208,180,"EU","LT","LT-PN","Rojūnai","no",,,"EYRO",,,,
+30347,"EYRO","small_airport","Rojūnai Airfield",55.610802,24.2208,180,"EU","LT","LT-PN","Rojūnai","no","EYRO",,"EYRO",,,,
 2764,"EYSA","medium_airport","Šiauliai International Airport",55.89390182495117,23.395000457763672,443,"EU","LT","LT-SA","Šiauliai","no","EYSA","SQQ","EYSA",,"http://www.airport.siauliai.lt/","https://en.wikipedia.org/wiki/%C5%A0iauliai_International_Airport","Zokniai Airport, Zoknių oro uostas"
-2765,"EYSB","medium_airport","Barysiai Airfield",56.070599,23.5581,270,"EU","LT","LT-SA","Šiauliai","no",,,"EYSB",,,"https://en.wikipedia.org/wiki/Barysiai_Airport","HLJ"
-30403,"EYSE","small_airport","Šeduva Airfield",55.746399,23.804701,259,"EU","LT","LT-SA","Šeduva / Šiauliai","no",,,"EYSE",,"http://www.siauliuaeroklubas.lt/","https://lt.wikipedia.org/wiki/%C5%A0eduvos_aerodromas",
-30415,"EYSI","small_airport","Šilute Air Base",55.336899,21.5306,59,"EU","LT","LT-KL","Šilute","no",,,"EYSI",,,"https://en.wikipedia.org/wiki/%C5%A0ilut%C4%97_Airfield",
+2765,"EYSB","medium_airport","Barysiai Airfield",56.070599,23.5581,270,"EU","LT","LT-SA","Šiauliai","no","EYSB",,"EYSB",,,"https://en.wikipedia.org/wiki/Barysiai_Airport","HLJ"
+30403,"EYSE","small_airport","Šeduva Airfield",55.745938,23.804506,259,"EU","LT","LT-SA","Šeduva / Šiauliai","no","EYSE",,"EYSE",,"http://www.siauliuaeroklubas.lt/","https://lt.wikipedia.org/wiki/%C5%A0eduvos_aerodromas",
+30415,"EYSI","small_airport","Šilute Airfield",55.336308,21.526765,59,"EU","LT","LT-KL","Šilute","no","EYSI",,"EYSI",,,"https://en.wikipedia.org/wiki/%C5%A0ilut%C4%97_Airfield",
 30479,"EYTL","small_airport","Telšiai Airfield",55.986401,22.2878,410,"EU","LT","LT-TE","Telšiai","no",,,"EYTL",,,,
 30514,"EYUT","small_airport","Utena Airfield",55.490002,25.7169,620,"EU","LT","LT-UT","Utena","no",,,"EYUT",,,,
 2766,"EYVI","large_airport","Vilnius International Airport",54.634102,25.285801,648,"EU","LT","LT-VL","Vilnius","yes","EYVI","VNO","EYVI",,"http://www.vilnius-airport.lt/en/","https://en.wikipedia.org/wiki/Vilnius_International_Airport",
@@ -31275,7 +31275,7 @@
 310458,"ID-0079","small_airport","Kerapak Airstrip",0.0939,111.9083,157,"AS","ID","ID-KB","Kerapak","no",,,,"KRA",,,"WZ42"
 310463,"ID-0080","small_airport","Kiwi Airstrip",-4.697841,140.722425,5260,"AS","ID","ID-PP","Kiwi","yes",,,"WRGK","KIW",,,
 310465,"ID-0081","small_airport","Kobagma Airport",-3.666539,139.058758,3195,"AS","ID","ID-PP","Kobagma","no","WAVK",,"WAVK",,,,"WZ44, Kobakma"
-310468,"ID-0082","small_airport","Komopa Airstrip",-3.7998,136.4775,5822,"AS","ID","ID-PT","Komopa","no",,,,"KOM",,,"WZ45"
+310468,"ID-0082","small_airport","Komopa Airstrip",-3.7998,136.4775,5822,"AS","ID","ID-PT","Komopa","no","WRLN",,"WRLN","KOM",,,"WZ45"
 310470,"ID-0083","small_airport","Koropun Airstrip",-4.479226,139.649894,5900,"AS","ID","ID-PP","Koropun","no",,,,"KOR",,,"WZ48"
 310474,"ID-0084","small_airport","Kuala Kurun Airport",-1.128903,113.873075,115,"AS","ID","ID-KT","Kuala Kurun","no",,"GXM","WAGA",,,,"WT81"
 310478,"ID-0085","small_airport","Kuala Randau Airstrip",-0.582399,110.472759,240,"AS","ID","ID-KB","Semandang Hulu","no",,,"WIAQ",,,,"WZ54"
@@ -33716,6 +33716,12 @@
 608221,"IT-0875","heliport","Elisuperficie heli vog",46.023772,8.275827,,"EU","IT","IT-21","Comune di Vogogna","no",,,,,,,
 608223,"IT-0876","heliport","Elisusperficie di Colloro",46.009728,8.325555,,"EU","IT","IT-21","comune di: Premosello-Chiovenda","no",,,,,,,
 608225,"IT-0877","heliport","Elisuperficie di Borgo Fogliareccio",46.000018,8.365214,,"EU","IT","IT-21","comune di: Premosello-Chiovenda","no",,,,,,,
+608257,"IT-0878","heliport","Elisuperifice Rifugio Casa dell'alpino.",46.004783,8.479788,,"EU","IT","IT-21","Comune di Cossogno","no",,,,,,,
+608259,"IT-0879","heliport","Elisuperficie di Scareno",46.010402,8.585172,,"EU","IT","IT-21","Comune di Aurano","no",,,,,,,
+608261,"IT-0880","heliport","Elisuperficie di Piancavallo",46.009653,8.628833,,"EU","IT","IT-21","Cumune di Oggebbio","no",,,,,,,
+608263,"IT-0881","heliport","Elisuperficie di Cannero Riviera",46.019071,8.679623,,"EU","IT","IT-21","Comune di Cannero Riviera","no",,,,,,,
+608265,"IT-0882","heliport","Elisuperficie di Viggiona",46.031136,8.689896,,"EU","IT","IT-21","Comune di Trarego Viggiona","no",,,,,,,
+608267,"IT-0883","heliport","Elisuperficie di Cicogna",45.998039,8.483382,,"EU","IT","IT-21","Comune di Cossogno","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -44710,7 +44716,7 @@
 35053,"LT-9517","closed","Paliepiai Air Base",55.321701,23.52,354,"EU","LT","LT-KU","Kedainiai","no",,,,,,"https://en.wikipedia.org/wiki/Paliepiai",
 30018,"LT-9518","closed","Kaunas Gamykla Airfield",54.880001,23.9072,249,"EU","LT","LT-KU","Kaunas","no",,,,,,,"EYKG, EYKG"
 31033,"LT-9519","closed","Kazlų Rūda Air Base",54.80559921,23.5331001,243,"EU","LT","LT-MR","Kazlų Rūda","no",,,,,,"https://en.wikipedia.org/wiki/Kazlu_Ruda_airbase","EYKR, EYKR"
-34994,"LT-9520","medium_airport","Jonava Air Base",55.009998,24.3633,246,"EU","LT","LT-KU","Jonava","no",,,,,,"https://en.wikipedia.org/wiki/Jonava_Airport","Rukla, EYRU"
+34994,"LT-9520","small_airport","Jonava Air Base [CLOSED]",55.010146,24.363481,246,"EU","LT","LT-KU","Jonava","no","EYRU",,"EYRU",,,"https://en.wikipedia.org/wiki/Jonava_Airport","Rukla, Gaižiūnai"
 4508,"LTAB","small_airport","Güvercinlik Airport",39.935001,32.740799,2687,"AS","TR","TR-06","Ankara","no","LTAB",,"LTAB",,,"https://en.wikipedia.org/wiki/Ankara_G%C3%BCvercinlik_Army_Air_Base",
 4509,"LTAC","large_airport","Esenboğa International Airport",40.128101,32.995098,3125,"AS","TR","TR-06","Ankara","yes","LTAC","ESB","LTAC",,"https://esenbogaairport.com/","https://en.wikipedia.org/wiki/Esenbo%C4%9Fa_International_Airport",
 4510,"LTAD","medium_airport","Etimesgut Air Base",39.949798584,32.6885986328,2653,"AS","TR","TR-06","Ankara","no","LTAD","ANK","LTAD",,,"https://en.wikipedia.org/wiki/Etimesgut_Air_Base",
@@ -50380,7 +50386,7 @@
 44875,"NO-0011","small_airport","Henning (Nedre Langli)",63.93138885498047,11.59000015258789,316,"EU","NO","NO-50","Steinkjer","no",,,,,,,
 44876,"NO-0012","closed","Frosta Airfield",63.574158,10.719438,50,"EU","NO","NO-50","Frosta","no",,,,,,,
 44877,"NO-0013","small_airport","Agdenes Airfield Breivika",63.628887,9.72749996,260,"EU","NO","NO-50","Agdenes","no",,,,,,,
-44878,"NO-0014","small_airport","Meråker Airfield Øian",63.370834,11.8125,1010,"EU","NO","NO-50","Meråker","no",,,"ENMO",,,,
+44878,"NO-0014","small_airport","Meråker Airfield Øian",63.370834,11.8125,1010,"EU","NO","NO-50","Meråker","no","ENMO",,"ENMO",,,,
 44879,"NO-0015","small_airport","Ler Airfield",63.197383880615234,10.290842056274414,150,"EU","NO","NO-50","Melhus","no",,,,,,,
 44880,"NO-0016","small_airport","Fiske Airfield",63.012447357177734,9.046683311462402,132,"EU","NO","NO-15","Surnadal","no",,,,,,,
 44881,"NO-0017","small_airport","Gravvold Airfield",63.054722,8.714167,150,"EU","NO","NO-15","Surnadal","no",,,,,,,
@@ -66522,7 +66528,7 @@
 6519,"URSS","large_airport","Sochi International Airport",43.449902,39.9566,89,"EU","RU","RU-KDA","Sochi","yes","URSS","AER","URSS",,"https://aer.aero/en","https://en.wikipedia.org/wiki/Sochi_International_Airport","Adler Airport, Black Sea, Международный Аэропорт Сочи"
 6520,"URWA","large_airport","Astrakhan Narimanovo Boris M. Kustodiev International Airport",46.282843,48.010511,-65,"AS","RU","RU-AST","Astrakhan","yes","URWA","ASF","URWA",,"http://xn--80aaaa9dcahhdbllc1cxhc.xn--p1ai/","https://en.wikipedia.org/wiki/Narimanovo_Airport","Astrahan Airport, Narimanovo Airport, Аэропорт Астрахань, Аэропорт Нариманово"
 6521,"URWI","medium_airport","Elista Airport",46.3739013671875,44.33089828491211,501,"EU","RU","RU-KL","Elista","yes","URWI","ESL","URWI",,,"https://en.wikipedia.org/wiki/Elista_Airport",
-6522,"URWW","large_airport","Volgograd International Airport",48.78134,44.339194,482,"AS","RU","RU-VGG","Volgograd","yes","URWW","VOG","URWW",,,"https://en.wikipedia.org/wiki/Volgograd_International_Airport","Gumrak Airport, Аэропорт Волгоград, Аэропорт Гумрак"
+6522,"URWW","large_airport","Volgograd International Airport",48.78134,44.339194,482,"EU","RU","RU-VGG","Volgograd","yes","URWW","VOG","URWW",,,"https://en.wikipedia.org/wiki/Volgograd_International_Airport","Gumrak Airport, Аэропорт Волгоград, Аэропорт Гумрак"
 34930,"US-0001","small_airport","Flying M Ranch Airport",38.61127,-119.001718,4922,"NA","US","US-NV",,"no",,,,"3A5",,"https://en.wikipedia.org/wiki/Flying-M_Ranch",
 38682,"US-0002","closed","Governor's Island Army Airfield",40.68709945678711,-74.02210235595703,,"NA","US","US-NY","Governor's Island","no",,,,,,,
 38684,"US-0003","closed","Naval Air Station Rockaway",40.56999969482422,-73.87000274658203,,"NA","US","US-NY","Queens","no",,,,,,"https://en.wikipedia.org/wiki/Naval_Air_Station_Rockaway",
@@ -81502,7 +81508,7 @@
 316465,"WAN","small_airport","Waverney Airport",-25.356917,141.925593,570,"OC","AU","AU-QLD","Waverney","no",,,,,,,"WAN"
 26775,"WAOC","small_airport","Bersujud Airport",-3.41241,115.995003,3,"AS","ID","ID-KS","Batu Licin","yes","WAOC","BTW","WAOC",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Bersujud","WRBC, Batulicin"
 525737,"WAOG","small_airport","Sebuku Airport",-3.626954,116.370352,7,"AS","ID","ID-KS","Sekapung, Kotabaru","no",,,"WAOG",,,,"Sebuku"
-26776,"WAOH","small_airport","Mekar Putih Airport",-3.989646,116.101499,197,"AS","ID","ID-KS","Mekar Putih, Kotabaru","no",,,"WAOH",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Mekar_Putih",
+26776,"WAOH","small_airport","Kota Baru Airport",-3.989646,116.101499,197,"AS","ID","ID-KS","Mekar Putih, Kotabaru","no","WAOH",,"WAOH",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Mekar_Putih",
 26777,"WAOI","small_airport","Iskandar Airport",-2.7052,111.672997,75,"AS","ID","ID-KT","Pangkalanbun","yes","WAGI","PKN","WAGI",,,"https://en.wikipedia.org/wiki/Iskandar_Airport","WRBI"
 31730,"WAOK","small_airport","Gusti Syamsir Alam Airport",-3.294796,116.163815,4,"AS","ID","ID-KS","Stagen","yes","WAOK","KBU","WAOK",,,"https://en.wikipedia.org/wiki/Gusti_Syamsir_Alam_Airport","WRBK, Stagen Airport"
 26778,"WAON","medium_airport","Warukin Airport",-2.21656,115.435997,197,"AS","ID","ID-KS","Tanta-Tabalong","yes","WAON","TJG","WAON",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Warukin","WRBN"
@@ -81957,9 +81963,11 @@
 35281,"WRLF","small_airport","Nunukan Airport",4.134001,117.669546,59,"AS","ID","ID-KU","Nunukan-Nunukan Island","no","WAQA","NNX","WAQA",,,"https://en.wikipedia.org/wiki/Nunukan_Airport","WRLF, WALF"
 41484,"WRLH","small_airport","Tanah Grogot Airport",-1.885541,116.256809,17,"AS","ID","ID-KI","Tanah Grogot","no","WRLH","TNB","WRLH",,,,
 311283,"WRLJ","small_airport","Tanjung Bara Airport",0.5605,117.64435,48,"AS","ID","ID-KI","Sangata","no",,,"WALB",,,"http://id.wikipedia.org/wiki/Bandar_Udara_Tanjung_Bara",
+608270,"WRLM","small_airport","Kegata Airstrip",-4.045488,135.558913,4947,"AS","ID","ID-PT","Kegata","no",,,"WRLM",,,,
 41487,"WRLN","small_airport","Long Mawang Airport",1.7992,114.9043,1976,"AS","ID","ID-KU","Long Mawang-Borneo Island","no",,,"WALN",,,,"WRLN, Long Nawang"
 35278,"WRLP","small_airport","Long Apung Airport",1.706932,114.969934,2437,"AS","ID","ID-KU","Long Apung-Borneo Island","yes","WAQL","LPU","WAQL",,,"https://en.wikipedia.org/wiki/Long_Apung_Airport",
 607756,"WRLR","small_airport","Modio Airstrip",-4.066384,135.790291,4618,"AS","ID","ID-PT","Modio","no","WRLR",,"WRLR",,,,
+608271,"WRLS","small_airport","Obogwy Airstrip",-2.835037,137.972235,294,"AS","ID","ID-PA","Obogwy","no","WRLS",,"WRLS",,,,
 41488,"WRLU","small_airport","Sangkulirang Airport",1.00089,117.996002,34,"AS","ID","ID-KI","Sangkulirang-Borneo Island","no",,,"WALU",,,,"WRLU"
 598304,"WRLV","small_airport","Wapoga Airstrip",-3.040179,136.377255,3327,"AS","ID","ID-PA","Syewa Merare","no",,,"WRLV",,,,
 41489,"WRLW","small_airport","Muara Wahau Airport",1.193225,116.955886,205,"AS","ID","ID-KI","Miau Baru","no","WALW",,"WALW",,,,"WRLW"
