@@ -11923,7 +11923,7 @@
 30959,"AU-DYM","small_airport","Diamantina Lakes Airport",-23.761699676513672,141.14500427246094,,"OC","AU","AU-QLD","Diamantina Lakes","no",,"DYM",,,,,
 35302,"AU-HIS","seaplane_base","Hayman Island Resort Seaplane Base",-20.059999465942383,148.88099670410156,,"OC","AU","AU-QLD","Hayman Island","yes",,"HIS",,,,,
 31606,"AU-HLV","small_airport","Helenvale Airport",-15.685799598693848,145.21499633789062,,"OC","AU","AU-QLD","Helenvale","no",,"HLV",,,,,
-31723,"AU-KBD","small_airport","Kimberley Downs Airport",-17.39780044555664,124.3550033569336,,"OC","AU","AU-WA","Kimberley Downs","no",,"KBD",,,,,
+31723,"AU-KBD","small_airport","Kimberley Downs Airport",-17.398577,124.355565,196,"OC","AU","AU-WA","Kimberley Downs","no","YKBS","KBD","YKBS",,,"https://www.wikidata.org/wiki/Q21924082",
 31745,"AU-KGR","small_airport","Kulgera Airport",-25.8428,133.292007,,"OC","AU","AU-NT","Ghan","no",,"KGR",,,,,
 31995,"AU-MYO","small_airport","Camballin Airport",-17.986539,124.162166,,"OC","AU","AU-WA","Myroodah","no",,,,,,,
 32152,"AU-PEP","small_airport","Peppimenarti Airport",-14.1442,130.091003,83,"OC","AU","AU-NT","Peppimenarti","no",,"PEP",,"YPEP",,,
@@ -21776,7 +21776,7 @@
 45226,"DE-0032","heliport","Berchtesgaden Hospital Helipad",47.6403452253,13.006052970899999,,"EU","DE","DE-BY","Berchtesgaden","no",,,,,"http://www.kliniken-suedostbayern.de/de/main/kreisklinik_berchtesgaden.htm",,"Kreisklinik Berchtesgaden Hubschrauberlandeplatz"
 45227,"DE-0033","heliport","Freilassing Hospital Helipad",47.848497197499995,12.979743182700002,,"EU","DE","DE-BY","Freilassing","no",,,,,"http://www.kliniken-suedostbayern.de/de/main/kreisklinik_freilassing.htm",,"Kreisklinik Freilassing Hubschrauberlandeplatz"
 45228,"DE-0034","heliport","Trostberg Hospital Helipad",48.0291332578,12.5431895256,,"EU","DE","DE-BY","Trostberg","no",,,,,"http://www.kliniken-suedostbayern.de/de/main/kreisklinik_trostberg.htm",,"Kreisklinik Trostberg Hubschrauberlandeplatz"
-307050,"DE-0035","heliport","Helgoland Navy Helicopter Base",54.175106,7.890018,7,"EU","DE","DE-SH","Heligoland","no",,,,,,,
+307050,"DE-0035","heliport","Helgoland Navy Helicopter Base",54.175106,7.890018,7,"EU","DE","DE-SH","Heligoland","no",,,,,,,"ETMNHL"
 300109,"DE-0036","heliport","Grafenwöhr Medevac Helipad",49.708056,11.916111,1354,"EU","DE","DE-BY","Grafenwöhr","no",,,,"ET26",,,"US Army Grafenwöhr Training Area"
 300115,"DE-0037","heliport","Vilseck Main Army Heliport",49.649444,11.805833,1358,"EU","DE","DE-BY","Vilseck","no",,,,,,,"Langenbruck"
 308152,"DE-0038","small_airport","Utscheid Glider Field",49.997778,6.342778,1390,"EU","DE","DE-RP","Bitburg","no",,,,,"http://www.flugplatz-utscheid.de/","http://de.wikipedia.org/wiki/Liste_der_Segelfluggel%C3%A4nde_in_Deutschland","Segelflugplatz Utscheid"
@@ -22666,6 +22666,9 @@
 600033,"DE-0923","small_airport","Colnrade Ultralight Field",52.83994,8.50037,,"EU","DE","DE-NI",,"no",,,,,"https://easy-flying.jimdosite.com/",,
 601208,"DE-0924","small_airport","Worth Ultralight strip",53.4769,10.40871,,"EU","DE","DE-SH",,"no",,,,,,,
 608158,"DE-0925","heliport","Heliport Refinery Schwedt",53.091844,14.225222,33,"EU","DE","DE-BR","Schwedt","no",,,,,,,
+608296,"DE-0926","heliport","Helwind A",54.451897,7.740036,,"EU","DE","DE-SH",,"no","EDYH",,,,,,"EM15"
+608297,"DE-0927","heliport","Meerwind S O",54.399167,7.700052,,"EU","DE","DE-SH",,"no","EDYM",,,,,,"EM17"
+608298,"DE-0928","heliport","Amrumbank West",54.519813,7.735453,,"EU","DE","DE-SH",,"no","EDYA",,,,,,"EM18"
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -23711,7 +23714,7 @@
 30469,"EE-9279","closed","Tapa Air Base",59.240799,25.9622,331,"EU","EE","EE-59","Tapa","no",,,,,"https://web.archive.org/web/20160921031759/http://www.slk.ee/900.html","https://en.wikipedia.org/wiki/Tapa_Airfield","Аэродром Тапа, EETA"
 30988,"EE-9280","closed","Raadi Air Base",58.404701,26.7761,217,"EU","EE","EE-7B","Tartu","no",,,,,,"https://en.wikipedia.org/wiki/Raadi_Airfield","Tartu Air Base, EETR"
 318331,"EE-9281","small_airport","Rakvere Airfield",59.364032,26.35874,240,"EU","EE","EE-59","Rakvere","no","EERE",,"EERE",,,,"EERE"
-599693,"EE-9282","small_airport","Tallinn West Aerodrome",59.335726,24.520798,,"EU","EE","EE-37","Vanamõisa","no",,,,,,,
+599693,"EE-9282","small_airport","Tallinn West Aerodrome",59.335726,24.520798,,"EU","EE","EE-37","Vanamõisa","no","EETW",,"EETW",,,,
 343869,"EEAA","small_airport","Antsla Airfield",57.826111,26.4925,258,"EU","EE","EE-86","Antsla","no","EEAA",,"EEAA",,,"https://en.wikipedia.org/wiki/Antsla_Airfield",
 538408,"EEAE","small_airport","Aespa Airfield",59.204711,24.610995,196,"EU","EE","EE-37","Aespa","no",,,"EEAE",,,,
 342467,"EEB","small_airport","El Espino Airport",6.4884,-72.50388,7126,"SA","CO","CO-BOY","El Espino","no",,,,"EEB",,,"SQSY"
@@ -33722,6 +33725,10 @@
 608263,"IT-0881","heliport","Elisuperficie di Cannero Riviera",46.019071,8.679623,,"EU","IT","IT-21","Comune di Cannero Riviera","no",,,,,,,
 608265,"IT-0882","heliport","Elisuperficie di Viggiona",46.031136,8.689896,,"EU","IT","IT-21","Comune di Trarego Viggiona","no",,,,,,,
 608267,"IT-0883","heliport","Elisuperficie di Cicogna",45.998039,8.483382,,"EU","IT","IT-21","Comune di Cossogno","no",,,,,,,
+608288,"IT-0884","heliport","Elisuperficie Rifugio di Vigevano",45.871149,7.872745,,"EU","IT","IT-21","Comune di Alagna Valesia","no",,,,,,,
+608290,"IT-0885","heliport","Elisuperficie mineraria Kreas",45.874604,7.936104,,"EU","IT","IT-21","Comune di Alagna Valesia","no",,,,,,,
+608292,"IT-0886","heliport","Elisuperficie Wold",45.864455,7.936699,,"EU","IT","IT-21","Comune Alagna Valsesia","no",,,,,,,
+608294,"IT-0887","heliport","Elisuperficie Michob",45.841432,7.944344,,"EU","IT","IT-21","Comune di Riva Valdobbia","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -38465,7 +38472,7 @@
 19361,"KBDQ","small_airport","Morrilton Municipal Airport",35.1362,-92.713501,321,"NA","US","US-AR","Morrilton","no",,,"KBDQ","BDQ",,"https://en.wikipedia.org/wiki/Morrilton_Municipal_Airport",
 3397,"KBDR","medium_airport","Igor I Sikorsky Memorial Airport",41.163502,-73.126198,9,"NA","US","US-CT","Bridgeport","no","KBDR","BDR","KBDR","BDR",,"https://en.wikipedia.org/wiki/Sikorsky_Memorial_Airport",
 16498,"KBDU","small_airport","Boulder Municipal Airport",40.039101,-105.226025,5288,"NA","US","US-CO","Boulder","no","KBDU","WBU","KBDU","BDU","http://www.bouldercolorado.gov/index.php?option=com_content&view=article&id=201&Itemid=740","https://en.wikipedia.org/wiki/Boulder_Municipal_Airport","1V5"
-19362,"KBE","seaplane_base","Bell Island Hot Springs Seaplane Base",55.9291000366,-131.572006226,,"NA","US","US-AK","Bell Island","no",,"KBE","KBE","KBE",,,
+19362,"KBE","seaplane_base","Bell Island Hot Springs Seaplane Base",55.9291,-131.572006,,"NA","US","US-AK","Bell Island","no",,"KBE",,,,,"KBE"
 18730,"KBEA","small_airport","Beeville Municipal Airport",28.361900329589844,-97.79100036621094,268,"NA","US","US-TX","Beeville","no",,,"KBEA","BEA",,,"Formerly 3R0"
 19363,"KBEC","small_airport","Beech Factory Airport",37.694499969499994,-97.21499633790002,1408,"NA","US","US-KS","Wichita","no","KBEC","BEC","KBEC","BEC",,"https://en.wikipedia.org/wiki/Beech_Factory_Airport",
 3398,"KBED","medium_airport","Laurence G Hanscom Field",42.470001,-71.289001,133,"NA","US","US-MA","Bedford","yes","KBED","BED","KBED","BED","http://www.massport.com/hansc/","https://en.wikipedia.org/wiki/Hanscom_Field","Hanscom Air Force Base"
@@ -54356,27 +54363,27 @@
 5509,"RCAY","medium_airport","Gangshan Air Force Base",22.782499,120.263,34,"AS","TW","TW-KHH","Kaohsiung (Gangshan)","no","RCAY",,"RCAY",,,,"Kangshan, Air Force Academy, 空軍官校"
 5510,"RCBS","medium_airport","Kinmen Airport",24.4279,118.359001,93,"AS","TW","TW-X-KM","Shang-I","yes","RCBS","KNH","RCBS",,"http://www.kma.gov.tw/","https://en.wikipedia.org/wiki/Kinmen_Airport","Shang Yi Airport, 金門尚義機場, 金门尚义机场, Jīnmén Shàngyì jīchǎng"
 30834,"RCCM","small_airport","Qimei Airport",23.213127,119.417539,63,"AS","TW","TW-PEN","Qimei","no","RCCM","CMJ","RCCM",,,"https://en.wikipedia.org/wiki/Qimei_Airport","Qimei Airport, 七美機場, 七美机场"
-5511,"RCDC","medium_airport","Pingtung Air Force Base",22.6724,120.461998,78,"AS","TW","TW-PIF","Pingtung","no","RCDC",,"RCDC",,,"https://en.wikipedia.org/wiki/Pingtung_Airport",
-5512,"RCDI","medium_airport","Longtan Air Base",24.853588,121.236392,790,"AS","TW","TW-TAO","Longtan","no",,,"RCDI",,,,
-5513,"RCFG","medium_airport","Matsu Nangan Airport",26.159656,119.958376,232,"AS","TW","TW-X-LK","Matsu (Nangan)","yes","RCFG","LZN","RCFG",,"http://www.tsa.gov.tw/tsaLZN/zh/home.aspx","https://en.wikipedia.org/wiki/Matsu_Nangan_Airport","Matsu Islands"
-5514,"RCFN","medium_airport","Taitung Airport",22.7549991607666,121.10199737548828,143,"AS","TW","TW-TTT","Taitung City","yes","RCFN","TTT","RCFN",,,"https://en.wikipedia.org/wiki/Taitung_Airport","Fengnin Airport, 台東機場"
+5511,"RCDC","medium_airport","Pingtung Air Force Base",22.672579,120.461712,78,"AS","TW","TW-PIF","Pingtung","no","RCDC",,"RCDC",,,"https://en.wikipedia.org/wiki/Pingtung_Airport","Pintung Suoth, PIF"
+5512,"RCDI","heliport","Longtan Air Base",24.854922,121.237468,790,"AS","TW","TW-TAO","Longtan","no",,,"RCDI",,,,
+5513,"RCFG","medium_airport","Matsu Nangan Airport",26.159656,119.958376,232,"AS","TW","TW-LIE","Matsu (Nangan)","yes","RCFG","LZN","RCFG",,"http://www.tsa.gov.tw/tsaLZN/zh/home.aspx","https://en.wikipedia.org/wiki/Matsu_Nangan_Airport",
+5514,"RCFN","medium_airport","Taitung Airport",22.754856,121.101794,143,"AS","TW","TW-TTT","Taitung City","yes","RCFN","TTT","RCFN",,,"https://en.wikipedia.org/wiki/Taitung_Airport","Fengnian Airport, 台東機場"
 5515,"RCGI","small_airport","Lüdao Airport",22.673901,121.466003,28,"AS","TW","TW-TTT","Lüdao","no","RCGI","GNI","RCGI",,,"https://en.wikipedia.org/wiki/L%C3%BCdao_Airport","Green Island, Lyudao"
 5516,"RCKH","large_airport","Kaohsiung International Airport",22.577101,120.349998,31,"AS","TW","TW-KHH","Kaohsiung (Xiaogang)","yes","RCKH","KHH","RCKH",,"http://www.kia.gov.tw/english/e_index.asp","https://en.wikipedia.org/wiki/Kaohsiung_International_Airport","Siaogang International Airport, 高雄國際航空站, 小港國際機場"
 5517,"RCKU","medium_airport","Chiayi Airport",23.462577,120.390544,85,"AS","TW","TW-CYQ","Shuishang","yes","RCKU","CYI","RCKU",,"http://www.cya.gov.tw/web/english/index.asp","https://en.wikipedia.org/wiki/Chiayi_Airport","Shueishang Airport, 嘉義航空站, 水上機場"
 5518,"RCKW","medium_airport","Hengchun Airport",22.0411,120.730003,46,"AS","TW","TW-PIF","Hengchun","no","RCKW","HCN","RCKW",,,"https://en.wikipedia.org/wiki/Hengchun_Airport",
-325294,"RCLC","heliport","Xiaoliuqiu Heliport",22.349922,120.37588,,"AS","TW","TW-PIF","Xiaoliuqiu","no",,,"RCLC",,,"https://en.wikipedia.org/wiki/Xiaoliuqiu#Transportation, https://wiki2.org/en/Xiaoliuqiu#Transportation","Xiaoliuqiu, 小柳丘機場, Liouciouyu, Lambai"
+325294,"RCLC","heliport","Xiaoliuqiu Heliport",22.349922,120.37588,,"AS","TW","TW-PIF","Xiaoliuqiu","no","RCLC",,"RCLC",,,"https://en.wikipedia.org/wiki/Xiaoliuqiu#Transportation, https://wiki2.org/en/Xiaoliuqiu#Transportation","Xiaoliuqiu, 小柳丘機場, Liouciouyu, Lambai"
 42427,"RCLM","small_airport","Dongsha Island (Pratas Island) Airport",20.7066,116.721001,10,"AS","TW","TW-KHH","Kaohsiung (Cijin - Pratas Island)","no","RCLM","DSX","RCLM",,,"https://en.wikipedia.org/wiki/Dongsha_Island_Airport","Pratas Islands; Dongsha; 東沙環礁機場"
 5519,"RCLY","medium_airport","Lanyu Airport",22.027000427246094,121.53500366210938,44,"AS","TW","TW-TTT","Orchid Island","yes","RCLY","KYD","RCLY",,,"https://en.wikipedia.org/wiki/Lanyu_Airport","Lanyu Auxiliary Station"
 5520,"RCMQ","large_airport","Taichung International Airport / Ching Chuang Kang Air Base",24.2647,120.621002,663,"AS","TW","TW-TXG","Taichung (Qingshui)","yes","RCMQ","RMQ","RCMQ",,"http://www.tca.gov.tw/English/Introduction.htm","https://en.wikipedia.org/wiki/Taichung_Airport","臺中清泉崗機場"
-5521,"RCMT","medium_airport","Matsu Beigan Airport",26.224199,120.002998,41,"AS","TW","TW-X-LK","Matsu (Beigan)","yes","RCMT","MFK","RCMT",,"http://www.tsa.gov.tw/tsaMFK/en/page.aspx?id=1174","https://en.wikipedia.org/wiki/Matsu_Beigan_Airport","Matsu Islands"
+5521,"RCMT","medium_airport","Matsu Beigan Airport",26.22414,120.002679,41,"AS","TW","TW-LIE","Matsu (Beigan)","yes","RCMT","MFK","RCMT",,"http://www.tsa.gov.tw/tsaMFK/en/page.aspx?id=1174","https://en.wikipedia.org/wiki/Matsu_Beigan_Airport",
 5522,"RCNN","large_airport","Tainan International Airport / Tainan Air Base",22.950399,120.206001,63,"AS","TW","TW-TNN","Tainan (Rende)","yes","RCNN","TNN","RCNN",,"http://www.tna.gov.tw/","https://en.wikipedia.org/wiki/Tainan_Airport","臺南機場, 臺南航空站"
-325269,"RCNO","heliport","Dongji Heliport",23.258076,119.66755,,"AS","TW","TW-PEN","Wang'an","no",,,"RCNO",,,,"Donshi, 東石直升機場"
+325269,"RCNO","heliport","Dongji Heliport",23.258076,119.66755,,"AS","TW","TW-PEN","Wang'an","no","RCNO",,"RCNO",,,,"Donshi, 東石直升機場"
 5523,"RCPO","medium_airport","Hsinchu Air Base",24.8180007935,120.939002991,26,"AS","TW","TW-HSZ","Hsinchu City","no","RCPO","HSZ","RCPO",,,"https://en.wikipedia.org/wiki/Hsinchu_Air_Base",
 5524,"RCQC","large_airport","Penghu Magong Airport",23.568701,119.627998,103,"AS","TW","TW-PEN","Huxi","yes","RCQC","MZG","RCQC",,"http://www.mkport.gov.tw/english/","https://en.wikipedia.org/wiki/Penghu_Airport","Magong, Makung"
-5525,"RCQS","medium_airport","Chihhang Air Base",22.7931,121.181999,121,"AS","TW","TW-TTT","Taitung City","no",,,"RCQS",,,"https://en.wikipedia.org/wiki/Chihhang_Air_Base","Jhihhang Airport"
+5525,"RCQS","medium_airport","Chihhang Air Base",22.7931,121.181999,121,"AS","TW","TW-TTT","Taitung City","no","RCQS",,"RCQS",,,"https://en.wikipedia.org/wiki/Chihhang_Air_Base","Jhihhang Airport, Taidong, Zhihang"
 325282,"RCSM","heliport","Riyuetan (Sun Moon Lake) Heliport",23.883532,120.940016,,"AS","TW","TW-NAN","Riyuetan","no",,,"RCSM",,,,"Riyuetan, 日月潭直升機場, Sun Moon Lake"
 314646,"RCSP","small_airport","Taiping Island Airport",10.377089,114.365637,,"AS","TW","TW-KHH","Kaohsiung (Cijin - Taiping Island)","no",,,"RCSP",,,"https://en.wikipedia.org/wiki/Taiping_Island_Airport",
-5526,"RCSQ","medium_airport","Pingtung Air Force Base North",22.700199,120.482002,97,"AS","TW","TW-PIF","Pingtung","yes",,"PIF","RCSQ",,,"https://en.wikipedia.org/wiki/Pingtung_Airport",
+5526,"RCSQ","medium_airport","Pingtung Air Force Base North",22.700199,120.482002,97,"AS","TW","TW-PIF","Pingtung","yes","RCSQ",,"RCSQ",,,"https://en.wikipedia.org/wiki/Pingtung_Airport","PIF"
 5527,"RCSS","large_airport","Taipei Songshan International Airport",25.067244,121.552822,18,"AS","TW","TW-TPE","Taipei (Songshan)","yes","RCSS","TSA","RCSS",,"http://www.tsa.gov.tw/","https://en.wikipedia.org/wiki/Taipei_Songshan_Airport","Sungshan Airport, 台北松山機場, 臺北松山機場"
 5528,"RCTP","large_airport","Taiwan Taoyuan International Airport",25.0777,121.233002,106,"AS","TW","TW-TAO","Taoyuan","yes","RCTP","TPE","RCTP",,"http://www.taoyuan-airport.com/","https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%A1%83%E5%9C%92%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4","Taoyuan County, Dayuan District. 臺灣桃園國際機場"
 5529,"RCWA","small_airport","Wang'an Airport",23.369108,119.503598,115,"AS","TW","TW-PEN","Wang'an","no","RCWA","WOT","RCWA",,"http://www.mkport.gov.tw/English/index.htm","https://en.wikipedia.org/wiki/Wangan_Airport",
@@ -65494,9 +65501,9 @@
 342181,"TW-0047","heliport","Xiaoqiu Helipad",24.98274,119.47445,,"AS","TW","TW-X-KM","Wuqiu","no",,,,,,,
 350884,"TW-0048","heliport","Jialutang Coast Guard Heliport",22.33196,120.62823,56,"AS","TW","TW-PIF","Fangshan","no",,,,,,,
 350885,"TW-0049","heliport","Maanshan Nuclear Power Plant Heliport",21.96357,120.75167,88,"AS","TW","TW-PIF","Hengchun","no",,,,,,,
-355923,"TW-0050","heliport","Dongyin Heliport",26.3592,120.48321,166,"AS","TW","TW-X-LK","Dongyin","no",,,,,,,
-355924,"TW-0051","heliport","Dongju Heliport",25.9583,119.96752,85,"AS","TW","TW-X-LK","Dongju","no",,,,,,,
-355925,"TW-0052","heliport","Xiju Heliport",25.97132,119.93639,107,"AS","TW","TW-X-LK","Juguang","no",,,,,,,
+355923,"TW-0050","heliport","Dongyin Heliport",26.3592,120.48321,166,"AS","TW","TW-LIE","Dongyin","no",,,,,,,
+355924,"TW-0051","heliport","Dongju Heliport",25.9583,119.96752,85,"AS","TW","TW-LIE","Dongju","no",,,,,,,
+355925,"TW-0052","heliport","Xiju Heliport",25.97132,119.93639,107,"AS","TW","TW-LIE","Juguang","no",,,,,,,
 355926,"TW-0053","small_airport","Hualien Baiyun Airfield",23.89625,121.56376,95,"AS","TW","TW-HUA","Shoufeng","no",,,,,,,
 355927,"TW-0054","small_airport","Lanqingting Ultralightport",23.89849,121.56932,85,"AS","TW","TW-HUA","Shoufeng","no",,,,,,,
 355928,"TW-0055","small_airport","Shoufeng North Ultralightport",23.87808,121.54875,85,"AS","TW","TW-HUA","Shoufeng","no",,,,,,,
@@ -65515,8 +65522,8 @@
 520331,"TW-0068","small_airport","208 Highway Strip",23.994525,120.509977,,"AS","TW","TW-CHA","Dacun","no",,,,,,,"highwaystrips"
 520332,"TW-0069","small_airport","296 298 Highway Strip",23.237659,120.247668,,"AS","TW","TW-TNQ",,"no",,,,,,,
 553655,"TW-0070","small_airport","Hualien Taroko Paraglider Field",24.10927,121.62397,56,"AS","TW","TW-HUA","Xincheng","no",,,,,,,
-575186,"TW-0071","heliport","Nangan Heliport",26.14942,119.94299,419,"AS","TW","TW-X-LK","Matsu (Nangan)","no",,,,,,,
-575187,"TW-0072","heliport","Liangdao Heliport",26.33727,120.21951,164,"AS","TW","TW-X-LK","Matsu (Beigan)","no",,,,,,,
+575186,"TW-0071","heliport","Nangan Heliport",26.14942,119.94299,419,"AS","TW","TW-LIE","Matsu (Nangan)","no",,,,,,,
+575187,"TW-0072","heliport","Liangdao Heliport",26.33727,120.21951,164,"AS","TW","TW-LIE","Matsu (Beigan)","no",,,,,,,
 577184,"TW-0073","heliport","Hutoushan Heliport",25.0102,121.33259,781,"AS","TW","TW-TAO","Guishang","no",,,,,,,
 577215,"TW-0074","heliport","Yinghanling Heliport",25.13628,121.4248,1926,"AS","TW","TW-NWT","New Taipei City","no",,,,,,,
 577219,"TW-0075","heliport","Camp Gaoshanding Heliport",24.9196,121.15372,653,"AS","TW","TW-TAO","Taoyuan","no",,,,,,,
@@ -70772,6 +70779,7 @@
 608026,"US-12953","heliport","Grady South Fulton Emergency Center Heliport",33.608368,-84.608311,900,"NA","US","US-U-A","Union City","no",,,"8GA0","8GA0",,,
 608043,"US-12954","small_airport","Borich Sky Ranch Airport",30.440319,-97.358431,594,"NA","US","US-TX","Coupland","no",,,"TA88","TA88",,,
 608186,"US-12955","small_airport","Cherry Heights Flugplatz",30.427281,-98.938739,2080,"NA","US","US-TX","Fredericksburg","no",,,"TS28","TS28",,,
+608302,"US-12956","closed","klag Bay Seaplane Basr",57.643,-136.1,0,"NA","US","US-AK",,"no",,,,,,"https://ceb.wikipedia.org/wiki/Klag_Bay_Seaplane_Base","KBK"
 334362,"US-1296","small_airport","Wapshilla Airport",45.941616,-116.763597,1410,"NA","US","US-ID","Winchester","no",,,,"I45",,,"ID50"
 334365,"US-1297","closed","Army Reserve Parking Lot Heliport",43.305528,-91.791265,859,"NA","US","US-IA","Decorah","no",,,,,,,"1IA1"
 334368,"US-1298","closed","PAF Cannery Airport",58.725948,-156.950868,60,"NA","US","US-AK","South Naknek","no",,,,,,,"AK35, 3AK"
@@ -84940,7 +84948,7 @@
 44208,"ZLTS","medium_airport","Tianshui Maijishan Airport",34.5601,105.860343,3590,"AS","CN","CN-62","Tianshui (Maiji)","yes","ZLTS","THQ","ZLTS",,,"https://en.wikipedia.org/wiki/Tianshui_Maijishan_Airport","Tianshui Air Base, 天水麦积山机场, ZBEE"
 312986,"ZLXH","medium_airport","Gannan Xiahe Airport",34.819014,102.622261,10510,"AS","CN","CN-62","Gannan (Xiahe)","yes","ZLXH","GXH","ZLXH",,,"https://en.wikipedia.org/wiki/Gannan_Xiahe_Airport","Hezuo"
 32709,"ZLXN","large_airport","Xining Caojiabao International Airport",36.52775,102.040215,7119,"AS","CN","CN-63","Haidong (Huzhu Tu Autonomous County)","yes","ZLXN","XNN","ZLXN",,,"https://en.wikipedia.org/wiki/Xining_Caojiabao_International_Airport","Caojiabu, Caojiapu"
-27205,"ZLXY","large_airport","Xi'an Xianyang International Airport",34.447102,108.751999,1572,"AS","CN","CN-61","Xianyang (Weicheng)","yes","ZLXY","XIY","ZLXY",,"http://www.xxia.com/","https://en.wikipedia.org/wiki/Xi'an_Xianyang_International_Airport","西安咸阳国际机场, Xian"
+27205,"ZLXY","large_airport","Xi'an Xianyang International Airport",34.442207,108.762385,1572,"AS","CN","CN-61","Xi'an","yes","ZLXY","XIY","ZLXY",,"https://www.xxia.com/","https://en.wikipedia.org/wiki/Xi'an_Xianyang_International_Airport","西安咸阳国际机场, Xian, Xianyang, Xi'an"
 336112,"ZLYA","medium_airport","Yan'an Nanniwan Airport",36.479413,109.464083,,"AS","CN","CN-61","Yan'an (Baota)","yes","ZLYA","ENY","ZLYA","ENY",,"https://en.wikipedia.org/wiki/Yan%27an_Nanniwan_Airport",
 32563,"ZLYL","medium_airport","Yulin Yuyang Airport",38.35971,109.590927,3891,"AS","CN","CN-61","Yulin","yes","ZLYL","UYN","ZLYL",,"http://www.cwag-yl.com/","https://en.wikipedia.org/wiki/Yulin_Yuyang_Airport",
 300516,"ZLYS","medium_airport","Yushu Batang Airport",32.836389,97.036389,12816,"AS","CN","CN-63","Yushu (Batang)","yes","ZLYS","YUS","ZLYS",,,"https://en.wikipedia.org/wiki/Yushu_Batang_Airport",
@@ -85092,7 +85100,7 @@
 35316,"ZSYN","large_airport","Yancheng Nanyang International Airport",33.428317,120.20545,10,"AS","CN","CN-32","Yancheng (Tinghu)","yes","ZSYN","YNZ","ZSYN",,,"https://en.wikipedia.org/wiki/Yancheng_Nanyang_International_Airport",
 332096,"ZSYT","large_airport","Yantai Penglai International Airport",37.659724,120.978124,154,"AS","CN","CN-37","Yantai","yes","ZSYT","YNT","ZSYT",,"http://www.ytairport.com.cn/","https://en.wikipedia.org/wiki/Yantai_Penglai_International_Airport",
 32726,"ZSYW","large_airport","Yiwu Airport",29.342095,120.03116,262,"AS","CN","CN-33","Yiwu/Jinhua","yes","ZSYW","YIW","ZSYW",,,"https://en.wikipedia.org/wiki/Yiwu_Airport","Jinhua"
-31624,"ZSZS","large_airport","Zhoushan Putuoshan International Airport",29.933874,122.362307,3,"AS","CN","CN-33","Zhoushan","yes","ZSZS","HSN","ZSZS",,,"https://en.wikipedia.org/wiki/Zhoushan_Putuoshan_International_Airport",
+31624,"ZSZS","large_airport","Zhoushan Putuoshan International Airport",29.933874,122.362307,6,"AS","CN","CN-33","Zhoushan","yes","ZSZS","HSN","ZSZS",,,"https://en.wikipedia.org/wiki/Zhoushan_Putuoshan_International_Airport",
 300545,"ZUAL","medium_airport","Ngari Gunsa Airport",32.09794,80.053971,14022,"AS","CN","CN-54","Shiquanhe","yes","ZUAL","NGQ","ZUAL",,,"https://en.wikipedia.org/wiki/Ngari_Gunsa_Airport","Ali Airport"
 300785,"ZUAS","medium_airport","Anshun Huangguoshu Airport",26.260556,105.873333,4812,"AS","CN","CN-52","Anshun (Xixiu)","yes","ZUAS","AVA","ZUAS",,,"https://en.wikipedia.org/wiki/Anshun_Huangguoshu_Airport",
 554921,"ZUBC","small_airport","Beichuan Yongchang Airport",31.581474,104.459701,2012,"AS","CN","CN-51","Mianyang","no",,"BCJ","ZUBC",,,,"北川通用机场"
