@@ -12824,7 +12824,7 @@
 43891,"BG-0182","closed","Izgrev Airport",43.277222,27.701944,1119,"EU","BG","BG-03","Kalimantsi","no",,,,,,,"LBWV, LBWV"
 594492,"BG-0183","heliport","Panagyurishte Hospital Heliport",42.49309,24.18503,1703,"EU","BG","BG-13","Panagyurishte","no",,,,,,,
 599133,"BG-0184","small_airport","Doyrantsi Airstrip",43.610644,27.153111,901,"EU","BG","BG-27","Doyrantsi","no",,,,,,,"Дойранци"
-608320,"BG-0185","small_airport","(Duplicate)Sapareva Banay Airport",42.314055,23.258589,2100,"EU","BG","BG-10","Sapareva Banya","no",,,,,"https://airportlbsp.com/",,"LBSP"
+608320,"BG-0185","small_airport","[Duplicate] Sapareva Banay Airport",42.314055,23.258589,2100,"EU","BG","BG-10","Sapareva Banya","no",,,,,"https://airportlbsp.com/",,"LBSP"
 31597,"BG-HKV","small_airport","Malevo Airfield",41.871799,25.604799,600,"EU","BG","BG-26","Malevo","no",,,"LBMV",,,"https://en.wikipedia.org/wiki/Haskovo_Malevo_Airport","LB26"
 111,"BG-JAM","medium_airport","Bezmer Air Base",42.454899,26.3522,509,"EU","BG","BG-28","Bezmer","no",,"JAM","LBIA",,,"https://en.wikipedia.org/wiki/Bezmer_Airbase","LB44"
 31697,"BGAA","medium_airport","Aasiaat Airport",68.721802,-52.784698,74,"NA","GL","GL-QK","Aasiaat","yes","BGAA","JEG","BGAA",,"http://airgreenland.com/om_rejsen/efter_rejsen/din_destination_/aasiaat/","https://en.wikipedia.org/wiki/Aasiaat_Airport","Mittarfik Aasiaat, Aasiaat Lufthavn, Egedesminde"
@@ -21619,18 +21619,31 @@
 2045,"CZWH","small_airport","Lac Brochet Airport",58.614279,-101.468954,1211,"NA","CA","CA-MB","Lac Brochet","yes","CZWH","XLB","CZWH","ZWH",,"https://en.wikipedia.org/wiki/Lac_Brochet_Airport",
 2046,"CZWL","small_airport","Wollaston Lake Airport",58.106899,-103.171997,1360,"NA","CA","CA-SK","Wollaston Lake","yes","CZWL","ZWL","CZWL",,,"https://en.wikipedia.org/wiki/Wollaston_Lake_Airport",
 45971,"D03","small_airport","Kulm Municipal Airport",46.306764,-98.938833,1959,"NA","US","US-ND","Kulm","no",,,,"D03",,"https://en.wikipedia.org/wiki/Kulm_Municipal_Airport",
+608340,"D030","heliport","Balingen Healthcare Helipad",48.287047,8.863409,1719,"EU","DE","DE-BW","Balingen","no",,,"D030",,,,
 17062,"D06","small_airport","Minto Municipal Airport",48.292493,-97.393997,820,"NA","US","US-ND","Minto","no",,,"KD06","D06",,,
+608338,"D072","heliport","Burladingen Helipad (Fa. Trigema)",48.288022,9.106573,2382,"EU","DE","DE-BW","Burladingen","no",,,"D072",,,,"Firma Trigema"
 17063,"D12","heliport","Garden Valley Heliport",44.064300537109375,-115.9260025024414,3150,"NA","US","US-ID","Garden Valley","no",,,"D12","D12",,,
+608350,"D125","heliport","Esslingen Klinikum Rooftop Helipad",48.7375,9.326944,876,"EU","DE","DE-BW","Esslingen","no",,,"D125",,,,
 17064,"D15","small_airport","Lake Isabella Airpark",43.644501,-84.982002,886,"NA","US","US-MI","Lake Isabella","no",,,"D15","D15",,"https://en.wikipedia.org/wiki/Lake_Isabella_%E2%80%93_Cal_Brewer_Memorial_Airport",
+608365,"D154","heliport","Gerlingen Fa. Bosch Helipad",48.785525,9.062897,1562,"EU","DE","DE-BW","Gerlingen","no",,,"D154",,,,
 17065,"D20","small_airport","Yale Airport",43.111072,-82.786725,814,"NA","US","US-MI","Yale","no",,,"KD20","D20",,"https://en.wikipedia.org/wiki/Yale_Airport",
 301252,"D22","seaplane_base","Drummond Island / Yacht Haven SPB",46.024794,-83.752513,581,"NA","US","US-MI",,"no",,,"D22",,,,
 17066,"D24","small_airport","Fessenden Municipal Airport",47.659698486328125,-99.66100311279297,1619,"NA","US","US-ND","Fessenden","no",,,"D24","D24",,,
 17067,"D28","seaplane_base","Tanglefoot Seaplane Base",48.538898,-116.832001,2438,"NA","US","US-ID","Cavanaugh Bay","no",,,"D28","D28",,"https://en.wikipedia.org/wiki/Tanglefoot_Seaplane_Base",
 17068,"D29","small_airport","Drayton Municipal Airport",48.61859893798828,-97.1759033203125,798,"NA","US","US-ND","Drayton","no",,,"D29","D29",,,
+608370,"D304","heliport","Nagold Hospital Rooftop Helipad",48.541643,8.722794,1660,"EU","DE","DE-BW","Nagold","no",,,"D304",,,,
 17069,"D32","small_airport","Starbuck Municipal Airport",45.598876,-95.535994,1141,"NA","US","US-MN","Starbuck","no",,,"D32","D32",,,
+608352,"D346","closed","Ostfildern-Ruit Medius Hospital Heliport",48.741161,9.256443,1309,"EU","DE","DE-BW","Ostfildern","no",,,,,,,"D346"
+608346,"D371","heliport","Reutlingen Klinikum Rooftop Helipad",48.483984,9.218465,1447,"EU","DE","DE-BW","Reutlingen","no",,,"D371",,,,
+608344,"D372","heliport","Reutlingen Betzingen Helipad",48.491533,9.155087,1201,"EU","DE","DE-BW","Reutlingen","no",,,"D372",,,,
 19598,"D38","small_airport","Canandaigua Airport",42.908902,-77.325226,814,"NA","US","US-NY","Ontario County IDA","no",,"IUA","KIUA","IUA","https://flycanandaigua.com/","https://en.wikipedia.org/wiki/Canandaigua_Airport","Canandaigua Airport"
 17070,"D41","small_airport","Stephen Municipal Airport",48.461182,-96.865764,830,"NA","US","US-MN","Stephen","no",,,"D41","D41",,,
+608374,"D415","heliport","Sindelfingen Fa. Daimler Helipad",48.692859,8.985761,1398,"EU","DE","DE-BW","Sindelfingen","no",,,"D415",,,,
+608361,"D429","heliport","Robert Bosch Hospital Helistop",48.813877,9.185474,1210,"EU","DE","DE-BW","Bad Cannstadt","no",,,,,"https://www.rbk.de/",,"D429, Stuttgart"
 17071,"D43","small_airport","Hopewell Airpark",42.919498443603516,-77.2427978515625,730,"NA","US","US-NY","Canandaigua","no",,,"D43","D43",,,
+608359,"D430","heliport","Stuttgart Katharinen Hospital Helistop",48.783827,9.173173,855,"EU","DE","DE-BW","Stuttgart","no",,,,,,,"D430"
+608357,"D431","heliport","Stuttgart Marien Hospital Rooftop Helipad",48.761079,9.163863,997,"EU","DE","DE-BW","Stuttgart","no",,,"D431",,,,
+608363,"D447","heliport","Untertürkheim Fa. Daimler Rooftop Helipad",48.782163,9.239661,748,"EU","DE","DE-BW","Untertürkheim","no",,,"D447",,,,
 17072,"D49","small_airport","Columbus Municipal Airport",48.898602,-102.792,1930,"NA","US","US-ND","Columbus","no",,,"D49","D49",,"https://en.wikipedia.org/wiki/Columbus_Municipal_Airport_(North_Dakota)",
 17073,"D51","small_airport","Clarence Aerodrome",43.06669998168945,-78.68309783935547,589,"NA","US","US-NY","Buffalo","no",,,"D51","D51",,,
 17074,"D52","small_airport","Geneseo Airport",42.79869842529297,-77.84249877929688,560,"NA","US","US-NY","Geneseo","no",,,"D52","D52",,,
@@ -21759,7 +21772,7 @@
 44583,"DE-0014","heliport","Rostock University Helipad",54.08330154418945,12.100500106811523,,"EU","DE","DE-MV","Rostock","no",,,,,,,
 44584,"DE-0015","heliport","Dresden Friedrichstadt Hospital Heliport",51.058404,13.716061,,"EU","DE","DE-SN","Dresden","no",,,,,,,
 44585,"DE-0016","heliport","Erlangen University Hospital Ebrardstraße Heliport",49.602023,11.02244,928,"EU","DE","DE-BY","Erlangen","no",,,,,,,"Erlangen Ebrardstraße Helipad"
-44586,"DE-0017","heliport","Kelley Barracks Helipad",48.72169876098633,9.181500434875488,,"EU","DE","DE-BW","Stuttgart","no",,,,,,,
+44586,"DE-0017","closed","Kelley Barracks Helipad",48.721699,9.1815,1385,"EU","DE","DE-BW","Stuttgart","no",,,,,,,
 44587,"DE-0018","heliport","Frankfurt am Main Accident Hospital Roof Helipad (CHX2)",50.145424,8.710111,,"EU","DE","DE-HE","Frankfurt am Main","no",,,,,,,
 44588,"DE-0019","closed","Frankfurt am Main Accident Hospital Ground Helipad",50.1441,8.7096,,"EU","DE","DE-HE","Frankfurt am Main","no",,,,,,,
 44589,"DE-0020","heliport","Höchst Industrial Park Helipad",50.089386,8.538054,308,"EU","DE","DE-HE","Frankfurt am Main","no",,,,,,,"Industriepark Höchst Helipad"
@@ -22009,8 +22022,8 @@
 315797,"DE-0264","heliport","Helios Sankt Elisabeth Hospital Bad Kissingen Heliport",50.190243,10.082644,925,"EU","DE","DE-BY","Bad Kissingen","no",,,,,,,
 315799,"DE-0265","heliport","Kißlegg Autobahn Police Heliport",47.7689,9.8921,2145,"EU","DE","DE-BW","Kißlegg","no",,,,,,,"Kisslegg"
 315800,"DE-0266","small_airport","Wangen-Kißlegg Airfield",47.753962,9.86219,2102,"EU","DE","DE-BW","Wangen im Allgäu","no",,,,,"http://www.fsg-wangen.de/",,"Kisslegg"
-315801,"DE-0267","heliport","Tübingen Trauma Hospital Helipad",48.532951,9.035617,1489,"EU","DE","DE-BW","Tübingen","no",,,,,,,
-315802,"DE-0268","heliport","Tübingen University Hospital Heliport",48.5297,9.0382,1490,"EU","DE","DE-BW","Tübingen","no",,,,,,,
+315801,"DE-0267","heliport","Tübingen Trauma Hospital Rooftop Helipad",48.532977,9.03551,1489,"EU","DE","DE-BW","Tübingen","no",,,"D441",,,,
+315802,"DE-0268","heliport","Tübingen University Hospital Rooftop Helipad (Crona Kliniken)",48.529734,9.038094,1490,"EU","DE","DE-BW","Tübingen","no",,,"D442",,,,
 315803,"DE-0269","small_airport","Kammermark Airfield",53.1953,12.1642,280,"EU","DE","DE-BR","Pritzwalk","no",,,,,"http://kammermark.de/","https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Kammermark",
 315804,"DE-0270","small_airport","Grambeker Heide Airfield",53.5834,10.6985,168,"EU","DE","DE-SH","Mölln","no",,,,,"http://www.grambekerheide.de/",,
 315805,"DE-0271","small_airport","Fischbek Airfield",53.4561,9.8317,217,"EU","DE","DE-HH","Fischbek","no",,,,,"http://www.segelflugclub-fischbek.de/","https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Fischbek",
@@ -22066,9 +22079,9 @@
 316026,"DE-0321","small_airport","Münsingen-Eisberg Airfield",48.4093,9.4425,2385,"EU","DE","DE-BW","Dottingen","no",,,,,"http://www.lsvmuensingen.de/lsv/",,
 316027,"DE-0322","small_airport","Musbach Airfield",48.5027,8.4786,2295,"EU","DE","DE-BW","Freudenstadt","no",,,,,"http://www.fg-freudenstadt.de/wordpress/",,
 316029,"DE-0323","small_airport","Neresheim Gliderfield",48.7417,10.3277,1781,"EU","DE","DE-BW","Neresheim","no",,,,,"http://www.sfg-neresheim.de/index.html",,
-316031,"DE-0324","small_airport","Seißen UL",48.413081,9.766288,,"EU","DE","DE-BW","Blaubeuren","no",,,,,,,"Seissen"
+316031,"DE-0324","small_airport","Seißen Ultralight Airfield",48.413484,9.764933,2283,"EU","DE","DE-BW","Blaubeuren","no",,,,,,"https://de.wikipedia.org/wiki/Flugplatz_Seissen#Geschichte","Seissen"
 316032,"DE-0325","closed","Ochsenhausen Airfield",48.0535,9.9189,2135,"EU","DE","DE-BW","Ochsenhausen","no",,,,,"http://www.lsv-ochsenhausen.de/",,
-316033,"DE-0326","small_airport","Oppingen-Au Airfield",48.5566,9.8219,2238,"EU","DE","DE-BW","Nellingen","no",,,,,"http://www.fliegergruppe-gingen.de/sites/flugplatz/flugplatz.html","https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Oppingen-Au","Gingen an der Fils"
+316033,"DE-0326","small_airport","Oppingen-Au Gliderfield",48.5566,9.8219,2238,"EU","DE","DE-BW","Nellingen","no",,,,,"https://www.fliegergruppe-gingen.de/anfluginformationen/","https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Oppingen-Au","Gingen an der Fils"
 316037,"DE-0327","small_airport","Pleidelsheim Airfield",48.9564,9.1914,616,"EU","DE","DE-BW","Pleidelsheim","no",,,,,"http://www.segelflug-pleidelsheim.de/2015/index.php",,"Segelflugplatz Pleidelsheim, Segelfluggelände Pleidelsheim"
 316045,"DE-0328","small_airport","Rastatt Airfield",48.8742,8.2129,370,"EU","DE","DE-BW","Rastatt","no",,,,,"http://www.flugplatz-rastatt.de/cms/front_content.php",,"Rastatt-Baldenau"
 316046,"DE-0329","small_airport","Reiselfingen Airfield",47.8517,8.3715,2450,"EU","DE","DE-BW","Löffingen","no",,,,,"http://www.sfg-reiselfingen.de/",,"Segelflugplatz Reiselflingen"
@@ -22171,8 +22184,8 @@
 330770,"DE-0426","small_airport","Freyenstein UL",53.2752777,12.3661111,310,"EU","DE","DE-BR",,"no",,,,,,,"Trapp Technologie Horst Trapp"
 333985,"DE-0427","small_airport","Zwochau Cropduster Strip",51.46339,12.23996,,"EU","DE","DE-SN","Wiedemar","no",,,,,,,
 331187,"DE-0428","closed","Böblingen/Sindelfingen Airfield",48.689544,8.996193,,"EU","DE","DE-BW","Böblingen","no",,,,,,"https://en.wikipedia.org/wiki/B%C3%B6blingen_Airport","Böblingen Airport, PHM"
-331188,"DE-0429","heliport","Böblingen Hospital Heliport",48.690553,9.03221,1683,"EU","DE","DE-BW","Böblingen","no",,,,,,"https://de.wikipedia.org/wiki/Flugfeld_(Stadtteil)","PHM"
-331189,"DE-0430","heliport","Sindelfingen Hospital Heliport",48.71495,9.02438,,"EU","DE","DE-BW","Sindelfingen","no",,,,,,,
+331188,"DE-0429","heliport","Böblingen Hospital Heliport",48.690553,9.03221,1683,"EU","DE","DE-BW","Böblingen","no",,,,,"https://www.klinikverbund-suedwest.de/der-klinikverbund-suedwest/standorte-kontakt/kliniken-sindelfingen/","https://de.wikipedia.org/wiki/Flugfeld_(Stadtteil)","PHM, D051"
+331189,"DE-0430","heliport","Sindelfingen City Hospital Helistop",48.71495,9.02438,1693,"EU","DE","DE-BW","Sindelfingen","no",,,,,"https://www.klinikverbund-suedwest.de/der-klinikverbund-suedwest/standorte-kontakt/kliniken-sindelfingen/",,"D416"
 331258,"DE-0431","heliport","Oldenburg Police Heliport",53.2162096,8.2177713,,"EU","DE","DE-NI",,"no",,,,,,,
 331281,"DE-0432","small_airport","Gerbstedt Airstrip",51.636832,11.614951,,"EU","DE","DE-ST","Gerbstedt","no",,,,,,,
 334173,"DE-0433","small_airport","Parchim Sport Airfield",53.41861,11.80167,,"EU","DE","DE-MV","Parchim","no",,,,,,,"Luftsportverein Parchim, Sportflugplatz Parchim"
@@ -22275,7 +22288,7 @@
 513983,"DE-0530","heliport","Coswig Specialty Hospital Heliport",51.13189,13.5931,410,"EU","DE","DE-SN","Coswig","no",,,,,,,
 513984,"DE-0531","heliport","Dernbach Sacred Heart Hospital Heliport",50.45302,7.7865,883,"EU","DE","DE-RP","Dernbach (Westerwald)","no",,,,,,,"Herz-Jesu-Krankenhaus Dernbach Hubscrauberlandeplatz"
 513985,"DE-0532","heliport","Saint Vincent Hospital Limburg Heliport",50.38764,8.05149,,"EU","DE","DE-HE","Limburg an der Lahn","no",,,,,,,
-561478,"DE-0533","small_airport","Magolsheim Ultralight",48.405731,9.622993,,"EU","DE","DE-BW",,"no",,,,,,,
+561478,"DE-0533","small_airport","Magolsheim Ultralight",48.405731,9.622993,2520,"EU","DE","DE-BW",,"no",,,,,,,
 514034,"DE-0534","heliport","Eduardus Hospital Heliport",50.93188,6.98074,157,"EU","DE","DE-NW","Köln (Cologne)","no",,,,,,,
 514035,"DE-0535","heliport","Köln University Hospital Heliport",50.92398,6.91981,,"EU","DE","DE-NW","Köln (Cologne)","no",,,,,,,
 514036,"DE-0536","heliport","Elisabeth Hospital Rheydt Heliport",51.15698,6.41791,272,"EU","DE","DE-NW","Mönchengladbach","no",,,,,,,
@@ -22670,6 +22683,12 @@
 608296,"DE-0926","heliport","Helwin A",54.451897,7.740036,,"EU","DE","DE-XX","North Sea","no","EDYH",,,,,,"EM15"
 608297,"DE-0927","heliport","Meerwind S O",54.399167,7.700052,,"EU","DE","DE-XX","North Sea","no","EDYM",,,,,,"EM17"
 608298,"DE-0928","heliport","Amrumbank West",54.519813,7.735453,,"EU","DE","DE-XX","North Sea","no","EDYA",,,,,,"EM18"
+608342,"DE-0929","heliport","Pfronstetten-Aichelau Helipad",48.288442,9.394458,2408,"EU","DE","DE-BW","Aichelau","no",,,,,,,
+608348,"DE-0930","heliport","Nürtingen Medius Klinik Helipad",48.630362,9.356365,1165,"EU","DE","DE-BW","Nürtingen","no",,,"D324",,,,
+608355,"DE-0931","small_airport","Bockwiese Airfield",48.509444,9.291944,1575,"EU","DE","DE-BW","Glems","no",,,,,,,
+608388,"DE-0932","heliport","Ludwigsburg Hospital Helistop",48.899571,9.204076,971,"EU","DE","DE-BW","Ludwigsburg","no",,,,"RKHKL",,,"D266"
+608389,"DE-0933","heliport","Ostfildern-Ruit Medius Hospital Helistop",48.741787,9.25447,1350,"EU","DE","DE-BW","Stuttgart","no",,,,,"https://www.medius-kliniken.de/standorte/medius-klinik-ostfildern-ruit/auf-einen-blick-medius-klinik-ostfildern-ruit/",,
+608390,"DE-0934","heliport","Bavaria Zscheckwitz Rehabilitation Hospital Heliport",50.953246,13.752254,820,"EU","DE","DE-SN","Kreischa","no",,,,"KBZ",,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -23518,7 +23537,7 @@
 28702,"EDOX","small_airport","Renneritz Airfield",51.595112,12.237911,308,"EU","DE","DE-ST","Sandersdorf","no",,,"EDOX",,,"https://de.wikipedia.org/wiki/Flugplatz_Renneritz",
 45042,"EDOY","heliport","Ahrensfelde Heliport",52.601,13.576,,"EU","DE","DE-BR",,"no",,,"EDOY",,,,
 28719,"EDOZ","small_airport","Schönebeck-Zackmünde Airfield",51.997129,11.789789,167,"EU","DE","DE-ST","Pömmelte","no",,,"EDOZ",,,"https://de.wikipedia.org/wiki/Flugplatz_Sch%C3%B6nebeck-Zackm%C3%BCnde",
-2260,"EDPA","small_airport","Aalen Heidenheim Elchingen Airfield",48.777779,10.264722,1916,"EU","DE","DE-BW","Neresheim","no",,,"EDPA",,"https://edpa.de/","https://de.wikipedia.org/wiki/Verkehrslandeplatz_Aalen-Heidenheim/Elchingen","Flugplatz Aalen-Elchingen, Verkehrslandeplatz Aalen-Heidenheim/Elchingen"
+2260,"EDPA","small_airport","Aalen Heidenheim Elchingen Airfield",48.777779,10.264722,1916,"EU","DE","DE-BW","Neresheim","no","EDPA",,"EDPA",,"https://edpa.de/","https://de.wikipedia.org/wiki/Verkehrslandeplatz_Aalen-Heidenheim/Elchingen","Flugplatz Aalen-Elchingen, Verkehrslandeplatz Aalen-Heidenheim/Elchingen"
 28508,"EDPB","small_airport","Bad Ditzenbach Airfield",48.562778,9.728889,2362,"EU","DE","DE-BW","Bad Ditzenbach","no",,,"EDPB",,,"https://de.wikipedia.org/wiki/Flugplatz_Bad_Ditzenbach",
 29678,"EDPC","small_airport","Bad Endorf/Jolling Airfield",47.926899,12.2872,1690,"EU","DE","DE-BY","Bad Endorf","no",,,"EDPC",,"http://www.edpc.de/Willkommen.html","https://de.wikipedia.org/wiki/Flugplatz_Bad_Endorf/Jolling",
 28551,"EDPD","small_airport","Dingolfing Airfield",48.656727,12.498794,1165,"EU","DE","DE-BY","Dingolfing","no",,,"EDPD",,,"https://de.wikipedia.org/wiki/Flugplatz_Dingolfing",
@@ -23527,7 +23546,7 @@
 28579,"EDPG","small_airport","Griesau Airfield",48.953888,12.421389,1060,"EU","DE","DE-BY","Pfatter","no",,,"EDPG",,,"https://de.wikipedia.org/wiki/Flugplatz_Griesau","Sonderlandeplatz Griesau"
 28720,"EDPH","small_airport","Schwabach-Heidenberg Airfield",49.268019,11.012606,1181,"EU","DE","DE-BY","Büchenbach","no","EDPH",,"EDPH",,,"https://de.wikipedia.org/wiki/Flugplatz_Schwabach-B%C3%BCchenbach",
 314005,"EDPI","small_airport","Moosburg auf der Kippe Airfield",48.456588,11.941624,1375,"EU","DE","DE-BY","Moosburg an der Isar","no",,,"EDPI",,"https://www.moosburg.org/info/tour/kippe.html","https://de.wikipedia.org/wiki/Flugplatz_Moosburg_auf_der_Kippe",
-28629,"EDPJ","small_airport","Laichingen Jakob Laur Airfield",48.496944,9.640278,2434,"EU","DE","DE-BW","Laichingen","no",,,"EDPJ",,,"https://de.wikipedia.org/wiki/Flugplatz_Laichingen",
+28629,"EDPJ","small_airport","Laichingen Jakob Laur Airfield",48.496944,9.640278,2434,"EU","DE","DE-BW","Laichingen","no","EDPJ",,"EDPJ",,,"https://de.wikipedia.org/wiki/Flugplatz_Laichingen",
 29084,"EDPK","small_airport","Schönberg Airfield",48.047779,12.500556,1946,"EU","DE","DE-BY","Kienberg","no",,,"EDPK",,,"https://de.wikipedia.org/wiki/Flugplatz_Sch%C3%B6nberg",
 28555,"EDPM","small_airport","Donzdorf Airfield",48.678177,9.845909,2274,"EU","DE","DE-BW","Donzdorf","no",,,"EDPM",,,"https://de.wikipedia.org/wiki/Flugplatz_Donzdorf","Flugplatz Donzdorf-Messelberg"
 28661,"EDPO","small_airport","Neumarkt-Oberpfalz Airfield",49.285557,11.443056,1394,"EU","DE","DE-BY","Neumarkt in der Oberpfalz","no",,,"EDPO",,,"https://de.wikipedia.org/wiki/Flugplatz_Neumarkt/Opf.","Flugplatz Neumarkt-Oberpfalz"
@@ -23594,7 +23613,7 @@
 315964,"EDSO","small_airport","Gruibingen-Nortel Airfield",48.6212,9.6557,2318,"EU","DE","DE-BW","Salach","no",,,"EDSO",,"http://www.aeroclub-gs.de/flugplatz.html","https://de.wikipedia.org/wiki/Flugplatz_Gruibingen-Nortel",
 314009,"EDSP","small_airport","Poltringen Airfield",48.547282,8.945918,1315,"EU","DE","DE-BW","Ammerbuch","no","EDSP",,"EDSP",,,"https://en.wikipedia.org/wiki/Poltringen_Airfield",
 314007,"EDSR","small_airport","Radolfzell-Stahlringen Airfield",47.802587,8.979378,,"EU","DE","DE-BW","Radolfzell am Bodensee","no",,,"EDSR",,"https://edsr.info","https://de.wikipedia.org/wiki/Flugplatz_Radolfzell-Stahringen","Flugplatz Stahringen-Wahlwies"
-309630,"EDST","small_airport","Hahnweide Airfield",48.631841,9.429201,1146,"EU","DE","DE-BW","Kirchheim unter Teck","no",,,"EDST",,"http://www.hahnweide.com/","http://de.wikipedia.org/wiki/Flugplatz_Hahnweide",
+309630,"EDST","small_airport","Hahnweide Airfield",48.631841,9.429201,1146,"EU","DE","DE-BW","Kirchheim unter Teck","no","EDST",,"EDST",,"http://www.hahnweide.com/","http://de.wikipedia.org/wiki/Flugplatz_Hahnweide",
 28496,"EDSW","small_airport","Altdorf-Wallburg Airfield",48.269883,7.841942,623,"EU","DE","DE-BW","Kippenheim","no",,,"EDSW",,,"https://de.wikipedia.org/wiki/Flugplatz_Altdorf-Wallburg","Flugplatz Altdorf-Wallburg"
 547941,"EDSX","small_airport","Völkleshofen-Lichtenberg Airfield",49.009332,9.354601,1301,"EU","DE","DE-BW","Aspach","no","EDSX",,,,"https://sfg-backnang.de","https://de.wikipedia.org/wiki/Flugplatz_V%C3%B6lkleshofen-Lichtenberg",
 28709,"EDSZ","small_airport","Rottweil-Zepfenhan Airfield",48.186604,8.722801,2444,"EU","DE","DE-BW","Rottweil","no",,,"EDSZ",,,"https://de.wikipedia.org/wiki/Flugplatz_Rottweil-Zepfenhan",
@@ -23616,7 +23635,7 @@
 28760,"EDTW","small_airport","Winzeln-Schramberg Airfield",48.279167,8.428333,2310,"EU","DE","DE-BW","Schramberg","no",,,"EDTW",,"http://www.lsv-schwarzwald.de/flugplatz/","http://de.wikipedia.org/wiki/Flugplatz_Winzeln-Schramberg","Flugplatz Winzeln-Schramberg"
 28722,"EDTX","small_airport","Schwäbisch Hall-Weckrieden Airfield",49.124443,9.781111,1299,"EU","DE","DE-BW","Schwäbisch Hall","no",,,"EDTX",,,"https://de.wikipedia.org/wiki/Flugplatz_Schw%C3%A4bisch_Hall-Weckrieden",
 2278,"EDTY","medium_airport","Adolf Würth Airport",49.118332,9.783889,1299,"EU","DE","DE-BW","Schwäbisch Hall","no",,,"EDTY",,"http://www.edty.de","https://de.wikipedia.org/wiki/Flugplatz_Schw%C3%A4bisch_Hall-Hessental",
-28623,"EDTZ","small_airport","Konstanz Airfield",47.681435,9.139258,1302,"EU","DE","DE-BW","Konstanz","no",,,"EDTZ",,"http://www.flugplatz-konstanz.de","http://de.wikipedia.org/wiki/Flugplatz_Konstanz","Flugplatz Konstanz"
+28623,"EDTZ","small_airport","Konstanz Airfield",47.681435,9.139258,1302,"EU","DE","DE-BW","Konstanz","no","EDTZ",,"EDTZ",,"http://www.flugplatz-konstanz.de","http://de.wikipedia.org/wiki/Flugplatz_Konstanz","QKZ, Flugplatz Konstanz"
 29091,"EDUA","small_airport","Flugplatz Stechow-Ferchesar",52.650555,12.487778,148,"EU","DE","DE-BR","Stechow-Ferchesar","no",,,"EDUA",,,"https://de.wikipedia.org/wiki/Flugplatz_Stechow-Ferchesar",
 2280,"EDUF","small_airport","Falkenberg-Lönnewitz Airfield",51.547779,13.228056,312,"EU","DE","DE-BR","Mühlberg","no",,,"EDUF",,,"https://de.wikipedia.org/wiki/Flugplatz_Falkenberg-L%C3%B6nnewitz","Flugplatz Falkenberg-Lönnewitz"
 29092,"EDUO","small_airport","Oberrißdorf Airfield",51.542895,11.595243,738,"EU","DE","DE-ST","Hedersleben","no","EDUO",,"EDUO",,,"https://de.wikipedia.org/wiki/Flugplatz_Oberri%C3%9Fdorf",
@@ -27846,7 +27865,7 @@
 600610,"FR-1320","heliport","HASNON DZ",50.425498,3.382201,,"EU","FR","FR-HDF","Hasnon","no",,,,,,,
 600734,"FR-1321","heliport","Château de Champlâtreux",49.08615,2.408645,,"EU","FR","FR-IDF","Épinay-Champlâtreux","no",,,,,,,
 601207,"FR-1322","small_airport","Sèvremoine Ultralight strip",47.01879,-1.03036,,"EU","FR","FR-PDL",,"no",,,,,,,
-604032,"FR-1323","small_airport","Peronne - Moulin Chevraut Airfield",46.433079,4.801533,755,"EU","FR","FR-BFC","Peronne","no",,,,"LF7152",,,
+604032,"FR-1323","closed","Peronne - Moulin Chevraut Airfield",46.433079,4.801533,755,"EU","FR","FR-BFC","Peronne","no",,,,,,,"LF7152"
 604771,"FR-1324","heliport","Lys tout terrain DZ",50.640195,2.260179,,"EU","FR","FR-HDF","Thérouanne","no",,,,,,,
 605857,"FR-1325","small_airport","Sepmes Airfield",47.06087,0.68297,341,"EU","FR","FR-CVL","Sepmes","no",,,,,,,
 605977,"FR-1326","small_airport","Champseru Airfield",48.50128,1.67677,472,"EU","FR","FR-CVL","Champseru","no",,,,,,,
@@ -31356,7 +31375,7 @@
 311558,"ID-0156","small_airport","Turmo Airstrip",-3.273581,137.558,286,"AS","ID","ID-PT","Turmo","no",,,"WRNA","TUR",,,"WT51,"
 311561,"ID-0157","small_airport","Waff Airstrip",-2.3307,138.7489,255,"AS","ID","ID-PA","Waff","no",,,"WRSJ",,,,"WT55"
 311564,"ID-0158","small_airport","Walerek Airstrip",-3.993361,139.491977,2420,"AS","ID","ID-PP","Walerek","no",,,"WRJK","WEL",,,"WT58"
-311630,"ID-0159","small_airport","Walma Airstrip",-4.217782,139.393555,6400,"AS","ID","ID-PP","Walma","no",,,,"WAL",,,
+311630,"ID-0159","small_airport","Walma Airstrip",-4.217782,139.393555,6400,"AS","ID","ID-PP","Walma","no","WRJL",,"WRJL","WAL",,,
 311632,"ID-0160","small_airport","Wandama Airstrip",-4.5472,138.55225,761,"AS","ID","ID-PP","Wandama","no",,,"WRJO",,,,"WT61"
 311634,"ID-0161","small_airport","Wanggemalu Airstrip",-5.4974,139.9783,219,"AS","ID","ID-PS","Wanggemalu","no",,,,"WNG",,,"WT62"
 311640,"ID-0162","small_airport","Wolo Airstrip",-3.8505,138.8603,5870,"AS","ID","ID-PP","Wolo","no",,,"WRJR","WOL",,,"WT68"
@@ -31463,7 +31482,7 @@
 430524,"ID-0263","small_airport","Kalbok Airstrip",-4.30181,139.80474,6138,"AS","ID","ID-PP","Kalbok","no",,,,,,,
 430525,"ID-0264","small_airport","Kono Airstrip",-4.275717,139.735893,6437,"AS","ID","ID-PP","Kono","no",,,"WRGO",,,,
 430526,"ID-0265","small_airport","Trison Airstrip",-4.26309,139.68456,7920,"AS","ID","ID-PP","Trison","no",,,,,,,
-430527,"ID-0266","small_airport","Muhumu Airstrip",-4.21977,139.41273,6119,"AS","ID","ID-PP","Muhumu","no",,,,,,,
+430527,"ID-0266","small_airport","Fenteheik Airstrip",-4.21977,139.41273,6119,"AS","ID","ID-PP","Muhumu","no",,,,,,,
 430528,"ID-0267","small_airport","Pasikni Airstrip",-4.216844,139.424413,6440,"AS","ID","ID-PP","Waniyok","no",,,,,,,
 430529,"ID-0268","small_airport","Asotipo Airstrip",-4.17695,138.99303,5778,"AS","ID","ID-PP","Asotipo","no",,,,,,,
 430650,"ID-0269","small_airport","Basir Airstrip",-4.372814,140.69684,1079,"AS","ID","ID-PP","Basir","no",,,,,,,
@@ -33731,6 +33750,9 @@
 608290,"IT-0885","heliport","Elisuperficie mineraria Kreas",45.874604,7.936104,,"EU","IT","IT-21","Comune di Alagna Valesia","no",,,,,,,
 608292,"IT-0886","heliport","Elisuperficie Wold",45.864455,7.936699,,"EU","IT","IT-21","Comune Alagna Valsesia","no",,,,,,,
 608294,"IT-0887","heliport","Elisuperficie Michob",45.841432,7.944344,,"EU","IT","IT-21","Comune di Riva Valdobbia","no",,,,,,,
+608328,"IT-0888","heliport","Elisuperficie di Rima",45.883855,8.00236,,"EU","IT","IT-21","Comune di Rima S.Giuseppe","no",,,,,,,
+608330,"IT-0889","heliport","Elisuperficie fi Carcoforo",45.907032,8.052168,,"EU","IT","IT-21","Comune di Carcoforo","no",,,,,,,
+608332,"IT-0890","heliport","Elisuperficie di Rossa",45.832616,8.127571,,"EU","IT","IT-21","Comune di Rossa","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -43434,7 +43456,7 @@
 4088,"LFCW","small_airport","Villeneuve-sur-Lot Airfield",44.3969,0.758889,190,"EU","FR","FR-NAQ","Villeneuve-sur-Lot","no",,,"LFCW",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Villeneuve-sur-Lot",
 28800,"LFCX","small_airport","Aérodrome de Castelsarrasin Moissac",44.086423,1.127191,243,"EU","FR","FR-OCC","Moissac","no","LFCX",,"LFCX",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Castelsarrasin_-_Moissac",
 4089,"LFCY","medium_airport","Royan-Médis Airport",45.628101,-0.9725,72,"EU","FR","FR-NAQ","Royan/Médis","no","LFCY","RYN","LFCY",,,"https://en.wikipedia.org/wiki/Royan_%E2%80%93_M%C3%A9dis_Aerodrome",
-4090,"LFCZ","small_airport","Aérodrome de Mimizan",44.145928,-1.16432,164,"EU","FR","FR-NAQ","Mimizan","no",,,"LFCZ",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Mimizan",
+4090,"LFCZ","small_airport","Aérodrome de Mimizan",44.145928,-1.16432,164,"EU","FR","FR-NAQ","Mimizan","no","LFCZ",,"LFCZ",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Mimizan",
 4091,"LFDA","small_airport","Aire-sur-l'Adour Airfield",43.7094,-0.245278,259,"EU","FR","FR-NAQ","Aire-sur-Adour","no",,,"LFDA",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_d%27Aire-sur-l%27Adour",
 4092,"LFDB","small_airport","Aérodrome Morin - Védrines",44.0257,1.37804,351,"EU","FR","FR-OCC","Montauban","no","LFDB",,"LFDB",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Montauban",
 28801,"LFDC","small_airport","Aérodrome de Montendre-Marcillac",45.274399,-0.452222,148,"EU","FR","FR-NAQ",,"no",,,"LFDC",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Montendre_-_Marcillac",
@@ -58651,6 +58673,7 @@
 597819,"SE-0115","closed","Göteborg Torslanda",57.70761,11.77764,,"EU","SE","SE-Q",,"no",,,,,,"https://en.wikipedia.org/wiki/Torslanda_Airport","ESGB, GOT"
 599651,"SE-0116","heliport","Gotska Sandön Heliport",58.391302,19.191707,,"EU","SE","SE-I","Gotska Sandön","no",,,,,,,
 608242,"SE-0117","small_airport","Fridhem Farm Airstrip",55.42708,13.0087,,"EU","SE","SE-M",,"no",,,,,,,
+608336,"SE-0118","heliport","Fjällflygarna AB",66.274352,16.68746,,"EU","SE","SE-BD","Adolfström","no",,,,,"https://fjallflygarna.se",,
 2170,"SE01","small_airport","Alba Elena Airport",-2.173581,-79.280763,150,"SA","EC","EC-G","Bucay","no",,,"SEAE",,,,"SE01, Coronel Marcelino Mariduena"
 2171,"SE02","small_airport","Guabital Airport",-2.773399,-79.702411,45,"SA","EC","EC-G","Soledad","no",,,"SEGB",,,,"SE02"
 2172,"SE03","small_airport","Las Peñas Airport",-2.94716,-80.1007,3,"SA","EC","EC-G","Puerto Grande","no",,,"SEEN",,,,"SE03"
