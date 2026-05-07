@@ -10930,6 +10930,14 @@
 608232,"AR-0776","small_airport","L.A.D. Estancia 10 de Julio Airport",-33.403042,-63.507107,562,"SA","AR","AR-X","Los Cisnes","no",,,,"2492",,,
 608236,"AR-0777","small_airport","Estancia El Embrujo Airport",-32.104241,-62.335041,337,"SA","AR","AR-X","Litín","no",,,,"2485",,,
 608238,"AR-0778","small_airport","Estancia El Pericón Airport",-33.048232,-63.737954,784,"SA","AR","AR-X","Chucul","no",,,,"2773",,,
+608417,"AR-0779","small_airport","Taco Pozo Airstrip",-25.61668,-63.237273,840,"SA","AR","AR-H","Taco Pozo","no",,,,"2806",,,
+608419,"AR-0780","small_airport","Santa Mónica Airstrip",-32.076685,-64.588109,2250,"SA","AR","AR-X","Santa Mónica","no",,,,"2316",,,
+608420,"AR-0781","small_airport","Estancia San Juan Airport",-32.368546,-59.481656,270,"SA","AR","AR-E",,"no",,,,"2933",,,
+608421,"AR-0782","small_airport","Santo Domingo Airstrip",-37.804311,-60.384888,684,"SA","AR","AR-B","Establicimiento Santo Domingo","no",,,,"2439",,,
+608422,"AR-0783","small_airport","El Transito Hotel Airstrip",-28.426831,-57.695803,187,"SA","AR","AR-W","Estancia El Transito","no",,,,"2471",,,
+608425,"AR-0784","small_airport","Estancia La Merced Airport",-32.562539,-61.281356,215,"SA","AR","AR-S","Totoras","no",,,,"2708",,,
+608427,"AR-0785","small_airport","Estancia La Pradera Airstrip",-26.976508,-61.98475,503,"SA","AR","AR-G","Moreno","no",,,,"2558",,,
+608429,"AR-0786","small_airport","Estancia Las Cabezas Airfield",-32.922366,-59.525393,112,"SA","AR","AR-E","Estancia Las Cabezas","no",,,,"2815",,,
 16296,"AR02","heliport","Johnson Regional Medical Center Heliport",35.461216,-93.445383,491,"NA","US","US-AR","Clarksville","no",,,"AR02","AR02",,,"AR71, Johnson County Regional Hospital Heliport"
 16297,"AR03","small_airport","Centerville Airstrip",35.128718,-93.205798,350,"NA","US","US-AR","Centerville","no",,,"AR03","AR03",,,
 16299,"AR05","small_airport","John Harris Field",35.21590042114258,-93.30490112304688,1770,"NA","US","US-AR","Chickala","no",,,"AR05","AR05",,,
@@ -22083,7 +22091,7 @@
 316032,"DE-0325","closed","Ochsenhausen Airfield",48.0535,9.9189,2135,"EU","DE","DE-BW","Ochsenhausen","no",,,,,"http://www.lsv-ochsenhausen.de/",,
 316033,"DE-0326","small_airport","Oppingen-Au Gliderfield",48.5566,9.8219,2238,"EU","DE","DE-BW","Nellingen","no",,,,,"https://www.fliegergruppe-gingen.de/anfluginformationen/","https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Oppingen-Au","Gingen an der Fils"
 316037,"DE-0327","small_airport","Pleidelsheim Airfield",48.9564,9.1914,616,"EU","DE","DE-BW","Pleidelsheim","no",,,,,"http://www.segelflug-pleidelsheim.de/2015/index.php",,"Segelflugplatz Pleidelsheim, Segelfluggelände Pleidelsheim"
-316045,"DE-0328","small_airport","Rastatt Airfield",48.8742,8.2129,370,"EU","DE","DE-BW","Rastatt","no",,,,,"http://www.flugplatz-rastatt.de/cms/front_content.php",,"Rastatt-Baldenau"
+316045,"DE-0328","small_airport","Rastatt-Baldenau Gliderfield",48.8742,8.2129,370,"EU","DE","DE-BW","Rastatt","no",,,,,"http://www.flugplatz-rastatt.de/cms/front_content.php",,"Rastatt-Baldenau"
 316046,"DE-0329","small_airport","Reiselfingen Airfield",47.8517,8.3715,2450,"EU","DE","DE-BW","Löffingen","no",,,,,"http://www.sfg-reiselfingen.de/",,"Segelflugplatz Reiselflingen"
 316048,"DE-0330","small_airport","Burgebrach Ultralight Airfield",49.838199,10.778872,,"EU","DE","DE-BY","Burgebrach","no",,,,,,,
 316050,"DE-0331","small_airport","Forst-Sengenthal Ultralight Airfield",49.215229,11.400697,,"EU","DE","DE-BY","Sengenthal","no",,,,,,,
@@ -22679,7 +22687,7 @@
 599479,"DE-0922","heliport","Frankfurt am Main Accident Hospital Roof Helipad",50.145472,8.708981,,"EU","DE","DE-HE","Frankfurt","no",,,,,,,
 600033,"DE-0923","small_airport","Colnrade Ultralight Field",52.83994,8.50037,,"EU","DE","DE-NI",,"no",,,,,"https://easy-flying.jimdosite.com/",,
 601208,"DE-0924","small_airport","Worth Ultralight strip",53.4769,10.40871,,"EU","DE","DE-SH",,"no",,,,,,,
-608158,"DE-0925","heliport","Heliport Refinery Schwedt",53.091844,14.225222,33,"EU","DE","DE-BR","Schwedt","no",,,,,,,
+608158,"DE-0925","heliport","Schwedt Refinery Heliport",53.091844,14.225222,33,"EU","DE","DE-BR","Schwedt","no",,,,,,,
 608296,"DE-0926","heliport","Helwin A",54.451897,7.740036,,"EU","DE","DE-XX","North Sea","no","EDYH",,,,,,"EM15"
 608297,"DE-0927","heliport","Meerwind S O",54.399167,7.700052,,"EU","DE","DE-XX","North Sea","no","EDYM",,,,,,"EM17"
 608298,"DE-0928","heliport","Amrumbank West",54.519813,7.735453,,"EU","DE","DE-XX","North Sea","no","EDYA",,,,,,"EM18"
@@ -23411,7 +23419,7 @@
 28742,"EDHE","small_airport","Uetersen-Heist Airfield",53.645477,9.703503,23,"EU","DE","DE-SH","Heist","yes","EDHE",,"EDHE",,,"https://en.wikipedia.org/wiki/Uetersen_Airfield",
 29073,"EDHF","small_airport","Itzehoe Hungriger Wolf Airfield",53.992009,9.576409,89,"EU","DE","DE-SH","Hohenlockstedt","no",,"IZE","EDHF",,,"https://de.wikipedia.org/wiki/Flugplatz_Itzehoe/Hungriger_Wolf","Itzehoe"
 29074,"EDHG","small_airport","Lüneburg Airfield",53.24832,10.458705,161,"EU","DE","DE-NI","Lüneburg","no",,,"EDHG",,,"https://en.wikipedia.org/wiki/L%C3%BCneburg_Airfield","Flugplatz Lüneburg"
-2234,"EDHI","medium_airport","Hamburg-Finkenwerder Airport",53.5352783203125,9.835556030273438,23,"EU","DE","DE-HH","Hamburg","no","EDHI","XFW","EDHI",,,"https://en.wikipedia.org/wiki/Hamburg_Finkenwerder_Airport",
+2234,"EDHI","medium_airport","Hamburg-Finkenwerder Airport",53.535278,9.835556,23,"EU","DE","DE-HH","Hamburg","no","EDHI","XFW","EDHI",,,"https://en.wikipedia.org/wiki/Hamburg_Finkenwerder_Airport","Airbus"
 2235,"EDHK","medium_airport","Kiel-Holtenau Airport",54.37957,10.145266,102,"EU","DE","DE-SH","Kiel","no","EDHK","KEL","EDHK",,,"https://en.wikipedia.org/wiki/Kiel-Holtenau_airport",
 2236,"EDHL","medium_airport","Lübeck Blankensee Airport",53.805401,10.7192,53,"EU","DE","DE-SH","Lübeck","yes","EDHL","LBC","EDHL",,"https://www.flughafen-luebeck.de/en/home","https://en.wikipedia.org/wiki/L%C3%BCbeck_Airport",
 28589,"EDHM","small_airport","Hartenholm Airfield",53.915001,10.035556,108,"EU","DE","DE-SH","Hasenmoor","no",,,"EDHM",,,"https://de.wikipedia.org/wiki/Flugplatz_Hartenholm","Flugplatz Hartenholm"
@@ -25153,6 +25161,7 @@
 604257,"ES-0375","heliport","Naval Station Heliport",39.54745,2.619789,60,"EU","ES","ES-IB","Palma de Mallorca","no",,,,,,,
 607588,"ES-0376","small_airport","Aeródromo de Casinos",39.725009,-0.733848,,"EU","ES","ES-VC","Casinos","no",,,,,,,
 607970,"ES-0377","small_airport","Aeródromo de La Salceda",41.06474,-3.88266,,"EU","ES","ES-CL",,"no",,,,,,,
+608412,"ES-0378","heliport","Airbus Helicopters España",38.942781,-1.877506,2270,"EU","ES","ES-CM","Albacete","no",,,,,,"https://en.wikipedia.org/wiki/Albacete_helicopter_plant","Airbus"
 599574,"ESAN","heliport","Norra Alvsborgs County Hospital Heliport",58.319006,12.26819,312,"EU","SE","SE-Q","Trollhättan","no","ESEN",,"ESAN","NAL",,,
 2643,"ESCF","medium_airport","Malmen Air Base",58.397666,15.522422,308,"EU","SE","SE-E","Linköping","no","ESCF",,"ESCF",,,"https://en.wikipedia.org/wiki/Malmen_Airbase",
 2645,"ESCM","small_airport","Ärna Air Base",59.897301,17.5886,68,"EU","SE","SE-C","Uppsala","no","ESCM",,"ESCM",,,"https://en.wikipedia.org/wiki/%C3%84rna",
@@ -33753,6 +33762,9 @@
 608328,"IT-0888","heliport","Elisuperficie di Rima",45.883855,8.00236,,"EU","IT","IT-21","Comune di Rima S.Giuseppe","no",,,,,,,
 608330,"IT-0889","heliport","Elisuperficie fi Carcoforo",45.907032,8.052168,,"EU","IT","IT-21","Comune di Carcoforo","no",,,,,,,
 608332,"IT-0890","heliport","Elisuperficie di Rossa",45.832616,8.127571,,"EU","IT","IT-21","Comune di Rossa","no",,,,,,,
+608402,"IT-0891","heliport","Elisuperficie di Fobello",45.890136,8.156683,,"EU","IT","IT-21","Comune Di Fobello","no",,,,,,,
+608408,"IT-0892","heliport","Eisuperficie Stadio di Fobello",45.887327,8.16179,,"EU","IT","IT-21","Comune di Fobello","no",,,,,,,
+608410,"IT-0893","heliport","Elisuperficie di Cervatto",45.883055,8.163507,,"EU","IT","IT-21","Comune di Cervatto","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -43422,7 +43434,7 @@
 4067,"LFBL","medium_airport","Limoges Airport",45.862801,1.17944,1300,"EU","FR","FR-NAQ","Limoges/Bellegarde","yes","LFBL","LIG","LFBL",,"https://www.aeroportlimoges.com/en/","https://en.wikipedia.org/wiki/Limoges_-_Bellegarde_Airport",
 4068,"LFBM","medium_airport","Mont-de-Marsan (BA 118) Air Base",43.911701,-0.5075,203,"EU","FR","FR-NAQ","Mont-de-Marsan","no",,,"LFBM",,,"https://en.wikipedia.org/wiki/Mont-de-Marsan_Air_Base",
 4069,"LFBN","medium_airport","Niort - Marais Poitevin Airport",46.313477,-0.394529,203,"EU","FR","FR-NAQ","Niort/Souché","no","LFBN","NIT","LFBN",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Niort_-_Marais_Poitevin",
-4070,"LFBO","large_airport","Toulouse-Blagnac Airport",43.629101,1.36382,499,"EU","FR","FR-OCC","Toulouse/Blagnac","yes","LFBO","TLS","LFBO",,"http://www.toulouse.aeroport.fr/","https://en.wikipedia.org/wiki/Toulouse_Blagnac_International_Airport",
+4070,"LFBO","large_airport","Toulouse-Blagnac Airport",43.629101,1.36382,499,"EU","FR","FR-OCC","Toulouse/Blagnac","yes","LFBO","TLS","LFBO",,"http://www.toulouse.aeroport.fr/","https://en.wikipedia.org/wiki/Toulouse_Blagnac_International_Airport","Airbus"
 4071,"LFBP","medium_airport","Pau Pyrénées Airport",43.380001,-0.418611,616,"EU","FR","FR-NAQ","Pau/Pyrénées (Uzein)","yes","LFBP","PUF","LFBP",,"https://www.pau.aeroport.fr/passenger/","https://en.wikipedia.org/wiki/Pau_Pyr%C3%A9n%C3%A9es_Airport",
 4072,"LFBR","small_airport","Aérodrome de Muret - Lherm",43.448898,1.26333,622,"EU","FR","FR-OCC","Muret/Lherm","no",,,"LFBR",,"https://www.muret-lherm.aero","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Muret_-_Lherm",
 28786,"LFBS","small_airport","Biscarrosse Parentis airfield",44.3694,-1.13056,98,"EU","FR","FR-NAQ","Biscarrosse","no",,,"LFBS",,,"https://en.wikipedia.org/wiki/Biscarrosse_%E2%80%93_Parentis_Airport",
@@ -52379,7 +52391,7 @@
 7976,"PAMX","small_airport","Mc Carthy Airport",61.4370994568,-142.904006958,1531,"NA","US","US-AK","Mccarthy","no","PAMX","MXY","PAMX","15Z",,"https://en.wikipedia.org/wiki/McCarthy_Airport",
 5387,"PAMY","medium_airport","Mekoryuk Airport",60.372338,-166.269751,48,"NA","US","US-AK","Mekoryuk","yes","PAMY","MYU","PAMY","MYU",,"https://en.wikipedia.org/wiki/Mekoryuk_Airport",
 25894,"PANA","small_airport","Napakiak Airport",60.6903,-161.979004,17,"NA","US","US-AK","Napakiak","yes","PANA","WNA","PANA","WNA",,"https://en.wikipedia.org/wiki/Napakiak_Airport",
-5388,"PANC","large_airport","Ted Stevens Anchorage International Airport",61.179004,-149.992561,152,"NA","US","US-AK","Anchorage","yes","PANC","ANC","PANC","ANC","https://dot.alaska.gov/anc/","https://en.wikipedia.org/wiki/Ted_Stevens_Anchorage_International_Airport",
+5388,"PANC","large_airport","Ted Stevens Anchorage International Airport",61.179004,-149.992561,152,"NA","US","US-AK","Anchorage","yes","PANC","ANC","PANC","ANC","https://dot.alaska.gov/anc/","https://en.wikipedia.org/wiki/Ted_Stevens_Anchorage_International_Airport","Anchorage"
 16291,"PANI","medium_airport","Aniak Airport",61.581600189208984,-159.54299926757812,88,"NA","US","US-AK","Aniak","yes","PANI","ANI","PANI","ANI",,"https://en.wikipedia.org/wiki/Aniak_Airport",
 5390,"PANN","medium_airport","Nenana Municipal Airport",64.548772,-149.074516,362,"NA","US","US-AK","Nenana","no","PANN","ENN","PANN","ENN",,"https://en.wikipedia.org/wiki/Nenana_Municipal_Airport",
 12571,"PANO","small_airport","Nondalton Airport",59.980202,-154.839005,314,"NA","US","US-AK","Nondalton","no","PANO","NNL","PANO","5NN",,"https://en.wikipedia.org/wiki/Nondalton_Airport",
