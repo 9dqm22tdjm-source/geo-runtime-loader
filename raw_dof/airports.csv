@@ -1444,7 +1444,7 @@
 326179,"16XA","heliport","Texoma Medical Center Heliport",33.709586,-96.5838,682,"NA","US","US-TX","Denison","no",,,"16XA","16XA",,,
 45835,"16XS","small_airport","Outlaw Flyers Airport",30.404367,-95.35985,270,"NA","US","US-TX","Conroe","no",,,"16XS","16XS",,,
 8029,"16Z","seaplane_base","Mc Grath Seaplane Base",62.9580001831,-155.593002319,325,"NA","US","US-AK","Mcgrath","no",,,"16Z","16Z",,,
-8030,"17AK","heliport","Ketchikan /Temsco H/ Heliport",55.382999420166016,-131.73500061035156,20,"NA","US","US-AK","Ketchikan","no",,,"17AK","17AK",,,
+8030,"17AK","heliport","Ketchikan (Temsco H) Heliport",55.383254,-131.736123,20,"NA","US","US-AK","Ketchikan","no",,,"17AK","17AK",,,
 8031,"17AL","heliport","Hunt Stagefield Army Heliport",31.380199432373047,-85.5802993774414,263,"NA","US","US-AL","Fort Rucker/Newton","no",,,"17AL","17AL",,,
 8032,"17AR","small_airport","Bredlow Farm Airport",34.5531005859375,-92.09140014648438,236,"NA","US","US-AR","England","no",,,"17AR","17AR",,,
 8033,"17AZ","heliport","East Valley ER & Hospital Helipad",33.314114,-111.687419,1350,"NA","US","US-AZ","Gilbert","no",,,,,"https://eastvalleyhospital.com/",,"17AZ, Gilbert Emergency Hospital, Desert Grove Family Medical"
@@ -5546,6 +5546,7 @@
 12134,"57LA","heliport","Acadia Saint Landry Hospital Heliport",30.395147,-92.210568,41,"NA","US","US-LA","Church Point","no",,,"57LA","57LA",,,"ASLH Helipad"
 345546,"57LS","small_airport","Prairie Creek Airport",31.205025,-93.277166,245,"NA","US","US-LA","Leesville","no",,,"57LS","57LS",,,
 332085,"57MA","heliport","Nantucket Cottage Hospital Helipad",41.275778,-70.101833,38,"NA","US","US-MA","Nantucket","no",,,"57MA","57MA",,,
+608460,"57MD","seaplane_base","St Michaels Seaplane Base",38.790278,-76.205833,0,"NA","US","US-MD","St Michaels","no",,,"57MD","57MD",,,
 12135,"57ME","small_airport","Dyer's Landing Airport",43.91780090332031,-70.85440063476562,441,"NA","US","US-ME","Fryeburg","no",,,"57ME","57ME",,,
 12137,"57MN","seaplane_base","Namakan Seaplane Base",48.40679931640625,-92.66680145263672,1119,"NA","US","US-MN","Ray","no",,,"57MN","57MN",,,
 344902,"57MT","small_airport","Flying K Field",46.201911,-114.083029,4085,"NA","US","US-MT","Hamilton","no",,,"57MT","57MT",,,
@@ -7416,7 +7417,7 @@
 14042,"7AK4","small_airport","Jack Fish Landing Airport",61.541579,-149.459102,150,"NA","US","US-AK","Wasilla","no",,,"7AK4","7AK4",,,
 14043,"7AK5","small_airport","Dahler Homestead Airport",60.50360107421875,-150.93600463867188,300,"NA","US","US-AK","Soldotna","no",,,"7AK5","7AK5",,,
 14044,"7AK6","small_airport","Dan France Airport",60.475686,-150.929875,260,"NA","US","US-AK","Soldotna","no",,,"7AK6","7AK6",,,
-14045,"7AK7","heliport","Era Denali Heliport",63.738399505615234,-148.8820037841797,1580,"NA","US","US-AK","Healy","no",,,"7AK7","7AK7",,,
+14045,"7AK7","heliport","Temsco Helicopters Inc. Heliport",63.737439,-148.882818,1580,"NA","US","US-AK","Healy","no",,,"7AK7","7AK7",,,"Era Denali"
 14046,"7AK8","small_airport","Hess Airport",61.621299743652344,-149.61500549316406,355,"NA","US","US-AK","Wasilla","no",,,"7AK8","7AK8",,,
 14047,"7AK9","small_airport","Vinduska Airport",61.64680099487305,-149.0489959716797,700,"NA","US","US-AK","Palmer","no",,,"7AK9","7AK9",,,
 325539,"7AL0","heliport","Logan Martin Dam Heliport",33.427258,-86.340837,485,"NA","US","US-AL","Vincent","no",,,"7AL0","7AL0",,,
@@ -10938,6 +10939,8 @@
 608425,"AR-0784","small_airport","Estancia La Merced Airport",-32.562539,-61.281356,215,"SA","AR","AR-S","Totoras","no",,,,"2708",,,
 608427,"AR-0785","small_airport","Estancia La Pradera Airstrip",-26.976508,-61.98475,503,"SA","AR","AR-G","Moreno","no",,,,"2558",,,
 608429,"AR-0786","small_airport","Estancia Las Cabezas Airfield",-32.922366,-59.525393,112,"SA","AR","AR-E","Estancia Las Cabezas","no",,,,"2815",,,
+608450,"AR-0787","small_airport","El Algarrobal Airstrip",-25.083859,-64.175534,1263,"SA","AR","AR-A","Finca El Algarrobal","no",,,,"2501",,,"Joaquín Victor González"
+608453,"AR-0788","small_airport","La Carreta Airstrip",-28.727621,-61.576366,243,"SA","AR","AR-S","Villa Minetti","no",,,,"2544",,,
 16296,"AR02","heliport","Johnson Regional Medical Center Heliport",35.461216,-93.445383,491,"NA","US","US-AR","Clarksville","no",,,"AR02","AR02",,,"AR71, Johnson County Regional Hospital Heliport"
 16297,"AR03","small_airport","Centerville Airstrip",35.128718,-93.205798,350,"NA","US","US-AR","Centerville","no",,,"AR03","AR03",,,
 16299,"AR05","small_airport","John Harris Field",35.21590042114258,-93.30490112304688,1770,"NA","US","US-AR","Chickala","no",,,"AR05","AR05",,,
@@ -33765,6 +33768,9 @@
 608402,"IT-0891","heliport","Elisuperficie di Fobello",45.890136,8.156683,,"EU","IT","IT-21","Comune Di Fobello","no",,,,,,,
 608408,"IT-0892","heliport","Eisuperficie Stadio di Fobello",45.887327,8.16179,,"EU","IT","IT-21","Comune di Fobello","no",,,,,,,
 608410,"IT-0893","heliport","Elisuperficie di Cervatto",45.883055,8.163507,,"EU","IT","IT-21","Comune di Cervatto","no",,,,,,,
+608442,"IT-0894","heliport","Elisuperficie di Rimella",45.90739,8.183554,,"EU","IT","IT-21","Comune di Rimella","no",,,,,,,
+608446,"IT-0895","heliport","Elisuperficie dell’Enderwasser",45.910115,8.221636,,"EU","IT","IT-21","Comune di Rimella","no",,,,,,,
+608448,"IT-0896","heliport","Elisuperficie di Campello Monti",45.935203,8.237997,,"EU","IT","IT-21","Comune di Valstrona","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -55058,6 +55064,7 @@
 600746,"RO-0173","heliport","Siret Heliport",47.948075,26.066893,1058,"EU","RO","RO-SV","Siret","no",,,,,,,"Siret, Romania"
 600747,"RO-0174","heliport","Suceava ""St. John the New"" Emergency Hospital Heliport",47.638939,26.239724,,"EU","RO","RO-SV","Suceava","no",,,,,,,
 600919,"RO-0175","small_airport","Ruck Ventilatoare private airstrip",46.324995,24.308566,,"EU","RO","RO-MS","Târnăveni","no",,,,,,,
+608434,"RO-0176","small_airport","Becicherecu Mic Airfield",45.844681,21.029849,,"EU","RO","RO-TM",,"no",,,,,,,
 300121,"RO02","heliport","Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,"AS","JP","JP-47",,"no",,,"RO02",,,,
 300122,"RO04","heliport","White Beach Helipad CFAO",26.301666666699997,127.910277778,31,"AS","JP","JP-47",,"no",,,"RO04",,,,
 5671,"ROAH","large_airport","Naha International Airport",26.192437,127.639804,12,"AS","JP","JP-47","Naha","yes","ROAH","OKA","ROAH",,"http://www.naha-airport.co.jp/","https://en.wikipedia.org/wiki/Naha_Airport","那覇空港, Naha Kūkō?, AHA, Naha AFB"
@@ -80981,6 +80988,7 @@
 605573,"VN-0082","heliport","People's Hospital No. 115 Heliport",10.775372,106.668101,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 605574,"VN-0083","heliport","Saigon Times Square Heliport",10.773857,106.704695,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
 605575,"VN-0084","heliport","Police Heliport",10.7584,106.686185,,"AS","VN","VN-SE","Ho Chi Minh City","no",,,,,,,
+608457,"VN-0085","medium_airport","xo88appco",23,22.999999,,"AS","VN","VN-U-A",,"no",,,,,"https://xo88app.co/",,
 30760,"VNBG","small_airport","Bajhang Airport",29.539,81.185402,4100,"AS","NP","NP-P7","Bajhang","no","VNBG","BJH","VNBG",,,"https://en.wikipedia.org/wiki/Bajhang_Airport",
 30706,"VNBJ","small_airport","Bhojpur Airport",27.1474,87.050797,4000,"AS","NP","NP-P1","Bhojpur","no","VNBJ","BHP","VNBJ",,,"https://en.wikipedia.org/wiki/Bhojpur_Airport",
 30701,"VNBL","small_airport","Baglung Airport",28.212799,83.666298,3320,"AS","NP","NP-P4","Baglung","no","VNBL","BGL","VNBL",,,"https://en.wikipedia.org/wiki/Baglung_Airport",
@@ -81846,7 +81854,7 @@
 26854,"WIPO","small_airport","Gatot Subrato Airport",-4.39177,104.401001,450,"AS","ID","ID-LA","Batu Raja-Sumatra Island","no",,,"WIPO",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Gatot_Subroto",
 26855,"WIPP","medium_airport","Sultan Mahmud Badaruddin II Airport",-2.897653,104.698147,49,"AS","ID","ID-SS","Palembang","yes","WIPP","PLM","WIPP",,,"https://en.wikipedia.org/wiki/Sultan_Mahmud_Badaruddin_II_Airport",
 26856,"WIPQ","medium_airport","Pendopo Airport",-3.2860701084136963,103.87999725341797,184,"AS","ID","ID-SS","Talang Gudang-Sumatra Island","yes","WIPQ","PDO","WIPQ",,,,
-26858,"WIPT","medium_airport","Minangkabau International Airport",-0.785964,100.280384,18,"AS","ID","ID-SB","Padang (Katapiang)","yes","WIEE","PDG","WIEE",,"http://minangkabau-airport.co.id/en/general/about-us","https://en.wikipedia.org/wiki/Minangkabau_International_Airport",
+26858,"WIPT","large_airport","Minangkabau International Airport",-0.785964,100.280384,18,"AS","ID","ID-SB","Padang (Katapiang)","yes","WIEE","PDG","WIEE",,"https://minangkabau-airport.co.id/en/general/about-us","https://en.wikipedia.org/wiki/Minangkabau_International_Airport",
 41470,"WIPY","small_airport","Atung Bungsu Airport",-4.0225,103.379167,40,"AS","ID","ID-SS","Bentayan","no","WIPY","PXA","WIPY",,,"https://en.wikipedia.org/wiki/Atung_Bungsu_Airport","Pagar Alam, Lahat"
 598462,"WIQD","small_airport","Teratai Airstrip",0.4,110.75,197,"AS","ID","ID-KB","Terati","no",,,"WIQD",,,,
 598455,"WIQE","small_airport","Ulak Muid Aistrip",-0.676667,111.526111,348,"AS","ID","ID-KB","Tanah Pinoh Barat","no",,,"WIQE",,,,
