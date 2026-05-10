@@ -16165,29 +16165,29 @@
 38045,"BR-3123","small_airport","Fazenda Quatro Irmãos Airport",-20.876941,-53.556023,1509,"SA","BR","BR-MS","Ribas do Rio Pardo","no",,,,,,,"SWQZ"
 38047,"BR-3124","small_airport","Fazenda Rio dos Bugres Airport",-14.816944,-56.950558,1148,"SA","BR","BR-MT","Barra do Bugres","no",,,,,,,"SWRB"
 38053,"BR-3125","small_airport","Santo Antônio do Descoberto Airport",-15.930556,-48.333611,3674,"SA","BR","BR-GO","Santo Antônio do Descoberto","no",,,,,,,"SWRM"
-38059,"BR-3126","small_airport","Fazenda Vale do Rio Verde Airport",-12.166944,-56.53389,1378,"SA","BR","BR-MT","Diamantino","no",,,,"SWRV",,,"SWRV"
-38061,"BR-3127","small_airport","Fazenda Santa Cruz do Pessoê Airport",-15.161573,-60.440383,764,"SA","BR","BR-MT","Vila Bela Da Santíssima Trindade","no",,,,"SWRX",,,"SWRX"
-38063,"BR-3128","small_airport","Fazenda São João Airport",-12.289167,-56.53389,1476,"SA","BR","BR-MT","Diamantino","no",,,,"SWSA",,,"SWSA"
+38059,"BR-3126","small_airport","Fazenda Vale do Rio Verde Airport",-12.166944,-56.53389,1378,"SA","BR","BR-MT","Diamantino","no",,,,,,,"SWRV"
+38061,"BR-3127","small_airport","Fazenda Santa Cruz do Pessoê Airport",-15.161573,-60.440383,764,"SA","BR","BR-MT","Vila Bela Da Santíssima Trindade","no",,,,,,,"SWRX"
+38063,"BR-3128","small_airport","Fazenda São João Airport",-12.289167,-56.53389,1476,"SA","BR","BR-MT","Diamantino","no",,,,,,,"SWSA"
 38064,"BR-3129","small_airport","Fazenda Sabiá Airport",-15.228871,-51.975217,951,"SA","BR","BR-MT","Araguaiana","no",,,,,,,"SWSB"
 38067,"BR-3130","small_airport","São Raimundo II Airport",-9.965737,-56.154791,932,"SA","BR","BR-MT","Alta Floresta","no",,,,,,,"SWSH"
 38068,"BR-3131","small_airport","Fazenda São Marco Airport",3.052839,-60.479586,295,"SA","BR","BR-RR","Boa Vista","no",,,,,,,"SWSK"
 38071,"BR-3132","small_airport","Sertânia Airport",-13.750278,-55.633888,1772,"SA","BR","BR-MT","Sertânia","no",,,,,,,"SWSR"
 38073,"BR-3133","closed","Santa Terezinha Airport",-10.462921,-50.52312,663,"SA","BR","BR-MT","Santa Terezinha","no",,,,,,"https://en.wikipedia.org/wiki/Santa_Terezinha_Airport","SWST, STZ, MT0011"
 38074,"BR-3134","small_airport","Fazenda Santa Juliana Airport",-12.875085,-52.020235,1230,"SA","BR","BR-MT","Ribeirão Cascalheira","no",,,,,,,"SWSU"
-38078,"BR-3135","small_airport","São Simão Airport",-15.914596,-60.148355,705,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,,"SWSY",,,"SWSY"
-38081,"BR-3136","small_airport","Tabajara Airport",-8.9169435501099,-62.117221832275,722,"SA","BR","BR-RO","Ariquemes","no",,,,"SWTB",,,"SWTB"
+38078,"BR-3135","small_airport","São Simão Airport",-15.914596,-60.148355,705,"SA","BR","BR-MT","Vila Bela da Santíssima Trindade","no",,,,,,,"SWSY"
+38081,"BR-3136","small_airport","Tabajara Airport",-8.916944,-62.117222,722,"SA","BR","BR-RO","Ariquemes","no",,,,,,,"SWTB"
 38083,"BR-3137","small_airport","Fazenda Sete de Setembro Airport",-13.880673,-52.400002,1066,"SA","BR","BR-MT","Água Boa","no",,,,,,,"SWTD"
-38084,"BR-3138","small_airport","Fazenda Trescinco Airport",-13.916944,-56.65889,1132,"SA","BR","BR-MT","Diamantino","no",,,,"SWTE",,,"SWTE"
-38085,"BR-3139","heliport","Porto Moura Heliport",-4.550278,-65.567223,195,"SA","BR","BR-AM","Tefé","no",,,,"SWTF",,,"SWTF"
-38094,"BR-3140","small_airport","Fazenda São Lucas Airport",-15.714392,-59.241918,833,"SA","BR","BR-MT","Pontes e Lacerda","no",,,,"SWTW",,,"SWTW"
-38095,"BR-3141","small_airport","Fazenda Olho d'Água Airport",-16.141908,-52.967341,1201,"SA","BR","BR-MT","Torixoreu","no",,,,"SWTX",,,"SWTX"
+38084,"BR-3138","small_airport","Fazenda Trescinco Airport",-13.916944,-56.65889,1132,"SA","BR","BR-MT","Diamantino","no",,,,,,,"SWTE"
+38085,"BR-3139","heliport","Porto Moura Heliport",-4.550278,-65.567223,195,"SA","BR","BR-AM","Tefé","no",,,,,,,"SWTF"
+38094,"BR-3140","small_airport","Fazenda São Lucas Airport",-15.714392,-59.241918,833,"SA","BR","BR-MT","Pontes e Lacerda","no",,,,,,,"SWTW"
+38095,"BR-3141","small_airport","Fazenda Olho d'Água Airport",-16.141908,-52.967341,1201,"SA","BR","BR-MT","Torixoreu","no",,,,,,,"SWTX"
 38097,"BR-3142","small_airport","Fazenda Serra Alegre Airport",-15.674892,-59.190945,1115,"SA","BR","BR-MT","Pontes E Lacerda","no",,,,,,,"SWUB"
 38101,"BR-3143","small_airport","Taguá Agropecuária Airport",-12.208737,-55.375568,1230,"SA","BR","BR-MT","Vera","no",,,,"SWUJ",,,"SWUJ"
 38104,"BR-3144","small_airport","Fazenda Rancho Novo Airport",-13.4425,-60.272778,984,"SA","BR","BR-MT","Comodoro","no",,,,"SWUM",,,"SWUM"
 38105,"BR-3145","small_airport","Fazenda Santa Eunice Airport",-10.166063,-57.554777,886,"SA","BR","BR-MT","Nova Monte Verde","no",,,,"SWUN",,,"SWUN"
 38108,"BR-3146","small_airport","Sede Fazenda São Benedito Airport",-14.232227,-57.710624,1798,"SA","BR","BR-MT","Campo Novo Do Parecis","no",,,,"SWUS",,,"SWUS"
 38109,"BR-3147","small_airport","Lavoura Fazenda São Benedito Airport",-14.220000267029,-57.778888702393,2001,"SA","BR","BR-MT","Campo Novo Do Parecis","no",,,,"SWUT",,,"SWUT"
-38110,"BR-3148","small_airport","Fazenda Uirapuru Airport",-12.100592,-54.175429,1148,"SA","BR","BR-MT","Sinop","no",,,,"SWUU",,,"SWUU"
+38110,"BR-3148","small_airport","Fazenda Uirapuru Airport",-12.100592,-54.175429,1148,"SA","BR","BR-MT","Sinop","no",,,,,,,"SWUU"
 38112,"BR-3149","heliport","Valmir Amaral Heliport",-15.842128,-47.895041,3300,"SA","BR","BR-DF","Brasília","no",,,,"SWVA",,,"SWVA"
 38113,"BR-3150","small_airport","Vila Bela da Santíssima Trindade Airport",-14.995499,-59.945662,660,"SA","BR","BR-MT","Vila Bela Da Santíssima Trindade","no",,"MTG",,"MT0020",,"https://web.archive.org/web/20220524202626/https://pt.wikipedia.org/wiki/Aeroporto_de_Vila_Bela_da_Sant%C3%ADssima_Trindade","Mato Grosso Airport, BR-3150"
 38115,"BR-3151","small_airport","Fazenda Rio Verde Airport",-17.984285,-52.574043,2592,"SA","BR","BR-GO","Serranópolis","no",,,,"SWVD",,,"SWVD"
@@ -21298,12 +21298,12 @@
 43918,"CZ-0001","heliport","Factory Jihočeské Papírny Heliport",48.96200180053711,14.462531089782715,1280,"EU","CZ","CZ-JC","České Budějovice","no",,,,,,,
 43919,"CZ-0002","heliport","Tábor Hospital Heliport",49.415849,14.652207,1450,"EU","CZ","CZ-JC","Tábor","no",,,"LKTR",,,,
 43920,"CZ-0003","heliport","Jindřichův Hradec Hospital Heliport",49.139168,15.005556,1620,"EU","CZ","CZ-JC","Jindřichův Hradec","no",,,,,,,
-43921,"CZ-0004","heliport","Blansko Hospital Heliport",49.362389,16.654029,1038,"EU","CZ","CZ-JM","Blansko","no",,,,,,,
-43922,"CZ-0005","heliport","Boskovice Hospital Heliport",49.48963,16.646267,1198,"EU","CZ","CZ-JM","Boskovice","no",,,,,,,
+43921,"CZ-0004","heliport","Blansko Hospital Heliport",49.362389,16.654029,1038,"EU","CZ","CZ-JM","Blansko","no",,,"LKBL",,,,
+43922,"CZ-0005","heliport","Boskovice Hospital Heliport",49.48963,16.646267,1198,"EU","CZ","CZ-JM","Boskovice","no",,,"LKBS",,,,
 43923,"CZ-0006","heliport","International Business Center Brno Heliport",49.200279,16.61389,774,"EU","CZ","CZ-JM","Brno","no",,,,,,,
-43924,"CZ-0007","heliport","Břeclav Hospital Heliport",48.752309,16.877881,518,"EU","CZ","CZ-JM","Břeclav","no",,,,,,,"Heliport nemocnice Břeclav"
+43924,"CZ-0007","heliport","Břeclav Hospital Heliport",48.752309,16.877881,518,"EU","CZ","CZ-JM","Břeclav","no",,,"LKBI",,,,"Heliport nemocnice Břeclav"
 43925,"CZ-0008","heliport","Kyjov Hospital Heliport",49.008403,17.110684,730,"EU","CZ","CZ-JM","Kyjov","no",,,,,,,
-43926,"CZ-0009","heliport","Brno University Hospital Bohunice Reserve Heliport",49.175688,16.569328,967,"EU","CZ","CZ-JM","Brno","no",,,,,,,
+43926,"CZ-0009","heliport","Brno University Hospital Bohunice Reserve Heliport",49.175688,16.569328,967,"EU","CZ","CZ-JM","Brno","no",,,"LKBN",,,,
 43927,"CZ-0010","heliport","Brno Černá Pole Heliport",49.203314,16.616512,791,"EU","CZ","CZ-JM","Brno","no",,,,,,,
 43928,"CZ-0011","heliport","Horní Staré Město Heliport",50.586109,15.878611,1526,"EU","CZ","CZ-KR","Trutnov","no",,,"LKTU",,,,
 43929,"CZ-0012","heliport","Náchod Regional Hospital Heliport",50.410295,16.166561,1217,"EU","CZ","CZ-KR","Náchod","no",,,"LKNC",,,,
@@ -21317,7 +21317,7 @@
 43937,"CZ-0020","heliport","Šumperk Heliport",49.95777893066406,16.963056564331055,1023,"EU","CZ","CZ-OL","Šumperk","no",,,,,,,
 43938,"CZ-0021","heliport","Tabulový Vrch Heliport",49.58329,17.220778,850,"EU","CZ","CZ-OL","Olomouc","no",,,,,,,
 43939,"CZ-0022","heliport","Olomouc University Hospital Surgical Pavilion Heliport",49.584095,17.236528,873,"EU","CZ","CZ-OL","Olomouc","no",,,,,,,
-43940,"CZ-0023","heliport","Pardubice Regional Fire and Rescue Service Svitavy Heliport",49.763788,16.462558,1449,"EU","CZ","CZ-PA","Svitavy","no",,,,,,,
+43940,"CZ-0023","heliport","Pardubice Regional Fire and Rescue Service Svitavy Heliport",49.763788,16.462558,1449,"EU","CZ","CZ-PA","Svitavy","no",,,"LKSV",,,,
 43941,"CZ-0024","heliport","Chrudim Hospital Heliport",49.941085,15.808309,925,"EU","CZ","CZ-PA","Chrudim","no",,,,,,,
 43942,"CZ-0025","heliport","Domažlice Hospital Heliport",49.438409,12.90702,1521,"EU","CZ","CZ-PL","Domažlice","no",,,"LKDO",,,,
 43943,"CZ-0026","heliport","Plzeň University Hospital Ground Heliport",49.76357,13.37701,1135,"EU","CZ","CZ-PL","Plzeň","no",,,"LKPV",,,,
@@ -21452,7 +21452,7 @@
 323242,"CZ-0155","small_airport","Náchod Vysokov Airfield",50.412962,16.121845,1443,"EU","CZ","CZ-KR","Vysokov","no",,,,"LKNACH",,,"Letiště Náchod"
 323305,"CZ-0156","small_airport","Moravský Beroun",49.786111,17.486111,2218,"EU","CZ","CZ-OL","Moravský Beroun","no",,,,"LKMBER",,,
 323308,"CZ-0157","small_airport","Šumvald Ultralight Airstrip",49.845196,17.138485,902,"EU","CZ","CZ-OL","Šumvald","no",,,,"LKSUMV",,,
-323646,"CZ-0158","small_airport","Sedliště Airstrip",49.7220654,18.3749167,,"EU","CZ","CZ-MO","Sedliště","no",,,,,,,
+323646,"CZ-0158","small_airport","Sedliště Airstrip",49.722065,18.374917,1132,"EU","CZ","CZ-MO","Sedliště","no",,,,"LKSEDL",,,
 323740,"CZ-0159","small_airport","Nučice Airfield",49.951101,14.869944,,"EU","CZ","CZ-ST","Nučice","no",,,,"LKNUCI",,,"Konojedy"
 324047,"CZ-0160","small_airport","Milhostov u Chebu ULM",50.164121,12.464089,1535,"EU","CZ","CZ-KA","Milhostov","no",,,,,,,
 324117,"CZ-0161","small_airport","Luhačovice Airfield",49.088188,17.718769,,"EU","CZ","CZ-ZL","Luhačovice","no","LKLU",,"LKLU",,"https://www.aeroklubluhacovice.cz/?",,"Letiště Luhačovice"
@@ -21517,10 +21517,10 @@
 515360,"CZ-0220","heliport","Frýdlant Hospital Heliport",50.926004,15.088781,1063,"EU","CZ","CZ-LI","Frýdlant v Čechách","no",,,,,,,
 515457,"CZ-0221","heliport","Pístov Heliport",49.37074,15.58038,1795,"EU","CZ","CZ-VY","Rančířov","no",,,,,,,
 515458,"CZ-0222","heliport","Hranice Hospital Heliport",49.55564,17.74896,912,"EU","CZ","CZ-OL","Hranice","no",,,,,,,
-515613,"CZ-0223","heliport","Brno University Hospital Bohunice Main Heliport",49.176311,16.572171,,"EU","CZ","CZ-JM","Brno","no",,,,,,,
+515613,"CZ-0223","heliport","Brno University Hospital Bohunice Main Heliport",49.176311,16.572171,951,"EU","CZ","CZ-JM","Brno","no",,,"LKBG",,,,
 515615,"CZ-0224","heliport","Brno University Hospital Bohunice Ground Heliport",49.17605,16.56811,922,"EU","CZ","CZ-JM","Brno","no",,,,,,,
 515616,"CZ-0225","heliport","Brno Trauma Hospital Heliport",49.19785,16.616,673,"EU","CZ","CZ-JM","Brno","no",,,,,,,
-515617,"CZ-0226","heliport","Brno Svatá Anna University Hospital Heliport",49.19073,16.600826,,"EU","CZ","CZ-JM","Brno","no",,,,,,,
+515617,"CZ-0226","heliport","Brno Svatá Anna University Hospital Heliport",49.19073,16.600826,,"EU","CZ","CZ-JM","Brno","no",,,"LKBV",,,,
 515795,"CZ-0227","small_airport","Stránecká Zhoř cropduster strip",49.38575,15.93104,,"EU","CZ","CZ-VY","Stránecká Zhoř","no",,,,,,,
 515935,"CZ-0228","small_airport","Březno u Chomutova Airstrip",50.40943,13.44546,1106,"EU","CZ","CZ-US","Droužkovice","no",,,,,,,
 515936,"CZ-0229","heliport","Žatec Hospital Heliport",50.31954,13.53708,869,"EU","CZ","CZ-US","Žatec","no",,,,,,,
@@ -21583,6 +21583,7 @@
 601186,"CZ-0286","small_airport","Jilmovi Ultralight Strip",49.3983,16.32169,,"EU","CZ","CZ-JM",,"no",,,,,,,
 604047,"CZ-0287","closed","Zábřeh Airfield",49.900235,16.900061,928,"EU","CZ","CZ-OL","Zábřeh","no",,,,,,,
 608082,"CZ-0288","small_airport","Bošovice Airstrip",49.060506,16.843395,,"EU","CZ","CZ-JM",,"no",,,,,,,
+608511,"CZ-0289","small_airport","Vlastibořice Airstrip",50.61929,15.03542,,"EU","CZ","CZ-ST",,"no",,,,,,,
 2005,"CZAC","small_airport","York Landing Airport",56.089401,-96.089203,621,"NA","CA","CA-MB","York Landing","no","CZAC","ZAC","CZAC",,,"https://en.wikipedia.org/wiki/York_Landing_Airport",
 2006,"CZAM","medium_airport","Shuswap Regional Airport",50.682802,-119.228996,1751,"NA","CA","CA-BC","Salmon Arm","no","CZAM","YSN","CZAM",,"http://www.salmonarm.ca/index.aspx?nid=228","https://en.wikipedia.org/wiki/Salmon_Arm_Airport","AM4, Shuswap Regional Airport, Salmon Arm Airport"
 2007,"CZBA","small_airport","Burlington Executive Airpark",43.441453,-79.850103,602,"NA","CA","CA-ON","Burlington","no","CZBA",,"CZBA",,"http://www.burlingtonairpark.com/","https://en.wikipedia.org/wiki/Burlington_Executive_Aerodrome","ZBA"
@@ -33703,10 +33704,10 @@
 605962,"IT-0825","heliport","Rossetti Heliport",44.35708,9.18256,173,"EU","IT","IT-42","Rapallo (GE)","no",,,,,,,
 605963,"IT-0826","heliport","Gaslini Hospital Heliport",44.39334,8.988639,,"EU","IT","IT-42","Genoa (GE)","no",,,,,,,
 606392,"IT-0827","seaplane_base","Laguna di Varano (K.Fly)",41.875248,15.689936,,"EU","IT","IT-75","Cagnano Varano","no",,,,"FG10",,,
-606507,"IT-0828","seaplane_base","Idroscalo di Spotorno",44.218942,8.415297,,"EU","IT","IT-U-A","Spotorno","no",,,,"SPOT","https://www.volidimare.it/",,
+606507,"IT-0828","seaplane_base","Spotorno Seaplane Base",44.218942,8.415297,,"EU","IT","IT-42","Spotorno (SV)","no",,,,"SPOT","https://www.volidimare.it/",,"Idroscalo di Spotorno"
 606530,"IT-0829","closed","Glacier du Dolent",45.917871,7.048202,,"EU","IT","IT-U-A","Courmayeur","no",,,,,,,
-607609,"IT-0830","heliport","Monzino helipad",45.799958,6.883525,,"EU","IT","IT-23","Courmayeur","no",,,,,,,
-607612,"IT-0831","heliport","Cervinia Heliport",45.926942,7.62449,,"EU","IT","IT-U-A","Valtournenche","no",,,,,,,
+607609,"IT-0830","heliport","Monzino Helipad",45.799958,6.883525,8471,"EU","IT","IT-23","Courmayeur (VO)","no",,,,,"https://www.guidecourmayeur.com/en/scheda_valle.php?id_prg=90&id_n=&id_stag=1","https://it.wikipedia.org/wiki/Rifugio_Monzino",
+607612,"IT-0831","heliport","Cervinia Heliport",45.926739,7.624593,6725,"EU","IT","IT-23","Valtournenche (VO)","yes",,,,,,,"Breuil-Cervinia"
 607625,"IT-0832","heliport","Eliporto Calasca",45.998243,8.169043,,"EU","IT","IT-21","Calasca-Castiglione","no",,,,,,,
 607628,"IT-0833","heliport","Base  Piedimulera",46.022684,8.273048,,"EU","IT","IT-21","Piedimulera","no",,,,,,,
 607710,"IT-0834","heliport","La Thuile Helicopter landing site",45.683908,6.885982,,"EU","IT","IT-U-A","La Thuile","no",,,,,,,
@@ -33728,7 +33729,7 @@
 607821,"IT-0850","heliport","Rifugio Franco Chiarella Helipad",45.910466,7.304921,,"EU","IT","IT-23","Ollomont","no",,,,,,,
 607855,"IT-0851","heliport","Helimontblanc",45.868467,7.411775,,"EU","IT","IT-23","Bionaz","no",,,,,,,
 607859,"IT-0852","heliport","Elisuperficie Diga Place Moulin",45.899364,7.490573,,"EU","IT","IT-23","Bionaz","no",,,,,,,
-607861,"IT-0853","heliport","Elisuperficie Breuil Cervinia",45.927062,7.62493,,"EU","IT","IT-23","Valtournenche","no",,,,,,,
+607861,"IT-0853","heliport","(?Duplicate?)Elisuperficie Breuil Cervinia",45.927062,7.62493,,"EU","IT","IT-23","Valtournenche","no",,,,,,,
 607863,"IT-0854","heliport","Elisuperficie  Piazzola elisoccorso di Singlin",45.89609,7.619517,,"EU","IT","IT-23","Valtourmenche","no",,,,,,,
 607865,"IT-0855","heliport","helipad Airgreen",45.745276,7.582068,,"EU","IT","IT-23","Pontey","no",,,,,,,
 607906,"IT-0856","heliport","Elisuperficie del Parc Hotel Billia",45.754188,7.639945,,"EU","IT","IT-23","Saint-Vincent","no",,,,,,,
@@ -33775,6 +33776,9 @@
 608477,"IT-0897","heliport","Elisuperficie di Fornero",45.907428,8.327647,,"EU","IT","IT-21","Comune di Valstrona","no",,,,,,,
 608479,"IT-0898","heliport","Elisuperficie di Alpe Quaggione",45.907902,8.386704,,"EU","IT","IT-21","Comune di Germagno","no",,,,,,,
 608484,"IT-0899","heliport","Elisuperficie di Gravellona G.A.G.",45.944208,8.433471,,"EU","IT","IT-21","Comune di Mergozzo","no",,,,,,,
+608505,"IT-0900","heliport","Eliporto di Verbania",45.931535,8.573976,,"EU","IT","IT-21","Comune di Verbania","no",,,,,,,
+608507,"IT-0901","heliport","Elisuperficie di Stresa",45.866932,8.566074,,"EU","IT","IT-21","Coune di Stresa","no",,,,,,,
+608509,"IT-0902","heliport","Elisuperficie Long",45.792959,8.540947,,"EU","IT","IT-21","Comune di Meina","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -54378,7 +54382,7 @@
 30531,"PY-0089","closed","Aeródromo de Villa Hayes",-25.154666,-57.560495,210,"SA","PY","PY-15","Villa Hayes","no",,,,,,,"SGNB"
 597859,"PY-0090","small_airport","Aeródromo del Aeroclub Altona",-25.375874,-55.653325,1030,"SA","PY","PY-5","Dr. Juan Eulogio Estigarribia (Campo 9)","no",,,,,"https://asn.flightsafety.org/wikibase/514344",,
 606687,"PY-0091","closed","Aeródromo de Zoro del Pampa",-21.014972,-58.481997,308,"SA","PY","PY-16","Zoro del Pampa","no",,,,,,"https://es.wikipedia.org/wiki/Toro_Pampa",
-606719,"PY-0092","small_airport","Aeródromo de Mayor Pablo Lagerenza",-19.925431,-60.768711,,"SA","PY","PY-16","Mayor Pablo Lagerenza","no",,,,,,"https://es.wikipedia.org/wiki/Mayor_Pablo_Lagerenza",
+606719,"PY-0092","small_airport","Mayor Pablo Lagerenza Airport",-19.925271,-60.768684,647,"SA","PY","PY-16","Mayor Pablo Lagerenza","no",,,,,,"https://es.wikipedia.org/wiki/Mayor_Pablo_Lagerenza",
 41569,"PY-PBT","small_airport","Aeródromo de Puerto Leda",-20.908982,-57.926881,260,"SA","PY","PY-16","Puerto Leda","no",,"PBT",,,,,
 41568,"PY-PCJ","small_airport","Puerto La Victoria Airport",-22.296022,-57.870076,286,"SA","PY","PY-1","Puerto La Victoria","no",,"PCJ","SGLV",,,"https://en.wikipedia.org/wiki/La_Victoria_Airport",
 24336,"PYL","seaplane_base","Perry Island Seaplane Base",60.685298919699996,-147.919006348,0,"NA","US","US-AK","Perry Island","no",,"PYL","PYL","PYL",,,
