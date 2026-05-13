@@ -11543,7 +11543,7 @@
 352828,"AU-0414","small_airport","Kelly head airstrip",-37.896405,147.935501,,"OC","AU","AU-VIC","Kelly Head","no",,,,,,,
 352829,"AU-0415","small_airport","lake Modewarre Private airstrip",-38.260015,144.092763,420,"OC","AU","AU-VIC","Lake modeWarre","no",,,"YMOD",,,,
 352830,"AU-0416","small_airport","lake Modewarre Private airstrip no.2",-38.260736,144.099605,,"OC","AU","AU-VIC","Lake ModeWarre","no",,,,,,,
-352831,"AU-0417","small_airport","Bellbrae private airstrip",-38.32697,144.236209,,"OC","AU","AU-VIC","BellBrae","no",,,,,,,
+352831,"AU-0417","small_airport","Bellbrae Private Airstrip",-38.32697,144.236209,,"OC","AU","AU-VIC","BellBrae","no",,,,,,,
 352832,"AU-0418","small_airport","Derrinallum (Poligolet Station) airstrip",-37.982298,143.147195,,"OC","AU","AU-VIC","Derrinallum","no",,,,,,,
 352833,"AU-0419","small_airport","Normanton homestead airstrip",-17.625184,141.185782,,"OC","AU","AU-QLD","Normanton","no",,,,,,,
 352838,"AU-0420","small_airport","Glendara Road Airstrip",-30.584612,143.347566,,"OC","AU","AU-NSW","Wilcannia","no",,,,,,,
@@ -11925,6 +11925,13 @@
 604717,"AU-0798","small_airport","Mundowdna Airstrip",-29.71279,138.227757,,"OC","AU","AU-SA","Mundowdna","no",,,,,,,
 606676,"AU-0799","large_airport","[Duplicate] Western Sydney International Airport",-33.888056,150.714722,262,"OC","AU","AU-QLD","Sydney","yes",,,,,,"https://en.wikipedia.org/wiki/Western_Sydney_International_Airport",
 606679,"AU-0800","closed","RAAF Tuggerah",-33.309335,151.433271,39,"OC","AU","AU-NSW","Tuggerah","no",,,,,"https://sydneypast.blogspot.com/2010/06/thatwwii-landing-strip-at-tuggerah-link.html","https://en.wikipedia.org/wiki/Tuggerah_Aerodrome",
+608584,"AU-0801","small_airport","Hordern Vale Airstrip",-38.783163,143.48141,,"OC","AU","AU-VIC","Hordern Vale","no",,,,,,,
+608585,"AU-0802","small_airport","Anglesea Airfield",-38.37228,144.210649,,"OC","AU","AU-VIC","Anglesea","no",,,,,,,
+608586,"AU-0803","small_airport","Torquay Private Airstrip",-38.282987,144.352116,,"OC","AU","AU-VIC","Lambidgee","no",,,,,,,
+608587,"AU-0804","small_airport","Mount Duneed Airfield",-38.260113,144.320795,,"OC","AU","AU-VIC","Mount Duneed","no",,,,,,,
+608588,"AU-0805","small_airport","Buckley Road South Airstrip",-38.222243,144.10146,,"OC","AU","AU-VIC","Modewarre","no",,,,,,,
+608589,"AU-0806","small_airport","Clondrisse Airfield (private)",-38.48918,144.93305,,"OC","AU","AU-VIC","Cape Schanck","no",,,,,,,
+608590,"AU-0807","small_airport","McLeod Airstrip",-38.355822,145.445069,,"OC","AU","AU-VIC","French Island","no",,,,,,,
 30622,"AU-AGW","small_airport","Agnew Airport",-12.1456,142.149369,160,"OC","AU","AU-QLD","Agnew","no",,"AGW","YAGN",,,"https://en.wikipedia.org/wiki/Agnew_Airport",
 30666,"AU-AYD","small_airport","Alroy Downs Airport",-19.2908,136.078995,711,"OC","AU","AU-NT","Alroy Downs","no",,"AYD","YALD",,,,
 30808,"AU-BYX","small_airport","Baniyala Airport",-13.1981,136.227005,20,"OC","AU","AU-NT","Baniyala","no",,"BYX","YBNI",,,,
@@ -21305,7 +21312,7 @@
 43925,"CZ-0008","heliport","Kyjov Hospital Helistop",49.008403,17.110684,730,"EU","CZ","CZ-JM","Kyjov","no",,,"LKKJ",,,,
 43926,"CZ-0009","heliport","Brno University Hospital Bohunice Reserve Heliport",49.175688,16.569328,967,"EU","CZ","CZ-JM","Brno","no",,,"LKBN",,,,
 43927,"CZ-0010","heliport","Brno Černá Pole Heliport",49.203314,16.616512,791,"EU","CZ","CZ-JM","Brno","no",,,,,,,
-43928,"CZ-0011","heliport","Horní Staré Město Heliport",50.586109,15.878611,1526,"EU","CZ","CZ-KR","Trutnov","no",,,"LKTU",,,,
+43928,"CZ-0011","heliport","Trutnov Heliport",50.586109,15.878611,1526,"EU","CZ","CZ-KR","Horní Staré Město","no",,,"LKTU",,,,
 43929,"CZ-0012","heliport","Náchod Regional Hospital Heliport",50.410295,16.166561,1217,"EU","CZ","CZ-KR","Náchod","no",,,"LKNC",,,,
 43930,"CZ-0013","heliport","Hradec Králové Heliport",50.193309,15.825514,751,"EU","CZ","CZ-KR","Hradec Králové","no",,,"LKHH",,,,"Kryštof 6"
 43931,"CZ-0014","heliport","Nová Amerika Heliport",50.380646,15.863485,1086,"EU","CZ","CZ-KR","Kuks","no",,,"LKNK",,,,"LKAMER"
@@ -21330,15 +21337,15 @@
 43950,"CZ-0033","closed","Hořovice Hospital Heliport",49.840144,13.917671,1161,"EU","CZ","CZ-ST","Hořovice","no",,,,,,,
 43951,"CZ-0034","heliport","Klaudiánova Hospital Heliport",50.419011,14.907112,761,"EU","CZ","CZ-ST","Mladá Boleslav","no",,,"LKML",,,,
 43952,"CZ-0035","heliport","Neratovice Heliport",50.252633,14.521194,558,"EU","CZ","CZ-ST","Neratovice","no",,,"LKNR",,,,
-43953,"CZ-0036","heliport","Ústí nad Labem Regional Air Rescue Service Heliport",50.677426,14.023955,919,"EU","CZ","CZ-US","Ústí nad Labem","no",,,"LKUB",,,,
-43954,"CZ-0037","heliport","Masaryk Hospital Heliport",50.679862,14.020717,932,"EU","CZ","CZ-US","Ústí nad Labem","no",,,"LKUS",,,,
+43953,"CZ-0036","heliport","Ústí nad Labem HEMS Heliport",50.677426,14.023955,919,"EU","CZ","CZ-US","Ústí nad Labem","no",,,"LKUB",,,,"Regional Air Rescue Service"
+43954,"CZ-0037","heliport","Masaryk Hospital Helistop",50.679862,14.020717,932,"EU","CZ","CZ-US","Ústí nad Labem","no",,,"LKUS",,,,
 43955,"CZ-0038","heliport","Chomutov Hospital Heliport",50.453617,13.411807,1099,"EU","CZ","CZ-US","Chomutov","no","LKCU",,"LKCU",,,,
 43956,"CZ-0039","heliport","Litoměřice Hospital Heliport",50.541735,14.146069,617,"EU","CZ","CZ-US","Litoměřice","no",,,"LKLO",,,,
 43957,"CZ-0040","heliport","Pelhřimov Hospital Heliport",49.435333,15.231251,1709,"EU","CZ","CZ-VY","Pelhřimov","no",,,"LKPE",,,,
 43958,"CZ-0041","heliport","Nové Město na Moravě Hospital Helistop",49.56144,16.063095,2047,"EU","CZ","CZ-VY","Nové Město na Moravě","no",,,"LKNO",,,,
 43959,"CZ-0042","heliport","Havlíčkův Brod Hospital Helistop",49.610314,15.570486,1535,"EU","CZ","CZ-VY","Havlíčkův Brod","no",,,"LKHL",,,,
 43960,"CZ-0043","heliport","Jihlava Central Hospital Heliport",49.398525,15.567938,1752,"EU","CZ","CZ-VY","Jihlava","no",,,"LKJL",,,,
-43961,"CZ-0044","heliport","Bat’A Hospital Heliport",49.226172,17.705144,738,"EU","CZ","CZ-ZL","Zlín","no",,,"LKZI",,,,
+43961,"CZ-0044","heliport","Zlín Hospital Heliport",49.226172,17.705144,738,"EU","CZ","CZ-ZL","Zlín","no",,,"LKZI",,,,
 43962,"CZ-0045","heliport","Kroměříž Hospital Heliport",49.291194,17.379699,666,"EU","CZ","CZ-ZL","Kroměříž","no",,,"LKKZ",,,,
 312161,"CZ-0046","heliport","Český Krumlov Hospital Heliport",48.8163,14.3252,1697,"EU","CZ","CZ-JC","Český Krumlov","no",,,,,,,
 312162,"CZ-0047","heliport","Prachatice Hospital Helipad",49.00705,14.00958,1996,"EU","CZ","CZ-JC","Prachatice","no",,,"LKPG",,,,
@@ -21469,7 +21476,7 @@
 345217,"CZ-0172","small_airport","Letiště Orlová",49.85503,18.43521,,"EU","CZ","CZ-MO",,"no",,,,,,,
 345235,"CZ-0173","small_airport","Česká Skalice Ultralight Airfield",50.399669,15.991023,1106,"EU","CZ","CZ-KR","Dolany","no",,,,,,,"ULCSKA"
 345635,"CZ-0174","small_airport","Strachotín u Mikulova Airstrip",48.91722,16.65883,,"EU","CZ","CZ-JM","Strachotín-Hustopeče u Brna","no",,,,,,,"Letiště Popice, Letiště Strachotín u Mikulova, Popice"
-345654,"CZ-0175","small_airport","Bobrová Ultralight Airfield",49.4955,16.10199,,"EU","CZ","CZ-VY","Bobrová","no",,,,"LKBOBR",,,
+345654,"CZ-0175","small_airport","Bobrová Ultralight Airfield",49.4955,16.10199,1844,"EU","CZ","CZ-VY","Bobrová","no",,,,"LKBOBR",,,
 346202,"CZ-0176","small_airport","Třebihošť ULM",50.43546,15.69312,1640,"EU","CZ","CZ-KR","Třebihošť","no",,,,"LKTRBH",,,
 346293,"CZ-0177","small_airport","Luka nad Jihlavou ULM",49.38244,15.71368,,"EU","CZ","CZ-VY","Luka nad Jihlavou","no",,,,,,,
 346374,"CZ-0178","small_airport","Hrabice airstrip",49.06812,13.7603,,"EU","CZ","CZ-JC",,"no",,,,,,,
@@ -21564,7 +21571,7 @@
 29772,"CZ-0267","closed","Černovice Air Base",49.1775016784,16.6608,778,"EU","CZ","CZ-JM","Černovice","no",,,,,,,"LKCL, LKCL"
 29956,"CZ-0268","closed","Holešov Airport",49.3143997,17.5688992,761,"EU","CZ","CZ-ZL","Holešov","no",,,,,,"https://en.wikipedia.org/wiki/Hole%C5%A1ov_Airport","LKHO, LKHO, GTW"
 30459,"CZ-0269","closed","Tábor Všechov Air Base",49.437801,14.6217,1604,"EU","CZ","CZ-JC","Tábor","no",,,,,,,"LKTV, LKTV"
-316816,"CZ-0270","closed","Bechyně Air Base",49.2736,14.5018,1448,"EU","CZ","CZ-JC","Bechyně","no",,,,,,"https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Bechyn%C4%9B","LKBC, LKBC"
+316816,"CZ-0270","closed","Bechyně Air Base",49.2736,14.5018,1448,"EU","CZ","CZ-JC","Bechyně","no",,,,,,"https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Bechyn%C4%9B","LKBC, LKBECH"
 316821,"CZ-0271","closed","Žatec-Staňkovice Airfield",50.371,13.59,900,"EU","CZ","CZ-US","Bitozeves","no",,,,,,,"LKZC, Letiště Žatec-Staňkovice"
 320202,"CZ-0272","closed","Blátna Air Base",49.431173,13.797095,1594,"EU","CZ","CZ-JC","Tchořovice","no",,,,,,,"Tchořovice, LKBL"
 43206,"CZ-0273","small_airport","Hradčany Airfield",50.619247,14.732753,912,"EU","CZ","CZ-LI","Kuřívody","no",,,,"LKHRAD",,"https://en.wikipedia.org/wiki/Hrad%C4%8Dany_Air_Base","LKHR, Hradčany Air Base, Letecká základna Hradčany, Letiště Hradčany, CZ-0273"
@@ -23642,7 +23649,7 @@
 28653,"EDTN","small_airport","Nabern-Teck Airfield",48.612778,9.477222,1214,"EU","DE","DE-BW","Kirchheim unter Teck","no",,,"EDTN",,"https://www.wolfhirth.de/flugplatz/","https://de.wikipedia.org/wiki/Flugplatz_Nabern/Teck",
 28679,"EDTO","small_airport","Offenburg-Baden Airfield",48.448134,7.92356,509,"EU","DE","DE-BW","Offenburg","no",,,"EDTO",,,"https://de.wikipedia.org/wiki/Flugplatz_Offenburg","ZPA, Flugplatz Offenburg"
 28693,"EDTP","small_airport","Pfullendorf Airfield",47.90889,9.250556,2303,"EU","DE","DE-BW","Pfullendorf","no",,,"EDTP",,,"https://de.wikipedia.org/wiki/Flugplatz_Pfullendorf","Flugplatz Pfullendorf"
-29090,"EDTQ","small_airport","Pattonville Airfield",48.864166,9.224722,920,"EU","DE","DE-BW","Stuttgart","no",,,"EDTQ",,,"https://de.wikipedia.org/wiki/Flugplatz_Pattonville","Christoph 51"
+29090,"EDTQ","small_airport","Pattonville Airfield",48.864166,9.224722,920,"EU","DE","DE-BW","Remseck am Neckar","no",,,"EDTQ",,,"https://de.wikipedia.org/wiki/Flugplatz_Pattonville","Christoph 51"
 28593,"EDTR","small_airport","Herten-Rheinfelden Airfield",47.56028,7.748333,925,"EU","DE","DE-BW","Rheinfelden (Baden)","no",,,"EDTR",,,"https://de.wikipedia.org/wiki/Flugplatz_Herten-Rheinfelden",
 28725,"EDTS","small_airport","Schwenningen am Neckar Airfield",48.065834,8.571389,2169,"EU","DE","DE-BW","Villingen-Schwenningen","no",,,"EDTS",,"http://sfg-schwenningen.de/","https://de.wikipedia.org/wiki/Flugplatz_Schwenningen_am_Neckar",
 28714,"EDTU","small_airport","Bad Saulgau Airfield",48.029446,9.507222,1903,"EU","DE","DE-BW","Bad Saulgau","no",,,"EDTU",,,"https://de.wikipedia.org/wiki/Flugplatz_Saulgau","Flugplatz Bad Saulgau, Flugplatz Saulgau"
@@ -33786,6 +33793,9 @@
 608535,"IT-0906","heliport","Elisuperficie Varallo Diurna e Notturna.",45.788018,8.269755,,"EU","IT","IT-21","Comune di Varallo","no",,,,,,,
 608537,"IT-0907","heliport","Elisuperficie Protezione Civile Borghesia",45.719028,8.279561,,"EU","IT","IT-21","Comune di Borghesia","no",,,,,,,
 608539,"IT-0908","heliport","Elisuperficie di Mezzana M.",45.624446,8.185346,,"EU","IT","IT-21","Comune di Mezzana Mortigliengo","no",,,,,,,
+608577,"IT-0909","heliport","Elisuperficie di Soprana",45.641888,8.194551,,"EU","IT","IT-21","Comune di Soprana","no",,,,,,,
+608579,"IT-0910","heliport","Elisuperficie di Trivero",45.661822,8.173259,,"EU","IT","IT-21","Comune di Trivero","no",,,,,,,
+608581,"IT-0911","heliport","Elisuperficie di Viera",45.697581,8.182406,,"EU","IT","IT-21","Comune di Coggiola","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -39531,7 +39541,7 @@
 3531,"KFLL","large_airport","Fort Lauderdale Hollywood International Airport",26.072599,-80.152702,9,"NA","US","US-FL","Fort Lauderdale","yes","KFLL","FLL","KFLL","FLL","http://www.broward.org/airport","https://en.wikipedia.org/wiki/Fort_Lauderdale–Hollywood_International_Airport","MFW, South Florida"
 3532,"KFLO","medium_airport","Florence Regional Airport",34.18539810180664,-79.7238998413086,146,"NA","US","US-SC","Florence","yes","KFLO","FLO","KFLO","FLO",,"https://en.wikipedia.org/wiki/Florence_Regional_Airport",
 19877,"KFLP","small_airport","Marion County Regional Airport",36.29090118,-92.59030151,719,"NA","US","US-AR","Flippin","no","KFLP","FLP","KFLP","FLP","http://www.marioncountyairport.com/default.htm","https://en.wikipedia.org/wiki/Marion_County_Regional_Airport",
-601866,"KFLR","small_airport","Homestead East Airstrip",25.556165,-80.356021,,"NA","US","US-FL","Coral Gable","no",,,,,,,
+601866,"KFLR","small_airport","[Delete] Homestead East Airstrip",25.556165,-80.356021,,"NA","US","US-FL","Coral Gable","no",,,,,,,
 3533,"KFLV","small_airport","Sherman Army Air Field",39.3683013916,-94.9147033691,772,"NA","US","US-KS","Fort Leavenworth","no","KFLV","FLV","KFLV","FLV","http://www.lvks.org/department/division.php?structureid=141","https://en.wikipedia.org/wiki/Sherman_Army_Airfield",
 19878,"KFLX","small_airport","Fallon Municipal Airport",39.4990997314,-118.749000549,3963,"NA","US","US-NV","Fallon","no","KFLX","FLX","KFLX","FLX",,"https://en.wikipedia.org/wiki/Fallon_Municipal_Airport",
 3534,"KFME","medium_airport","Fort Meade Executive Airport",39.0854,-76.759399,150,"NA","US","US-MD","Fort Meade(Odenton)","no","KFME","FME","KFME","FME","http://tiptonairport.org/","https://en.wikipedia.org/wiki/Tipton_Airport","Fort George G. Meade Army Airfield, Tipton Airport"
@@ -42104,6 +42114,7 @@
 608547,"KR-1114","small_airport","Ulleung Airport",37.455064,130.876828,,"AS","KR","KR-47","Ulleung-Gun (Ulleung County)","yes",,,,,,,
 608550,"KR-1115","closed","Andong Airfield",36.557262,128.751816,,"AS","KR","KR-47","Andong- Si (Andong City)","yes",,,,,,,
 608552,"KR-1116","small_airport","Yeongdeok Educational Airstrip",36.552536,129.402546,,"AS","KR","KR-47","Yeongdeok-Gun (Yeongdeok County)","no",,,,,,,
+608572,"KR-1117","heliport","Jangdo Helipad",37.549751,126.606721,,"AS","KR","KR-28","Incheon","no",,,,,,,
 20905,"KR47","small_airport","Ruhes Airport",41.102526,-84.05443,801,"NA","US","US-OH","Leipsic","no",,,"KR47","R47",,,
 20906,"KR49","small_airport","Ferry County Airport",48.71819,-118.656491,2522,"NA","US","US-WA","Republic","no",,,"KR49","R49",,,
 20907,"KRAC","small_airport","John H Batten Airport",42.7606010437,-87.8152008057,674,"NA","US","US-WI","Racine","no","KRAC","RAC","KRAC","RAC","http://www.battenairport.aero/","https://en.wikipedia.org/wiki/John_H._Batten_Airport","Horlick Field"
@@ -44250,7 +44261,7 @@
 30512,"LKUO","small_airport","Ústí Nad Orlicí Airfield",49.9786,16.426399,1342,"EU","CZ","CZ-PA","Ústí nad Orlicí","no","LKUO",,"LKUO",,,,
 30537,"LKVL","small_airport","Vlašim Airfield",49.728901,14.8789,1421,"EU","CZ","CZ-ST","Vlašim","no","LKVL",,"LKVL",,"http://www.lkvl.cz",,
 30545,"LKVM","small_airport","Vysoké Mýto Airfield",49.928102,16.185029,991,"EU","CZ","CZ-PA","Vysoké Mýto","no","LKVM",,"LKVM",,,"https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Vysok%C3%A9_M%C3%BDto",
-530666,"LKVN","heliport","Vyskov Heliport",49.278056,16.981389,869,"EU","CZ","CZ-JM",,"no",,,"LKVN",,,,
+530666,"LKVN","heliport","Vyškov Hospital Heliport",49.278107,16.981468,869,"EU","CZ","CZ-JM",,"no",,,"LKVN",,,,"Vyskov"
 4410,"LKVO","medium_airport","Vodochody Airport",50.216599,14.3958,919,"EU","CZ","CZ-ST","Vodochody","no","LKVO","VOD","LKVO",,"http://www.lkvo.cz","https://en.wikipedia.org/wiki/Vodochody_Airport",
 30524,"LKVP","small_airport","Velké Poříčí Airfield",50.4678,16.205601,1322,"EU","CZ","CZ-KR","Velke Porici","no","LKVP",,"LKVP",,,,
 30539,"LKVR","small_airport","Vrchlabí Airfield",50.624199,15.6464,1611,"EU","CZ","CZ-KR","Lánov","no","LKVR",,"LKVR",,,"https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_Vrchlab%C3%AD",
@@ -44260,6 +44271,7 @@
 30580,"LKZD","small_airport","Žatec-Macerka Airfield",50.317501,13.5128,879,"EU","CZ","CZ-US","Žatec","no","LKZD",,"LKZD",,,,
 30576,"LKZM","small_airport","Žamberk Airfield",50.0839,16.443899,1411,"EU","CZ","CZ-PA","Žamberk","no","LKZM",,"LKZM",,,"https://cs.wikipedia.org/wiki/Leti%C5%A1t%C4%9B_%C5%BDamberk",
 30584,"LKZN","small_airport","Znojmo Airfield",48.817744,16.065831,830,"EU","CZ","CZ-JM","Znojmo","no","LKZN",,"LKZN",,,,
+608564,"LKZO","heliport","Znojmo Hospital Heliport",48.86828,16.051332,970,"EU","CZ","CZ-JM","Znojmo","no",,,"LKZO",,,,
 21569,"LL01","heliport","OSF Family Medical Center Heliport",40.921607,-90.659007,760,"NA","US","US-IL","Monmouth","no",,,"LL01","LL01",,,
 21570,"LL04","heliport","Morris Hospital Heliport",41.370119,-88.42731,512,"NA","US","US-IL","Morris","no",,,"LL04","LL04",,,
 21571,"LL07","small_airport","Herb Tautz Airport",42.06258,-89.968114,853,"NA","US","US-IL","Mount Carroll","no",,,"LL07","LL07",,,
@@ -45033,7 +45045,7 @@
 308320,"LYVA","small_airport","Valjevo Divci Airfield",44.29793,20.021567,469,"EU","RS","RS-09","Divci, Valjevo","no",,,"LYVA",,,"https://en.wikipedia.org/wiki/Valjevo_Airfield",
 4616,"LYVR","small_airport","Vršac Airfield",45.147736,21.309374,276,"EU","RS","RS-04","Vršac","no",,,"LYVR",,,"https://en.wikipedia.org/wiki/Vr%C5%A1ac_Airfield",
 302301,"LYZR","small_airport","Ečka Airfield",45.339756,20.454078,246,"EU","RS","RS-02","Zrenjanin","no",,,"LYZR",,,"https://en.wikipedia.org/wiki/Zrenjanin_Airfield",
-316252,"LZBD","small_airport","Bidovce Airfield",48.743192,21.448285,984,"EU","SK","SK-KI","Bidovce","no","LZBD",,,,,,
+316252,"LZBD","small_airport","Bidovce Airfield",48.743186,21.448205,984,"EU","SK","SK-KI","Bidovce","no","LZBD",,"LZBD","LZBIDO",,,
 29830,"LZDB","small_airport","Slávnica-Dubnica nad Váhom Airfield",48.996899,18.1922,771,"EU","SK","SK-TC","Dubnica nad Váhom","no","LZDB",,"LZDB",,"http://www.akdubnica.sk","https://sk.wikipedia.org/wiki/Letisko_Slavnica-Dubnica_nad_V%C3%A1hom","Slávnica"
 316258,"LZDV","small_airport","Dubová Airstrip",48.347019,17.356583,634,"EU","SK","SK-BL","Dubová","no","LZDV",,"LZDV",,"http://www.letiskodubova.sk","https://sk.wikipedia.org/wiki/Letisko_Dubov%C3%A1",
 354840,"LZG","medium_airport","Langzhong Gucheng Airport",31.50191,106.034417,1444,"AS","CN","CN-51","Nanchong (Langzhong)","yes","ZULA","LZG","ZULA",,,"https://en.wikipedia.org/wiki/Langzhong_Gucheng_Airport",
@@ -55088,6 +55100,8 @@
 600747,"RO-0174","heliport","Suceava ""St. John the New"" Emergency Hospital Heliport",47.638939,26.239724,,"EU","RO","RO-SV","Suceava","no",,,,,,,
 600919,"RO-0175","small_airport","Ruck Ventilatoare private airstrip",46.324995,24.308566,,"EU","RO","RO-MS","Târnăveni","no",,,,,,,
 608434,"RO-0176","small_airport","Becicherecu Mic Airfield",45.844681,21.029849,,"EU","RO","RO-TM",,"no",,,,,,,
+608592,"RO-0177","small_airport","Cremenari Airfield",44.505011,25.959589,,"EU","RO","RO-IF","Chitila","no",,,,,,,"Southern Romania (Wallachia), Wallachian  Aeroporturi din România  European airports"
+608593,"RO-0178","small_airport","Chitila Airfield",44.505011,25.959589,,"EU","RO","RO-IF","Chitila","no",,,,,,,
 300121,"RO02","heliport","Lester Helo Pad Nº 2",26.3172222222,127.764444444,26,"AS","JP","JP-47",,"no",,,"RO02",,,,
 300122,"RO04","heliport","White Beach Helipad CFAO",26.301666666699997,127.910277778,31,"AS","JP","JP-47",,"no",,,"RO04",,,,
 5671,"ROAH","large_airport","Naha International Airport",26.192437,127.639804,12,"AS","JP","JP-47","Naha","yes","ROAH","OKA","ROAH",,"http://www.naha-airport.co.jp/","https://en.wikipedia.org/wiki/Naha_Airport","那覇空港, Naha Kūkō?, AHA, Naha AFB"
@@ -79718,25 +79732,25 @@
 6377,"UTDK","large_airport","Kulob International Airport",37.988098,69.805,2293,"AS","TJ","TJ-KT","Kulob","yes","UTDK","TJU","UTDK",,"https://airport-kulob.tj/en","https://en.wikipedia.org/wiki/Kulob_International_Airport","Kuylab"
 26386,"UTDL","large_airport","Khujand International Airport",40.215401,69.694702,1450,"AS","TJ","TJ-SU","Khujand","yes","UTDL","LBD","UTDL",,,"https://en.wikipedia.org/wiki/Khudzhand_Airport","Khodjend, Khodzhent, Leninabad, Khudzhand"
 32556,"UTDT","large_airport","Bokhtar International Airport",37.866315,68.864475,1473,"AS","TJ","TJ-KT","Bokhtar","yes","UTDT","KQT","UTDT",,,"https://en.wikipedia.org/wiki/Bokhtar_International_Airport","Kurgan-Tube, Qurghonteppa"
-32038,"UTFN","large_airport","Namangan International Airport",40.984622,71.5578,1555,"AS","UZ","UZ-NG","Namangan","yes","UZFN","NMA","UTFN",,,"https://en.wikipedia.org/wiki/Namangan_Airport",
-30672,"UTKA","large_airport","Andijan International Airport",40.727699,72.293999,1515,"AS","UZ","UZ-AN","Andijan","yes","UZFA","AZN","UZFA",,,"https://en.wikipedia.org/wiki/Andizhan_Airport","UTKA, Andijan Airport, Andizhan Airport, Andijon Airport"
-31118,"UTKF","medium_airport","Fergana International Airport",40.358799,71.745003,1980,"AS","UZ","UZ-FA","Fergana","yes","UZFF","FEG","UZFF",,,"https://en.wikipedia.org/wiki/Fergana_International_Airport","UTKF"
-41794,"UTKK","small_airport","Kokand Airport",40.447781,70.991149,1357,"AS","UZ","UZ-FA","Kokand","no",,"OQN","UTKK",,,,"Kokand South"
-32558,"UTNM","small_airport","Muynak Airport",43.753636,59.029884,177,"AS","UZ","UZ-QR","Muynak","no","UTNM","MOK","UTNM",,,"https://en.wikipedia.org/wiki/Muynak_Airport",
+32038,"UTFN","large_airport","Namangan International Airport",40.984622,71.5578,1555,"AS","UZ","UZ-NG","Namangan","yes","UZFN","NMA","UZFN",,,"https://en.wikipedia.org/wiki/Namangan_Airport","UTFN, UTKN"
+30672,"UTKA","medium_airport","Andijan International Airport",40.727699,72.293999,1515,"AS","UZ","UZ-AN","Andijan","yes","UZFA","AZN","UZFA",,,"https://en.wikipedia.org/wiki/Andizhan_Airport","UTFA, UTKA, Andijan Airport, Andizhan Airport, Andijon Airport"
+31118,"UTKF","medium_airport","Fergana International Airport",40.358799,71.745003,1980,"AS","UZ","UZ-FA","Fergana","yes","UZFF","FEG","UZFF",,,"https://en.wikipedia.org/wiki/Fergana_International_Airport","UTFF, UTKF"
+41794,"UTKK","small_airport","Kokand Airport",40.447781,70.991149,1357,"AS","UZ","UZ-FA","Kokand","no","UZKK","OQN","UZKK",,,,"UTKK, Kokand South"
+32558,"UTNM","small_airport","Muynak Airport",43.753636,59.029884,177,"AS","UZ","UZ-QR","Muynak","no","UZNM","MOK","UZNM",,,"https://en.wikipedia.org/wiki/Muynak_Airport","UTMM"
 32013,"UTNN","large_airport","Nukus International Airport",42.4884,59.623299,246,"AS","UZ","UZ-QR","Nukus","yes","UZNN","NCU","UTNN",,,"https://en.m.wikipedia.org/wiki/Nukus_Airport","Nokis"
 32559,"UTNT","closed","Turtkul Airport",41.57487,60.966335,305,"AS","UZ","UZ-QR","Turtkul","no",,,,,,,"UTNT"
 26387,"UTNU","large_airport","Urgench International Airport",41.58274,60.64338,320,"AS","UZ","UZ-XO","Urgench","yes","UZNU","UGC","UTNU",,,"https://en.wikipedia.org/wiki/Urgench_Airport","UTNU"
 32561,"UTSA","medium_airport","Navoi International Airport",40.117599,65.172658,1140,"AS","UZ","UZ-NW","Navoi","yes","UZSA","NVI","UZSA",,,"https://en.wikipedia.org/wiki/Navoi_International_Airport","UTSA"
 26388,"UTSB","large_airport","Bukhara International Airport",39.775319,64.482279,751,"AS","UZ","UZ-BU","Bukhara","yes","UZSB","BHK","UZSB",,,"https://en.wikipedia.org/wiki/Bukhara_International_Airport","UTSB, Buhara, Buxoro"
-41812,"UTSH","small_airport","Shahrisabz Airport",39.068003,66.758388,1900,"AS","UZ","UZ-QA","Shahrisabz","no",,,"UTSH",,,,
+41812,"UTSH","small_airport","Shahrisabz Airport",39.068003,66.758388,1900,"AS","UZ","UZ-QA","Shahrisabz","no","UZSH",,"UZSH",,,,"UTSH"
 26417,"UTSK","small_airport","Karshi Airport",38.802246,65.773068,1230,"AS","UZ","UZ-QA","Karshi","yes","UZSK","KSQ","UTSK","UT1N",,"https://en.wikipedia.org/wiki/Karshi_Airport","Qarshi Airport"
-26389,"UTSL","small_airport","Karshi-Khanabad Air Base",38.833599,65.921501,1365,"AS","UZ","UZ-QA","Khanabad","no",,,"UTSL",,,"https://en.wikipedia.org/wiki/Karshi-Khanabad_Air_Base","UTSL, K2 Air Base, Qarshi Khanabad Airport"
-41821,"UTSM","small_airport","Tandy Bulak Airport",41.76217,64.600304,716,"AS","UZ","UZ-NW","Tandy Bulak","no",,,"UTSM",,,,
+26389,"UTSL","small_airport","Karshi-Khanabad Air Base",38.833599,65.921501,1365,"AS","UZ","UZ-QA","Khanabad","no","UZSL",,"UZSL",,,"https://en.wikipedia.org/wiki/Karshi-Khanabad_Air_Base","UTSL, K2 Air Base, Qarshi Khanabad Airport"
+41821,"UTSM","small_airport","Tandy Bulak Airport",41.76217,64.600304,716,"AS","UZ","UZ-NW","Tandy Bulak","no","UZSM",,"UZSM",,,,"UTSM"
 41685,"UTSN","small_airport","Sugraly Airport",41.613795,64.232963,1396,"AS","UZ","UZ-NW","Zarafshan","no","UZSN","AFS","UZSN",,,"https://en.wikipedia.org/wiki/Zarafshan_Airport","UTSN, UT76, Zarafshon"
-41686,"UTSR","small_airport","Sariasiya Airport",38.41059875488281,67.94519805908203,1949,"AS","UZ","UZ-SU","Sariasiya","no",,,"UTSR",,,,
+41686,"UTSR","small_airport","Sariasiya Airport",38.408006,67.94502,1949,"AS","UZ","UZ-SU","Sariasiya","no","UZSR",,"UZSR",,,,"UTSR"
 26390,"UTSS","large_airport","Samarkand International Airport",39.701842,66.981467,2224,"AS","UZ","UZ-SA","Samarkand","yes","UZSS","SKD","UZSS",,,"https://en.wikipedia.org/wiki/Samarkand_Airport","UTSS"
 26391,"UTST","medium_airport","Termez Airport",37.287261,67.311869,1027,"AS","UZ","UZ-SU","Termez","yes","UZST","TMJ","UTST",,,"https://en.wikipedia.org/wiki/Termez_Airport",
-32562,"UTSU","small_airport","Uchkuduk Airport",42.083099365234375,63.44929885864258,416,"AS","UZ","UZ-NW","Uchkuduk","no",,,"UTSU",,,,
+32562,"UTSU","small_airport","Uchkuduk Airport",42.083099,63.449299,416,"AS","UZ","UZ-NW","Uchkuduk","no","UZSU",,"UZSU",,,,"UTSU"
 41687,"UTTP","medium_airport","Tashkent-Khumo International Airport",41.312889,69.395535,1574,"AS","UZ","UZ-TO","Tashkent","yes","UZTP","TVT","UZTP",,,"https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi","Tashkent Vostochny Airport, Tashkent East, Humo"
 26392,"UTTT","large_airport","Tashkent International Airport",41.2579,69.281197,1417,"AS","UZ","UZ-TO","Tashkent","yes","UZTT","TAS","UZTT",,,"https://en.wikipedia.org/wiki/Tashkent_International_Airport","UTTT"
 598248,"UTTZ","medium_airport","Zomin Airport",40.01402,68.41103,1760,"AS","UZ","UZ-JI","Zomin","yes","UZTZ","OMN","UZTZ",,,"https://en.wikipedia.org/wiki/Zomin_Airport","UTTZ, Zaamin"
@@ -83192,7 +83206,7 @@
 27588,"YGGO","small_airport","Goonoo Goonoo Airport",-31.298701,150.920613,,"OC","AU","AU-NSW",,"no",,,"YGGO",,,,
 27589,"YGGS","small_airport","Gregory Springs Airport",-19.710002,144.372999,,"OC","AU","AU-QLD",,"no",,,"YGGS",,,,
 27590,"YGHG","closed","Glen Harding Airport",-18.248608,145.125958,,"OC","AU","AU-QLD",,"no",,,,,,,"YGHG"
-506652,"YGHP","heliport","Glenample Heliport",-38.660356,143.105948,200,"OC","AU","AU-VIC","Princetown","no",,,"YGHP",,,,
+506652,"YGHP","heliport","Glenample Heliport",-38.660356,143.105948,200,"OC","AU","AU-VIC","Princetown","no",,,"YGHP",,,,"Twelve Apostles"
 351206,"YGHS","small_airport","Gnaraloo Homestead Airfield",-23.825748,113.530505,83,"OC","AU","AU-WA","MacLeod","no",,,"YGHS",,,,
 429886,"YGHT","heliport","Mirage Helipad",-27.969441,153.423793,6,"OC","AU","AU-QLD","Gold Coast","no",,,"YGHT",,,,"Helitours"
 319713,"YGIA","small_airport","Ginbata Airport",-22.5812,120.03553,1409,"OC","AU","AU-WA","Ginbata","no","YGIA","GBW","YGIA",,,"https://en.wikipedia.org/wiki/Ginbata_Airport",
@@ -83862,7 +83876,7 @@
 27882,"YPFT","small_airport","Cooma/Polo Flat Airport",-36.228277,149.149942,2701,"OC","AU","AU-NSW",,"no",,,"YPFT",,,"https://en.wikipedia.org/wiki/Cooma%E2%80%93Polo_Flat_Airport","Closed to FWA"
 38545,"YPGH","small_airport","Pigeon Hole Airport",-16.820474,131.205577,,"OC","AU","AU-NT",,"no",,,"YPGH",,,,
 27104,"YPGV","medium_airport","Gove Airport",-12.269399642899998,136.817993164,192,"OC","AU","AU-NT","Nhulunbuy","yes","YPGV","GOV","YPGV",,,"https://en.wikipedia.org/wiki/Gove_Airport",
-506681,"YPHP","heliport","Port Campbell Heliport",-38.628889,143.040556,241,"OC","AU","AU-VIC","Port Campbell","no",,,"YPHP",,,,
+506681,"YPHP","heliport","Port Campbell Heliport",-38.628889,143.040556,241,"OC","AU","AU-VIC","Port Campbell","no",,,"YPHP",,,,"Twelve Apostles"
 354815,"YPHS","small_airport","Pine Hill Station Airport",-22.386977,133.06025,2142,"OC","AU","AU-NT","Anmatjere","no",,,"YPHS",,,,
 505860,"YPHU","small_airport","Port Hurd Airstrip",-11.690986,130.197805,39,"OC","AU","AU-NT","Bathurst Island","no",,,"YPHU",,,,
 27883,"YPID","heliport","Phillip Island Heliport",-38.520689,145.328457,13,"OC","AU","AU-VIC","Newhaven","no",,,"YPID",,,"https://en.wikipedia.org/wiki/Phillip_Island_Heliport",
