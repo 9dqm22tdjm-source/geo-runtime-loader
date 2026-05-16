@@ -12253,7 +12253,7 @@
 312113,"AYSB","small_airport","Sirebi Airstrip",-7.2196,144.2352,115,"OC","PG","PG-GPK","Sirebi","no",,,"AYSB",,,,
 307446,"AYSD","small_airport","Saidor Airport",-5.62713888889,146.462777778,83,"OC","PG","PG-MPM","Saidor","no","AYSD","SDI","AYSD","SDA",,"https://en.wikipedia.org/wiki/Saidor_Airport",
 307120,"AYSE","small_airport","Simberi Airport",-2.66222222222,151.997777778,10,"OC","PG","PG-NIK","Simberi Island","no","AYSE","NIS","AYSE","SBI",,,
-307121,"AYSF","small_airport","Safia Airport",-9.59305555556,148.636111111,430,"OC","PG","PG-NPP","Safia","no","AYSF","SFU","AYSF","SFA",,,
+307121,"AYSF","small_airport","Safia Airport",-9.594471,148.639305,430,"OC","PG","PG-NPP","Safia","no","AYSF","SFU","AYSF","SFA",,,
 307114,"AYSG","small_airport","Sila Airport",-9.07355555556,148.38925,2230,"OC","PG","PG-NPP","Sila Mission","no","AYSG","SIL","AYSG","SILA",,,
 312961,"AYSH","small_airport","Sabah Airport",-5.5765,155.0489,10,"OC","PG","PG-NSB","Sabah","no","AYSH","SBV","AYSH","SAB",,,
 312018,"AYSI","small_airport","Seltamin Airstrip",-5.4122,141.8252,4285,"OC","PG","PG-WPD","Seltamin","no",,,"AYSI","SLT",,,
@@ -33805,6 +33805,9 @@
 608629,"IT-0915","heliport","Elisuperficie San Paolo  Cervo",45.650431,8.013175,,"EU","IT","IT-21","Comune di Campiglia Cervo","no",,,,,,,
 608631,"IT-0916","heliport","Elisuperficie di Rosazza",45.67429,7.973092,,"EU","IT","IT-21","Comune di Rosazza","no",,,,,,,
 608633,"IT-0917","heliport","Elisuperficie del Rifugio Madonna della Neve",45.676561,7.960694,,"EU","IT","IT-21","Comune di Rosazza","no",,,,,,,
+608650,"IT-0918","heliport","Elisuperficie di Trappa Bagneri",45.571331,7.948388,,"EU","IT","IT-21","Comune di Muzzano","no",,,,,,,
+608652,"IT-0919","heliport","Elisuperficie Valchyara",45.458291,7.802954,,"EU","IT","IT-21","Comune di Lugnacco","no",,,,,,,
+608654,"IT-0920","heliport","Elisuperficie di Castelnuovo Nigra",45.451292,7.694989,,"EU","IT","IT-21","Comune di Castelnuovo Nigra","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -42125,6 +42128,10 @@
 608552,"KR-1116","small_airport","Yeongdeok Educational Airstrip",36.552536,129.402546,,"AS","KR","KR-47","Yeongdeok-Gun (Yeongdeok County)","no",,,,,,,
 608572,"KR-1117","heliport","Jangdo Helipad",37.549751,126.606721,,"AS","KR","KR-28","Incheon","no",,,,,,,
 608621,"KR-1118","closed","(Duplicate)Yeouido Airport",37.525845,126.921995,,"AS","KR","KR-11",,"no",,,,,,,"SEL, RKSS"
+608643,"KR-1119","small_airport","Gongju Flight Education and Training Center",36.620058,127.295819,,"AS","KR","KR-44","Gongju-Si (Gongju City)","no",,,,,,,
+608644,"KR-1120","small_airport","Haman takeoff and landing pad",35.330781,128.387812,,"AS","KR","KR-48","Haman-Gun (Haman County)","no",,,,,,,
+608645,"KR-1121","closed","Hadong Takeoff and Lading Pad",34.996102,127.784086,,"AS","KR","KR-48","Hadong-Gun (Hadong County)","no",,,,,,,
+608646,"KR-1122","closed","Seungjin Flight Education School",37.222942,127.608278,,"AS","KR","KR-41",,"no",,,,,,,
 20905,"KR47","small_airport","Ruhes Airport",41.102526,-84.05443,801,"NA","US","US-OH","Leipsic","no",,,"KR47","R47",,,
 20906,"KR49","small_airport","Ferry County Airport",48.71819,-118.656491,2522,"NA","US","US-WA","Republic","no",,,"KR49","R49",,,
 20907,"KRAC","small_airport","John H Batten Airport",42.7606010437,-87.8152008057,674,"NA","US","US-WI","Racine","no","KRAC","RAC","KRAC","RAC","http://www.battenairport.aero/","https://en.wikipedia.org/wiki/John_H._Batten_Airport","Horlick Field"
@@ -44777,7 +44784,7 @@
 43789,"LT-0001","closed","Rūdininkai Air Base",54.3877067565918,25.094318389892578,,"EU","LT","LT-VL","Rūdininkai","no",,,,,,"https://en.wikipedia.org/wiki/R%C5%ABdininkai_training_ground",
 319597,"LT-0002","closed","Panemunelis Airstrip",55.92969,25.41844,317,"EU","LT","LT-PN","Panemunelis","no",,,,,,,
 308907,"LT-0003","small_airport","Trakėnai Airstrip",54.365886,23.167256,,"EU","LT","LT-MR",,"no",,,,,,,"trakenai, kalvarija"
-315671,"LT-0004","small_airport","Kupiškio aerodromas",55.8529062,24.957929,,"EU","LT","LT-PN","Kupiškis","no",,,,,,,
+315671,"LT-0004","closed","Kupiškio aerodromas",55.852906,24.957929,,"EU","LT","LT-PN","Kupiškis","no",,,,,,,
 315676,"LT-0005","small_airport","Pečiulių aerodromas",55.4936031,25.1949249,,"EU","LT","LT-UT","Pečiuliai","no",,,,,,,
 315684,"LT-0006","small_airport","Tauragės Aerodromas",55.23201,22.150068,,"EU","LT","LT-TA","Tauragė","no",,,"EYTR",,,"https://lt.wikipedia.org/wiki/Taurag%C4%97s_aerodromas",
 320589,"LT-0007","small_airport","Ličiūnai Airstrip",56.061212,24.544761,,"EU","LT","LT-PN","Ličiūnai","no",,,,,,,
@@ -44813,6 +44820,7 @@
 30018,"LT-9518","closed","Kaunas Gamykla Airfield",54.880001,23.9072,249,"EU","LT","LT-KU","Kaunas","no",,,,,,,"EYKG, EYKG"
 31033,"LT-9519","closed","Kazlų Rūda Air Base",54.80559921,23.5331001,243,"EU","LT","LT-MR","Kazlų Rūda","no",,,,,,"https://en.wikipedia.org/wiki/Kazlu_Ruda_airbase","EYKR, EYKR"
 34994,"LT-9520","closed","Jonava Air Base",55.010146,24.363481,246,"EU","LT","LT-KU","Jonava","no",,,,,,"https://en.wikipedia.org/wiki/Jonava_Airport","Rukla, Gaižiūnai, EYRU"
+608649,"LT-9521","small_airport","Kupiskis Airfield",55.92476,24.95255,,"EU","LT","LT-PN",,"no",,,,,,,
 4508,"LTAB","small_airport","Güvercinlik Airport",39.935001,32.740799,2687,"AS","TR","TR-06","Ankara","no","LTAB",,"LTAB",,,"https://en.wikipedia.org/wiki/Ankara_G%C3%BCvercinlik_Army_Air_Base",
 4509,"LTAC","large_airport","Esenboğa International Airport",40.128101,32.995098,3125,"AS","TR","TR-06","Ankara","yes","LTAC","ESB","LTAC",,"https://esenbogaairport.com/","https://en.wikipedia.org/wiki/Esenbo%C4%9Fa_International_Airport",
 4510,"LTAD","medium_airport","Etimesgut Air Base",39.949798584,32.6885986328,2653,"AS","TR","TR-06","Ankara","no","LTAD","ANK","LTAD",,,"https://en.wikipedia.org/wiki/Etimesgut_Air_Base",
@@ -52728,7 +52736,7 @@
 312995,"PG-0132","closed","Loani Airport",-10.5815,150.5931,150,"OC","PG","PG-MBA","Loani","no",,,,,,,"LNQ, LNQ"
 313132,"PG-0133","closed","Omkalai Airport",-6.179,144.96,5700,"OC","PG","PG-CPK","Omkalai","no",,,,,,,"OML, OML"
 313225,"PG-0134","closed","Kiwai Airport",-8.6883,143.618,30,"OC","PG","PG-WPD","Kiwai Island","no",,,,,,,"Sanguane, KWX"
-313226,"PG-0135","closed","Kisengam Airport",-6.362,146.71,3700,"OC","PG","PG-MPL","Kisenden","no",,,,,,,"Kisengang, KSG"
+313226,"PG-0135","small_airport","Kisengam Airport [CLOSED]",-6.362,146.709999,3700,"OC","PG","PG-MPL","Kisenden","no",,"KSG",,,,,"Kisengang, Kesengen"
 313285,"PG-0136","closed","Ileg Airport",-5.4917,145.8022,60,"OC","PG","PG-MPM","Ileg","no",,,,,,,"ILX, ILX"
 313293,"PG-0137","closed","Banz Airport",-5.807,144.623,5150,"OC","PG","PG-JWK","Banz","no",,,,,,,"BNZ, BNZ"
 313423,"PG-0138","closed","Kaiapit Airport",-6.275,146.27,1030,"OC","PG","PG-MPL","Kaiapit","no",,,,,,,"KIA, KIA"
@@ -54902,7 +54910,7 @@
 313683,"RKRS","small_airport","Susaek (G 113) Airport",37.600539,126.869516,64,"AS","KR","KR-41","Goyang","no",,,"RKRS",,,"https://en.wikipedia.org/wiki/Korea_Aerospace_University#FTC-Susaek; https://en.wikipedia.org/wiki/List_of_airports_in_South_Kor","G-113, Susaek"
 323270,"RKSC","heliport","Surisan Helipad",37.356945,126.902542,1424,"AS","KR","KR-41","Gunpo","no",,,"RKSC",,,,
 300127,"RKSD","heliport","N 200 Heliport",37.171691,126.916266,155,"AS","KR","KR-41",,"no",,,"RKSD","RK8F",,,
-5652,"RKSG","medium_airport","Camp Humphreys (A-511) Desiderio Army Airfield",36.962363,127.031126,51,"AS","KR","KR-41","Pyeongtaek","no",,,"RKSG",,,"https://en.wikipedia.org/wiki/Camp_Humphreys",
+5652,"RKSG","medium_airport","Camp Humphreys (A-511) Desiderio Army Airfield",36.962363,127.031126,51,"AS","KR","KR-41","Pyeongtaek","no","RKSG",,"RKSG","KSG",,"https://en.wikipedia.org/wiki/Camp_Humphreys",
 300124,"RKSH","heliport","Central 119 Rescue Heliport",37.670554,127.110167,193,"AS","KR","KR-41","Byeollae-dong","no",,,"RKSH",,,,
 5653,"RKSI","large_airport","Incheon International Airport",37.469101,126.450996,23,"AS","KR","KR-28","Seoul","yes","RKSI","ICN","RKSI",,"https://www.airport.kr/ap/en/index.do","https://en.wikipedia.org/wiki/Incheon_International_Airport",
 323263,"RKSJ","heliport","Taesong-San Helipad",38.229628,127.539162,3878,"AS","KR","KR-42",,"no",,,"RKSJ",,,,
