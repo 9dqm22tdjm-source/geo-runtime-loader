@@ -33817,6 +33817,9 @@
 608677,"IT-0922","heliport","Helimontblanc pick up ronco",45.494383,7.541363,,"EU","IT","IT-21","Comune di Ronco Canavese","no",,,,,,,
 608680,"IT-0923","small_airport","Elisuperficie di Ceresole Reale",0,0,,"EU","IT","IT-U-A","Comune di Ceresole Reale","no",,,,,,,
 608681,"IT-0924","heliport","Elisuperficie di Ceresole Reale",45.433139,7.230334,,"EU","IT","IT-21","Comune di Ceresole Reale","no",,,,,,,
+608690,"IT-0925","heliport","Elisusperficie lago Serru autorizzata giorno notte (night and day)",45.462651,7.13429,,"EU","IT","IT-21","Comne di Ceresole Reale","no",,,,,,,
+608692,"IT-0926","heliport","Daviso Lodge Helipad",45.375847,7.184294,7464,"EU","IT","IT-21","Groscavallo (TO)","no",,,,,,,"Daviso Paolo"
+608694,"IT-0927","heliport","Elisuperficie Rifugio Stellina",45.21563,7.042183,,"EU","IT","IT-21","Comune di Novalesa","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -59249,6 +59252,7 @@
 608668,"SI12","heliport","Villa Cora Helipad",-26.509239,-49.114233,115,"SA","BR","BR-SC","Jaraguá do Sul","no",,,"SI12","SC0265",,,
 608671,"SI13","small_airport","Fazenda Planalto Airstrip",-19.876538,-48.4967,1917,"SA","BR","BR-MG","Conceição das Alagoas","no",,,"SI13","MG0671",,,
 608674,"SI14","heliport","Dito Faria Helipad",-10.225856,-48.312086,965,"SA","BR","BR-TO","Palmas","no",,,"SI14","TO0171",,,
+608698,"SI15","small_airport","Grupo Bifon Airport",-7.252011,-44.739956,1107,"SA","BR","BR-MA","São Félix de Balsas","no",,,"SI15","MA0214",,,
 608116,"SI1C","heliport","Fazenda Verdana",-23.079985,-48.622765,2825,"SA","BR","BR-SP","Itatinga","no",,,"SI1C","SP1510",,,
 608111,"SI1D","heliport","Fortaleza Heliport",-21.580078,-46.748819,2371,"SA","BR","BR-SP","Divinolândia","no",,,"SI1D","SP1508",,,
 608108,"SI1E","small_airport","Fazenda Califórnia Airport",-3.138447,-48.928334,197,"SA","BR","BR-PA","Moju","no",,,"SI1E","PA0448",,,
@@ -70899,6 +70903,7 @@
 334362,"US-1296","small_airport","Wapshilla Airport",45.941616,-116.763597,1410,"NA","US","US-ID","Winchester","no",,,,"I45",,,"ID50"
 608531,"US-12960","small_airport","Sanca Farm Skyport",30.54367,-87.723281,137,"NA","US","US-AL","Robertsdale","no",,,"8AL8","8AL8",,,
 608558,"US-12961","small_airport","Foger flavors",39.0997,94.5786,,"NA","US","US-MO","Kansas City, MO","no",,,,,"https://smokersheap.com/brand/foger/",,
+608696,"US-12962","closed","Wingate Target Airfield",35.748164,-117.024234,,"NA","US","US-CA",,"no",,,,,,,
 334365,"US-1297","closed","Army Reserve Parking Lot Heliport",43.305528,-91.791265,859,"NA","US","US-IA","Decorah","no",,,,,,,"1IA1"
 334368,"US-1298","closed","PAF Cannery Airport",58.725948,-156.950868,60,"NA","US","US-AK","South Naknek","no",,,,,,,"AK35, 3AK"
 334372,"US-1299","closed","Peninsula General Hospital Ground Level Heliport",38.361785,-75.598536,26,"NA","US","US-MD","Salisbury","no",,,,,,,"MD88"
