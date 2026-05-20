@@ -16075,8 +16075,8 @@
 37778,"BR-3019","small_airport","Fazenda Thauá Airport",-17.714736,-54.411307,2024,"SA","BR","BR-MS","Sonora","no",,,,"SSZZ",,,"SSZZ"
 37782,"BR-3020","small_airport","Agropecuária Floresta São Joaquim Ltda Airport",-10.141667,-60.652778,325,"SA","BR","BR-MT","Aripuanã","no",,,,"SWAH",,,"SWAH"
 37789,"BR-3021","heliport","Telebrás I Heliport",-15.805406,-47.882817,3661,"SA","BR","BR-DF","Brasília","no",,,,"SWAS",,,"SWAS"
-37790,"BR-3022","small_airport","Fazenda Cachoeira Airport",-17.095972,-53.346133,2795,"SA","BR","BR-MT","Alto Araguaia","no",,,,"SWAT",,,"SWAT"
-37792,"BR-3023","heliport","Anatel Heliport",-15.80555,-47.882355,3661,"SA","BR","BR-DF","Brasília","no",,,,"SWAW",,,"SWAW, Telebrás II"
+37790,"BR-3022","small_airport","Fazenda Cachoeira Airport",-17.095972,-53.346133,2795,"SA","BR","BR-MT","Alto Araguaia","no",,,,,,,"SWAT"
+37792,"BR-3023","heliport","Anatel Heliport",-15.80555,-47.882355,3661,"SA","BR","BR-DF","Brasília","no",,,,,,,"SWAW, Telebrás II"
 37794,"BR-3024","small_airport","Barra do Bugres Airport",-15.058610916138,-57.183055877686,722,"SA","BR","BR-MT","Barra Do Bugres","no",,,,"SWBB",,,"SWBB"
 37797,"BR-3025","small_airport","Brejinho de Nazaré Airport",-11.025208,-48.575406,869,"SA","BR","BR-TO","Brejinho de Nazaré","no",,,,"TO0010",,,"SWBH"
 37799,"BR-3026","small_airport","Fazenda Barreirinhos Airport",-16.945033,-56.391278,377,"SA","BR","BR-MT","Barão de Melgaço","no",,,,,,,"SWBN"
@@ -21359,7 +21359,7 @@
 43962,"CZ-0045","heliport","Kroměříž Hospital Heliport",49.291194,17.379699,666,"EU","CZ","CZ-ZL","Kroměříž","no",,,"LKKZ",,,,
 312161,"CZ-0046","heliport","Český Krumlov Hospital Heliport",48.8163,14.3252,1697,"EU","CZ","CZ-JC","Český Krumlov","no",,,,,,,
 312162,"CZ-0047","heliport","Prachatice Hospital Helipad",49.00705,14.00958,1996,"EU","CZ","CZ-JC","Prachatice","no",,,"LKPG",,,,
-315488,"CZ-0048","small_airport","Borek Airfield",50.210856,14.657693,,"EU","CZ","CZ-ST","Borek","no",,,,"LKBORE","http://www.letisteborek.cz/",,"Letiště Borek"
+315488,"CZ-0048","small_airport","Borek Airfield",50.210856,14.657693,557,"EU","CZ","CZ-ST","Borek","no",,,,"LKBORE","http://www.letisteborek.cz/",,"Letiště Borek"
 315494,"CZ-0049","closed","Zvole West Airport",49.474643,16.214801,,"EU","CZ","CZ-VY","Dolní Rožínka","no",,,,,,,
 315495,"CZ-0050","small_airport","Pěnčín",49.5682909,16.9991842,,"EU","CZ","CZ-OL",,"no",,,,,,,
 315664,"CZ-0051","small_airport","Bezdružice Airstrip",49.899713,12.964956,1991,"EU","CZ","CZ-PL","Bezdružice","no",,,,,,,
@@ -21380,7 +21380,7 @@
 316210,"CZ-0066","small_airport","Kaplice UL",48.718611,14.450556,2100,"EU","CZ","CZ-JC","Kaplice","no",,,,"LKKAPL",,,
 316219,"CZ-0067","small_airport","Frymburk ULM",48.698611,14.1975,2618,"EU","CZ","CZ-JC","Frymburk","no",,,,"LKFRYM","http://www.alfa-air.cz",,
 316222,"CZ-0068","heliport","Dobšice Heliport",50.119489,15.280608,701,"EU","CZ","CZ-ST","Dobšice","no",,,,"LKDOBS",,,
-316223,"CZ-0069","small_airport","Druzcov u Lípy ULM",50.728056,14.924722,1509,"EU","CZ","CZ-LI","Osečná","no",,,,"LKDRUZ",,,
+316223,"CZ-0069","small_airport","Druzcov u Lípy Ultralight Airfield",50.727793,14.925241,1509,"EU","CZ","CZ-LI","Osečná","no",,,,"LKDRUZ",,,
 316323,"CZ-0070","small_airport","Stará Voda Emergency Field",49.996795,12.575119,2106,"EU","CZ","CZ-KA","Stará Voda","no",,,,,,,
 316351,"CZ-0071","small_airport","Vrátkov Airfield",50.039543,14.822745,1033,"EU","CZ","CZ-ST","Vrátkov","no",,,,"LKVRAT",,,
 316438,"CZ-0072","small_airport","Buranos Aires Ultralight Strip",50.008926,14.037743,1247,"EU","CZ","CZ-ST","Nižbor","no",,,,"LKBURA",,,
@@ -21401,8 +21401,8 @@
 316658,"CZ-0087","small_airport","Charvátce Airfield",50.433427,13.811113,915,"EU","CZ","CZ-US","Libčeves","no",,,,"LKCHAR",,,"Letiště Charvátce"
 316659,"CZ-0088","small_airport","Letovice Airfield",49.546667,16.598611,,"EU","CZ","CZ-JM","Letovice","no",,,,"LKLETO",,,
 316660,"CZ-0089","small_airport","Lomnice nad Popelkou Airfield",50.54,15.388056,,"EU","CZ","CZ-LI","Lomnice nad Popelkou","no",,,,"LKLOMN",,,
-316680,"CZ-0090","small_airport","Boršice",49.051389,17.3675,,"EU","CZ","CZ-ZL",,"no",,,,"LKBORS",,,
-316681,"CZ-0091","small_airport","Horní Počáply Airstrip",50.418117,14.384269,,"EU","CZ","CZ-ST","Horní Počáply","no",,,,"LKPOCA",,,
+316680,"CZ-0090","small_airport","Boršice Airfield",49.051508,17.367605,642,"EU","CZ","CZ-ZL","Boršice","no",,,,"LKBORS",,,
+316681,"CZ-0091","small_airport","Horní Počáply Airstrip",50.418117,14.384269,524,"EU","CZ","CZ-ST","Horní Počáply","no",,,,"LKPOCA",,,
 316684,"CZ-0092","small_airport","Strážnice Airfield",48.887778,17.294444,614,"EU","CZ","CZ-JM",,"no",,,,"LKSTRZ",,,
 316685,"CZ-0093","small_airport","Boleradice Airfield",48.961944,16.831667,649,"EU","CZ","CZ-JM",,"no",,,,"LKBOLE",,,
 316691,"CZ-0094","small_airport","Opava-Velké Hoštice Airfield",49.940556,17.986111,850,"EU","CZ","CZ-MO","Velké Hoštice","no",,,,"LKOPAV",,,
@@ -21443,7 +21443,7 @@
 320900,"CZ-0129","small_airport","Osičiny Airstrip",50.01647,14.772211,1280,"EU","CZ","CZ-ST","Osičiny","no",,,,"LKOSIC",,,
 320944,"CZ-0130","small_airport","Horní Libchava Ultralight Airfield",50.703013,14.498985,899,"EU","CZ","CZ-LI","Horní Libchava","no",,,,,,,"Letiště Horní Libchava, Letiště Libchava, Česká Lípa West"
 321024,"CZ-0131","small_airport","Želeč Airstrip",49.330555,14.658889,1513,"EU","CZ","CZ-JC","Želeč","no",,,,,,,"Želeč u Tábora"
-321025,"CZ-0132","small_airport","Bojkovice Airfield",49.0302777,17.8172221,,"EU","CZ","CZ-ZL",,"no",,,,,"http://www.letiste-bojkovice.cz",,
+321025,"CZ-0132","small_airport","Bojkovice Airfield",49.030233,17.817857,1115,"EU","CZ","CZ-ZL","Bojkovice","no",,,,"LKBOJK","http://www.letiste-bojkovice.cz",,
 321061,"CZ-0133","small_airport","Křinec Airstrip",50.2547,15.125108,646,"EU","CZ","CZ-ST","Křinec","no",,,,,,,
 321063,"CZ-0134","small_airport","Nová Včelnice Airstrip",49.267222,15.077778,1765,"EU","CZ","CZ-JC","Nová Včelnice","no",,,,"LKNVCE",,,
 321089,"CZ-0135","small_airport","Litomyšl ULM",49.874138,16.336405,1258,"EU","CZ","CZ-PA","Litomyšl","no",,,,,,,
@@ -21465,7 +21465,7 @@
 323115,"CZ-0151","closed","Baška",49.643056,18.351667,,"EU","CZ","CZ-MO","Baška","no",,,,,,,"LKBASK, LKBASK"
 323117,"CZ-0152","small_airport","Trutnov-Volanov Airfield",50.5675,15.865278,1486,"EU","CZ","CZ-KR","Trutnov","no",,,,"LKTRUT",,,
 323118,"CZ-0153","small_airport","Místek",49.6527778,18.3458333,1066,"EU","CZ","CZ-MO","Místek","no",,,,"LKMIST",,,
-323186,"CZ-0154","small_airport","Letiště Hať u Hlučína",49.951812,18.2651648,,"EU","CZ","CZ-MO","Hať","no",,,,"LKHATH",,,
+323186,"CZ-0154","small_airport","Letiště Hať u Hlučína",49.951812,18.265165,,"EU","CZ","CZ-MO","Hať","no",,,,"LKHATH",,,
 323242,"CZ-0155","small_airport","Náchod Vysokov Airfield",50.412962,16.121845,1443,"EU","CZ","CZ-KR","Vysokov","no",,,,"LKNACH",,,"Letiště Náchod"
 323305,"CZ-0156","small_airport","Moravský Beroun",49.786111,17.486111,2218,"EU","CZ","CZ-OL","Moravský Beroun","no",,,,"LKMBER",,,
 323308,"CZ-0157","small_airport","Šumvald Ultralight Airstrip",49.845196,17.138485,902,"EU","CZ","CZ-OL","Šumvald","no",,,,"LKSUMV",,,
@@ -21474,7 +21474,7 @@
 324047,"CZ-0160","small_airport","Milhostov u Chebu ULM",50.164121,12.464089,1535,"EU","CZ","CZ-KA","Milhostov","no",,,,,,,
 324117,"CZ-0161","small_airport","Luhačovice Airfield",49.088188,17.718769,,"EU","CZ","CZ-ZL","Luhačovice","no","LKLU",,"LKLU",,"https://www.aeroklubluhacovice.cz/?",,"Letiště Luhačovice"
 325352,"CZ-0162","small_airport","Mladá Airfield",50.243594,14.855856,,"EU","CZ","CZ-ST","Milovice","no",,,,"LKMLAD",,,"Letiště Mladá"
-326492,"CZ-0163","small_airport","Excalibur City Airfield",48.761552,16.055408,,"EU","CZ","CZ-JM","Chvalovice","no",,,,"LKEXCA",,,"Hatě"
+326492,"CZ-0163","small_airport","Excalibur City Airfield",48.761552,16.055408,778,"EU","CZ","CZ-JM","Chvalovice","no",,,,"LKEXCA",,,"Hatě"
 328779,"CZ-0164","small_airport","Nabočany Airstrip",49.945996,15.89545,,"EU","CZ","CZ-PA","Nabočany","no",,,,,,,"Hrochův Týnec"
 331647,"CZ-0165","small_airport","Kravi Hora Airfield",48.917038,16.841317,584,"EU","CZ","CZ-JM","Bořetice","no",,,,"LKKRAV",,,"Letiště Bořetice"
 333103,"CZ-0166","small_airport","Chvojenec Airstrip",50.108633,15.926742,,"EU","CZ","CZ-PA","Chvojenec","no",,,,"LKCHVO",,,
@@ -21562,7 +21562,7 @@
 529384,"CZ-0248","small_airport","Krpy Airfield",50.325921,14.665533,803,"EU","CZ","CZ-ST",,"no",,,,"LKKRPY",,,
 529387,"CZ-0249","small_airport","Liban Airfield",50.370444,15.201044,738,"EU","CZ","CZ-KR",,"no",,,,"LKLIBA",,,
 529388,"CZ-0250","small_airport","Napajedla Airfield",49.198889,13.6,1761,"EU","CZ","CZ-JC",,"no",,,,"LKNAPA",,,
-529393,"CZ-0251","small_airport","Horni Prim Airfield",50.229444,15.703611,885,"EU","CZ","CZ-KR",,"no",,,,"LKPRIM",,,
+529393,"CZ-0251","small_airport","Horni Prim Airfield",50.229313,15.702053,919,"EU","CZ","CZ-KR","Horní Priam","no",,,,"LKPRIM",,,
 529404,"CZ-0252","small_airport","Terezín Airfield",50.519444,14.155833,482,"EU","CZ","CZ-US","Terezín","no",,,,"LKTERE",,,
 529689,"CZ-0253","small_airport","Kozmice Airstrip",49.91333,18.1643,885,"EU","CZ","CZ-MO","Kozmice","no",,,,"LKKOZY",,,
 533431,"CZ-0254","small_airport","Vracov Cropduster Airstrip",48.98146,17.23771,,"EU","CZ","CZ-JM","Vracov","no",,,,,,,
@@ -21602,6 +21602,8 @@
 608082,"CZ-0288","small_airport","Bošovice Airstrip",49.060506,16.843395,,"EU","CZ","CZ-JM",,"no",,,,,,,
 608511,"CZ-0289","small_airport","Vlastibořice Airstrip",50.61929,15.03542,,"EU","CZ","CZ-ST",,"no",,,,,,,
 608556,"CZ-0290","heliport","Martinov Heliport",49.855406,18.188242,732,"EU","CZ","CZ-MO","Ostrava","no",,,,"LKMART",,,
+608724,"CZ-0291","small_airport","Žihle u Plas Airstrip",50.03095,13.33782,,"EU","CZ","CZ-PL",,"no",,,,,,,
+608730,"CZ-0292","small_airport","Budkov Airstrip",49.071779,15.659542,1872,"EU","CZ","CZ-VY","Budkov","no",,,,"LKBUDO",,,
 2005,"CZAC","small_airport","York Landing Airport",56.089401,-96.089203,621,"NA","CA","CA-MB","York Landing","no","CZAC","ZAC","CZAC",,,"https://en.wikipedia.org/wiki/York_Landing_Airport",
 2006,"CZAM","medium_airport","Shuswap Regional Airport",50.682802,-119.228996,1751,"NA","CA","CA-BC","Salmon Arm","no","CZAM","YSN","CZAM",,"http://www.salmonarm.ca/index.aspx?nid=228","https://en.wikipedia.org/wiki/Salmon_Arm_Airport","AM4, Shuswap Regional Airport, Salmon Arm Airport"
 2007,"CZBA","small_airport","Burlington Executive Airpark",43.441453,-79.850103,602,"NA","CA","CA-ON","Burlington","no","CZBA",,"CZBA",,"http://www.burlingtonairpark.com/","https://en.wikipedia.org/wiki/Burlington_Executive_Aerodrome","ZBA"
@@ -30922,6 +30924,7 @@
 608159,"HR-0044","small_airport","Mlinski Kamen recreational airfield",45.45607,16.27173,,"EU","HR","HR-03","Brest Pokupski","no",,,,,,,
 608185,"HR-0045","small_airport","Voloder Airstrip",45.527149,16.646176,,"EU","HR","HR-03",,"no",,,,,,,"Popovača"
 608307,"HR-0046","small_airport","USS Čađavica",45.73049,17.85027,,"EU","HR","HR-10","Čađavica","no",,,,,,,
+608728,"HR-0047","small_airport","Airfield Ravnice",45.995,17.205,360,"EU","HR","HR-06","Podravske Sesvete","no",,,,,,,
 313249,"HRC","small_airport","Sary Su Airport",48.3974,70.1915,1307,"AS","KZ","KZ-ULY","Zhayrem","no",,"HRC",,,,,"Zhairem, Жайрем"
 313252,"HRN","heliport","Heron Island Helipad",-23.441765,151.911416,8,"OC","AU","AU-QLD","Heron Island","no",,,"YHRN","YHRN",,,"HRN"
 3236,"HRYG","medium_airport","Gisenyi Airport",-1.6772,29.2589,5082,"AF","RW","RW-04","Gisenyi","no","HRYG","GYI","HRYG",,,"https://en.wikipedia.org/wiki/Gisenyi_Airport",
@@ -59261,6 +59264,7 @@
 608674,"SI14","heliport","Dito Faria Helipad",-10.225856,-48.312086,965,"SA","BR","BR-TO","Palmas","no",,,"SI14","TO0171",,,
 608698,"SI15","small_airport","Grupo Bifon Airport",-7.252011,-44.739956,1107,"SA","BR","BR-MA","São Félix de Balsas","no",,,"SI15","MA0214",,,
 608700,"SI16","small_airport","Fazenda Telles Pires Airport",-10.663468,-55.754765,1066,"SA","BR","BR-MT","Nova Canaã do Norte","no",,,"SI16","MT1180",,,
+608734,"SI17","small_airport","Fazenda São Francisco Airport",-13.998759,-45.578726,2697,"SA","BR","BR-BA","Jaborandi","no",,,"SI17","BA0524",,,
 608116,"SI1C","heliport","Fazenda Verdana",-23.079985,-48.622765,2825,"SA","BR","BR-SP","Itatinga","no",,,"SI1C","SP1510",,,
 608111,"SI1D","heliport","Fortaleza Heliport",-21.580078,-46.748819,2371,"SA","BR","BR-SP","Divinolândia","no",,,"SI1D","SP1508",,,
 608108,"SI1E","small_airport","Fazenda Califórnia Airport",-3.138447,-48.928334,197,"SA","BR","BR-PA","Moju","no",,,"SI1E","PA0448",,,
@@ -60855,8 +60859,8 @@
 37029,"SJZZ","small_airport","Fazenda Passo Fundo Airport",-15.013956,-53.933451,2070,"SA","BR","BR-MT","Primavera do Leste","no",,,"SIP2","MT1022",,,"SJZZ"
 315707,"SK-0001","small_airport","Dobra Niva airfield",48.488716,19.101749,1143,"EU","SK","SK-BC","Zvolen","no","LZDN",,,,"http://lsk.sk/letisko/","https://sk.wikipedia.org/wiki/Letisko_Dobr%C3%A1_Niva",
 320390,"SK-0002","small_airport","Košťany nad Turcom Airstrip",49.0167622,18.8951041,,"EU","SK","SK-ZI","Košťany nad Turcom","no",,,,,,,
-316294,"SK-0003","small_airport","Dunajská Streda-Malé Blahovo Airfield",48.020261,17.612572,,"EU","SK","SK-TA","Dunajská Streda","no","LZDU",,,,,,
-316295,"SK-0004","small_airport","Hrabušice",48.969167,20.386389,,"EU","SK","SK-KI",,"no",,,,,,,
+316294,"SK-0003","small_airport","Dunajská Streda-Malé Blahovo Airfield",48.020261,17.612572,377,"EU","SK","SK-TA","Dunajská Streda","no",,,,"LZDUNA",,,
+316295,"SK-0004","small_airport","Hrabušice",48.968981,20.386289,1831,"EU","SK","SK-KI",,"no",,,"LZHR",,,,
 316296,"SK-0005","small_airport","Kamenný Most Airfield",47.863889,18.65,364,"EU","SK","SK-NJ","Kamenný Most","no",,,,"LZKMOS",,,
 316297,"SK-0006","small_airport","Krakovany Airfield",48.633889,17.732222,,"EU","SK","SK-TA","Krakovany","no",,,,,,,
 316298,"SK-0007","small_airport","Malý Madaras Airfield",48.142866,17.377625,,"EU","SK","SK-BL","Tomášov","no",,,,"LZMADA",,,
@@ -60953,7 +60957,7 @@
 517377,"SK-0091","small_airport","Dolna Telka Airstrip",48.34239,19.6035,709,"EU","SK","SK-BC","Halič","no",,,,,,,
 517379,"SK-0092","small_airport","LMK Očová Airstrip",48.58111,19.30989,1290,"EU","SK","SK-BC","Očová","no",,,,,,,
 517380,"SK-0093","closed","Hrádok Airport",48.58572,19.21684,1138,"EU","SK","SK-BC","Lieskovec","no",,,,,,,
-569969,"SK-0094","small_airport","Seleška Private Airfield",48.61997,21.07353,732,"EU","SK","SK-KI","Čečejovce","no",,,,,,,
+569969,"SK-0094","small_airport","Seleška Private Airfield",48.61997,21.07353,732,"EU","SK","SK-KI","Čečejovce","no",,,,"LZCECE",,,
 575108,"SK-0095","small_airport","Zemplínska Teplica Airfield",48.634375,21.576884,633,"EU","SK","SK-KI","Zemplínska Teplica","no",,,,,,,
 575109,"SK-0096","closed","Parchovany Airfield",48.73877,21.69836,390,"EU","SK","SK-KI","Parchovany","no",,,,,,,
 30044,"SK-0097","closed","Kráľová pri Senci Airfield",48.201094,17.472467,400,"EU","SK","SK-BL","Kráľová pri Senci","no",,,,,,,"LZKS"
@@ -64107,6 +64111,7 @@
 599811,"SW1N","heliport","Novo Horizonte Heliport",-23.006789,-46.412147,2897,"SA","BR","BR-SP","Piracaia","no",,,"SW1N","SP1488",,,
 599813,"SW1O","heliport","Juarez Filho Heliport",-27.673283,-48.672716,16,"SA","BR","BR-SC","Palhoça","no",,,"SW1O","SC0257",,,
 599824,"SW1Q","small_airport","Rebouças Airport",0.285045,-60.514423,217,"SA","BR","BR-RR","Rorainópolis","no",,,"SW1Q","RR0165",,,
+608722,"SW1R","small_airport","Fazenda MK Airport",-4.328921,-43.887663,272,"SA","BR","BR-MA","Codó","no",,,"SW1R","MA0210",,,
 599610,"SW1S","small_airport","Fazenda Aldeia Velha Airport",-12.091782,-50.812392,670,"SA","BR","BR-MT","Novo Santo Antônio","no",,,"SW1S","MT1143",,,
 599611,"SW1T","heliport","Madero Industria Heliport",-25.184028,-50.094812,2740,"SA","BR","BR-PR","Ponta Grossa","no",,,"SW1T","PR0253",,,
 599612,"SW1U","heliport","JMX Heliport",-22.937336,-42.895333,17,"SA","BR","BR-RJ","Maricá","no",,,"SW1U","RJ0394",,,
@@ -64166,7 +64171,7 @@
 37810,"SWCC","small_airport","Fazenda Curitiba Airport",-13.546667,-60.418333,705,"SA","BR","BR-MT","Comodoro","no",,,"SIYD","MT0153",,,"SWCC"
 525,"SWCE","small_airport","Fazenda Colibri Airport",-16.2043,-55.398701,2310,"SA","BR","BR-MT","Santo Antônio do Leverger","no",,,"SWDD","MT0473",,,"SWCE, Fazenda Cedro"
 37811,"SWCF","small_airport","Fazenda Fronteira do Guaporé Airport",-13.735278,-60.477222,673,"SA","BR","BR-MT","Comodoro","no",,,"SDE4","MT0746",,,"SWCF, Fazenda Confap"
-334037,"SWCI","small_airport","Agropecuária Rio Da Prata Airport",-14.223138,-46.550021,1752,"SA","BR","BR-GO","Posse","no",,,"SWCI","GO0203",,,
+334037,"SWCI","small_airport","Agropecuária Rio da Prata Airport",-14.223138,-46.550022,1752,"SA","BR","BR-GO","Posse","no",,,"SWCI","GO0203",,,
 37813,"SWCJ","small_airport","Coperjava Airport",-11.835873,-49.712237,630,"SA","BR","BR-TO","Formoso Do Araguaia","no",,,"SJLZ","TO0031",,,"SWCJ"
 37816,"SWCM","small_airport","Fazenda Couto Magalhães Airport",-13.994372,-52.933202,1378,"SA","BR","BR-MT","Água Boa","no",,,"SIRM","MT0123",,,"SWCM"
 37818,"SWCO","small_airport","Fazenda Continental Airport",-14.706057,-51.213759,896,"SA","BR","BR-MT","Cocalinho","no",,,"SWCO","MT0331",,,
