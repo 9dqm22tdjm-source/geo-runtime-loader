@@ -231,6 +231,7 @@
 6749,"03WA","small_airport","Spangle Field",47.408199310302734,-117.37200164794922,2440,"NA","US","US-WA","Spangle","no",,,"03WA","03WA",,,
 6751,"03WN","small_airport","Aerostone Ranch Airport",45.875,-120.66999816894531,2320,"NA","US","US-WA","Goldendale","no",,,"03WN","03WN",,,
 348415,"03WT","heliport","Lopez Medical Clinic Heliport",48.524894,-122.912394,38,"NA","US","US-WA","Lopez Island","no",,,"03WT","03WT",,,
+608753,"03WY","small_airport","Perala Field",44.367943,-104.510586,5200,"NA","US","US-WY","Sundance","no",,,"03WY","03WY",,,
 345757,"03XA","heliport","Del Sol Medical Center Heliport",31.7574,-106.346895,3881,"NA","US","US-TX","El Paso","no",,,"03XA","03XA",,,
 6752,"03XS","small_airport","Creekside Airport",31.318099975585938,-100.75399780273438,2100,"NA","US","US-TX","Mertzon","no",,,"03XS","03XS",,,
 325443,"04AA","small_airport","Flying W Ranch Airport",60.535833,-150.811387,250,"NA","US","US-AK","Soldotna","no",,,"04AA","04AA",,,"Phil's Airport"
@@ -3543,6 +3544,7 @@
 347970,"35TN","heliport","DeKalb Community Hospital Heliport",35.960944,-85.830211,1114,"NA","US","US-TN","Smithville","no",,,"35TN","35TN","https://healthcare.ascension.org/locations/tennessee/tnnas/smithville-ascension-saint-thomas-dekalb",,"Saint Thomas DeKalb"
 10167,"35TX","small_airport","Flying B Ranch Airstrip",32.483972,-99.825912,1750,"NA","US","US-TX","Abilene","no",,,"35TX","35TX",,,
 10168,"35VA","heliport","Community Memorial Hospital Heliport",36.751347,-78.104767,470,"NA","US","US-VA","South Hill","no",,,"35VA","35VA",,,"CMH Medical"
+608751,"35W","small_airport","Port Washington Airport/Didier Field",43.446293,-87.868675,754,"NA","US","US-WI","Port Washington","no",,,"35W","35W",,,"Ozaukee"
 10169,"35WA","small_airport","Fisher Ranch Airport",46.747883,-118.419139,1521,"NA","US","US-WA","Washtucna","no",,,"35WA","35WA",,,
 10170,"35WI","small_airport","Barker Strip",42.745601654052734,-88.4375991821289,1000,"NA","US","US-WI","East Troy","no",,,"35WI","35WI",,,
 353029,"35XA","small_airport","Rcade Ranch Airport",30.834058,-94.941683,267,"NA","US","US-TX","Livingston","no",,,"35XA","35XA",,,
@@ -12574,7 +12576,6 @@
 516839,"BD-0041","heliport","Uttara Helipad",23.892722,90.390378,31,"AS","BD","BD-3","Dhaka","no",,,,,,,
 313421,"BD-0042","closed","Khan Jahan Ali Airport (under construction)",22.6486,89.6454,21,"AS","BD","BD-4","Bagerhat","no",,,,,,"https://en.wikipedia.org/wiki/Khan_Jahan_Ali_Airport","Mongla, Bagerhat, KHL"
 595338,"BD-0043","heliport","Chapal Nawabganj Heliport",24.586668,88.283111,75,"AS","BD","BD-5","Nawabganj","no",,,,,,,
-608627,"BD-0044","large_airport","topbetkim",70,80,,"AS","BD","BD-2","BNK","yes",,,,,"https://keonhacai5.is/",,
 43750,"BE-0001","closed","Froidchapelle Glider Field",50.176388,4.352222,902,"EU","BE","BE-WHT","Froidchapelle","no",,,,,,,
 43753,"BE-0002","closed","Chimay-Virelles Ulmodrome",50.117778778,4.33055591583,919,"EU","BE","BE-WHT","Chimay","no",,,,,,,
 43762,"BE-0003","closed","Sovet Airfield",50.286944,5.038462,919,"EU","BE","BE-WNA","Ciney","no",,,,,,,
@@ -42621,7 +42622,7 @@
 21261,"KU42","medium_airport","South Valley Regional Airport",40.619499,-111.992996,4607,"NA","US","US-UT","Salt Lake City","no","KSVR",,"KSVR","SVR","https://slcairport.com/about-the-airport/general-aviation/south-valley-regional-airport/","https://en.wikipedia.org/wiki/Salt_Lake_City_Municipal_2_Airport","U42"
 21263,"KU52","small_airport","Beaver Municipal Airport",38.230701,-112.675003,5863,"NA","US","US-UT","Beaver","no",,,"KU52","U52",,"https://en.wikipedia.org/wiki/Beaver_Municipal_Airport_(Utah)",
 21264,"KU55","small_airport","Panguitch Municipal Airport",37.84519958,-112.3919983,6763,"NA","US","US-UT","Panguitch","no",,"PNU","U55","U55","http://panguitch.com/business-directory/1300/panguitch-municipal-airport/","https://en.wikipedia.org/wiki/Panguitch_Municipal_Airport",
-21265,"KU56","small_airport","Rigby Jefferson County Airport",43.642039,-111.929526,4845,"NA","US","US-ID","Rigby","no",,,"KU56","U56",,,
+21265,"KU56","small_airport","Rigby Airport",43.642638,-111.929193,4845,"NA","US","US-ID","Rigby","no",,,"U56","U56",,,
 21266,"KU58","small_airport","Downey/Hyde Memorial Airport",42.423905,-112.10957,4906,"NA","US","US-ID","Downey","no",,,"KU58","U58",,,
 21267,"KU62","small_airport","Mackay Airport",43.90409851,-113.6009979,5892,"NA","US","US-ID","Mackay","no",,,"KU62","U62",,,
 21268,"KU63","small_airport","Bruce Meadows Airport",44.41550064086914,-115.31700134277344,6370,"NA","US","US-ID","Stanley","no",,,"KU63","U63",,,
@@ -59265,6 +59266,9 @@
 608698,"SI15","small_airport","Grupo Bifon Airport",-7.252011,-44.739956,1107,"SA","BR","BR-MA","São Félix de Balsas","no",,,"SI15","MA0214",,,
 608700,"SI16","small_airport","Fazenda Telles Pires Airport",-10.663468,-55.754765,1066,"SA","BR","BR-MT","Nova Canaã do Norte","no",,,"SI16","MT1180",,,
 608734,"SI17","small_airport","Fazenda São Francisco Airport",-13.998759,-45.578726,2697,"SA","BR","BR-BA","Jaborandi","no",,,"SI17","BA0524",,,
+608744,"SI18","heliport","Lagoa do Japonês Heliport",-11.365614,-47.561381,1534,"SA","BR","BR-TO","Pindorama do Tocantins","no",,,"SI18","TO0174",,,
+608746,"SI19","small_airport","Fazenda Entre Rios Airstrip",-9.46329,-56.438156,794,"SA","BR","BR-MT","Paranaíta","no",,,"SI19","MT1179",,,
+608748,"SI1A","heliport","Três Colinas State Hospital Helistop",-20.558998,-47.381037,3406,"SA","BR","BR-SP","Franca","no",,,"SI1A","SP1500",,,
 608116,"SI1C","heliport","Fazenda Verdana",-23.079985,-48.622765,2825,"SA","BR","BR-SP","Itatinga","no",,,"SI1C","SP1510",,,
 608111,"SI1D","heliport","Fortaleza Heliport",-21.580078,-46.748819,2371,"SA","BR","BR-SP","Divinolândia","no",,,"SI1D","SP1508",,,
 608108,"SI1E","small_airport","Fazenda Califórnia Airport",-3.138447,-48.928334,197,"SA","BR","BR-PA","Moju","no",,,"SI1E","PA0448",,,
