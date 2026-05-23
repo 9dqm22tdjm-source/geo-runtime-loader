@@ -10959,6 +10959,10 @@
 608686,"AR-0792","small_airport","Mangusta Airstrip",-34.504291,-63.941338,500,"SA","AR","AR-X","Italó","no",,,,"2429",,,
 608687,"AR-0793","small_airport","Estancia Ombúes Airport",-32.914047,-58.672653,84,"SA","AR","AR-E","Estancia Ombúes","no",,,,"2635",,,
 608688,"AR-0794","small_airport","Aeronorte SRL Airport",-27.074684,-61.260266,337,"SA","AR","AR-H","Charata","no",,,,"2693",,,
+608809,"AR-0795","small_airport","Estancia El Carmen Airfield",-34.198896,-62.047822,352,"SA","AR","AR-S","Christophersen","no",,,,"2493",,,
+608810,"AR-0796","small_airport","Estancia El Carmen Airfield",-32.627079,-59.503731,259,"SA","AR","AR-E","General Galarza","no",,,,"2651",,,
+608812,"AR-0797","heliport","Army Aviation Section 2 Heliport",-31.748084,-60.540483,224,"SA","AR","AR-E","Paraná","no",,,,"2504",,,
+608819,"AR-0798","small_airport","Strobel Lake Airstrip",-48.465874,-71.275658,3027,"SA","AR","AR-Z","Gobernador Gregores","no",,,,"2866",,,
 16296,"AR02","heliport","Johnson Regional Medical Center Heliport",35.461216,-93.445383,491,"NA","US","US-AR","Clarksville","no",,,"AR02","AR02",,,"AR71, Johnson County Regional Hospital Heliport"
 16297,"AR03","small_airport","Centerville Airstrip",35.128718,-93.205798,350,"NA","US","US-AR","Centerville","no",,,"AR03","AR03",,,
 16299,"AR05","small_airport","John Harris Field",35.21590042114258,-93.30490112304688,1770,"NA","US","US-AR","Chickala","no",,,"AR05","AR05",,,
@@ -33736,7 +33740,7 @@
 605962,"IT-0825","heliport","Rossetti Heliport",44.35708,9.18256,173,"EU","IT","IT-42","Rapallo (GE)","no",,,,,,,
 605963,"IT-0826","heliport","Gaslini Hospital Heliport",44.39334,8.988639,,"EU","IT","IT-42","Genoa (GE)","no",,,,,,,
 606392,"IT-0827","seaplane_base","Laguna di Varano (K.Fly)",41.875248,15.689936,,"EU","IT","IT-75","Cagnano Varano","no",,,,"FG10",,,
-606507,"IT-0828","seaplane_base","Spotorno Seaplane Base",44.218942,8.415297,,"EU","IT","IT-42","Spotorno (SV)","no",,,,"SPOT","https://www.volidimare.it/",,"Idroscalo di Spotorno"
+606507,"IT-0828","seaplane_base","Spotorno Seaplane Base",44.218942,8.415297,,"EU","IT","IT-42","Spotorno (SV)","no",,,,,"https://www.volidimare.it/",,"Idroscalo di Spotorno"
 606530,"IT-0829","closed","Glacier du Dolent",45.917871,7.048202,,"EU","IT","IT-U-A","Courmayeur","no",,,,,,,
 607609,"IT-0830","heliport","Monzino Helipad",45.799958,6.883525,8471,"EU","IT","IT-23","Courmayeur (VO)","no",,,,,"https://www.guidecourmayeur.com/en/scheda_valle.php?id_prg=90&id_n=&id_stag=1","https://it.wikipedia.org/wiki/Rifugio_Monzino",
 607612,"IT-0831","heliport","Cervinia Heliport",45.926739,7.624593,6725,"EU","IT","IT-23","Valtournenche (VO)","yes",,,,,,,"Breuil-Cervinia"
@@ -56323,7 +56327,7 @@
 526749,"RU-0999","heliport","Khyl'chuyu Yuzhnoye field",68.160319,55.401928,,"EU","RU","RU-NEN","Nar'yan Mar","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
 526751,"RU-1000","heliport","Khyl'chuyu Yuzhnoye field 8",68.152602,55.399418,,"EU","RU","RU-NEN","Nar'yan Mar","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
 32242,"RU-10000","closed","Turlatovo Airport",54.555901,39.855202,502,"EU","RU","RU-RYA","Ryazan","no",,,,,,"https://en.wikipedia.org/wiki/Turlatovo_Airport","Аэропорт Турлатово, УУБР, RZN, UUBR, UUWR"
-32584,"RU-10001","closed","Velikiye Luki Airport",56.381066,30.607846,328,"EU","RU","RU-PSK","Velikiye Luki","no",,,,,,"https://en.wikipedia.org/wiki/Velikiye_Luki_Airport","ULOL, VLU"
+32584,"RU-10001","medium_airport","Velikiye Luki Airport [CLOSED]",56.381066,30.607846,328,"EU","RU","RU-PSK","Velikiye Luki","no","ULOL","VLU",,,,"https://en.wikipedia.org/wiki/Velikiye_Luki_Airport","УЛОЛ, Великие Луки"
 34934,"RU-10002","closed","Kasimovo Airfield",60.198299,30.334999,230,"EU","RU","RU-LEN","St. Petersburg","no",,,,,,"https://en.wikipedia.org/wiki/Kasimovo_Airport","Аэродром Касимово, XLLN"
 34943,"RU-10003","closed","Bakharevka Airport",57.951698,56.195,564,"AS","RU","RU-PER","Perm","no",,,,,,"https://en.wikipedia.org/wiki/Bakharevka_Airport","Аэропорт Бахаревка, USPB"
 35009,"RU-10004","closed","Krasnoyarsk Severniy Airport",56.041698,92.9067,676,"EU","RU","RU-KYA","Krasnoyarsk","no",,,,,,"https://en.wikipedia.org/wiki/Krasnoyarsk_Northeast","Krasnoyarsk Severny Airport, Krasnoyarsk North Airport, Krasnoyarsk Northeast Airport, Аэропорт Красноярск Северный. Innokentievskaya Air Base, UNKK"
@@ -56508,6 +56512,7 @@
 605839,"RU-10168","heliport","Koncel Heliport",56.01155,37.16177,713,"EU","RU","RU-MOW","Silino","no",,,,"HEH5",,,"ХЕХ5, Концел"
 605852,"RU-10169","heliport","Konakovo Heliport",55.420408,37.178562,565,"EU","RU","RU-MOW","Konakovo","no",,,,"HHF4",,,"ХХФ4, Конаково"
 526863,"RU-1017","heliport","KS-5 Usinskaya",66.59084,62.07756,,"AS","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
+608811,"RU-10170","small_airport","Kedrovo Airfield",59.228659,39.613689,487,"AS","RU","RU-VLG","Kedrovo","no",,,"ULWX",,,,"УЛВЬ, Кедрово"
 526968,"RU-1018","heliport","Chaika Coal Terminal Helipad",73.379354,80.59003,71,"AS","RU","RU-KYA","Dikson","no",,,,,,,"HELIOPS, Mining, Coal, Vostokugol-Dikson"
 527128,"RU-1019","heliport","Khralov junction Helipad",68.486875,69.521978,,"AS","RU","RU-YAN","Lidino","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
 528461,"RU-1020","heliport","Roman Trebs field",68.624032,57.891887,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
@@ -56649,7 +56654,7 @@
 35114,"RU-9129","medium_airport","Vorkuta Sovetskiy Air Base",67.463303,64.306702,630,"AS","RU","RU-KO","Vorkuta","no",,,,,,"https://en.wikipedia.org/wiki/Vorkuta_Sovetskiy","Vorkuta East"
 35008,"RU-9241","small_airport","Krapivnya Airfield",57.076698303222656,33.388301849365234,,"EU","RU","RU-TVE","Zdanovo","no",,,,,,"https://en.wikipedia.org/wiki/Krapivnya","Аэродром Крапивня"
 34985,"RU-9300","closed","Engozero Air Base",65.86669921875,33.93330001831055,335,"EU","RU","RU-KR","Louhi","no",,,,,,"https://en.wikipedia.org/wiki/Engozero_(airport)",
-35010,"RU-9345","medium_airport","Krechevitsy Air Base",58.625,31.385,100,"EU","RU","RU-NGR","Novgorod","no",,,"ULLK",,,"https://en.wikipedia.org/wiki/Krechevitsy_Airport","Аэродром Кречевицы"
+35010,"RU-9345","medium_airport","Krechevitsy Air Base",58.625,31.385,100,"EU","RU","RU-NGR","Novgorod","no","ULLK",,"ULLK","XLLK",,"https://en.wikipedia.org/wiki/Krechevitsy_Airport","УЛЛК, ЬЛЛК, Аэродром Кречевицы"
 35123,"RU-9545","closed","Zherdevka Air Base",51.833302,41.549999,489,"EU","RU","RU-TAM","Zherdevka","no",,,,,,"https://en.wikipedia.org/wiki/Zherdevka_(air_base)","Zerdevka, ZB08, Жердевка"
 35034,"RU-9561","closed","Medyn-Aduyevo Air Base",55.003299713134766,35.994998931884766,636,"EU","RU","RU-KLU","Kaluga","no",,,,,,"https://en.wikipedia.org/wiki/Medyn-Aduyevo",
 35091,"RU-9587","closed","Sumsk Air Base",59.30500030517578,29.09670066833496,299,"EU","RU","RU-LEN","Volosovo","no",,,,,,"https://en.wikipedia.org/wiki/Sumsk_(air_base)",
@@ -66574,7 +66579,7 @@
 6491,"ULOO","medium_airport","Princess Olga Pskov International Airport",57.781316,28.39384,154,"EU","RU","RU-PSK","Pskov","yes","ULOO","PKV","ULOO","XLOO",,"https://en.wikipedia.org/wiki/Pskov_Airport","УЛОО, ЬЛОО, Псков /Кресты"
 6492,"ULPB","medium_airport","Petrozavodsk Airport",61.885201,34.154701,151,"EU","RU","RU-KR","Petrozavodsk","yes","ULPB","PES","ULPB","XLPB","https://karelavia.ru","https://en.wikipedia.org/wiki/Petrozavodsk_Airport","УЛПБ, ЬЛПБ, Besovets Airport, Аэропорт Петрозаводск, Аэропорт Бесовец"
 43964,"ULPK","small_airport","Kalevala Airfield",65.209999,31.135,377,"EU","RU","RU-KR","Kalevala","no",,,"ULPK",,,,"Аэропорт Калевала, УЛПК"
-43334,"ULPP","medium_airport","Peski Airfield",61.831944,34.295555,,"EU","RU","RU-KR","Petrozavodsk","no",,,"ULPP",,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%81%D0%BA%D0%B8_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)","Пески, УЛПП"
+43334,"ULPP","medium_airport","Peski Airfield",61.831944,34.295555,154,"EU","RU","RU-KR","Petrozavodsk","no","ULPP",,"ULPP",,,"https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%81%D0%BA%D0%B8_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)","Пески, УЛПП"
 44752,"ULPS","small_airport","Segezha Airfield",63.758999,34.283001,377,"EU","RU","RU-KR","Segezha","no",,,"ULPS",,,,"Аэропорт Сегежа, УЛПС"
 44773,"ULSR","heliport","Strelna Heliport",59.86050033569336,30.052000045776367,16,"EU","RU","RU-SPE","Saint Petersburg","no",,,"ULSR",,,,"Вертодром Стрельна"
 331712,"ULSW","small_airport","Severniy veter",59.835311,31.480533,194,"EU","RU","RU-LEN","Putilovo","no",,,"ULSW",,"http://paracentr.ru",,"Северный ветер,Putilovo"
