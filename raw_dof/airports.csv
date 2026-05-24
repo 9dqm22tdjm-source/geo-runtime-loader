@@ -10369,7 +10369,7 @@
 38874,"AR-0199","small_airport","Huinca Renanco Airport",-34.8203010559,-64.3731002808,590,"SA","AR","AR-X","Huinca Renanco","no",,,,"HUI",,,
 38875,"AR-0200","small_airport","Ingeniero Luiggi Airport",-35.3549995422,-64.4758300781,633,"SA","AR","AR-L","Ingeniero Luiggi","no",,,,"IGL",,,
 42803,"AR-0201","small_airport","Agroservicio Doña Teresa Airport",-28.8494,-62.2625,246,"SA","AR","AR-G","Bandera","no",,,,"ADT",,,
-38877,"AR-0202","small_airport","Establecimiento La Susana",-34.909168,-59.348888,121,"SA","AR","AR-B","Ingeniero Williams","no",,,,,,,
+38877,"AR-0202","small_airport","Establecimiento La Susana Airport",-34.910632,-59.348678,121,"SA","AR","AR-B","Ingeniero Williams","no",,,,"1872",,,"Williams Airport"
 38878,"AR-0203","small_airport","Intendente Alvear Airport",-35.2592,-63.5328,416,"SA","AR","AR-L","Intendente Alvear","no",,,,"IAL",,,
 38879,"AR-0204","small_airport","Intendente Alvear",-35.2494,-63.5342,416,"SA","AR","AR-L","Intendente Alvear","no",,,,,,,
 45160,"AR-0205","small_airport","Fumigaciones Herbinsec Airport",-35.138611,-62.705278,366,"SA","AR","AR-B","Roberts","no",,,,"ROH",,,
@@ -10803,9 +10803,9 @@
 327624,"AR-0635","small_airport","Cabaña Los Gatos Airport",-27.142412,-61.764272,548,"SA","AR","AR-G","Gancedo","no",,,,"2802",,,
 327625,"AR-0636","small_airport","Estancia Las Marias Airport",-32.470437,-66.082103,2116,"SA","AR","AR-D","Lenadro N. Alem","no",,,,"2809",,,
 327626,"AR-0637","heliport","Unidad Regional II de Polcia Heliport",-32.99354,-60.674636,131,"SA","AR","AR-S","Rosario","no",,,,"2831",,,
-327639,"AR-0638","small_airport","Estancia 13 de Abril Airport",-35.515511,-61.758924,276,"SA","AR","AR-B","Smith","no",,,,"2064",,,
+327639,"AR-0638","small_airport","Estancia 13 de Abril Airport",-35.511363,-61.793884,288,"SA","AR","AR-B","Smith","no",,,,"2064",,,
 327642,"AR-0639","closed","Pinto Airport",-29.152266,-62.675025,328,"SA","AR","AR-G","Pinto","no",,,,,,,"Villa General Mitre"
-327644,"AR-0640","small_airport","Pichanal-Franzini Airport",-23.338946,-64.247126,1004,"SA","AR","AR-A","Pichanal","no",,,,"2105",,,
+327644,"AR-0640","small_airport","Pichanal-Franzini Airport",-23.335659,-64.243976,1006,"SA","AR","AR-A","Pichanal","no",,,,"2105",,,
 327647,"AR-0641","small_airport","Traill Southeast Airport",-31.922586,-61.692139,249,"SA","AR","AR-S","Estancia Traill Sureste","no",,,,,,,
 327651,"AR-0642","closed","Los Juries Airport",-28.477432,-62.1226,301,"SA","AR","AR-G","Los Juries","no",,,,,,,
 327652,"AR-0643","small_airport","El Cuadrado Airport",-28.285565,-61.764686,325,"SA","AR","AR-G","Los Juries","no",,,,"2713",,,
@@ -10963,6 +10963,12 @@
 608810,"AR-0796","small_airport","Estancia El Carmen Airfield",-32.627079,-59.503731,259,"SA","AR","AR-E","General Galarza","no",,,,"2651",,,
 608812,"AR-0797","heliport","Army Aviation Section 2 Heliport",-31.748084,-60.540483,224,"SA","AR","AR-E","Paraná","no",,,,"2504",,,
 608819,"AR-0798","small_airport","Strobel Lake Airstrip",-48.465874,-71.275658,3027,"SA","AR","AR-Z","Gobernador Gregores","no",,,,"2866",,,
+608825,"AR-0799","small_airport","Estancia Los Tambos Airfield",-36.13459,-61.50219,325,"SA","AR","AR-B","Herrera Vegas","no",,,,"761",,,
+608837,"AR-0800","small_airport","Estancia El Rey Airstrip",-24.729462,-64.649127,3029,"SA","AR","AR-A","Las Lajitas","no",,,,"513",,,
+608839,"AR-0801","small_airport","Estancia La Flecha Airfield",-27.689456,-57.927496,214,"SA","AR","AR-W","Lomas de Vallejos","no",,,,"1079",,,
+608841,"AR-0802","small_airport","La Mireya Airfield",-28.739758,-59.439975,136,"SA","AR","AR-S","Arroyo Ceibal","no",,,,"1107",,,
+608842,"AR-0803","small_airport","Santa Barbara Airfield",-28.586358,-58.379711,197,"SA","AR","AR-W","San Roque","no",,,,"1356",,,
+608844,"AR-0804","small_airport","Cerro Verde Airstrip",-28.780402,-57.531311,304,"SA","AR","AR-W","Colonia Carlos Pellegrini","no",,,,"1729",,,
 16296,"AR02","heliport","Johnson Regional Medical Center Heliport",35.461216,-93.445383,491,"NA","US","US-AR","Clarksville","no",,,"AR02","AR02",,,"AR71, Johnson County Regional Hospital Heliport"
 16297,"AR03","small_airport","Centerville Airstrip",35.128718,-93.205798,350,"NA","US","US-AR","Centerville","no",,,"AR03","AR03",,,
 16299,"AR05","small_airport","John Harris Field",35.21590042114258,-93.30490112304688,1770,"NA","US","US-AR","Chickala","no",,,"AR05","AR05",,,
@@ -25274,7 +25280,7 @@
 2664,"ESMK","medium_airport","Kristianstad Airport",55.9217,14.0855,76,"EU","SE","SE-M","Kristianstad","no","ESMK","KID","ESMK",,"https://kidairport.com","https://en.wikipedia.org/wiki/Kristianstad_Airport",
 2665,"ESML","small_airport","Landskrona Enoch Thulins Airfield",55.946124,12.870001,194,"EU","SE","SE-M","Härslöv","no","ESML",,"ESML",,"http://landskronaflygklubb.se","https://de.wikipedia.org/wiki/Flugplatz_Landskrona","JLD"
 2666,"ESMO","small_airport","Oskarshamn Airport",57.350498,16.497999,96,"EU","SE","SE-H","Oskarshamn","no","ESMO","OSK","ESMO",,,"https://en.wikipedia.org/wiki/Oskarshamn_Airport",
-2667,"ESMP","small_airport","Anderstorp Airfield",57.264198,13.5994,507,"EU","SE","SE-F","Anderstorp","no",,,"ESMP",,,,
+2667,"ESMP","small_airport","Anderstorp Airfield",57.264198,13.5994,507,"EU","SE","SE-F","Anderstorp","no",,,"ESMP",,"https://www.srwanderstorp.se/en/anderstorp-airfield/",,
 2668,"ESMQ","medium_airport","Kalmar Airport",56.685501,16.2876,17,"EU","SE","SE-H","Kalmar","yes","ESMQ","KLR","ESMQ",,,"https://en.wikipedia.org/wiki/Kalmar_Airport",
 2669,"ESMS","large_airport","Malmö Sturup Airport",55.535564,13.376327,236,"EU","SE","SE-M","Malmö","yes","ESMS","MMX","ESMS",,"http://www.swedavia.com/malmo/","https://en.wikipedia.org/wiki/Malm%C3%B6_Airport",
 2670,"ESMT","medium_airport","Halmstad Airport",56.69110107421875,12.820199966430664,101,"EU","SE","SE-N","Halmstad","yes","ESMT","HAD","ESMT",,,"https://en.wikipedia.org/wiki/Halmstad_Airport",
@@ -25285,7 +25291,7 @@
 29353,"ESMZ","small_airport","Ölanda Airfield",57.328236,17.050524,27,"EU","SE","SE-H","Ölanda","no","ESMZ",,"ESMZ",,"http://www.ölanda.se/",,"Öland"
 2673,"ESNA","small_airport","Hallviken Airfield",63.7383,15.4583,1119,"EU","SE","SE-Z","Hallviken","no","ESNA",,"ESNA",,,"https://sv.wikipedia.org/wiki/Hallvikens_flygf%C3%A4lt",
 29354,"ESNB","small_airport","Sollefteå/Långsele Airfield",63.1712,16.985201,423,"EU","SE","SE-Y","Långsele","no",,,"ESNB",,,,
-2674,"ESNC","small_airport","Hedlanda Airfield",62.410631,13.745699,1460,"EU","SE","SE-Z","Hede","no",,,"ESNC",,,"http://sv.wikipedia.org/wiki/Hedlanda_flygplats",
+2674,"ESNC","small_airport","Hedlanda Airfield",62.410631,13.745699,1460,"EU","SE","SE-Z","Hede","no",,,"ESNC",,"https://www.ivc-media.com/hedlanda/index.htm","http://sv.wikipedia.org/wiki/Hedlanda_flygplats",
 2675,"ESND","small_airport","Sveg Airport",62.047798,14.4229,1178,"EU","SE","SE-Z","Sveg","yes","ESND","EVG","ESND",,,"https://en.wikipedia.org/wiki/Sveg_Airport",
 29355,"ESNE","small_airport","Överkalix Airfield",66.529093,22.356319,,"EU","SE","SE-BD","Överkalix","no",,,"ESNE",,,"https://sv.wikipedia.org/wiki/%C3%96verkalix-Naishedens_flygf%C3%A4lt","Ylikainuu"
 2676,"ESNG","medium_airport","Gällivare Airport",67.13240051269531,20.814599990844727,1027,"EU","SE","SE-BD","Gällivare","yes","ESNG","GEV","ESNG",,,"https://en.wikipedia.org/wiki/G%C3%A4llivare_Airport",
@@ -27919,6 +27925,9 @@
 605977,"FR-1326","small_airport","Champseru Airfield",48.50128,1.67677,472,"EU","FR","FR-CVL","Champseru","no",,,,,,,
 606630,"FR-1327","heliport","DZ Machézal",45.922722,4.305139,,"EU","FR","FR-ARA","Machézal","no",,,,,,,
 608076,"FR-1329","heliport","La Herliere DZ",50.205785,2.561609,,"EU","FR","FR-HDF","La Herliere","no",,,,,,,
+608823,"FR-1330","heliport","vaux andigny DZ",50.001374,3.540859,,"EU","FR","FR-HDF",,"no",,,,,,,
+608835,"FR-1331","heliport","fontjoncouse circuit DZ",43.031137,2.795044,,"EU","FR","FR-OCC",,"no",,,,,,,
+608836,"FR-1332","heliport","chateau de lastours circuit DZ",43.044304,2.89964,,"EU","FR","FR-OCC",,"no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -33841,7 +33850,6 @@
 608692,"IT-0926","heliport","Daviso Lodge Helipad",45.375847,7.184294,7464,"EU","IT","IT-21","Groscavallo (TO)","no",,,,,,,"Daviso Paolo"
 608694,"IT-0927","heliport","Elisuperficie Rifugio Stellina",45.21563,7.042183,,"EU","IT","IT-21","Comune di Novalesa","no",,,,,,,
 608707,"IT-0928","heliport","Helipad Rifugio Luigi Vaccarone,Giaglione",45.153951,6.917224,,"EU","IT","IT-21","Comune di Giaglione","no",,,,,,,
-608708,"IT-0929","heliport","Helipad Rifugio Luigi Vaccarone,Giaglione",45.153951,6.917224,,"EU","IT","IT-21","Comune di Giaglione","no",,,,,,,
 608710,"IT-0930","heliport","Elisuperficie vigili del fuoco di Bardonecchia",45.074172,6.713365,,"EU","IT","IT-21","Comune di Bardonecchia","no",,,,,,,
 608712,"IT-0931","heliport","Elisuperficie Sauze d'Oulx",45.029164,6.854739,,"EU","IT","IT-21","Comune di Oulx","no",,,,,,,
 608779,"IT-0932","heliport","Eliporto chiomonte",45.1226,6.980937,,"EU","IT","IT-21","Comune di Chiomonte","no",,,,,,,
@@ -33853,6 +33861,9 @@
 608793,"IT-0938","heliport","Elisuperficie Ala di Stura",45.312941,7.308574,,"EU","IT","IT-21","Comune di Ala di Stura","no",,,,,,,
 608795,"IT-0939","heliport","Elisuperficie di S.Cristina",45.326746,7.379733,,"EU","IT","IT-21","Comune di Cantoira","no",,,,,,,
 608797,"IT-0940","heliport","Elisuperficie di Ceres",45.321733,7.394888,,"EU","IT","IT-21","Comune di Ceres","no",,,,,,,
+608828,"IT-0941","heliport","Elisuperficie Rifugio Salvin",45.350418,7.432423,,"EU","IT","IT-21","Comune di Monastero di Lanzo","no",,,,,,,
+608830,"IT-0942","heliport","Elisuperficie Pessinetto",45.288648,7.403358,,"EU","IT","IT-21","Comune di Pessinetto","no",,,,,,,
+608832,"IT-0943","heliport","Elisuperficie comune Monastero di Lanzo",45.295362,7.428823,,"EU","IT","IT-21","Comune Monastero di lanzo","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -43086,7 +43097,7 @@
 602876,"L49","seaplane_base","Lark's Landing",44.093001,-116.952412,2160,"NA","US","US-OR","Ontario","no",,,"L49","L49",,,"Snake River, Payette ID"
 21453,"L52","small_airport","Oceano County Airport",35.101398,-120.622002,15,"NA","US","US-CA","Oceano","no",,,"KL52","L52",,"https://en.wikipedia.org/wiki/Oceano_County_Airport",
 21454,"L53","small_airport","Lodi Airpark",38.08409881591797,-121.31600189208984,25,"NA","US","US-CA","Lodi","no",,,"L53","L53",,,
-21455,"L54","small_airport","Agua Caliente Airport",32.95009994506836,-116.29299926757812,1220,"NA","US","US-CA","Agua Caliente Springs","no",,,"L54","L54",,"https://en.wikipedia.org/wiki/Agua_Caliente_Airport",
+21455,"L54","closed","Agua Caliente Airport",32.955673,-116.294712,1220,"NA","US","US-CA","Agua Caliente Springs","no",,,,,,"https://en.wikipedia.org/wiki/Agua_Caliente_Airport","L54"
 21457,"L61","small_airport","Shoshone Airport",35.968601,-116.268997,1568,"NA","US","US-CA","Shoshone","no",,,"KL61","L61",,"https://en.wikipedia.org/wiki/Shoshone_Airport",
 21458,"L78","small_airport","Jacumba Airport",32.616001,-116.165001,2844,"NA","US","US-CA","Jacumba","no",,,"L78","L78",,"https://en.wikipedia.org/wiki/Jacumba_Airport",
 21460,"L85","seaplane_base","Mackeys Lakes Seaplane Base",60.5335998535,-150.996002197,175,"NA","US","US-AK","Soldotna","no",,,"L85","L85",,,
@@ -55846,8 +55857,8 @@
 330903,"RU-0516","closed","Kusnetsovka Airfield",56.61675,34.517382,794,"EU","RU","RU-TVE","Lukovnikovo","no",,,,,,,
 330915,"RU-0517","small_airport","Bakhta Airport",62.468115,88.998827,102,"EU","RU","RU-KYA","Bakhta","no",,,,"UNHB",,,"УНХБ, Бахта"
 330919,"RU-0518","closed","Lebed Airport",62.088049,89.181841,98,"EU","RU","RU-KYA","Lebed","no",,,,,,,
-330921,"RU-0519","small_airport","Poligus Airport",62.002853,94.657168,1121,"EU","RU","RU-KYA","Poligus","no",,,,"UNJP",,,"УНЙП, Полигус"
-330922,"RU-0520","closed","Vorogovo Airport",61.038261,89.613805,98,"EU","RU","RU-KYA","Vorogovo","no",,,,,,,"УНХВ, Ворогово, UNHW"
+330921,"RU-0519","small_airport","Poligus Airport",62.002853,94.657168,1121,"AS","RU","RU-KYA","Poligus","no",,,,"UNJP",,,"УНЙП, Полигус"
+330922,"RU-0520","closed","Vorogovo Airport",61.038261,89.613805,98,"AS","RU","RU-KYA","Vorogovo","no",,,,,,,"УНХВ, Ворогово, UNHW"
 331743,"RU-0521","small_airport","Visokiy Airstrip",44.7770214,40.8997519,,"EU","RU","RU-KDA",,"no",,,,,,,
 332760,"RU-0522","small_airport","Paradrom Pokrov",55.43705,37.626689,,"EU","RU","RU-MOW",,"no",,,,"ZF94",,,
 333503,"RU-0523","small_airport","Podgornoye Airfield",54.740583,20.726472,-5,"EU","RU","RU-KGD",,"no",,,,,"https://aeroland.club/",,"Подгорное"
@@ -56327,7 +56338,7 @@
 526749,"RU-0999","heliport","Khyl'chuyu Yuzhnoye field",68.160319,55.401928,,"EU","RU","RU-NEN","Nar'yan Mar","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
 526751,"RU-1000","heliport","Khyl'chuyu Yuzhnoye field 8",68.152602,55.399418,,"EU","RU","RU-NEN","Nar'yan Mar","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
 32242,"RU-10000","closed","Turlatovo Airport",54.555901,39.855202,502,"EU","RU","RU-RYA","Ryazan","no",,,,,,"https://en.wikipedia.org/wiki/Turlatovo_Airport","Аэропорт Турлатово, УУБР, RZN, UUBR, UUWR"
-32584,"RU-10001","medium_airport","Velikiye Luki Airport [CLOSED]",56.381066,30.607846,328,"EU","RU","RU-PSK","Velikiye Luki","no","ULOL","VLU",,,,"https://en.wikipedia.org/wiki/Velikiye_Luki_Airport","УЛОЛ, Великие Луки"
+32584,"RU-10001","medium_airport","Velikiye Luki Airport",56.381066,30.607846,328,"EU","RU","RU-PSK","Velikiye Luki","no","ULOL","VLU",,,,"https://en.wikipedia.org/wiki/Velikiye_Luki_Airport","УЛОЛ, Великие Луки"
 34934,"RU-10002","closed","Kasimovo Airfield",60.198299,30.334999,230,"EU","RU","RU-LEN","St. Petersburg","no",,,,,,"https://en.wikipedia.org/wiki/Kasimovo_Airport","Аэродром Касимово, XLLN"
 34943,"RU-10003","closed","Bakharevka Airport",57.951698,56.195,564,"AS","RU","RU-PER","Perm","no",,,,,,"https://en.wikipedia.org/wiki/Bakharevka_Airport","Аэропорт Бахаревка, USPB"
 35009,"RU-10004","closed","Krasnoyarsk Severniy Airport",56.041698,92.9067,676,"EU","RU","RU-KYA","Krasnoyarsk","no",,,,,,"https://en.wikipedia.org/wiki/Krasnoyarsk_Northeast","Krasnoyarsk Severny Airport, Krasnoyarsk North Airport, Krasnoyarsk Northeast Airport, Аэропорт Красноярск Северный. Innokentievskaya Air Base, UNKK"
@@ -56512,7 +56523,7 @@
 605839,"RU-10168","heliport","Koncel Heliport",56.01155,37.16177,713,"EU","RU","RU-MOW","Silino","no",,,,"HEH5",,,"ХЕХ5, Концел"
 605852,"RU-10169","heliport","Konakovo Heliport",55.420408,37.178562,565,"EU","RU","RU-MOW","Konakovo","no",,,,"HHF4",,,"ХХФ4, Конаково"
 526863,"RU-1017","heliport","KS-5 Usinskaya",66.59084,62.07756,,"AS","RU","RU-KO",,"no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
-608811,"RU-10170","small_airport","Kedrovo Airfield",59.228659,39.613689,487,"AS","RU","RU-VLG","Kedrovo","no",,,"ULWX",,,,"УЛВЬ, Кедрово"
+608811,"RU-10170","small_airport","Kedrovo Airfield",59.228659,39.613689,487,"EU","RU","RU-VLG","Kedrovo","no",,,"ULWX","ULWX",,,"УЛВЬ, Кедрово"
 526968,"RU-1018","heliport","Chaika Coal Terminal Helipad",73.379354,80.59003,71,"AS","RU","RU-KYA","Dikson","no",,,,,,,"HELIOPS, Mining, Coal, Vostokugol-Dikson"
 527128,"RU-1019","heliport","Khralov junction Helipad",68.486875,69.521978,,"AS","RU","RU-YAN","Lidino","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
 528461,"RU-1020","heliport","Roman Trebs field",68.624032,57.891887,,"EU","RU","RU-NEN","Varandey","no",,,,,,,"Oil & Gas, GazpromNeft Shelf, HELIOPS"
@@ -66625,7 +66636,7 @@
 6505,"UNEE","large_airport","Alexei Leonov Kemerovo International Airport",55.2701,86.107201,863,"AS","RU","RU-KEM","Kemerovo","yes","UNEE","KEJ","UNEE",,,"https://en.wikipedia.org/wiki/Kemerovo_Airport",
 315321,"UNHA","small_airport","Aksenovo Airport",58.963999,101.571868,580,"AS","RU","RU-KYA","Aksenovo","no",,,"UNHA","UNHA",,,"УНХА, Аксеново"
 315499,"UNHT","heliport","Tura Heliport",64.278786,100.214164,600,"EU","RU","RU-KYA","Tura","no",,,"UNHT","UNHT",,,"УНХТ, Тура - МВЛ"
-330924,"UNHZ","small_airport","Zotino Airport",60.900834,89.680726,138,"EU","RU","RU-KYA","Zotino","no",,,"UNHZ",,,,"УНХЗ, Зотино"
+330924,"UNHZ","small_airport","Zotino Airport",60.900834,89.680726,138,"AS","RU","RU-KYA","Zotino","no",,,"UNHZ",,,,"УНХЗ, Зотино"
 315318,"UNIA","small_airport","Aydara Airport",58.5291,88.4031,373,"AS","RU","RU-KYA","Aydara","no",,,"UNIA","UNIA",,,"УНИА, Айдара"
 42951,"UNIB","medium_airport","Baykit Airport",61.676701,96.355003,853,"AS","RU","RU-KYA","Baykit","no",,"BKA","UNIB",,,"https://en.wikipedia.org/wiki/Baykit_Airport","Аэропорт Байкит"
 30995,"UNII","medium_airport","Yeniseysk Airport",58.474201,92.112503,253,"AS","RU","RU-KYA","Yeniseysk","yes","UNII","EIE","UNII",,,"https://en.wikipedia.org/wiki/Yeniseysk_Airport","Yeniseisk Airport, Аэропорт Енисейск"
@@ -84827,7 +84838,7 @@
 340269,"ZA-0188","small_airport","Bosrivier Airstrip",-34.0293,23.2907,,"AF","ZA","ZA-WC","KwaNokuthula","no",,,,,,,
 340270,"ZA-0189","small_airport","Leppan Airfield",-33.939568,22.66619,,"AF","ZA","ZA-WC","George","no",,,,,,,"Peter Le Pan"
 340271,"ZA-0190","closed","Mud Flats SANPARKS Airstrip",-34.053237,23.066045,,"AF","ZA","ZA-WC","Knysna","no",,,,,,,
-340272,"ZA-0191","small_airport","Bosbokduin Airstrip",-34.3956,21.4017,,"AF","ZA","ZA-WC","Still Bay","no",,,,,,,
+340272,"ZA-0191","closed","Bosbokduin Airstrip",-34.3956,21.4017,239,"AF","ZA","ZA-WC","Still Bay","no",,,,,,,
 340273,"ZA-0192","small_airport","Pearly Beach Airstrip",-34.6301,19.4758,,"AF","ZA","ZA-WC","Pearly Beach","no",,,,,,,
 340274,"ZA-0193","heliport","Robben Island Heliport",-33.803255,18.366981,,"AF","ZA","ZA-WC","Cape Town","no",,,,,,,
 340275,"ZA-0194","closed","Wingfield Air Base",-33.90696,18.53043,,"AF","ZA","ZA-WC","Cape Town","no",,,,,,,
