@@ -14553,7 +14553,7 @@
 342331,"BR-1460","small_airport","Pilar do Sul Airstrip",-23.83405,-47.71938,2480,"SA","BR","BR-SP","Pilar do Sul","no",,,,,,,
 342374,"BR-1461","closed","Amambaí Airport",-23.143458,-54.585485,1542,"SA","BR","BR-MS","Amambaí","no",,,,,,,"SSAM"
 342376,"BR-1462","heliport","Fazenda Serra Azul Heliport",-16.206944,-41.471667,1982,"SA","BR","BR-MG","Medina","no",,,"SSAJ","MG0268",,,
-342379,"BR-1463","small_airport","Fazenda Progresso Airport",-13.157195,-41.507165,3839,"SA","BR","BR-BA","Mucugê","no",,,"SSFW","BA0157",,,
+342379,"BR-1463","small_airport","Fazenda Progresso Airport",-13.157195,-41.507165,3839,"SA","BR","BR-BA","Mucugê","no","SSFW",,"SSFW","BA0157",,,
 342380,"BR-1464","small_airport","Fazenda Viveiros Airport",-17.4864,-44.958766,1640,"SA","BR","BR-MG","Pirapora","no",,,"SSFV","MG0181",,,
 342406,"BR-1465","small_airport","Antonio Furlaneto Airport",-4.435556,-47.598611,919,"SA","BR","BR-PA","Dom Eliseu","no",,,"SSFU","PA0126",,,
 342430,"BR-1466","small_airport","Fazenda Chapadão Airport",-15.82089,-55.999297,505,"SA","BR","BR-MT","Santo Antônio do Leverger","no",,,"SSGC","MT0289",,,
@@ -24190,7 +24190,7 @@
 29181,"EGSD","heliport","Great Yarmouth - North Denes Heliport",52.635576,1.723016,6,"EU","GB","GB-ENG","Great Yarmouth, Norfolk","no","EGSD",,"EGSD",,,"https://en.wikipedia.org/wiki/Great_Yarmouth_-_North_Denes_Airport","Yarmouth Heliport"
 2474,"EGSF","small_airport","Peterborough Business Airport",52.468102,-0.251111,26,"EU","GB","GB-ENG","Peterborough, Cambridgeshire","no","EGSF",,"EGSF",,"http://www.aerolease.co.uk/","https://en.wikipedia.org/wiki/Peterborough_Business_Airport","Conington Airport, RAF Glatton"
 29182,"EGSG","small_airport","Stapleford Aerodrome",51.6525,0.155833,183,"EU","GB","GB-ENG","Romford, Greater London","no","EGSG",,"EGSG",,"http://www.flysfc.com/","https://en.wikipedia.org/wiki/Stapleford_Aerodrome","Epping Forest, RAF Stapleford Tawney"
-2475,"EGSH","medium_airport","Norwich Airport",52.6758,1.28278,117,"EU","GB","GB-ENG","Norwich, Norfolk","yes","EGSH","NWI","EGSH",,"https://www.norwichairport.co.uk/","https://en.wikipedia.org/wiki/Norwich_Airport","RAF Horsham St Faith"
+2475,"EGSH","medium_airport","Norwich Airport",52.6758,1.28278,118,"EU","GB","GB-ENG","Norwich, Norfolk","yes","EGSH","NWI","EGSH",,"https://www.norwichairport.co.uk/","https://en.wikipedia.org/wiki/Norwich_Airport","RAF Horsham St Faith"
 307882,"EGSI","small_airport","Marshland Airfield",52.643611,0.295,-6,"EU","GB","GB-ENG","Wisbech, Cambridgeshire","no","EGSI",,"EGSI",,,,
 29183,"EGSJ","small_airport","Seething Airfield",52.510997,1.416864,130,"EU","GB","GB-ENG","Mundham, Norfolk","no","EGSJ",,"EGSJ",,"https://www.seething-airfield.co.uk/","https://en.wikipedia.org/wiki/Seething_Airfield","RAF Seething"
 29185,"EGSL","small_airport","Andrewsfield Aerodrome",51.895,0.449167,286,"EU","GB","GB-ENG","Braintree, Essex","no","EGSL",,"EGSL",,,"https://en.wikipedia.org/wiki/Andrewsfield_Airport","RAF Andrews Field, Great Saling"
@@ -33781,7 +33781,7 @@
 607859,"IT-0852","heliport","Elisuperficie Diga Place Moulin",45.899364,7.490573,,"EU","IT","IT-23","Bionaz","no",,,,,,,
 607861,"IT-0853","heliport","(?Duplicate?)Elisuperficie Breuil Cervinia",45.927062,7.62493,,"EU","IT","IT-23","Valtournenche","no",,,,,,,
 607863,"IT-0854","heliport","Elisuperficie  Piazzola elisoccorso di Singlin",45.89609,7.619517,,"EU","IT","IT-23","Valtourmenche","no",,,,,,,
-607865,"IT-0855","heliport","helipad Airgreen",45.745276,7.582068,,"EU","IT","IT-23","Pontey","no",,,,,,,
+607865,"IT-0855","heliport","Airgreen Helipad",45.745232,7.582066,1498,"EU","IT","IT-23","Pontey (AO)","no",,,,,,,
 607906,"IT-0856","heliport","Elisuperficie del Parc Hotel Billia",45.754188,7.639945,,"EU","IT","IT-23","Saint-Vincent","no",,,,,,,
 607908,"IT-0857","heliport","Elisuperficie Echallod",45.6399,7.708942,,"EU","IT","IT-23","Armad","no",,,,,,,
 607911,"IT-0858","heliport","Elisuperfice Bocchetta di Eclou",45.777955,7.795722,,"EU","IT","IT-U-A","Saint-Jean","no",,,,,,,
@@ -33874,6 +33874,9 @@
 608854,"IT-0946","heliport","Elisuperficie azienda privata Airgreen di Cafasse",45.238594,7.533215,,"EU","IT","IT-21","Comune di Robassomero","no",,,,,,,
 608863,"IT-0947","heliport","Turin CTO Hospital Helipad",45.033717,7.675249,749,"EU","IT","IT-21","Turino (TO)","no",,,,,"https://www.cittadellasalute.to.it/index.php?option=com_content&view=article&id=2984%3Aospedale-cto&catid=37&Itemid=309","https://en.wikipedia.org/wiki/CTO_Hospital_(Turin)","Ponte Franco-Balbis"
 608864,"IT-0948","heliport","Carabinieri Air Service Heliport",45.190207,7.816083,655,"EU","IT","IT-21","Volpiano (TO)","no",,,,,,,
+608882,"IT-0949","heliport","Elisuperficie Filliè",45.194895,7.472554,,"EU","IT","IT-21","Comune di Varisellla","no",,,,,,,
+608884,"IT-0950","heliport","Airgreen Srl - Base di Robassomero privata",45.205827,7.554882,,"EU","IT","IT-21","Comune si Robassomero","no",,,,,,,
+608886,"IT-0951","heliport","Base San Maurizio Canavese",45.22233,7.630048,,"EU","IT","IT-21","Comune di san Maurizio Canavese","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
