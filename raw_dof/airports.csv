@@ -27933,6 +27933,10 @@
 608823,"FR-1330","heliport","vaux andigny DZ",50.001374,3.540859,,"EU","FR","FR-HDF",,"no",,,,,,,
 608835,"FR-1331","heliport","fontjoncouse circuit DZ",43.031137,2.795044,,"EU","FR","FR-OCC",,"no",,,,,,,
 608836,"FR-1332","heliport","chateau de lastours circuit DZ",43.044304,2.89964,,"EU","FR","FR-OCC",,"no",,,,,,,
+608902,"FR-1333","heliport","Noirmoutier HLS",46.9788,-2.242477,10,"EU","FR","FR-PDL","Noirmoutier-en-l'Île","no",,,,,,,
+608903,"FR-1334","heliport","ferme du seraussaix DZ",46.197537,6.74633,,"EU","FR","FR-ARA",,"no",,,,,,,
+608904,"FR-1335","heliport","blugeon DZ",46.166558,6.709353,,"EU","FR","FR-ARA",,"no",,,,,,,
+608905,"FR-1336","heliport","Saint Raphael DZ",43.462338,6.818621,,"EU","FR","FR-PAC",,"no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -33103,7 +33107,7 @@
 317001,"IT-0172","small_airport","Stella Airfield",44.95094,11.62722,6,"EU","IT","IT-34","Fiesso Umbertiano (RO)","no",,,,"ROFIE",,,"Aviosuperficie Stella"
 317002,"IT-0173","small_airport","Ultralight Friuli Airfield",45.93098,13.362,,"EU","IT","IT-36","Trivignano (UD)","no",,,,"UDTRI",,,"Ultralight Friuli, Aviosuperficie Ultralight Friuli"
 317003,"IT-0174","small_airport","Ali Libere",42.829833,12.683383,,"EU","IT","IT-55","Castelritaldi (PG)","no",,,,"PGCRT",,,
-317004,"IT-0175","small_airport","Aviosuperficie Stintino",40.88295,8.25418,,"EU","IT","IT-88","Stintino (SS)","no",,,,"SSSTI",,,
+317004,"IT-0175","closed","Aviosuperficie Stintino",40.88295,8.25418,,"EU","IT","IT-88","Stintino (SS)","no",,,,,,,"SSSTI"
 317005,"IT-0176","small_airport","La Filanda Airfield",43.446407,11.673973,,"EU","IT","IT-52","Laterina Pergine Valdarno (AR)","no",,,,"AR10","http://www.arturoghezzi.it/aviosuperficie/",,"Jetson - Aviosuperficie Pieve a Presciano La Filanda"
 317006,"IT-0177","small_airport","Enrico Mattei Airfield",40.431896,16.5538,180,"EU","IT","IT-77","Pisticci (MT)","no",,,,"MTPIC","http://www.basilicata-airport.eu/index.php?lang=en","https://it.wikipedia.org/wiki/Aviosuperficie_Enrico_Mattei","Basilicata Airport, Pisticci, Aviosuperficie Enrico Mattei, Matera"
 317007,"IT-0178","small_airport","Pisticci Flying Field",40.399699,16.636972,,"EU","IT","IT-77","Pisticci (MT)","no",,,,"MTPIS",,,"Campo di Volo Pisticci"
@@ -33849,7 +33853,7 @@
 608654,"IT-0920","heliport","Elisuperficie di Castelnuovo Nigra",45.451292,7.694989,,"EU","IT","IT-21","Comune di Castelnuovo Nigra","no",,,,,,,
 608676,"IT-0921","heliport","Elisuperficie ValPrato Soana",45.525247,7.550815,,"EU","IT","IT-U-A","Comune di Valprato Soana","no",,,,,,,
 608677,"IT-0922","heliport","Helimontblanc pick up ronco",45.494383,7.541363,,"EU","IT","IT-21","Comune di Ronco Canavese","no",,,,,,,
-608680,"IT-0923","small_airport","Elisuperficie di Ceresole Reale",0,0,,"EU","IT","IT-U-A","Comune di Ceresole Reale","no",,,,,,,
+608680,"IT-0923","small_airport","(Duplicate)Elisuperficie di Ceresole Reale",0,0,,"EU","IT","IT-U-A","Comune di Ceresole Reale","no",,,,,,,
 608681,"IT-0924","heliport","Elisuperficie di Ceresole Reale",45.433139,7.230334,,"EU","IT","IT-21","Comune di Ceresole Reale","no",,,,,,,
 608690,"IT-0925","heliport","Elisusperficie lago Serru autorizzata giorno notte (night and day)",45.462651,7.13429,,"EU","IT","IT-21","Comne di Ceresole Reale","no",,,,,,,
 608692,"IT-0926","heliport","Daviso Lodge Helipad",45.375847,7.184294,7464,"EU","IT","IT-21","Groscavallo (TO)","no",,,,,,,"Daviso Paolo"
@@ -33877,6 +33881,10 @@
 608882,"IT-0949","heliport","Elisuperficie Filliè",45.194895,7.472554,,"EU","IT","IT-21","Comune di Varisellla","no",,,,,,,
 608884,"IT-0950","heliport","Airgreen Srl - Base di Robassomero privata",45.205827,7.554882,,"EU","IT","IT-21","Comune si Robassomero","no",,,,,,,
 608886,"IT-0951","heliport","Base San Maurizio Canavese",45.22233,7.630048,,"EU","IT","IT-21","Comune di san Maurizio Canavese","no",,,,,,,
+608906,"IT-0952","heliport","Elisuperificie Caselle",45.205948,7.645615,,"EU","IT","IT-21","Comune di san Maurizio Canavese","no",,,,,,,
+608909,"IT-0953","heliport","Elisuperficie Aziendale Leonardo S.P.A.",45.200061,7.641206,,"EU","IT","IT-21","Comune di San Maurizio Canavese","no",,,,,,,
+608911,"IT-0954","heliport","Base militare esercito Venaria Reale",45.13059,7.615006,,"EU","IT","IT-21","Comune di Venaria Reale","no",,,,,,,
+608913,"IT-0955","heliport","Elisuperficie Rivarolo Canavese",45.324302,7.73253,,"EU","IT","IT-21","Comune di Rivarolo Canavese","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
