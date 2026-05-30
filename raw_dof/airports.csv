@@ -11736,8 +11736,8 @@
 507916,"AU-0577","small_airport","Brewarrina airstrip",-30.180618,146.982093,,"OC","AU","AU-NSW","Brewarrina","no",,,,,,,
 507943,"AU-0578","small_airport","YDNA",-42.763332,146.561349,,"OC","AU","AU-TAS","Maydena","no",,,,,,,
 507964,"AU-0579","small_airport","Honeymoon Airstrip",-13.629492,131.087496,324,"OC","AU","AU-NT","Tipperary","no",,,,,,,"YHONE"
-507988,"AU-0580","closed","dont know if this is an airport",-22.368055,143.026875,,"OC","AU","AU-QLD","Winston","no",,,,,,,
-507989,"AU-0581","closed","(Duplicate) dont know if this is an airport",-22.368055,143.026875,,"OC","AU","AU-QLD","Winston","no",,,,,,,
+507988,"AU-0580","closed","Winton Aerodrome (closed 1935)",-22.360559,143.039718,,"OC","AU","AU-QLD","Winston","no",,,,,,"https://en.wikipedia.org/wiki/Winton_Aerodrome_(closed_1935)",
+507989,"AU-0581","closed","Winton Aerodrome (closed 1942)",-22.368055,143.026875,,"OC","AU","AU-QLD","Winston","no",,,,,,"https://en.wikipedia.org/wiki/Winton_Aerodrome",
 508030,"AU-0582","small_airport","Hillsborough Airstrip",-20.013041,146.996963,1200,"OC","AU","AU-QLD","Ravenswood","no",,,,"OZHIH",,,
 508032,"AU-0583","small_airport","Harriedale Airfield",-32.803117,141.411426,170,"OC","AU","AU-SA","Harriedale","no",,,,"OZHLE",,,
 508147,"AU-0584","small_airport","Sturt Plateau airstrip",-15.921878,132.388687,,"OC","AU","AU-NT","Sturt Plateau NT 0852","no",,,,,,,
@@ -27932,7 +27932,7 @@
 608076,"FR-1329","heliport","La Herliere DZ",50.205785,2.561609,,"EU","FR","FR-HDF","La Herliere","no",,,,,,,
 608823,"FR-1330","heliport","vaux andigny DZ",50.001374,3.540859,,"EU","FR","FR-HDF",,"no",,,,,,,
 608835,"FR-1331","heliport","fontjoncouse circuit DZ",43.031137,2.795044,,"EU","FR","FR-OCC",,"no",,,,,,,
-608836,"FR-1332","heliport","chateau de lastours circuit DZ",43.044304,2.89964,,"EU","FR","FR-OCC",,"no",,,,,,,
+608836,"FR-1332","heliport","Chateau de Lastours Test Track HLS",43.044304,2.89964,220,"EU","FR","FR-OCC","Portel-des-Corbières, Aude","no",,,,,"https://lastoursexperience.com/en/",,
 608902,"FR-1333","heliport","Noirmoutier HLS",46.9788,-2.242477,10,"EU","FR","FR-PDL","Noirmoutier-en-l'Île","no",,,,,,,
 608903,"FR-1334","heliport","Seraussaix Farm HLS",46.197537,6.74633,5483,"EU","FR","FR-ARA","Avoriaz, Haute-Savoie","no",,,,,"https://www.lafermedeseraussaix.com/",,
 608904,"FR-1335","heliport","Blugeon Helipad",46.166558,6.709353,3724,"EU","FR","FR-ARA","Morzine, Haute-Savoie","no",,,,,"https://www.blugeon-helicopteres.com/en/our-bases/",,
@@ -28783,7 +28783,7 @@
 315670,"GB-0176","small_airport","Jackrells Farm Airstrip",51.032542,-0.330362,,"EU","GB","GB-ENG","Horsham, West Sussex","no",,,,,,,"Horsham"
 315672,"GB-0177","small_airport","Great Oakley Airfield",51.912343,1.182142,75,"EU","GB","GB-ENG","Harwich, Essex","no",,,,,,,
 315685,"GB-0178","closed","Sproston Green Airfield",53.185532,-2.385957,167,"EU","GB","GB-ENG","Middlewich, Cheshire East.","no",,,,,,,
-315686,"GB-0179","small_airport","Wombleton Airfield",54.231147,-0.974655,125,"EU","GB","GB-ENG","York, North Yorkshire","no",,,,,,,"RAF Wombleton, EGX4"
+315686,"GB-0179","small_airport","Wombleton Airfield",54.231147,-0.974655,125,"EU","GB","GB-ENG","York, North Yorkshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Wombleton","RAF Wombleton, EGX4, Pickering, Welburn Hall, Bones X5WM"
 315788,"GB-0180","small_airport","Strathaven Airfield",55.679968,-4.113381,847,"EU","GB","GB-SCT","Strathaven, South Lanarkshire","no",,,,,"http://www.strathavenairfield.co.uk","https://flexwingscotland.co.uk/strathaven-airfield-information/",
 315912,"GB-0181","small_airport","East Fortune Airfield",56.000849,-2.735324,122,"EU","GB","GB-SCT","North Berwick, East Lothian","no",,,,,"http://www.eosm.co.uk","https://en.wikipedia.org/wiki/RAF_East_Fortune","RAF East Fortune"
 315913,"GB-0182","small_airport","East Kirkby Airfield",53.13758,0.002098,40,"EU","GB","GB-ENG","Spilsby, Lincolnshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_East_Kirkby","RAF East Kirkby"
@@ -30959,7 +30959,7 @@
 608159,"HR-0044","small_airport","Mlinski Kamen recreational airfield",45.45607,16.27173,,"EU","HR","HR-03","Brest Pokupski","no",,,,,,,
 608185,"HR-0045","small_airport","Voloder Airstrip",45.527149,16.646176,,"EU","HR","HR-03",,"no",,,,,,,"Popovača"
 608307,"HR-0046","small_airport","USS Čađavica",45.73049,17.85027,,"EU","HR","HR-10","Čađavica","no",,,,,,,
-608728,"HR-0047","small_airport","Airfield Ravnice",45.995,17.205,360,"EU","HR","HR-06","Podravske Sesvete","no",,,,,,,
+608728,"HR-0047","small_airport","Airfield Ravnice",45.995186,17.204908,364,"EU","HR","HR-06","Podravske Sesvete","no",,,,,,,
 313249,"HRC","small_airport","Sary Su Airport",48.3974,70.1915,1307,"AS","KZ","KZ-ULY","Zhayrem","no",,"HRC",,,,,"Zhairem, Жайрем"
 313252,"HRN","heliport","Heron Island Helipad",-23.441765,151.911416,8,"OC","AU","AU-QLD","Heron Island","no",,,"YHRN","YHRN",,,"HRN"
 3236,"HRYG","medium_airport","Gisenyi Airport",-1.6772,29.2589,5082,"AF","RW","RW-04","Gisenyi","no","HRYG","GYI","HRYG",,,"https://en.wikipedia.org/wiki/Gisenyi_Airport",
@@ -60790,6 +60790,7 @@
 36885,"SJTY","heliport","Gran Meliá Mofarrej Heliport",-23.564167022705078,-46.65583419799805,2969,"SA","BR","BR-SP","São Paulo","no",,,"SJTY",,,,
 36886,"SJTZ","small_airport","Dom Eliseu Airport",-4.3027777671813965,-47.581668853759766,800,"SA","BR","BR-PA","Dom Eliseu","no",,,"SJTZ",,,,
 564717,"SJU2","small_airport","Fazenda Alvorada Airport",-19.868108,-57.282509,289,"SA","BR","BR-MS","Corumbá","no",,,"SJU2","MS0676",,,
+608996,"SJU4","small_airport","Fazenda Mangabinha Airport",-18.649585,-56.034008,427,"SA","BR","BR-MS","Corumbá","no",,,"SJU4","MS0712",,,
 577410,"SJU6","small_airport","Fazenda Retiro Novo Airstrip",-20.145815,-57.207301,381,"SA","BR","BR-MS","Corumbá","no",,,"SJU6","MS0643",,,
 559858,"SJU7","small_airport","Fazenda Lua Nova Airstrip",-14.451169,-59.649181,804,"SA","BR","BR-MT","Nova Lacerda","no",,,"SJU7","MT0922",,,
 559859,"SJU8","small_airport","Fazenda Guariba Airstrip",-9.893333,-51.798889,1024,"SA","BR","BR-MT","Vila Rica","no",,,"SJU8","MT0944",,,
@@ -62152,6 +62153,7 @@
 552914,"SN9V","heliport","CCI Frutal Heliport",-20.03361,-48.88366,1862,"SA","BR","BR-MG","Frutal","no",,,"SN9V","MG0614",,,
 552688,"SN9W","heliport","Haras Império Heliport",-20.303222,-50.25715,1706,"SA","BR","BR-SP","Fernandópolis","no",,,"SN9W","SP1468",,,
 596593,"SN9X","small_airport","Fazenda Laranjal Airport",-14.602154,-54.915172,1621,"SA","BR","BR-MT","Planalto da Serra","no",,,"SN9X","MT1054",,,
+608994,"SNA1","small_airport","Fazenda Morro Alto Airstrip",-12.240794,-63.806761,656,"SA","BR","BR-RO","Costa Marques","no",,,"SNA1","RO0121",,,
 596601,"SNA2","small_airport","Sítio AJJ Airstrip",2.9709,-60.550983,262,"SA","BR","BR-RR","Boa Vista","no",,,"SNA2","RR0157",,,
 596606,"SNA3","small_airport","Lago do Robertinho Airport",2.946374,-60.911582,279,"SA","BR","BR-RR","Boa Vista","no",,,"SNA3","RR0154",,,
 555396,"SNA4","small_airport","Produzir Agropecuária Ltda - Fazenda Floresta Airport",-15.226017,-55.139292,2329,"SA","BR","BR-MT","Campo Verde","no",,,"SNA4","MT1064",,,
@@ -62206,6 +62208,7 @@
 553255,"SNC4","small_airport","Itapecuru Bioenergia Airport",-4.661431,-43.506733,210,"SA","BR","BR-MA","Aldeias Altas","no",,,"SNC4","MA0187",,,
 596618,"SNC6","small_airport","Fazenda Brejo Airport",-6.887084,-43.870709,751,"SA","BR","BR-PI","Guadalupe","no",,,"SNC6","PI0114",,,
 553926,"SNC7","small_airport","Fazenda Frange Airport",-16.234767,-54.894597,814,"SA","BR","BR-MT","Juscimeira","no",,,"SNC7","MT1074",,,
+608992,"SNC8","small_airport","Fazenda Piquia Airport",-9.104188,-50.572694,804,"SA","BR","BR-PA","Santana do Araguaia","no",,,"SNC8","PA0419",,,
 547689,"SNC9","small_airport","Joia Rara Airport",-12.277605,-48.33,909,"SA","BR","BR-TO","São Salvador do Tocantins","no",,,"SNC9","TO0122",,,
 289,"SNCA","small_airport","Campo Belo Airport",-20.89229965209961,-45.33509826660156,3182,"SA","BR","BR-MG","Campo Belo","no",,,"SNCA","SNCA",,,
 37044,"SNCB","small_airport","Castanhal Airport",-2.523611068725586,-53.939720153808594,502,"SA","BR","BR-PA","Prainha","no",,,"SNCB",,,,
@@ -62675,6 +62678,7 @@
 37305,"SNVW","small_airport","Fazenda Santa Paula Airport",-14.016944,-60.056667,771,"SA","BR","BR-MT","Comodoro","no",,,"SSWO","MT0321",,,"SNVW, São João do Guaporé"
 37306,"SNVX","heliport","Helisul Slin Heliport",-27.542352,-48.624635,63,"SA","BR","BR-SC","São José","no",,,"SNVX","SC0083",,,"Golden Air Heliport"
 37307,"SNVY","small_airport","Aeródromo de  Fazenda Ouro Verde",-23.976944,-55.365276,1299,"SA","BR","BR-MS","Paranhos","no",,,"SNVY",,,,
+608990,"SNW1","small_airport","Fazenda Maranata Airport",-10.901179,-52.865695,1020,"SA","BR","BR-MT","São José do Xingu","no",,,"SNW1","MT1183",,,
 601070,"SNW2","heliport","Sebold Heliport",-26.480755,-49.104438,173,"SA","BR","BR-SC","Jaraguá do Sul","no",,,"SNW2","SC0252",,,
 601068,"SNW3","small_airport","Estancia Pau d'Alho Airport",-9.464392,-60.525014,528,"SA","BR","BR-MT","Aripuanã","no",,,"SNW3","MT1125",,,
 601066,"SNW4","small_airport","Fazenda Santa Bárbara Airport",-15.321273,-44.008524,1614,"SA","BR","BR-MG","Itacarambi","no",,,"SNW4","MG0625",,,
@@ -64180,6 +64184,7 @@
 602481,"SW1B","heliport","Sítio Bela Vista Heliport",-22.670706,-45.881206,5282,"SA","BR","BR-U-A","Paraisópolis","no",,,"SW1B","MG0660",,,
 604794,"SW1G","heliport","Vila Galé Heliport",-20.365594,-43.659472,3576,"SA","BR","BR-MG","Ouro Preto","no",,,"SW1G","MG0666",,,
 607514,"SW1H","small_airport","Fazenda Belo Horizonte Airstrip",-15.396,-53.1566,1473,"SA","BR","BR-MT","Barra do Garças","no",,,"SW1H","MT1177",,,
+608987,"SW1L","small_airport","Fazenda São Lourenço Airstrip",-22.90979,-54.771556,1119,"SA","BR","BR-MS","Amambai","no",,,"SW1L","MS0809",,,
 599808,"SW1M","heliport","Agripark Heliport",-16.518383,-43.964106,2848,"SA","BR","BR-MG","Montes Claros","no",,,"SW1M","MG0652",,,
 599811,"SW1N","heliport","Novo Horizonte Heliport",-23.006789,-46.412147,2897,"SA","BR","BR-SP","Piracaia","no",,,"SW1N","SP1488",,,
 599813,"SW1O","heliport","Juarez Filho Heliport",-27.673283,-48.672716,16,"SA","BR","BR-SC","Palhoça","no",,,"SW1O","SC0257",,,
