@@ -13231,7 +13231,7 @@
 321444,"BR-0127","small_airport","Ivolândia Airport",-16.602639,-50.828542,,"SA","BR","BR-GO","Ivolândia","no",,,,,,,
 321453,"BR-0128","heliport","Haras São Pedro do Alto Heliport",-23.272781,-47.556164,2057,"SA","BR","BR-SP","Porto Feliz","no",,,"SDBT","SP0301",,,
 321454,"BR-0129","heliport","Zimba D. Pedro I Heliport",-23.033789,-46.733592,2632,"SA","BR","BR-SP","Itatiba","no",,,"SDZM","SDZM",,,
-321456,"BR-0130","heliport","ThomasiCamargo Heliport",-21.7158,-41.4817,2465,"SA","BR","BR-SP","Santa Rita do Passa Quatro","no",,,"SDCC","SDCC",,,
+321456,"BR-0130","closed","ThomasiCamargo Heliport",-21.7158,-41.4817,2465,"SA","BR","BR-SP","Santa Rita do Passa Quatro","no",,,,,,,"SDCC"
 321777,"BR-0131","small_airport","Fazenda Brauna Airport",-12.549442,-46.886701,1309,"SA","BR","BR-TO","Arraias","no",,,"SDBZ","TO0011",,,
 322476,"BR-0132","small_airport","Tunui Airport",1.387973,-68.158747,340,"SA","BR","BR-AM","Tunui","no",,,,,,,
 322527,"BR-0133","small_airport","Itaberaí Go Airport",-16.023533,-49.76983,,"SA","BR","BR-GO","Itaberaí","no",,,,,,,
@@ -56169,7 +56169,7 @@
 351854,"RU-0789","small_airport","Belaya",55.83613,44.43664,,"EU","RU","RU-NIZ",,"no",,,,,,,
 352056,"RU-0790","small_airport","Balagannoye Airport",59.6969,149.07195,52,"AS","RU","RU-MAG","Balagannoye","no",,,,,,,
 352057,"RU-0791","heliport","Tauisk Heliport",59.73504,149.35535,13,"EU","RU","RU-MAG","Tauisk","no",,,,,,,
-352118,"RU-0792","heliport","Bolshoy Kamen Heliport",43.12062,132.36056,130,"EU","RU","RU-PRI","Bolshoy Kamen","no",,,,,,,
+352118,"RU-0792","heliport","Bolshoy Kamen Heliport",43.12062,132.36056,130,"AS","RU","RU-PRI","Bolshoy Kamen","no",,,,,,,
 352119,"RU-0793","heliport","Poltavka Heliport",44.014649,131.259886,318,"AS","RU","RU-PRI","Poltavka","no",,,,,,,
 352120,"RU-0794","heliport","Lipovtsy Heliport",44.2252,131.670002,663,"AS","RU","RU-PRI","Lipovtsy","no",,,,,,,"Sergeyevskity Poligo, UPLK6"
 352122,"RU-0795","heliport","Turii Rog Heliport",45.24521,131.97882,279,"AS","RU","RU-PRI","Turii Rog","no",,,,,,,
@@ -56534,7 +56534,7 @@
 604387,"RU-10141","small_airport","Okhlopkovo Airfield",56.190798,43.082682,,"EU","RU","RU-NIZ",,"no",,,,"ZBH9",,,
 604388,"RU-10142","small_airport","Morozkino Airfield",54.122503,61.685645,702,"EU","RU","RU-CHE","Troitsk","no",,,,"H270",,,"Х270, Морозкино"
 604487,"RU-10143","small_airport","Mostovoy Airfield",56.1041,101.43773,1452,"AS","RU","RU-IRK",,"no",,,"UIBM","XIBM","https://vk.com/air_mostovoy",,"УИБМ, ЬИБМ, Мостовой, Bratsk, Братск"
-605767,"RU-10144","heliport","Ostrovnaya Bay Heliport",42.9697,131.8677,3,"EU","RU","RU-PRI","Russkiy","no",,,,,,,"U05JD"
+605767,"RU-10144","heliport","Ostrovnaya Bay Heliport",42.9697,131.8677,3,"AS","RU","RU-PRI","Russkiy","no",,,,,,,"U05JD"
 605768,"RU-10145","heliport","Comprehensive Logistics Solutions Heliport",43.07252,131.91977,10,"AS","RU","RU-PRI","Vladivostok","no",,,,,,,"U08CH"
 605778,"RU-10146","heliport","Ilyino Heliport",55.180308,37.041066,541,"EU","RU","RU-MOW","Ilyino","no",,,,"HHH6",,,"XXX6, Ильино"
 605779,"RU-10147","heliport","Rogovo Heliport",55.220167,37.070084,616,"EU","RU","RU-MOW","Rogovo","no",,,,"HHJ0",,,"ХХЙ0, Рогово"
@@ -56550,9 +56550,9 @@
 605793,"RU-10156","heliport","Kievsky Heliport",55.417222,36.862623,699,"EU","RU","RU-MOW","Kievsky","no",,,,"HHH7",,,"ХХХ7. Киевский"
 605794,"RU-10157","heliport","Arkhangelskoye Heliport",55.406532,36.914676,674,"EU","RU","RU-MOW","Arkhangelskoye","no",,,,"HHH3",,,"ХХХ3, Архангельское"
 605795,"RU-10158","heliport","Belousovo Heliport",55.41046,37.01508,600,"EU","RU","RU-MOW","Belousovo","no",,,,"HHH4",,,"ХХХ4, Белоусово"
-605797,"RU-10159","small_airport","Vasilevo Airstrip [INACTIVE]",56.55732,38.58063,664,"EU","RU","RU-YAR","Vasilevo","no",,,,"ZB0N",,,"ЗБ0Н, Василёво"
+605797,"RU-10159","closed","Vasilevo Airstrip [INACTIVE]",56.55732,38.58063,664,"AS","RU","RU-YAR","Vasilevo","no",,,,,,,"ЗБ0Н, Василёво, ZB0N"
 526862,"RU-1016","heliport","KS-7 Syninskaya",65.426335,58.40096,,"AS","RU","RU-KO","Synya","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
-605820,"RU-10160","heliport","Mount Vargina Heliport",43.15844,132.01392,1319,"EU","RU","RU-PRI","Vladivostok","no",,,,,,,"UC9JX"
+605820,"RU-10160","heliport","Mount Vargina Heliport",43.15844,132.01392,1319,"AS","RU","RU-PRI","Vladivostok","no",,,,,,,"UC9JX"
 605821,"RU-10161","heliport","Cape Markovsky Heliport",43.26177,132.00254,3,"AS","RU","RU-PRI","Vladivostok","no",,,,,,,"U8SCR"
 605822,"RU-10162","heliport","Ocean Ridge Heliport",43.21785,132.07779,385,"AS","RU","RU-PRI","Vladivostok","no",,,,,,,"UT4QG"
 605823,"RU-10163","small_airport","Emar Airport",43.19892,132.103,49,"AS","RU","RU-PRI","Vladivostok","no",,,,,,,"UEMR"
@@ -57945,6 +57945,7 @@
 606850,"SD5R","small_airport","Fazenda São Jorge Airport",-13.563394,-49.530561,1319,"SA","BR","BR-GO","Porangatu","no",,,"SD5R","GO0423",,,
 606852,"SD5S","small_airport","Fazenda Balsa Airstrip",-11.600778,-58.439431,971,"SA","BR","BR-MT","Juína","no",,,"SD5S","MT1168",,,
 606854,"SD5U","small_airport","Fazenda Tupan Airport",-13.668789,-56.049785,1526,"SA","BR","BR-MT","Nova Mutum","no",,,"SD5U","MT1170",,,
+609041,"SD5V","small_airport","Fazenda Vista Verde Airstrip",-11.713361,-38.573239,879,"SA","BR","BR-BA","Sátiro Dias","no",,,"SD5V","BA0521",,,
 605815,"SD5W","heliport","Fazenda Santo Antônio Heliport",-19.314664,-44.151822,2129,"SA","BR","BR-MG","Funilândia","no",,,"SD5W","MG0665",,,
 605813,"SD5X","heliport","Heli Boss Heliport",-23.008569,-43.301817,20,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SD5X","RJ0402",,,
 605811,"SD5Z","small_airport","Fazenda Pamaluce Airstrip",-14.930284,-48.718138,1822,"SA","BR","BR-GO","Niquelândia","no",,,"SD5Z","GO0425",,,
@@ -58091,9 +58092,11 @@
 35428,"SDAU","small_airport","Fazenda Itau Airport",-19.4685,-52.6214,1516,"SA","BR","BR-MS","Água Clara","no",,,"SDAU","MS0023",,,
 35430,"SDAW","heliport","Banco Industrial Heliport",-23.591903,-46.68543,2461,"SA","BR","BR-SP","São Paulo","no",,,"SDAW","SP0292",,,
 35431,"SDAX","heliport","Bradesco - Sta Cecília Heliport",-23.539454,-46.649323,2549,"SA","BR","BR-SP","São Paulo","no",,,"SDAX","SP0293",,,
+609044,"SDB1","small_airport","Fazenda Campo Belo Airstrip",-19.494945,-49.441308,1731,"SA","BR","BR-MG","Campina Verde","no",,,"SDB1","MG0661",,,
 346810,"SDB2","small_airport","Fazenda Guarabu Airport",-7.35691,-48.804732,702,"SA","BR","BR-TO","Araguaína","no",,,"SDB2","TO0081",,,
 346812,"SDB3","small_airport","AFG I Airport",-14.600279,-58.903478,2582,"SA","BR","BR-MT","Vale de São Domingos","no",,,"SDB3","MT0624",,,
 346650,"SDB4","small_airport","Fazenda Morumbi Airstrip",-11.889061,-51.909806,1073,"SA","BR","BR-MT","Bom Jesus do Araguaia","no",,,"SDB4","MT0701",,,
+609046,"SDB5","small_airport","Fazenda Santa Alcides Airport",-18.099072,-50.79443,2825,"SA","BR","BR-GO","Rio Verde","no",,,"SDB5","GO0424",,,
 346649,"SDB6","heliport","Dal Amargosa Heliport",-13.041667,-39.595833,1247,"SA","BR","BR-BA","Amargosa","no",,,"SDB6","BA0379",,,
 346648,"SDB7","small_airport","Fazenda Lagoa do Guaporé II Airport",-15.303611,-59.223056,1007,"SA","BR","BR-MT","Pontes e Lacerda","no",,,"SDB7","MT0619",,,
 35433,"SDBA","small_airport","Batatais Airport",-20.877218,-47.585757,2890,"SA","BR","BR-SP","Batatais","no",,,"SDBA","SP0063",,,
@@ -58336,7 +58339,7 @@
 177,"SDKJ","small_airport","Formosa do Rio Preto Airport",-11.0216,-45.186699,1732,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SDKJ","BA0025",,,
 30146,"SDKK","small_airport","Mococa Airport",-21.487802,-47.034123,2116,"SA","BR","BR-SP","Mococa","no",,,"SDKK","SP0058",,,"QOA"
 329363,"SDKL","small_airport","Caracaranã Airport",3.835853,-59.777179,2116,"SA","BR","BR-RR","Normandia","no",,,"SDKL","RR0005",,,
-35599,"SDKM","heliport","Hotel Emiliano Heliport",-23.565832138061523,-46.665279388427734,2716,"SA","BR","BR-SP","São Paulo","no",,,"SDKM",,,,
+35599,"SDKM","heliport","Hotel Emiliano Helistop",-23.566041,-46.665236,2707,"SA","BR","BR-SP","São Paulo","no",,,"SDKM","SP0373",,,"Hemiliano"
 178,"SDKO","small_airport","Fazenda Campo Grande Airport",-20.2577,-48.788601,1830,"SA","BR","BR-SP","Colômbia","no",,,"SDKO","SP0117",,,
 35601,"SDKP","small_airport","Fazenda Jamaica Airport",-22.188569,-50.274373,1598,"SA","BR","BR-SP","Pompéia","no",,,"SWAN","SP1285",,,"SDKP"
 35602,"SDKQ","small_airport","Fazenda São João Airport",-20.190423,-49.051117,1673,"SA","BR","BR-SP","Guaraci","no",,,"SDKQ","SP0118",,,
@@ -60220,6 +60223,8 @@
 355187,"SJ4W","small_airport","Mato Verde Municipal Airport",-15.347287,-42.883896,1755,"SA","BR","BR-MG","Mato Verde","no",,,"SJ4W","MG0552",,,
 354590,"SJ4X","small_airport","Fazenda Caiçara Airstrip",-18.468611,-45.291944,1985,"SA","BR","BR-MG","Três Marias","no",,,"SJ4X","MG0541",,,
 354697,"SJ4Z","small_airport","Paes Landim - Vale do Fidalgo Airport",-7.737562,-42.303877,935,"SA","BR","BR-PI","Paes Landim","no",,,"SJ4Z","PI0072",,,
+609034,"SJ5M","heliport","Michelon Helipad",-29.68779,-52.42386,650,"SA","BR","BR-RS","Santa Cruz do Sul","no",,,"SJ5M","RS0227",,,
+609032,"SJ5R","heliport","AG Fazenda Santa Rita Heliport",-12.887147,-39.608194,1220,"SA","BR","BR-BA","Santa Teresinha","no",,,"SJ5R","BA0526",,,
 354013,"SJ62","small_airport","Fazenda Nossa Senhora de Lourdes Airport",-22.646685,-52.947378,1204,"SA","BR","BR-PR","Diamante do Norte","no",,,"SJ62","PR0212",,,
 354292,"SJ63","small_airport","Fazenda Mongaguá Airstrip",-9.475,-51.226944,1224,"SA","BR","BR-PA","Cumaru do Norte","no",,,"SJ63","PA0291",,,
 354294,"SJ64","small_airport","Fazenda JK do Formoso",-17.848333,-45.405556,2953,"SA","BR","BR-MG","Buritizeiro","no",,,"SJ64","MG0540",,,
@@ -60858,17 +60863,17 @@
 531620,"SJW8","heliport","Plenovale Heliport",-24.980533,-49.096439,2854,"SA","BR","BR-PR","Tunas do Paraná","no",,,"SJW8","PR0241",,,
 530812,"SJW9","small_airport","Fazenda São Pedro Airport",-9.460556,-54.7575,1667,"SA","BR","BR-PA","Novo Progresso","no",,,"SJW9","PA0371",,,
 36940,"SJWE","small_airport","Fazenda Araribá Airport",-13.404722213745117,-52.848331451416016,1279,"SA","BR","BR-MT","Canarana","no",,,"SJWE",,,,
-36941,"SJWF","heliport","Mima Heliport",-21.6472225189209,-41.02360916137695,16,"SA","BR","BR-RJ","São João Da Barra","no",,,"SJWF",,,,
-36942,"SJWG","small_airport","Itagro Airport",-29.780277252197266,-55.69722366333008,384,"SA","BR","BR-RS","Alegrete","no",,,"SJWG",,,,
-36944,"SJWI","small_airport","Fazenda Flor Airport",-21.496944427490234,-53.74972152709961,1420,"SA","BR","BR-MS","Campo Grande","no",,,"SJWI",,,,
+36941,"SJWF","heliport","Mima Heliport",-21.64749,-41.024102,16,"SA","BR","BR-RJ","São João da Barra","no",,,"SJWF","RJ0118",,,"SDMM"
+36942,"SJWG","small_airport","Itagro Airport",-29.779866,-55.696214,328,"SA","BR","BR-RS","Alegrete","no",,,"SJWG","RS0079",,,
+36944,"SJWI","small_airport","Fazenda Flor Airport",-21.500833,-53.755278,1355,"SA","BR","BR-MS","Campo Grande","no",,,"SJWI","MS0188",,,
 36945,"SJWJ","heliport","HPE Helipad",-23.669927,-46.703181,2424,"SA","BR","BR-SP","São Paulo","no",,,"SJWJ","SP0673",,,
-36946,"SJWK","heliport","Fiec Heliport",-3.7394440174102783,-38.508888244628906,230,"SA","BR","BR-CE","Fortaleza","no",,,"SJWK",,,,
+36946,"SJWK","heliport","FIEC Helistop",-3.740863,-38.509286,131,"SA","BR","BR-CE","Fortaleza","no",,,"SJWK","CE0047",,,
 36947,"SJWL","small_airport","Botuvera Airport",-13.58332,-53.982009,1654,"SA","BR","BR-MT","Gaúcha do Norte","no",,,"SJ9B","MT0878",,,"SJWL, Boca da Mata"
 36949,"SJWN","small_airport","Fazenda Santa Dulcina Airport",-23.56246,-49.257689,2083,"SA","BR","BR-SP","Taquarituba","no",,,"SN8Y","SP1447",,,"SJWN"
-36951,"SJWP","small_airport","Warpol Airport",-12.619443893432617,-45.92361068725586,2650,"SA","BR","BR-BA","São Desidério","no",,,"SJWP",,,,
+36951,"SJWP","small_airport","Warpol Airport",-12.621524,-45.928568,2687,"SA","BR","BR-BA","São Desidério","no",,,"SJWP","BA0125",,,
 36952,"SJWQ","small_airport","Aeroclube de Birigui - CMTE Munir Djabak Airport",-21.21655,-50.305613,1338,"SA","BR","BR-SP","Birigui","no",,,"SJWQ","SP0221",,"https://pt.wikipedia.org/wiki/Aeroclube_de_Birigui","José Doná Airport, Comandante Munir Djabak"
-36953,"SJWR","heliport","Heligalo Heliport",-23.03416633605957,-44.20166778564453,344,"SA","BR","BR-RJ","Angra Dos Reis","no",,,"SJWR",,,,
-36954,"SJWS","heliport","Praia de Olaria Heliport",-23.766666412353516,-45.405277252197266,10,"SA","BR","BR-SP","São Sebastião","no",,,"SJWS",,,,
+36953,"SJWR","heliport","Heligalo Heliport",-23.034234,-44.201768,344,"SA","BR","BR-RJ","Angra dos Reis","no",,,"SJWR","RJ0119",,,
+36954,"SJWS","heliport","Praia de Olaria Heliport",-23.766744,-45.405451,13,"SA","BR","BR-SP","São Sebastião","no",,,"SJWS","SP0675",,,
 36957,"SJWV","small_airport","Fazenda São Judas Airport",-13.378055572509766,-50.424442291259766,1030,"SA","BR","BR-GO","São Miguel Do Araguaia","no",,,"SJWV",,,,
 36958,"SJWW","small_airport","Fazenda Cachoeira Preta Airport",-20.02138900756836,-53.21611022949219,1083,"SA","BR","BR-MS","Água Clara","no",,,"SJWW",,,,
 36959,"SJWX","small_airport","Rio Alegre Airport",-22.57281,-52.51561,942,"SA","BR","BR-SP","Euclides da Cunha Paulista","no",,,"SJWX","SP0222",,,
@@ -64690,6 +64695,7 @@
 6355,"SY-0036","closed","Al Al Airport",32.7867,35.717,1214,"AS","SY","SY-QU",,"no",,,,,,,"Pik, OS73, OS73"
 598973,"SY-0037","small_airport","Emergency Airstrip",32.777371,36.494286,,"AS","SY","SY-U-A",,"no",,,,,,,
 605927,"SY-0038","small_airport","Madan Agricultural Airport",35.75042,39.57676,758,"AS","SY","SY-RA","Madan","no",,,,,,,
+609035,"SY-0039","small_airport","Zelaf",32.919605,37.335934,,"AS","SY","SY-U-A",,"no",,,,,,,
 346990,"SYAG","small_airport","Anna Regina Airport",7.256583,-58.545671,53,"SA","GY","GY-PM","Anna Regina","no","SYAG",,"SYAG",,,,
 30624,"SYAH","small_airport","Aishalton Airport",2.47403,-59.320786,587,"SA","GY","GY-UT","Aishalton","no","SYAH","AHL","SYAH",,,"https://en.wikipedia.org/wiki/Aishalton_Airport",
 347001,"SYAL","small_airport","Albion Airport",6.24662,-57.379596,10,"SA","GY","GY-EB","Albion","no","SYAL",,"SYAL",,,,
@@ -65373,7 +65379,7 @@
 350918,"TR-0153","heliport","Bartin Naval Base Heliport",41.68146,32.2381,10,"AS","TR","TR-74","Bartin","no",,,,,,,
 350919,"TR-0154","heliport","Ilkadim Samsun Provincial Health Directorate Heliport",41.27392,36.29902,531,"AS","TR","TR-55","Samsun","no",,,,,,,
 350920,"TR-0155","heliport","Sahil Park Heliport",41.28482,36.34727,16,"AS","TR","TR-55","Samsun","no",,,,,,,
-353971,"TR-0156","heliport","Akdeniz Uni. Hospital Helipad",36.89544,30.660369,13,"AS","TR","TR-07","Antalya","no",,,,,,,
+353971,"TR-0156","closed","Akdeniz Uni. Hospital Helipad",36.89544,30.660369,13,"AS","TR","TR-07","Antalya","no",,,,,,,
 353972,"TR-0157","heliport","Alara Helipad",36.659185,31.665097,75,"AS","TR","TR-07","Antalya","no",,,,,,,
 353975,"TR-0158","heliport","Düzlerçamı Forestry Heliport",36.98472,30.560253,855,"AS","TR","TR-07","Antalya","no",,,,,,,
 353977,"TR-0159","small_airport","Manavgat Sport Aeroclub",36.750894,31.48139,,"AS","TR","TR-07","Antalya","no",,,,,,,
@@ -65430,7 +65436,7 @@
 355355,"TR-0210","heliport","Gazelle Resort Helipad",40.682794,31.631441,,"AS","TR","TR-14","Merkez","no",,,,,,,
 355357,"TR-0211","heliport","Bolu Dagi Helipad",40.735812,31.426059,,"AS","TR","TR-14","Yeşilköy","no",,,,,,,
 355359,"TR-0212","heliport","AIBU Helipad",40.715924,31.531502,,"AS","TR","TR-14","Merkez","no",,,,,,,
-355574,"TR-0213","closed","Kadriye Airstrip",36.895324,30.963507,,"AS","TR","TR-07","Serik","no",,,,,"https://www.instagram.com/bluewaybelek/",,
+355574,"TR-0213","small_airport","Mavi Yol Aircampus",36.895324,30.963507,10,"AS","TR","TR-07","Serik","no",,,,,"https://www.instagram.com/bluewaybelek/",,"Kadriye Airstrip"
 355914,"TR-0214","heliport","Rize Heliport",41.03832,40.520024,3,"AS","TR","TR-53","Rize","no",,,,,,,
 430017,"TR-0215","balloonport","Nevşehir Heliport",38.66602,34.81896,3645,"AS","TR","TR-50","Nevşehir","no",,,,,,,
 505664,"TR-0216","heliport","Igdir-Dilucu HighWay Border Post Helipad",39.66308,44.793169,,"AS","TR","TR-76","Gödekli","no",,,,,,,
@@ -65526,12 +65532,14 @@
 600174,"TR-0307","heliport","Murat Erdi Eker State Hospital Heliport",39.84407,32.727795,3999,"AS","TR","TR-06","Beytepe","no",,,,,,,
 600484,"TR-0308","heliport","Riva Air Base",41.22097,29.202599,,"AS","TR","TR-34","Riva","no",,,,,,,
 605928,"TR-0309","small_airport","Gyroantalya Aviation Airfield",36.848673,31.159941,7,"AS","TR","TR-07","Serik","no",,,,,,,
-605929,"TR-0310","small_airport","Mavi Yol Aircampus",36.89517,30.9635,13,"AS","TR","TR-07","Serik","no",,,,,,,
 606033,"TR-0311","heliport","Isparta Şehit Yunus Emre Provincial Hospital Heliport",37.78714,30.57298,3251,"AS","TR","TR-32","Isparta","no",,,,,,,
 606034,"TR-0312","heliport","Isparta City Hospital Heliport",37.77849,30.56085,3346,"AS","TR","TR-32","Isparta","no",,,,,,,
 606035,"TR-0313","heliport","Afyonkarahisar State Hospital Heliport",38.78218,30.51303,3297,"AS","TR","TR-03","Afyonkarahisar","no",,,,,,,
 606037,"TR-0314","heliport","Kütahya City Hospital Heliport",39.42606,29.95704,3186,"AS","TR","TR-43","Kütahya","no",,,,,,,
 606038,"TR-0315","closed","Bozüyük State Hospital Heliport",39.89328,30.05645,2526,"EU","TR","TR-11","Bozüyük","no",,,,,,,
+609036,"TR-0316","heliport","Antalya Sehir Hastanesi Helipad",36.953355,30.664307,810,"AS","TR","TR-07","Antalya","no",,,,,,,
+609037,"TR-0317","heliport","Antalya Il Saglik Heliport",36.915817,30.648068,225,"AS","TR","TR-07","Antalya","no",,,,,,,
+609038,"TR-0318","heliport","Akseki OGM Helipad",37.03155,31.76231,3100,"AS","TR","TR-07","Antalya","no",,,,,,,
 43074,"TRPG","large_airport","John A. Osborne Airport",16.791835,-62.193204,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
