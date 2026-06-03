@@ -2365,10 +2365,10 @@
 8996,"24GA","closed","Caleb Heliport",33.781203,-84.014634,960,"NA","US","US-GA","Snellville","no",,,,,,,"24GA"
 8997,"24IA","small_airport","Isley Field",42.51580047607422,-92.5197982788086,982,"NA","US","US-IA","Cedar Falls","no",,,"24IA","24IA",,,
 511812,"24ID","small_airport","Flying Z Ranch Airport",44.453611,-113.661944,6223,"NA","US","US-ID","Challis","no",,,"24ID","24ID",,,
-8998,"24II","heliport","Good Samaritan Hospital Heliport",38.67250061035156,-87.54219818115234,420,"NA","US","US-IN","Vincennes","no",,,"24II","24II",,,
+8998,"24II","heliport","Good Samaritan Hospital Heliport",38.673291,-87.534558,420,"NA","US","US-IN","Vincennes","no",,,"24II","24II",,,
 8999,"24IL","heliport","City of Geneseo Heliport",41.477500915527344,-90.15779876708984,640,"NA","US","US-IL","Geneseo","no",,,"24IL","24IL",,,
 9000,"24IN","small_airport","Kenstin Manor Airport",39.262813,-86.289003,658,"NA","US","US-IN","Helmsburg","no",,,,"24IN",,,"24IN"
-9001,"24IS","heliport","Stauss Hospital - Galena Heliport",42.42110061649999,-90.4383010864,780,"NA","US","US-IL","Galena","no",,,"24IS","24IS",,,
+9001,"24IS","closed","Stauss Hospital - Galena Heliport",42.420649,-90.438377,780,"NA","US","US-IL","Galena","no",,,,,,,"24IS"
 9002,"24K","small_airport","Krassel US Forest Service Airport",44.9743003845,-115.730003357,3982,"NA","US","US-ID","Mc Call","no",,,"24K","24K",,,
 9004,"24KY","small_airport","Williams Farm Airport",37.21670150756836,-87.43060302734375,415,"NA","US","US-KY","Mortons Gap","no",,,"24KY","24KY",,,
 9006,"24LL","small_airport","Lambert Airport",38.085932,-89.460326,510,"NA","US","US-IL","Pinckneyville","no",,,"24LL","24LL",,,
@@ -4944,7 +4944,7 @@
 11525,"4M8","small_airport","Clarendon Municipal Airport",34.647999,-91.394402,217,"NA","US","US-AR","Roe","no",,,"K4M8","4M8",,"https://en.wikipedia.org/wiki/Clarendon_Municipal_Airport",
 11526,"4MA0","heliport","Burke Heliport",42.233011,-71.358601,240,"NA","US","US-MA","Sherborn","no",,,"4MA0","4MA0",,,
 11527,"4MA1","heliport","Bangs Heliport",41.777000427246094,-70.68810272216797,30,"NA","US","US-MA","Wareham","no",,,"4MA1","4MA1",,,
-11528,"4MA2","heliport","Dow Jones Heliport",42.162899017333984,-72.55039978027344,200,"NA","US","US-MA","Chicopee","no",,,"4MA2","4MA2",,,
+11528,"4MA2","closed","Dow Jones Heliport",42.163838,-72.552656,200,"NA","US","US-MA","Chicopee","no",,,,,,,"4MA2"
 11529,"4MA3","heliport","Millbury Savings/West Heliport",42.19179916381836,-71.76950073242188,393,"NA","US","US-MA","Millbury","no",,,"4MA3","4MA3",,,
 11530,"4MA4","heliport","J K L Heliport",41.621485,-71.014225,30,"NA","US","US-MA","New Bedford","no",,,"4MA4","4MA4",,,
 11531,"4MA5","heliport","World Trade Center Heliport",42.349300384521484,-71.043701171875,15,"NA","US","US-MA","Boston","no",,,"4MA5","4MA5",,,
@@ -6129,7 +6129,7 @@
 12761,"5Z4","heliport","Ans Hospital Heliport",59.001800537109375,-158.53199768066406,100,"NA","US","US-AK","Kanakanak","no",,,"5Z4","5Z4",,,
 12762,"5Z5","small_airport","Kantishna Airport",63.541698,-150.994003,1575,"NA","US","US-AK","Kantishna","no",,,"5Z5","5Z5",,"https://en.wikipedia.org/wiki/Kantishna_Airport",
 12764,"5Z9","seaplane_base","Lake Brooks Seaplane Base",58.554798,-155.776993,36,"NA","US","US-AK","Katmai National Park","yes",,"BKF","5Z9","5Z9",,"https://en.wikipedia.org/wiki/Lake_Brooks_Seaplane_Base",
-12765,"60A","small_airport","Brundidge Municipal Airport",31.732806,-85.804194,476,"NA","US","US-AL","Brundidge","no",,,"60A","60A",,"https://en.wikipedia.org/wiki/Brundidge_Municipal_Airport",
+12765,"60A","closed","Brundidge Municipal Airport",31.732806,-85.804194,476,"NA","US","US-AL","Brundidge","no",,,,,,"https://en.wikipedia.org/wiki/Brundidge_Municipal_Airport","60A"
 45245,"60AK","heliport","Carol's Heliport",61.607662,-149.279062,328,"NA","US","US-AK","Wasilla","no",,,"60AK","60AK",,,
 354640,"60AR","small_airport","Southern View Aviation Airport",36.403505,-92.039284,927,"NA","US","US-AR","Viola","no",,,"60AR","60AR",,,
 597618,"60AS","small_airport","Junior Smith Airport",34.37624,-90.931404,159,"NA","US","US-AR","Elaine","no",,,"60AS","60AS",,,
@@ -6360,7 +6360,7 @@
 12971,"64TS","heliport","CHI Baylor St Luke's Medical Center Heliport",29.707673,-95.39943,165,"NA","US","US-TX","Houston","no",,,"64TS","64TS",,,"St Luke's Episcopal Hospital"
 12972,"64TX","heliport","North Central Baptist Hospital Heliport",29.61967,-98.49136,1054,"NA","US","US-TX","San Antonio","no",,,"64TX","64TX",,,
 12973,"64V","small_airport","Wallace Municipal Airport",40.831947,-101.164512,3101,"NA","US","US-NE","Wallace","no",,,"K64V","64V",,,
-12974,"64VA","heliport","Creeds Heliport",36.605627,-76.004483,8,"NA","US","US-VA","Virginia Beach","no",,,"64VA","64VA",,,"Creeds Field, NOLF Creeds"
+12974,"64VA","closed","Creeds Heliport",36.605627,-76.004483,8,"NA","US","US-VA","Virginia Beach","no",,,,,,,"64VA, Creeds Field, NOLF Creeds"
 12975,"64WA","heliport","Everett I Heliport",47.5833015442,-122.167999268,150,"NA","US","US-WA","Bellevue","no",,,"64WA","64WA",,,
 351173,"64XA","small_airport","Bird Dog Landing",33.581456,-97.549265,960,"NA","US","US-TX","Forestburg","no",,,"64XA","64XA",,,
 12977,"64XS","heliport","Wadley Regional Medical Center Heliport",32.429298400878906,-94.03910064697266,347,"NA","US","US-TX","Texarkana","no",,,"64XS","64XS",,,
@@ -25860,7 +25860,7 @@
 41260,"FAUS","small_airport","Ulusaba Airport",-24.7854003906,31.3549003601,1263,"AF","ZA","ZA-NP","Ulusaba","no","FAUS","ULX","FAUS",,,,
 2848,"FAUT","medium_airport","K. D. Matanzima Airport",-31.546363184900002,28.6733551025,2400,"AF","ZA","ZA-EC","Mthatha","yes","FAUT","UTT","FAUT",,,"https://en.wikipedia.org/wiki/K.D._Matanzima_Airport","Umtata"
 30516,"FAVA","small_airport","Vaalputs Airport",-30.134199142456055,18.52669906616211,3340,"AF","ZA","ZA-NC","Vaalputs","no",,,"FAVA",,,,
-2849,"FAVB","medium_airport","Vryburg Airport",-26.9824008942,24.7287998199,3920,"AF","ZA","ZA-NW","Vyrburg","no","FAVB","VRU","FAVB",,,"https://en.wikipedia.org/wiki/Vryburg_Airport",
+2849,"FAVB","medium_airport","Vryburg Airport",-26.982401,24.7288,3920,"AF","ZA","ZA-NW","Vryburg","no","FAVB","VRU","FAVB",,,"https://en.wikipedia.org/wiki/Vryburg_Airport",
 30540,"FAVD","small_airport","Vrede Airport",-27.44029998779297,29.153099060058594,5499,"AF","ZA","ZA-FS","Vrede","no",,,"FAVD",,,,
 41288,"FAVE","small_airport","Ventersdorp Airport",-26.300899505615234,26.814199447631836,4917,"AF","ZA","ZA-NW","Ventersdorp","no",,,"FAVE",,,,
 30528,"FAVF","small_airport","Verborgenfontei Airport",-31.165800094604492,23.80940055847168,4360,"AF","ZA","ZA-NC","Verborgenfontein","no",,,"FAVF",,,,
@@ -33903,6 +33903,14 @@
 609020,"IT-0965","heliport","Elisuperficie V.F. di Biella",45.550846,8.075472,,"EU","IT","IT-21","Comune di Biella","no",,,,,,,
 609022,"IT-0966","heliport","Elisuperficie Miro",45.567001,8.181553,,"EU","IT","IT-21","Comune di Cossato","no",,,,,,,
 609024,"IT-0967","heliport","Elisuperficie Sky Aviation S.r.l.",45.553315,8.204191,,"EU","IT","IT-21","Comune di Cossato","no",,,,,,,
+609063,"IT-0968","heliport","Elisuperificie Tialpi S.R.L.",45.498951,8.214887,,"EU","IT","IT-21","Comune di Mottalciata","no",,,,,,,
+609065,"IT-0969","heliport","Elisuperficie di Gattinara",45.604915,8.37449,,"EU","IT","IT-21","Comune di Gattinara","no",,,,,,,
+609067,"IT-0970","heliport","Elisusperficie di Stellantis Balocco S.R.L.",45.487129,8.306072,,"EU","IT","IT-21","Comune di Balocco","no",,,,,,,
+609069,"IT-0971","heliport","Elisuperficie Ladiona",45.496759,8.419374,,"EU","IT","IT-21","Comune di Ladiona","no",,,,,,,
+609071,"IT-0972","heliport","Elisuperficie Ondaland",45.478346,8.424121,,"EU","IT","IT-21","Comune di Vicolungo","no",,,,,,,
+609074,"IT-0973","heliport","Elisuperficie di Casaleggio Novara",45.484,8.495779,,"EU","IT","IT-21","Comune di Casaleggio Novara","no",,,,,,,
+609076,"IT-0974","heliport","Elisuperficie Galliate",45.478926,8.681828,,"EU","IT","IT-21","Comune di Galliate","no",,,,,,,
+609078,"IT-0975","heliport","Elisuperfice Cargandino agriturismo",45.609129,8.589689,,"EU","IT","IT-21","Comune di Mezzomerico","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -54378,8 +54386,8 @@
 326791,"PT-0114","small_airport","Aerodromo de Muge",39.097162,-8.658857,,"EU","PT","PT-14","Salvaterra de Magos","no",,,,,,,
 326792,"PT-0115","closed","Pista de Almoster",39.228198,-8.796766,,"EU","PT","PT-14","Santarém","no",,,,,,,
 326793,"PT-0116","small_airport","Pista de Valada do Ribatejo",39.073411,-8.766832,,"EU","PT","PT-14","Cartaxo","no",,,,,,,
-326794,"PT-0117","small_airport","Aerodromo do Alqueidão UL",39.066847,-8.804255,,"EU","PT","PT-11","Azambuja","no",,,,"LP48",,,
-326795,"PT-0118","small_airport","Aerodromo da Azambuja UL",39.05955,-8.827193,,"EU","PT","PT-11","Azambuja","no",,,,"LP50",,,
+326794,"PT-0117","small_airport","Alqueidão UL",39.066847,-8.804255,,"EU","PT","PT-11","Azambuja","no",,,,"LP48",,,
+326795,"PT-0118","small_airport","Azambuja UL",39.05955,-8.827193,,"EU","PT","PT-11","Azambuja","no",,,,"LP50",,,
 326796,"PT-0119","small_airport","Pista da Garrocheira",38.990303,-8.776832,,"EU","PT","PT-14","Benavente","no",,,,,,,
 326797,"PT-0120","closed","Porto Alto Airstrip",38.9521,-8.866782,,"EU","PT","PT-14","Benavente","no",,,,,,,"Pista de Porto Alto"
 326798,"PT-0121","small_airport","Alcochete Military Airfield",38.766933,-8.802624,131,"EU","PT","PT-14","Benavente","no",,,"LPAC",,"https://www.emfa.pt/unidade-26-campo-de-tiro",,"ALC3"
@@ -69783,7 +69791,7 @@
 22862,"US-11827","closed","Moen Airport",48.275002,-103.349998,2200,"NA","US","US-ND","Epping","no",,,,,,,"ND34"
 22864,"US-11828","closed","Don's Airport",48.638,-97.484802,840,"NA","US","US-ND","St Thomas","no",,,,,,,"ND36"
 22888,"US-11829","closed","Turner Field",47.0597,-97.156799,942,"NA","US","US-ND","Arthur","no",,,,,,,"ND76"
-333202,"US-1183","heliport","Cleveland Clinic, Twinsburg Family Health Center Heliport",41.301221,-81.436924,1041,"NA","US","US-OH","Twinsburg","no",,,"4OH5","4OH5",,,
+333202,"US-1183","heliport","Cleveland Clinic, Twinsburg Family Health Center Heliport",41.301221,-81.436924,1041,"NA","US","US-OH","Twinsburg","no",,,"4OH5","4OH5",,,"St Thomas Hospital"
 22890,"US-11830","closed","Spitzer Airport",47.081699,-100.724998,2050,"NA","US","US-ND","Baldwin","no",,,,,,,"ND80"
 22894,"US-11831","closed","Indian Hill Resort Airport",47.605598,-102.105003,2010,"NA","US","US-ND","Garrison","no",,,,,,,"ND87"
 22897,"US-11832","closed","Schroeder Airport",46.705589,-97.115545,920,"NA","US","US-ND","Davenport","no",,,,,,,"ND92"
