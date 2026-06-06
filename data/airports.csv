@@ -23651,7 +23651,7 @@
 28605,"EDRH","small_airport","Hoppstädten-Weiersbach Airfield",49.610558,7.186667,1093,"EU","DE","DE-RP","Hoppstädten","no","EDRH",,"EDRH",,"https://www.fsvhowei.de/","https://en.wikipedia.org/wiki/Hoppst%C3%A4dten-Weiersbach_Airfield",
 28639,"EDRI","small_airport","Linkenheim Airfield",49.141666,8.394722,325,"EU","DE","DE-BW","Linkenheim","no",,,"EDRI",,,"https://de.wikipedia.org/wiki/Flugplatz_Linkenheim",
 28711,"EDRJ","small_airport","Saarlouis-Düren Airfield",49.3125,6.674444,1119,"EU","DE","DE-SL","Saarlouis","no",,,"EDRJ",,,"https://de.wikipedia.org/wiki/Flugplatz_Saarlouis-D%C3%BCren","Flugplatz Saarlouis-Düren"
-2266,"EDRK","small_airport","Koblenz-Winningen Airfield",50.325558,7.528611,640,"EU","DE","DE-RP","Koblenz","no","EDRK","ZNV","EDRK",,"http://www.flugplatz-koblenz-winningen.de","https://en.wikipedia.org/wiki/Koblenz-Winningen_Airport",
+2266,"EDRK","small_airport","Koblenz-Winningen Airfield",50.325558,7.528611,640,"EU","DE","DE-RP","Koblenz","no","EDRK",,"EDRK",,"http://www.flugplatz-koblenz-winningen.de","https://en.wikipedia.org/w/index.php?title=Koblenz-Winningen_Airport&oldid=1357865146",
 28628,"EDRL","small_airport","Flugplatz Lachen-Speyerdorf",49.330833,8.209722,394,"EU","DE","DE-RP","Neustadt an der Weinstraße","no",,,"EDRL",,,"https://de.wikipedia.org/wiki/Flugplatz_Lachen-Speyerdorf",
 28739,"EDRM","small_airport","Traben-Trarbach/Mont Royal Airfield",49.967777,7.111944,919,"EU","DE","DE-RP","Traben-Trarbach","no",,,"EDRM",,,"https://de.wikipedia.org/wiki/Flugplatz_Traben-Trarbach/Mont_Royal",
 28654,"EDRN","small_airport","Nannhausen Airfield",49.96992,7.478357,1224,"EU","DE","DE-RP","Nannhausen","no","EDRN",,"EDRN",,"https://www.edrn.de/","https://en.wikipedia.org/wiki/Nannhausen_Airfield",
@@ -25353,27 +25353,27 @@
 29869,"ESTF","small_airport","Fjällbacka Anra Airfield",58.630009,11.314459,10,"EU","SE","SE-Q","Fjällbacka","no",,,"ESTF",,,,
 2712,"ESTL","medium_airport","Ljungbyhed Airfield",56.082802,13.2125,140,"EU","SE","SE-M","Ljungbyhed","no",,,"ESTL",,,"https://sv.wikipedia.org/wiki/Ljungbyheds_flygplats",
 30525,"ESTT","small_airport","Vellinge Airfield",55.391202,13.022103,12,"EU","SE","SE-M","Trelleborg","no",,,"ESTT",,"http://www.estt.se/front/","https://en.wikipedia.org/wiki/Vellinge_Airport","Vellinge/Söderslätt Airfield"
-29374,"ESUB","small_airport","Arbrå Airfield",61.512501,16.372499,,"EU","SE","SE-X","Arbrå","no",,,"ESUB",,,,
+29374,"ESUB","small_airport","Arbrå Airfield",61.513425,16.37247,381,"EU","SE","SE-X","Arbrå","no","ESUB",,"ESUB",,,,
 2713,"ESUD","medium_airport","Storuman Airport",64.960899,17.6966,915,"EU","SE","SE-AC","Storuman","no","ESUD","SQO","ESUD",,,"https://en.wikipedia.org/wiki/Storuman_Airport",
 29375,"ESUE","small_airport","Idre Airport",61.869701,12.6894,1480,"EU","SE","SE-W","Idre","no","ESUE","IDB","ESUE",,"https://www.idrefjallensairport.se/",,
-29377,"ESUG","small_airport","Gargnäs Airfield",65.305298,17.9755,,"EU","SE","SE-AC","Gargnäs","no",,,"ESUG",,,,
-29378,"ESUH","small_airport","Myran Airfield",62.632469,17.981701,,"EU","SE","SE-Y","Härnösand","no",,,"ESUH",,,,
-30129,"ESUI","small_airport","Mellansel Airfield",63.391806,18.319471,310,"EU","SE","SE-Y","Mellansel","no",,,"ESUI",,,,
-29379,"ESUJ","small_airport","Tälje Airfield",62.5653,15.8347,446,"EU","SE","SE-Y","Ånge","no",,,"ESUJ",,,,
-2714,"ESUK","small_airport","Kalixfors Airfield",67.764801,20.2572,1549,"EU","SE","SE-BD",,"no",,,"ESUK",,,"https://sv.wikipedia.org/wiki/Kalixfors_flygbas",
-29380,"ESUL","small_airport","Ljusdal Airfield",61.817001,16.004299,500,"EU","SE","SE-X","Ljusdal","no",,,"ESUL",,,,
-29381,"ESUM","small_airport","Mohed Airfield",61.291199,16.8463,200,"EU","SE","SE-X","Mohed","no",,,"ESUM",,,"https://sv.wikipedia.org/wiki/S%C3%B6derhamn-Mohed_flygf%C3%A4lt",
-29909,"ESUO","small_airport","Graftavallen Airfield",63.041698,14.0014,1640,"EU","SE","SE-Z","Graftavallen","no",,,"ESUO",,,,
+29377,"ESUG","small_airport","Gargnäs Airfield",65.304033,17.975175,974,"EU","SE","SE-AC","Gargnäs","no","ESUG",,"ESUG",,,,
+29378,"ESUH","small_airport","Myran Airfield",62.632734,17.982576,258,"EU","SE","SE-Y","Härnösand","no","ESUH",,"ESUH",,,,
+30129,"ESUI","small_airport","Mellansel Airfield",63.391806,18.319471,310,"EU","SE","SE-Y","Mellansel","no","ESUI",,"ESUI",,,,
+29379,"ESUJ","small_airport","Tälje Airfield",62.5653,15.8347,446,"EU","SE","SE-Y","Ånge","no","ESUJ",,"ESUJ",,,,
+2714,"ESUK","small_airport","Kalixfors Airfield",67.764801,20.2572,1549,"EU","SE","SE-BD","Kiruna","no","ESUK",,"ESUK",,,"https://sv.wikipedia.org/wiki/Kalixfors_flygbas",
+29380,"ESUL","small_airport","Ljusdal Airfield",61.817399,16.003655,500,"EU","SE","SE-X","Ljusdal","no","ESUL",,"ESUL",,,,
+29381,"ESUM","small_airport","Mohed Airfield",61.291199,16.8463,200,"EU","SE","SE-X","Mohed","no","ESUM",,"ESUM",,,"https://sv.wikipedia.org/wiki/S%C3%B6derhamn-Mohed_flygf%C3%A4lt",
+29909,"ESUO","small_airport","Graftavallen Airfield",63.037398,14.001261,1640,"EU","SE","SE-Z","Graftavallen","no","ESUO",,"ESUO",,,,
 2715,"ESUP","small_airport","Pajala Airport",67.244569,23.074894,542,"EU","SE","SE-BD","Pajala","yes","ESUP","PJA","ESUP",,"https://www.pajala.se/pajala-airport/","https://en.wikipedia.org/wiki/Pajala_Airport",
-29382,"ESUR","small_airport","Ramsele Airfield",63.490299,16.4834,,"EU","SE","SE-Y","Sollefteå","no",,,"ESUR",,,,
-29383,"ESUS","small_airport","Åsele Airfield",64.155938,17.285045,,"EU","SE","SE-AC","Åsele","no",,,"ESUS",,,,
+29382,"ESUR","small_airport","Ramsele Airfield",63.490299,16.4834,587,"EU","SE","SE-Y","Sollefteå","no","ESUR",,"ESUR",,,,
+29383,"ESUS","small_airport","Åsele Airfield",64.155938,17.285045,,"EU","SE","SE-AC","Åsele","no","ESUS",,"ESUS",,,,
 2716,"ESUT","small_airport","Hemavan Airport",65.806099,15.0828,1503,"EU","SE","SE-AC","Hemavan","yes","ESUT","HMV","ESUT",,,"https://en.wikipedia.org/wiki/Hemavan_Airport",
-29384,"ESUV","small_airport","Älvsbyn Airfield",65.645699,21.0611,,"EU","SE","SE-BD","Älvsbyn","no",,,"ESUV",,,"https://sv.wikipedia.org/wiki/%C3%84lvsbyn-H%C3%B6gheden_flygf%C3%A4lt","Alvsby"
-29385,"ESUY","small_airport","Edsby Airfield",61.386732,15.833166,,"EU","SE","SE-X","Edsbyn","no",,,"ESUY",,,,"Edsby Flygplats"
-29386,"ESVA","small_airport","Avesta Airfield",60.180401,16.122801,,"EU","SE","SE-W","Avesta","no",,,"ESVA",,,,
-29739,"ESVB","small_airport","Bunge Airfield",57.849701,19.035,69,"EU","SE","SE-I","Bunge","no",,,"ESVB",,,"https://en.wikipedia.org/wiki/Bunge_Airbase","Bunge Flygfält"
-29387,"ESVG","small_airport","Gagnef Airfield",60.551701,15.0816,,"EU","SE","SE-W","Djurås","no",,,"ESVG",,,,
-29388,"ESVH","small_airport","Hällefors Airfield",59.867401,14.4239,,"EU","SE","SE-T","Hällefors","no",,,"ESVH",,,"https://sv.wikipedia.org/wiki/H%C3%A4llefors_flygf%C3%A4lt",
+29384,"ESUV","small_airport","Älvsbyn Airfield",65.64544,21.06164,248,"EU","SE","SE-BD","Älvsbyn","no","ESUV",,"ESUV",,,"https://sv.wikipedia.org/wiki/%C3%84lvsbyn-H%C3%B6gheden_flygf%C3%A4lt","Alvsby"
+29385,"ESUY","small_airport","Edsby Airfield",61.386732,15.833166,512,"EU","SE","SE-X","Edsbyn","no","ESUY",,"ESUY",,,,"Edsby Flygplats"
+29386,"ESVA","small_airport","Avesta Airfield",60.181497,16.11994,315,"EU","SE","SE-W","Avesta","no","ESVA",,"ESVA",,,,
+29739,"ESVB","small_airport","Bunge Airfield",57.850466,19.034224,69,"EU","SE","SE-I","Bunge","no","ESVB",,"ESVB",,,"https://en.wikipedia.org/wiki/Bunge_Airbase","Bunge Flygfält"
+29387,"ESVG","small_airport","Gagnef Airfield",60.551701,15.0816,574,"EU","SE","SE-W","Djurås","no","ESVG",,"ESVG",,,,
+29388,"ESVH","small_airport","Hällefors Airfield",59.867401,14.4239,643,"EU","SE","SE-T","Hällefors","no","ESVH",,"ESVH",,,"https://sv.wikipedia.org/wiki/H%C3%A4llefors_flygf%C3%A4lt",
 29389,"ESVK","small_airport","Katrineholm Airfield",59.017988,16.221775,148,"EU","SE","SE-D","Katrineholm","no","ESVK",,"ESVK",,,,
 29390,"ESVM","small_airport","Skinnlanda Airfield",60.658798,13.7266,,"EU","SE","SE-W","Malung","no","ESVM",,"ESVM",,,,
 29391,"ESVQ","small_airport","Köping/Gålby Airfield",59.528083,15.970064,23,"EU","SE","SE-U","Köping","no","ESVQ",,"ESVQ",,,"https://sv.wikipedia.org/wiki/K%C3%B6ping/G%C3%A5lby_flygf%C3%A4lt",
@@ -25418,8 +25418,8 @@
 2732,"ETIH","medium_airport","Hohenfels Army Airfield",49.216541,11.836064,1455,"EU","DE","DE-BY","Hohenfels","no","ETIH",,"ETIH",,,"https://en.wikipedia.org/wiki/Hohenfels_Army_Airfield",
 29972,"ETIK","heliport","Illesheim Army Heliport",49.4739,10.3881,1079,"EU","DE","DE-BY","Illesheim","no","ETIK","ILH","ETIK",,,"https://en.wikipedia.org/wiki/Illesheim_Army_Heliport","Storck Barracks"
 2733,"ETIN","small_airport","Kitzingen Airfield",49.744293,10.207313,689,"EU","DE","DE-BY","Kitzingen","no",,"KZG","EDGY",,"https://www.flugplatz-kitzingen.de/","https://en.wikipedia.org/wiki/Kitzingen_Airport","ETIN, EDIN, Kitzingen AAF"
-300110,"ETIP","heliport","Landstuhl Army Heliport",49.4030555556,7.53611111111,1176,"EU","DE","DE-RP","Landstuhl","no",,,"ETIP",,,,
-300111,"ETIY","heliport","Landstuhl Regional Medical Center Heliport",49.402481,7.558588,1136,"EU","DE","DE-RP","Landstuhl","no",,,"ETIY",,,,
+300110,"ETIP","heliport","Landstuhl Army Heliport",49.403056,7.536111,1176,"EU","DE","DE-RP","Landstuhl","no","ETIP",,"ETIP",,,,
+300111,"ETIY","heliport","Landstuhl Regional Medical Center Heliport",49.402481,7.558588,1136,"EU","DE","DE-RP","Landstuhl","no","ETIY",,"ETIY",,,,
 308718,"ETJB","heliport","Schonewald CRC Helipad",53.509955,13.43567,271,"EU","DE","DE-MV","Cölpin","no",,,"ETJB",,,,
 2734,"ETMN","medium_airport","Sea-Airport Cuxhaven/Nordholz / Nordholz Naval Airbase",53.767689,8.659201,74,"EU","DE","DE-NI","Wurster Nordseeküste","yes","ETMN","FCN","ETMN",,,"https://en.wikipedia.org/wiki/Nordholz_Naval_Airbase","Cuxhaven, Fliegerhorst Nordholz, Flughafen Cuxhaven/Nordholz"
 2735,"ETND","medium_airport","Diepholz Air Base",52.585556,8.342222,128,"EU","DE","DE-NI","Diepholz","no","ETND",,"ETND",,,"https://en.wikipedia.org/wiki/Diepholz_Air_Base","Diepholz, Dümmerland"
@@ -25430,8 +25430,8 @@
 2741,"ETNS","medium_airport","Schleswig Air Base",54.459301,9.51633,70,"EU","DE","DE-SH","Jagel","no","ETNS","WBG","ETNS",,,"https://en.wikipedia.org/wiki/Schleswig_Air_Base",
 2742,"ETNT","medium_airport","Wittmundhafen Air Base",53.547798,7.66733,26,"EU","DE","DE-NI","Wittmund","no","ETNT",,"ETNT",,,"https://en.wikipedia.org/wiki/Wittmundhafen_Air_Base",
 2744,"ETNW","medium_airport","Wunstorf Air Base",52.457298,9.42717,187,"EU","DE","DE-NI",,"no","ETNW",,"ETNW",,,"https://en.wikipedia.org/wiki/Wunstorf_Air_Base",
-29402,"ETOA","heliport","Schweinfurt Army Heliport",50.049753,10.167905,738,"EU","DE","DE-BY","Geldersheim","no",,,"ETOA",,,"https://en.wikipedia.org/wiki/Schweinfurt_Army_Heliport","ZPW, USAG Schweinfurt"
-2745,"ETOI","small_airport","Vilseck Army Air Field",49.634077,11.767495,1353,"EU","DE","DE-BY","Vilseck","no",,,"ETOI",,,,
+29402,"ETOA","heliport","Schweinfurt Army Heliport",50.049753,10.167905,738,"EU","DE","DE-BY","Geldersheim","no","ETOA",,"ETOA",,,"https://en.wikipedia.org/wiki/Schweinfurt_Army_Heliport","ZPW, USAG Schweinfurt"
+2745,"ETOI","small_airport","Vilseck Army Air Field",49.634077,11.767495,1353,"EU","DE","DE-BY","Vilseck","no","ETOI",,"ETOI",,,,
 2746,"ETOR","closed","Coleman Army Air Field",49.563599,8.46339,309,"EU","DE","DE-BW",,"no",,,,,,"https://en.wikipedia.org/wiki/Coleman_Army_Airfield","ETOR"
 2747,"ETOU","medium_airport","Wiesbaden Army Airfield",50.049800872802734,8.325400352478027,461,"EU","DE","DE-HE","Wiesbaden","no","ETOU","WIE","ETOU",,,"https://en.wikipedia.org/wiki/Wiesbaden_Army_Airfield",
 2749,"ETSB","medium_airport","Büchel Air Base",50.173801,7.06333,1568,"EU","DE","DE-RP","Alflen","no","ETSB",,"ETSB",,,"https://en.wikipedia.org/wiki/B%C3%BCchel_Air_Base",
@@ -25489,12 +25489,12 @@
 2765,"EYSB","medium_airport","Barysiai Airfield",56.070599,23.5581,270,"EU","LT","LT-SA","Šiauliai","no","EYSB",,"EYSB",,,"https://en.wikipedia.org/wiki/Barysiai_Airport","HLJ"
 30403,"EYSE","small_airport","Šeduva Airfield",55.745938,23.804506,259,"EU","LT","LT-SA","Šeduva / Šiauliai","no","EYSE",,"EYSE",,"http://www.siauliuaeroklubas.lt/","https://lt.wikipedia.org/wiki/%C5%A0eduvos_aerodromas",
 30415,"EYSI","small_airport","Šilute Airfield",55.336308,21.526765,59,"EU","LT","LT-KL","Šilute","no","EYSI",,"EYSI",,,"https://en.wikipedia.org/wiki/%C5%A0ilut%C4%97_Airfield",
-30479,"EYTL","small_airport","Telšiai Airfield",55.986401,22.2878,410,"EU","LT","LT-TE","Telšiai","no",,,"EYTL",,,,
-30514,"EYUT","small_airport","Utena Airfield",55.490002,25.7169,620,"EU","LT","LT-UT","Utena","no",,,"EYUT",,,,
+30479,"EYTL","small_airport","Telšiai Airfield",55.987345,22.292993,410,"EU","LT","LT-TE","Telšiai","no","EYTL",,"EYTL",,,,
+30514,"EYUT","small_airport","Utena Airfield",55.488956,25.717892,620,"EU","LT","LT-UT","Utena","no","EYUT",,"EYUT",,,,
 2766,"EYVI","large_airport","Vilnius International Airport",54.634102,25.285801,648,"EU","LT","LT-VL","Vilnius","yes","EYVI","VNO","EYVI",,"http://www.vilnius-airport.lt/en/","https://en.wikipedia.org/wiki/Vilnius_International_Airport",
-30053,"EYVK","small_airport","Kyviškes Airfield",54.668301,25.5158,541,"EU","LT","LT-VL","Kyviškes","no",,,"EYVK",,,"https://en.wikipedia.org/wiki/Kyvi%C5%A1k%C4%97s_airfield",
-30236,"EYVP","small_airport","Paluknys Airfield",54.484848,24.987373,400,"EU","LT","LT-VL","Paluknys","no",,,"EYVP",,"http://sklandymas.lt/",,
-30579,"EYZA","small_airport","Zarasai Airfield",55.752499,26.256901,541,"EU","LT","LT-UT","Zarasai","no",,,"EYZA",,,"https://lt.wikipedia.org/wiki/Zaras%C5%B3_aerodromas",
+30053,"EYVK","small_airport","Kyviškes Airfield",54.668301,25.5158,541,"EU","LT","LT-VL","Kyviškes","no","EYVK",,"EYVK",,,"https://en.wikipedia.org/wiki/Kyvi%C5%A1k%C4%97s_airfield",
+30236,"EYVP","small_airport","Paluknys Airfield",54.479745,24.9898,400,"EU","LT","LT-VL","Paluknys","no","EYVP",,"EYVP",,"http://sklandymas.lt/",,
+30579,"EYZA","small_airport","Zarasai Airfield",55.751967,26.261955,541,"EU","LT","LT-UT","Zarasai","no","EYZA",,"EYZA",,,"https://lt.wikipedia.org/wiki/Zaras%C5%B3_aerodromas",
 17186,"F09","small_airport","Olustee Municipal Airport",34.51259994506836,-99.42949676513672,1346,"NA","US","US-OK","Olustee","no",,,"F09","F09",,,
 17187,"F13","small_airport","Shell Creek Airpark",26.968900680541992,-81.91560363769531,20,"NA","US","US-FL","Punta Gorda","no",,,"F13","F13",,,
 17188,"F23","small_airport","Ranger Municipal Airport",32.4525985718,-98.682800293,1470,"NA","US","US-TX","Ranger","no",,"RGR","F23","F23",,,
@@ -29947,7 +29947,7 @@
 599256,"GB-1333","heliport","Clifton Dykes",54.644211,-2.69254,,"EU","GB","GB-U-A",,"no",,,,,,,
 599308,"GB-1334","closed","RAF Long Kesh",54.490669,-6.103835,115,"EU","GB","GB-NIR","Maze, County Down","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Long_Kesh",
 599309,"GB-1335","heliport","Lisburn Heliport",54.49328,-6.097745,118,"EU","GB","GB-NIR","Lisburn, County Down","no",,,,,,,
-599921,"GB-1336","small_airport","(Duplicete)East Kirkby Airfield",53.13889,-0.00056,39,"EU","GB","GB-ENG","East Kirkby","no",,,,,"https://lincsaviation.co.uk","https://en.m.wikipedia.org/wiki/Lincolnshire_Aviation_Heritage_Centre?utm_source=chatgpt.com","RAF East Kirkby; Lincolnshire Aviation Heritage Centre; Bomber Command; Avro Lancaster NX611 “Just Jane”; Mosquito HJ711; East Lindsey; WW2 airfield; museum; heritage."
+599921,"GB-1336","small_airport","(Duplicate)East Kirkby Airfield",53.13889,-0.00056,39,"EU","GB","GB-ENG","East Kirkby","no",,,,,"https://lincsaviation.co.uk","https://en.m.wikipedia.org/wiki/Lincolnshire_Aviation_Heritage_Centre?utm_source=chatgpt.com","RAF East Kirkby; Lincolnshire Aviation Heritage Centre; Bomber Command; Avro Lancaster NX611 “Just Jane”; Mosquito HJ711; East Lindsey; WW2 airfield; museum; heritage."
 599951,"GB-1337","closed","RAF Woodhall Spa",53.131667,-0.18444,33,"EU","GB","GB-ENG","East Linsdey, Lincolnshire","no",,,,,"https://www.lincstrust.org.uk/get-involved/top-reserves/woodhall-spa-airfield","https://en.wikipedia.org/wiki/RAF_Woodhall_Spa","Tattershall Thorpe, No. 617 Squadron, Dambusters, Bristol Bloodhound Missile site, Thorpe Camp Visitor Centre, Lincolnshire Wildlife Trust, RAF Coningsby satellite"
 600636,"GB-1338","heliport","Chequers Helicopter Landing Ground",51.742163,-0.781822,,"EU","GB","GB-ENG","Ellesborough, Bucks.","no",,,,,,,
 602208,"GB-1339","heliport","Uxbridge Business Park Heliport",51.554853,-0.483221,112,"EU","GB","GB-ENG","Uxbridge, Greater London","no",,,,,,,
@@ -29967,7 +29967,7 @@
 608086,"GB-1353","small_airport","Hillgate Farm Airstrip",52.667378,-0.031328,,"EU","GB","GB-ENG","Peterborough","no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
-31199,"GB-FOA","small_airport","Foula Airfield",60.121916,-2.053439,150,"EU","GB","GB-SCT","Foula","yes",,"FOA","EGFO",,,"https://en.wikipedia.org/wiki/Foula_Airfield","EG42, EGFO"
+31199,"GB-FOA","small_airport","Foula Airfield",60.121916,-2.053439,150,"EU","GB","GB-SCT","Foula","yes",,"FOA","EGFO",,,"https://en.wikipedia.org/wiki/Foula_Airfield","EG42"
 35156,"GB-OUK","small_airport","Out Skerries Airfield",60.4252,-0.75,76,"EU","GB","GB-SCT","Grunay Island","no",,,,,,,"Out Skerries, Housay, Bruray, Grunay, EGOU, OUK, EG78"
 32175,"GB-PSV","small_airport","Papa Stour Airstrip",60.321701,-1.69306,75,"EU","GB","GB-SCT","Papa Stour Island","no",,,,,,"https://en.wikipedia.org/wiki/Papa_Stour_Airstrip","EGSZ, EGZT, PSV, EG79"
 29640,"GB-ULL","small_airport","Glenforsa Airfield",56.517202,-5.91401,15,"EU","GB","GB-SCT","Glenforsa, Argyll and Bute","no",,,,,"https://www.glenforsa.com/airfield","https://sv.wikipedia.org/wiki/Glenforsa_Airfield","Mull, EGZU, ULL, Hebrides"
@@ -44895,7 +44895,7 @@
 308907,"LT-0003","small_airport","Trakėnai Airstrip",54.365886,23.167256,,"EU","LT","LT-MR",,"no",,,,,,,"trakenai, kalvarija"
 315671,"LT-0004","closed","Kupiškio aerodromas",55.852906,24.957929,,"EU","LT","LT-PN","Kupiškis","no",,,,,,,
 315676,"LT-0005","small_airport","Pečiulių aerodromas",55.4936031,25.1949249,,"EU","LT","LT-UT","Pečiuliai","no",,,,,,,
-315684,"LT-0006","small_airport","Tauragės Aerodromas",55.23201,22.150068,,"EU","LT","LT-TA","Tauragė","no",,,"EYTR",,,"https://lt.wikipedia.org/wiki/Taurag%C4%97s_aerodromas",
+315684,"LT-0006","small_airport","Tauragės Aerodromas",55.231725,22.15,120,"EU","LT","LT-TA","Tauragė","no","EYTR",,"EYTR",,,"https://lt.wikipedia.org/wiki/Taurag%C4%97s_aerodromas",
 320589,"LT-0007","small_airport","Ličiūnai Airstrip",56.061212,24.544761,,"EU","LT","LT-PN","Ličiūnai","no",,,,,,,
 320730,"LT-0008","small_airport","Vilkaviškis Airfield",54.688091,23.001315,,"EU","LT","LT-MR",,"no",,,,,,,
 321000,"LT-0009","small_airport","Naukaimio aerodromas",55.131368,22.964454,,"EU","LT","LT-TA","Naukaimis","no",,,,,,,"Šilinės, Skirsnemunės"
@@ -58747,7 +58747,7 @@
 46189,"SDZX","small_airport","Fazenda Suri Airport",-14.813348,-53.124617,1250,"SA","BR","BR-MT","Campinápolis","no",,,"SDZX","MT0076",,,
 35837,"SDZZ","small_airport","Sítio São José Airport",-21.798767,-48.544439,1788,"SA","BR","BR-SP","Nova Europa","no",,,"SDZZ","SP0169",,,
 42718,"SE-0001","small_airport","Trosa Troslanda airfield",58.898617,17.498474,26,"EU","SE","SE-D",,"no",,,,,"http://www.trosaflygklubb.se/",,
-42719,"SE-0002","small_airport","Stegeborg",58.433696,16.606826,7,"EU","SE","SE-E",,"no",,,"ESVE",,"https://web.archive.org/web/20080906220902/http://www.stegeborg.se:80/flygfalt.html",,
+42719,"SE-0002","small_airport","Stegeborg",58.433696,16.606826,7,"EU","SE","SE-E",,"no","ESVE",,"ESVE",,"https://web.archive.org/web/20080906220902/http://www.stegeborg.se:80/flygfalt.html",,
 42720,"SE-0003","small_airport","Bollnäs",61.356201171875,16.328800201416016,270,"EU","SE","SE-X","Bollnäs","no",,,,,"http://www.bollnasflygklubb.se/flygf%C3%A4ltsinformation2",,
 46509,"SE-0004","small_airport","Norberg",60.107157287899994,15.950399637199999,,"EU","SE","SE-W",,"no",,,,,,,
 299971,"SE-0005","small_airport","Åre / Molanda",63.3283291729,13.425722122199998,1047,"EU","SE","SE-Z",,"no",,,,,,,
