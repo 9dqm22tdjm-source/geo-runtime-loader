@@ -16247,8 +16247,8 @@
 38153,"BR-3164","small_airport","Fazenda Lago Grande Airport",-12.101389,-49.951111,600,"SA","BR","BR-TO","Sandolândia","no",,,,"SWXL",,,"SWXL"
 38154,"BR-3165","small_airport","Faria Airport",-15.646366,-58.774302,787,"SA","BR","BR-MT","Porto Esperidião","no",,,,,,,"SWXR"
 38160,"BR-3166","small_airport","Fazenda Nossa Senhora Aparecida Airport",-16.046143,-54.952598,1082,"SA","BR","BR-MT","Jaciara","no",,,,,,,"SWYA"
-38164,"BR-3167","small_airport","São José Airport",-19.622072,-40.201496,187,"SA","BR","BR-ES","Aracruz","no",,,,"SWYG",,,"SWYG"
-38166,"BR-3168","small_airport","Barragem Manoel Alves Airport",-11.557041,-46.985109,2067,"SA","BR","BR-TO","Dianópolis","no",,,,"SWYI",,,"SWYI"
+38164,"BR-3167","small_airport","São José Airport",-19.622072,-40.201496,187,"SA","BR","BR-ES","Aracruz","no",,,,,,,"SWYG"
+38166,"BR-3168","small_airport","Barragem Manoel Alves Airport",-11.557041,-46.985109,2067,"SA","BR","BR-TO","Dianópolis","no",,,,,,,"SWYI"
 38167,"BR-3169","small_airport","Fazenda Agropecuária FR Ltda. Airport",-7.622604,-56.071694,860,"SA","BR","BR-PA","Novo Progresso","no",,,,,,,"SWYJ"
 38172,"BR-3170","small_airport","Fazenda Formosa Airport",-10.013056,-47.681667,1132,"SA","BR","BR-TO","Novo Acordo","no",,,,,,,"SWYT"
 38182,"BR-3171","small_airport","Fazenda e Haras Terra Boa Airport",-15.491465,-58.398168,787,"SA","BR","BR-MT","Araputanga","no",,,"SW1V","MT1123",,,"SWZF, Araguari"
@@ -25591,13 +25591,13 @@
 41198,"FAAM","small_airport","Amsterdam Airport",-26.633803,30.605561,4310,"AF","ZA","ZA-MP","Amsterdam","no","FAAM",,"FAAM",,,,
 27277,"FAAN","small_airport","Aliwal North Airport",-30.681072,26.730141,4405,"AF","ZA","ZA-EC","Aliwal North","no","FAAN",,"FAAN",,,"https://af.wikipedia.org/wiki/Aliwal-Noord-lughawe",
 41298,"FAAS","small_airport","Ashton Airport",-33.837978,20.049838,525,"AF","ZA","ZA-WC","Ashton","no","FAAS",,"FAAS",,,,
-31035,"FABA","small_airport","Microland Flight Park",-25.976255771599998,28.3890151978,5476,"AF","ZA","ZA-GT","Bapsfontein","no",,,"FABA",,,,
+31035,"FABA","small_airport","Microland Flight Park",-25.976256,28.389015,5476,"AF","ZA","ZA-GT","Bapsfontein","no","FABA",,"FABA",,,,
 2770,"FABB","small_airport","Brakpan Airport",-26.2386,28.3018,5300,"AF","ZA","ZA-GT","Brakpan","no","FABB",,"FABB",,,,
-29740,"FABD","small_airport","Burghersdorp Airport",-30.977500915527344,26.3080997467041,4734,"AF","ZA","ZA-EC","Burgersdorp","no",,,"FABD",,,,
+29740,"FABD","small_airport","Burghersdorp Airport",-30.980916,26.307312,4734,"AF","ZA","ZA-EC","Burgersdorp","no","FABD",,"FABD",,,,
 2771,"FABE","medium_airport","Bisho Airport",-32.897099,27.2791,1950,"AF","ZA","ZA-EC","Bisho","no","FABE","BIY","FABE",,,"https://en.wikipedia.org/wiki/Bhisho_Airport",
-41164,"FABF","small_airport","Barkly East Airport",-30.966667175299996,27.604166030900004,5940,"AF","ZA","ZA-EC","Barkly East","no",,,"FABF",,,,
-308160,"FABG","small_airport","Buffelshoek Airport",-24.702464,31.587875,1347,"AF","ZA","ZA-MP",,"no",,,"FABG",,,,
-29699,"FABH","small_airport","Belfast Aerodrome",-25.6587417378,30.041577816,6250,"AF","ZA","ZA-MP","Belfast","no",,,"FABH",,,,
+41164,"FABF","small_airport","Barkly East Airport",-30.97094,27.610113,5940,"AF","ZA","ZA-EC","Barkly East","no","FABF",,"FABF",,,,
+308160,"FABG","small_airport","Buffelshoek Airport",-24.702464,31.587875,1347,"AF","ZA","ZA-MP",,"no","FABG",,"FABG",,,,
+29699,"FABH","small_airport","Belfast Aerodrome",-25.658742,30.041578,6250,"AF","ZA","ZA-MP","Belfast","no","FABH",,"FABH",,,,
 29713,"FABK","small_airport","Bushmans Kloof Airport",-32.035,19.0435,1050,"AF","ZA","ZA-WC","Bushman's Kloof","no",,,"FABK",,,,
 2772,"FABL","large_airport","Bram Fischer International Airport",-29.092699,26.302401,4457,"AF","ZA","ZA-FS","Bloemfontein","yes","FABL","BFN","FABL",,"https://sa-airports.co.za/bram-fischer-airport","https://en.wikipedia.org/wiki/Bram_Fischer_International_Airport","AFB Bloemspruit, Bloemspruit"
 2773,"FABM","small_airport","Bethlehem Airport",-28.2484,28.3361,5561,"AF","ZA","ZA-FS","Bethlehem","no",,,"FABM",,,"https://en.wikipedia.org/wiki/Bethlehem_Airport",
@@ -27946,6 +27946,7 @@
 608934,"FR-1338","heliport","KHUB Karting Helipad",50.316189,2.762209,311,"EU","FR","FR-HDF","Arras, Pas-de-Calais","no",,,,,"https://khub-arras.com/",,
 608935,"FR-1339","heliport","Croix en Ternois Racetrack HLS",50.378191,2.296572,401,"EU","FR","FR-HDF","Croix-en-Ternois, Pas-de-Calais","no",,,,,"https://www.circuitdecroix.com/",,
 609057,"FR-1340","heliport","Ajaccio Port Heliport",41.923245,8.764268,6,"EU","FR","FR-COR","Ajaccio, Corse-du-Sud","no",,,,,,,
+609136,"FR-1341","heliport","Château de Rebreuve-Ranchicourt",50.441452,2.551656,,"EU","FR","FR-HDF","Rebreuve-Ranchicourt, Pas-de-Calais","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -30092,8 +30093,11 @@
 534991,"GG-0002","heliport","Jethou Private Heliport",49.45857,-2.46263,210,"EU","GG","GG-G","Jethou","no",,,,,,,"Cannon Field"
 604088,"GG-0003","heliport","Brecqhou Residences Helipad",49.43365,-2.38607,,"EU","GG","GG-S","Brecqhou","no",,,,,,,
 3156,"GG64","small_airport","Quebo Airport",11.536858,-14.761904,165,"AF","GW","GW-TO","Quebo","no",,,"GG64","GG64",,,"Aldeia"
-39588,"GGBF","small_airport","Bafatá Airport",12.176437,-14.657811,144,"AF","GW","GW-BA","Bafatá","no",,,"GGBF",,,"https://en.wikipedia.org/wiki/Bafatá_Airport",
+609140,"GGBE","small_airport","Bendanda Airstrip",11.346763,-15.105693,27,"AF","GW","GW-TO","Bendanda","no","GGBE",,"GGBE",,,,
+39588,"GGBF","small_airport","Bafatá Airport",12.176437,-14.657811,144,"AF","GW","GW-BA","Bafatá","no","GGBF",,"GGBF",,,"https://en.wikipedia.org/wiki/Bafatá_Airport",
+609138,"GGBO","small_airport","Bolama Airstrip",11.595482,-15.49851,77,"AF","GW","GW-BL","Bolama","no","GGBO",,"GGBO",,,,
 39587,"GGBU","small_airport","Bubaque Airport",11.297356,-15.838079,,"AF","GW","GW-BL","Bubaque","no","GGBU","BQE","GGBU",,,"https://en.wikipedia.org/wiki/Bubaque_Airport",
+609137,"GGCC","small_airport","Cacine Airstrip",11.120751,-15.014704,27,"AF","GW","GW-TO","Cacine","no","GGCC",,"GGCC",,,,
 3096,"GGCF","small_airport","Cufar Airport",11.2879,-15.1805,65,"AF","GW","GW-TO","Cufar","no","GGCF",,"GGCF",,,"https://en.wikipedia.org/wiki/Cufar_Airport",
 318892,"GGGB","small_airport","Gabu Airport",12.292002,-14.236044,223,"AF","GW","GW-GA","Gabu","no",,,"GGGB",,,"https://en.wikipedia.org/wiki/Nova_Lamego_Airport",
 3097,"GGOV","large_airport","Osvaldo Vieira International Airport",11.894262,-15.653596,129,"AF","GW","GW-BS","Bissau","yes","GGOV","OXB","GGOV",,,"https://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport",
@@ -30164,7 +30168,7 @@
 29759,"GMMT","small_airport","Casablanca Tit Mellil Airport",33.5975,-7.465,322,"AF","MA","MA-06","Casablanca","no",,,"GMMT",,,"https://en.wikipedia.org/wiki/Casablanca_Tit_Mellil_Airport",
 3114,"GMMW","large_airport","Nador Al Aaroui International Airport",34.9888,-3.02821,574,"AF","MA","MA-02","Al Aaroui","yes","GMMW","NDR","GMMW",,,"https://en.wikipedia.org/wiki/Nador_International_Airport","Al Aroui International Airport, Arwi"
 3115,"GMMX","large_airport","Marrakesh Menara Airport",31.604807,-8.035788,1545,"AF","MA","MA-07","Marrakesh","yes","GMMX","RAK","GMMX",,,"https://en.wikipedia.org/wiki/Menara_International_Airport","Marakesh, Marrakesh"
-3116,"GMMY","medium_airport","Kenitra Air Base",34.298901,-6.59588,16,"AF","MA","MA-04","Kenitra","no",,"NNA","GMMP",,,"https://en.wikipedia.org/wiki/Kenitra_Air_Base","Craw Field, Naval Air Station Port Lyautey"
+3116,"GMMY","medium_airport","Kenitra Air Base",34.298901,-6.59588,16,"AF","MA","MA-04","Kenitra","no","GMMP","NNA","GMMP",,,"https://en.wikipedia.org/wiki/Kenitra_Air_Base","GMMY, Craw Field, Naval Air Station Port Lyautey"
 3117,"GMMZ","large_airport","Ouarzazate International Airport",30.9391,-6.90943,3782,"AF","MA","MA-08","Ouarzazate","yes","GMMZ","OZZ","GMMZ",,,"https://en.wikipedia.org/wiki/Ouarzazate_Airport",
 3118,"GMSL","small_airport","Sidi Slimane Airport",34.230598,-6.05014,179,"AF","MA","MA-04","Sidi Slimane","no","GMSL",,"GMSL",,,"https://en.wikipedia.org/wiki/Sidi_Slimane_Air_Base","Sidi Slimane Air Base"
 3119,"GMTA","medium_airport","Cherif Al Idrissi Airport",35.177101,-3.83952,95,"AF","MA","MA-01","Al Hoceima","no","GMTA","AHU","GMTA",,,"https://en.wikipedia.org/wiki/Cherif_Al_Idrissi_Airport",
@@ -45225,7 +45229,7 @@
 429794,"MA-0005","heliport","Beni Amir Heliport",32.67406,-6.76116,,"AF","MA","MA-05","Tlete Aoulad Azouz","no",,,,,,,
 429795,"MA-0006","small_airport","Khouribga Air Base",32.85821,-6.9461,,"AF","MA","MA-05","Khouribga","no",,,,,,,
 429796,"MA-0007","small_airport","Khouribga West Airport",32.8767,-7.08445,,"AF","MA","MA-05","N'Khila","no",,,,,,,
-429797,"MA-0008","small_airport","Ben Guerir Air Base",32.124889,-7.877884,,"AF","MA","MA-07","Ouled Ben Anou Grichate","no",,,,,,"https://en.wikipedia.org/wiki/Ben_Guerir_Air_Base",
+429797,"MA-0008","small_airport","Ben Guerir Air Base",32.124889,-7.877885,1406,"AF","MA","MA-07","Ouled Ben Anou Grichate","no","GMMG",,"GMMG",,,"https://en.wikipedia.org/wiki/Ben_Guerir_Air_Base",
 429798,"MA-0009","small_airport","Sidi Zouine Airport",31.63833,-8.34768,,"AF","MA","MA-07","Sidi Zouine","no",,,,,,,
 30573,"MA-0011","closed","Former Zagora Airport",30.320299,-5.86667,2631,"AF","MA","MA-08","Zagora","no",,,,,,,
 29758,"MA-0012","closed","Anfa Airport",33.5532989502,-7.66138982773,200,"AF","MA","MA-06","Casablanca","no",,,,,,"https://en.wikipedia.org/wiki/Casablanca-Anfa_Airport","GMMC, GMMC, CAS"
@@ -81032,7 +81036,7 @@
 26531,"VGSD","medium_airport","Saidpur Airport",25.759199,88.908897,125,"AS","BD","BD-5","Saidpur","yes","VGSD","SPD","VGSD",,,"https://en.wikipedia.org/wiki/Saidpur_Airport",
 32455,"VGSG","small_airport","Thakurgaon Airport",26.016378,88.402092,176,"AS","BD","BD-5","Thakurgaon","no","VGSG","TKR","VGSG",,,"https://en.wikipedia.org/wiki/Thakurgaon_Airport",
 32744,"VGSH","small_airport","Shamshernagar Airport",24.398333,91.916944,56,"AS","BD","BD-6","Shamshernagar","no","VGSH","ZHM","VGSH",,,"https://en.wikipedia.org/wiki/Shamshernagar_STOLport",
-26532,"VGSY","large_airport","Osmany International Airport",24.963071,91.866903,50,"AS","BD","BD-6","Sylhet","yes","VGSY","ZYL","VGSY",,,"https://en.wikipedia.org/wiki/Osmani_International_Airport",
+26532,"VGSY","large_airport","Osmany International Airport",24.963993,91.864749,50,"AS","BD","BD-6","Sylhet","yes","VGSY","ZYL","VGSY",,,"https://en.wikipedia.org/wiki/Osmani_International_Airport",
 26533,"VGTJ","small_airport","Tejgaon Airport",23.778507,90.382719,24,"AS","BD","BD-3","Dhaka","no","VGTJ",,"VGTJ",,,"https://en.wikipedia.org/wiki/Tejgaon_Airport",
 26535,"VHHH","large_airport","Hong Kong International Airport",22.31184,113.914862,28,"AS","HK","HK-NT","Hong Kong","yes","VHHH","HKG","VHHH",,"http://www.hongkongairport.com/","https://en.wikipedia.org/wiki/Hong_Kong_International_Airport","Chek Lap Kok Airport, 赤鱲角機場"
 26536,"VHSK","medium_airport","Shek Kong Air Base",22.4366,114.080002,50,"AS","HK","HK-NT","Islands","no","VHSK",,"VHSK",,,"https://en.wikipedia.org/wiki/Shek_Kong_Airfield","Yuen Long Airport, RAF Sek Kong, 石崗機場"
