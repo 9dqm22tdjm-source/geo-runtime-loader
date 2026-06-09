@@ -11069,7 +11069,7 @@
 312153,"AT-0004","heliport","Güssing Hospital Helipad",47.04977,16.3217,731,"EU","AT","AT-1","Güssing","no",,,,,,,
 320904,"AT-0005","closed","Retzer Land Heliport",48.75447,15.962132,781,"EU","AT","AT-3","Retz","no",,,,,,"https://en.wikipedia.org/wiki/Retzer_Land_Heliport","LOAR"
 329106,"AT-0006","heliport","Nenzing Heliport",47.208934,9.659745,1624,"EU","AT","AT-8","Frastanz","no","LOJN",,"LOJN",,,,"Christophorus 8"
-329108,"AT-0007","heliport","Ybbsitz ÖAMTC Heliport",47.969106,14.939405,2000,"EU","AT","AT-3","Haselgraben","no",,,"LOLY",,,,"Christophorus 15"
+329108,"AT-0007","heliport","Ybbsitz ÖAMTC Heliport",47.969106,14.939405,2000,"EU","AT","AT-3","Haselgraben","no","LOLY",,"LOLY",,,,"Christophorus 15"
 329312,"AT-0008","heliport","Gmünd Heliport",48.78522,14.974763,1594,"EU","AT","AT-3","Gmünd","no",,,"LOBG",,,,
 334039,"AT-0009","small_airport","Ameis Airstrip",48.657837,16.540234,,"EU","AT","AT-3","Ameis","no",,,,,,,
 349033,"AT-0010","closed","Radochen Airstrip",46.76296,15.90426,,"EU","AT","AT-6",,"no",,,,,,,
@@ -11096,34 +11096,34 @@
 31839,"AT-0032","closed","Trausdorf Airport",47.798024,16.558172,525,"EU","AT","AT-1","Trausdorf an der Wulka","no",,,,,,"https://en.wikipedia.org/wiki/Trausdorf_Airport","LOAT, LOAT"
 43803,"AT-0033","closed","Carinthia State Police Directorate Heliport",46.620018,14.307845,1532,"EU","AT","AT-2","Klagenfurt am Wörthersee","no",,,,,,,"Landespolizeikommando Kärnten, LOKY"
 43830,"AT-0034","closed","Kitzbühel Hospital Helipad",47.449756,12.396033,2510,"EU","AT","AT-7","Kitzbühel","no",,,,,,,"LOIA"
-43790,"AT-0035","heliport","Kittsee Heliport",48.09321,17.06593,446,"EU","AT","AT-1","Kittsee","no",,,,"LOAC",,,
+43790,"AT-0035","heliport","Kittsee Heliport",48.09321,17.06593,446,"EU","AT","AT-1","Kittsee","no","LOAC",,"LOAC",,,,
 43791,"AT-0036","heliport","Oberpullendorf Hospital Heliport",47.507738,16.511697,909,"EU","AT","AT-1","Oberpullendorf","no","LOAO",,"LOAO",,,,
 43792,"AT-0037","heliport","Schwerpunkt Heliport",47.279549,16.201566,1076,"EU","AT","AT-1","Oberwart","no",,,,"LOGR",,,
 43794,"AT-0038","heliport","Bad Kleinkircheim Heliport",46.811943,13.783889,3399,"EU","AT","AT-2","Bad Kleinkircheim","no","LOKB",,"LOKB",,,,
 43795,"AT-0039","heliport","Föderlach Heliport",46.603042,13.947072,1619,"EU","AT","AT-2","Villach","no","LOKD",,"LOKD",,,,
 43796,"AT-0040","heliport","Wietersdorf Heliport",46.847778,14.536944,2070,"EU","AT","AT-2","Wietersdorf","no","LOKI",,"LOKI",,,,
-43797,"AT-0041","heliport","Hallegg Castile HLS",46.647659,14.244107,1493,"EU","AT","AT-2","Klagenfurt","no","LOKK",,"LOKK",,,,
+43797,"AT-0041","heliport","Hallegg Castle HLS",46.647659,14.244107,1493,"EU","AT","AT-2","Klagenfurt","no","LOKK",,"LOKK",,,,
 43798,"AT-0042","heliport","Friesach Hospital Helistop",46.946838,14.410051,2113,"EU","AT","AT-2","Friesach","no","LOKP",,"LOKP",,,,"Deutsch-Ordens-Spital"
-43799,"AT-0043","heliport","St. Andrä Im Lavanttal Heliport",46.758331298828,14.825555801392,1414,"EU","AT","AT-2","St. Andrä","no",,,,"LOKS",,,
-43800,"AT-0044","heliport","Villach Heliport",46.615692138672,13.857175827026,1732,"EU","AT","AT-2","Villach","no",,,,"LOKT",,,
-43801,"AT-0045","heliport","Carinthia University Hospital Rooftop Helipad 2",46.617901,14.295486,1506,"EU","AT","AT-2","Klagenfurt am Wörthersee","no",,,,"LOKU",,,
-43802,"AT-0046","heliport","Febau Heliport",46.661109924316,14.615833282471,1568,"EU","AT","AT-2","Völkermarkt","no",,,,"LOKV",,,
-43804,"AT-0047","heliport","Zwatzhof Heliport",46.975555419922,14.274722099304,2500,"EU","AT","AT-2","Zwatzhof","no",,,,"LOKZ",,,
-43805,"AT-0048","heliport","Patergassen Heliport",46.819442749023,13.857221603394,3576,"EU","AT","AT-2","Patergassen","no",,,,"LOMP",,,
-43806,"AT-0049","heliport","Dachlandeplatz Heliport",46.832500457764,14.848055839539,1575,"EU","AT","AT-2","Wolfsberg","no",,,,"LOMW",,,
+43799,"AT-0043","heliport","St. Andrä Im Lavanttal Heliport",46.759459,14.824183,1414,"EU","AT","AT-2","St. Andrä","no","LOKS",,"LOKS",,,,
+43800,"AT-0044","heliport","Villach Hospital Helipad",46.614901,13.855069,1732,"EU","AT","AT-2","Villach","no","LOKT",,"LOKT",,,,
+43801,"AT-0045","heliport","Carinthia University Hospital Rooftop Helipad 2",46.617901,14.295486,1506,"EU","AT","AT-2","Klagenfurt am Wörthersee","no","LOKU",,"LOKU",,,,
+43802,"AT-0046","heliport","Febau Heliport",46.66111,14.615833,1568,"EU","AT","AT-2","Völkermarkt","no","LOKV",,"LOKV",,,,
+43804,"AT-0047","heliport","Zwatzhof Heliport",46.975053,14.273835,2500,"EU","AT","AT-2","Zwatzhof","no","LOKZ",,"LOKZ",,,,
+43805,"AT-0048","heliport","Patergassen Heliport",46.819363,13.857,3576,"EU","AT","AT-2","Patergassen","no","LOMP",,"LOMP",,,,"OAMTC, Reichenau, Feldkirchen"
+43806,"AT-0049","heliport","Wolfsberg Hospital Helistop",46.832473,14.847966,1575,"EU","AT","AT-2","Wolfsberg","no","LOMW",,"LOMW",,,,"Dachlandeplatz"
 43807,"AT-0050","heliport","Eisenstadt Heliport",47.84677,16.51345,748,"EU","AT","AT-1","Eisenstadt","no","LOAE",,"LOAE",,,,
 43808,"AT-0051","heliport","Baden Hospital Helipad",48.000612,16.255796,733,"EU","AT","AT-3","Baden","no","LOAF",,"LOAF",,,,
 43809,"AT-0052","heliport","Horn Heliport",48.669249,15.660705,1012,"EU","AT","AT-3","Horn","no","LOAH",,"LOAH",,,,
 43810,"AT-0053","heliport","Krems University Hospital Helipad",48.412753,15.615224,647,"EU","AT","AT-3","Krems","no","LOAK",,"LOAK",,,,"Christophorus 2"
-43812,"AT-0054","heliport","Amstetten Hospital Heliport",48.126714,14.880871,947,"EU","AT","AT-3","Amstetten","no",,,,"LOAQ",,,
+43812,"AT-0054","heliport","Amstetten Hospital Heliport",48.126714,14.880871,947,"EU","AT","AT-3","Amstetten","no","LOAQ",,"LOAQ",,,,
 43813,"AT-0055","heliport","Wiener Neustadt ÖAMTC Heliport",47.845135,16.251601,900,"EU","AT","AT-3","Wiener Neustadt","no",,,,"LOAW",,,"Christophorus 3"
 43814,"AT-0056","heliport","Sankt Pölten Heliport",48.213279,15.627702,997,"EU","AT","AT-3","Sankt Pölten","no",,,,"LOAX",,,
 43815,"AT-0057","heliport","Kilb Heliport",48.086067,15.428381,1388,"EU","AT","AT-3","Kilb","no",,,,"LOAY",,,"Heli-Line"
 43816,"AT-0058","heliport","Zwettl Heliport",48.599721,15.163697,1900,"EU","AT","AT-3","Zwettl","no",,,,"LOAZ",,,
-43820,"AT-0059","heliport","Goldeck Talstation Heliport",46.792967,13.483221,1761,"EU","AT","AT-2","Spittal an der Drau","no",,,"LOKO",,,,
-43821,"AT-0060","heliport","St. Johann Im Pongau Heliport",47.39416885376,13.222222328186,1803,"EU","AT","AT-5","St. Johann Im Pongau","no",,,,"LOSJ",,,
-43822,"AT-0061","heliport","Dachlandeplatz Heliport",47.805839538574,13.027724266052,1452,"EU","AT","AT-5","Salzburg","no",,,,"LOSL",,,
-43823,"AT-0062","heliport","Schwarzach Heliport",47.324443817139,13.154999732971,2046,"EU","AT","AT-5","Schwarzach","no",,,,"LOSS",,,
+43820,"AT-0059","heliport","Goldeck Talstation Heliport",46.792967,13.483221,1761,"EU","AT","AT-2","Spittal an der Drau","no","LOKO",,"LOKO",,,,
+43821,"AT-0060","heliport","St. Johann Im Pongau Heliport",47.394071,13.221496,1803,"EU","AT","AT-5","St. Johann Im Pongau","no","LOSJ",,"LOSJ",,,,
+43822,"AT-0061","heliport","Salzburg Mülln Hospital Helistop",47.80581,13.027602,1452,"EU","AT","AT-5","Salzburg","no","LOSL",,"LOSL",,,,
+43823,"AT-0062","heliport","Kardinal Schwarzenberg Hospital Helipad",47.321783,13.154366,2046,"EU","AT","AT-5","Schwarzach","no","LOSS",,"LOSS",,,,
 43824,"AT-0063","heliport","Schwarzenbergkaserne Military Heliport",47.797500610352,12.981666564941,1433,"EU","AT","AT-5","Salzburg","no",,,,"LOXS",,,
 43829,"AT-0064","heliport","Judenburg Heliport",47.165000915527,14.654999732971,2448,"EU","AT","AT-6","Judenburg","no",,,,"LOGJ",,,
 43835,"AT-0065","heliport","Zams ÖAMTC Heliport",47.176235,10.611887,2513,"EU","AT","AT-7","Zams","no",,,,"LOIL",,,"Christophorus 5"
@@ -11140,8 +11140,8 @@
 43848,"AT-0076","heliport","Innsbruck Air Rescue Center ÖAMTC Heliport",47.255034,11.345485,1998,"EU","AT","AT-7","Innsbruck","no","LOJO",,"LOJO",,,,"Christophorus 1, Flugrettungszentrum"
 43849,"AT-0077","heliport","Karres Heliport",47.218956,10.768817,2534,"EU","AT","AT-7","Karres","no","LOJP",,"LOJP",,,,"Königskapelle"
 43851,"AT-0078","heliport","Zugspitzarena Heliport",47.419359,10.926628,3666,"EU","AT","AT-7","Ehrwald","no","LOJZ",,"LOJZ",,,,"ÖAMTC"
-43852,"AT-0079","heliport","Glock Heliport",46.522736,14.29705,1539,"EU","AT","AT-2","Ferlach","no",,,,"LOKC",,,
-43855,"AT-0080","heliport","Feldkirchen-Waiern Heliport",46.734443664551,14.087778091431,2014,"EU","AT","AT-7","Feldkirchen-Waiern","no",,,,"LOKX",,,
+43852,"AT-0079","heliport","Glock Heliport",46.522477,14.297392,1539,"EU","AT","AT-2","Ferlach","no","LOKC",,"LOKC",,,,
+43855,"AT-0080","heliport","Waiern Hospital Heliport",46.734082,14.087081,2014,"EU","AT","AT-7","Feldkirchen-Waiern","no","LOKX",,"LOKX",,,,
 43856,"AT-0081","heliport","Hochfilzen Heliport",47.477500915527,12.650278091431,3484,"EU","AT","AT-7","Hochfilzen","no",,,,"LOXH",,,
 43857,"AT-0082","heliport","Schwaz Military Heliport",47.334998,11.697559,1774,"EU","AT","AT-7","Schwaz","no",,,,"LOXI",,,
 43860,"AT-0083","heliport","Feldkirch Heliport",47.274818,9.591209,1449,"EU","AT","AT-8","Feldkirch","no","LOIQ",,"LOIQ",,"https://www.schenkair.at/unternehmen/heliports/loiq/",,"Doctor Schenk Heliport"
@@ -16270,15 +16270,15 @@
 44444,"BR-3186","small_airport","Fazenda Primavera I Airport",-4.800556,-48.393333,1050,"SA","BR","BR-PA","Rondon Do Pará","no",,,,,,,"SNLX"
 44569,"BR-3187","small_airport","Tambaú Airport",-21.697056,-47.315556,2451,"SA","BR","BR-SP","Tambaú","no",,,,,,,"SSET"
 44720,"BR-3188","small_airport","Mayrowy Airport",-7.958802,-57.839962,400,"SA","BR","BR-MT","Apiacás","no",,,,"MT0066",,,"SDUS, SDUY, BR-3188"
-44729,"BR-3189","small_airport","Fazenda Galiléia Airport",-9.1044,-45.4166679382,1932,"SA","BR","BR-PI","Baixa Grande Do Ribeiro","no",,,,"SSDN",,,"SSDN"
-44731,"BR-3190","small_airport","Fazenda Bandeirantes Airport",-13.7072219849,-50.6477775574,935,"SA","BR","BR-GO","Nova Crixás","no",,,,"SSDS",,,"SSDS"
+44729,"BR-3189","small_airport","Fazenda Galiléia Airport",-9.104538,-45.416674,1932,"SA","BR","BR-PI","Baixa Grande do Ribeiro","no",,,"SSWG","PI0040",,,"SSDN"
+44731,"BR-3190","small_airport","Fazenda Bandeirantes Airport",-13.706015,-50.649874,935,"SA","BR","BR-GO","Nova Crixás","no",,,,,,,"SSDS"
 45570,"BR-3191","small_airport","Fazenda Santa Izabel Airport",-14.265278,-47.0275,1434,"SA","BR","BR-GO","Flores De Goiás","no",,,,"SSLJ",,,"SSLJ"
 45576,"BR-3192","small_airport","Fazenda Pirapitinga Airport",-18.7775,-49.231667,2172,"SA","BR","BR-MG","Canápolis","no",,,,"SDRW",,,"SDRW"
 45584,"BR-3193","small_airport","Fazenda Mata Assombrada Airport",-21.727222,-56.509167,912,"SA","BR","BR-MS","Bela Vista","no",,,,"SILW",,,"SILW"
 45586,"BR-3194","small_airport","Fazenda Santíssima Trindade Airport",-23.286944,-54.841111,1299,"SA","BR","BR-MS","Amambaí","no",,,,"SDVN",,,"SDVN"
 45588,"BR-3195","small_airport","Aldeia Piaracu Airport",-10.780518,-53.07022,1148,"SA","BR","BR-MT","São José Do Xingu","no",,,,"SDNW",,,"SDNW"
-45591,"BR-3196","small_airport","Fazenda Criciúma Airport",-13.41,-55.233611,1575,"SA","BR","BR-MT","Sorriso","no",,,,"SDQW",,,"SDQW"
-45592,"BR-3197","small_airport","Fazenda Essência Airport",-14.316667,-55.766944,1818,"SA","BR","BR-MT","Nobres","no",,,,"SSNL",,,"SSNL"
+45591,"BR-3196","small_airport","Fazenda Criciúma Airport",-13.41,-55.233611,1575,"SA","BR","BR-MT","Sorriso","no",,,,,,,"SDQW"
+45592,"BR-3197","small_airport","Fazenda Essência Airport",-14.321444,-55.775324,1818,"SA","BR","BR-MT","Nobres","no",,,,,,,"SSNL"
 45600,"BR-3198","small_airport","Comandante Carmelo Airport",-6.84,-56.586667,974,"SA","BR","BR-PA","Itaituba","no",,,,"SSOW",,,"SSOW"
 45607,"BR-3199","small_airport","Capitão Pedro Paranhos Airport",-23.429444,-50.167778,1447,"SA","BR","BR-PR","Guapirama","no",,,,"SSHC",,,"SSHC"
 45608,"BR-3200","heliport","Itaipu Heliport",-25.421175,-54.590002,574,"SA","BR","BR-PR","Foz do Iguaçu","no",,,,,,,"SSHY"
@@ -40884,7 +40884,7 @@
 20790,"KOZW","small_airport","Livingston County Spencer J. Hardy Airport",42.62919998,-83.98210144,962,"NA","US","US-MI","Howell","no",,,"KOZW","OZW",,"https://en.wikipedia.org/wiki/Livingston_County_Spencer_J._Hardy_Airport",
 35211,"KP-0001","closed","Old Chongjin Airport",41.8013,129.854996,,"AS","KP","KP-09","Chongjin","no",,,,,,,"K-34"
 35212,"KP-0002","medium_airport","Haeju Airfield",38.00739,125.777321,131,"AS","KP","KP-05","Haeju","no",,,,,,"https://en.wikipedia.org/wiki/Haeju_Airport",
-317103,"KP-0003","small_airport","Yonpo Air Base",39.792215,127.535906,6,"AS","KP","KP-08","Hamhung","no",,,,,,"https://en.wikipedia.org/wiki/Yonpo_Airfield","K-27 Air Base"
+317103,"KP-0003","closed","Yonpo Air Base",39.792215,127.535906,6,"AS","KP","KP-08","Hamhung","no",,,,,,"https://en.wikipedia.org/wiki/Yonpo_Airfield","K-27 Air Base"
 35215,"KP-0005","small_airport","T'aet'an-pihaengjang Airport",38.131113,125.233154,246,"AS","KP","KP-05","Taetan","no",,,,,,"https://en.wikipedia.org/wiki/Taetan_Airport",
 35216,"KP-0006","small_airport","Taechon Airport",39.902648,125.489503,118,"AS","KP","KP-03","Taechon","no",,,,,,"https://en.wikipedia.org/wiki/Taechon_Airport",
 35217,"KP-0007","small_airport","Taebukpo Ri Airport",38.333801,126.869003,223,"AS","KP","KP-06",,"no",,,,,,"https://en.wikipedia.org/wiki/Taebukpo_Ri_Airport",
@@ -44506,7 +44506,7 @@
 515406,"LOAI","heliport","Wiener Neustadt Hospital Heliport",47.8159,16.24713,,"EU","AT","AT-3","Wiener Neustadt","no","LOAI",,"LOAI",,,,
 4428,"LOAN","medium_airport","Wiener Neustadt East Airport",47.8433,16.260099,896,"EU","AT","AT-3","Wiener Neustadt","no","LOAN",,"LOAN",,"http://www.loan-airport.at/","https://en.wikipedia.org/wiki/Wiener_Neustadt_East_Airport",
 43811,"LOAP","heliport","Waidhofen an der Ybbs Hospital Helipad",47.952692,14.788011,1279,"EU","AT","AT-3","Waidhofen an der Ybbs","no","LOAP",,"LOAP",,,,
-28137,"LOAR","small_airport","Altlichtenwarth Gliderfield",48.6661,16.825,604,"EU","AT","AT-3","Altlichtenwarth","no",,,"LOAR",,"http://www.loar.at/","https://de.wikipedia.org/wiki/Flugplatz_Altlichtenwarth","Flugplatz Altlichtenwarth, Segelflugfeld Altlichtenwarth"
+28137,"LOAR","small_airport","Altlichtenwarth Gliderfield",48.6661,16.825,604,"EU","AT","AT-3","Altlichtenwarth","no","LOAR",,"LOAR",,"http://www.loar.at/","https://de.wikipedia.org/wiki/Flugplatz_Altlichtenwarth","Flugplatz Altlichtenwarth, Segelflugfeld Altlichtenwarth"
 29447,"LOAS","small_airport","Spitzerberg Airfield",48.099157,16.933527,623,"EU","AT","AT-3","Hundsheim","no","LOAS",,"LOAS",,,"https://en.wikipedia.org/wiki/Spitzerberg_Airport","Flugsportzentrum Spitzerberg"
 598719,"LOAT","heliport","Wiener Neustadt Air Police Base",47.83532,16.208975,927,"EU","AT","AT-3","Wiener Neustadt","no",,,"LOAT",,"https://noe.orf.at/stories/3272377/",,
 29448,"LOAU","small_airport","Stockerau Airfield",48.409121,16.191015,686,"EU","AT","AT-3","Stockerau","no","LOAU",,"LOAU",,,"https://en.wikipedia.org/wiki/Stockerau_Airfield",
@@ -44529,7 +44529,7 @@
 28133,"LOGG","small_airport","Punitz-Güssing Airfield",47.146654,16.317058,950,"EU","AT","AT-1","Punitz","no","LOGG",,"LOGG",,"http://www.logg.at/","https://en.wikipedia.org/wiki/Punitz-G%C3%BCssing_Airport","Güssing, Flugplatz Punitz-Güssing"
 43828,"LOGH","heliport","Graz University Hospital Helipad",47.08059,15.46381,1427,"EU","AT","AT-6","Graz","no",,,"LOGH",,,,
 29450,"LOGI","small_airport","Trieben Airfield",47.493364,14.49558,2283,"EU","AT","AT-6","Trieben","no",,,"LOGI",,,"https://de.wikipedia.org/wiki/Flugplatz_Trieben",
-29451,"LOGK","small_airport","Kapfenberg Airfield",47.457544,15.331125,1719,"EU","AT","AT-6","Kapfenberg","no",,,"LOGK",,,"https://en.wikipedia.org/wiki/Kapfenberg_Airport",
+29451,"LOGK","small_airport","Kapfenberg Airfield",47.457544,15.331125,1719,"EU","AT","AT-6","Kapfenberg","no","LOGK",,"LOGK",,,"https://en.wikipedia.org/wiki/Kapfenberg_Airport",
 29452,"LOGL","small_airport","Lanzen-Turnau Airfield",47.556155,15.320327,2575,"EU","AT","AT-6","Göriach","no","LOGL",,"LOGL",,,"https://en.wikipedia.org/wiki/Lanzen-Turnau_Airport",
 29453,"LOGM","small_airport","Mariazell Airfield",47.789733,15.300333,2822,"EU","AT","AT-6","Mariazell","no","LOGM",,"LOGM",,,"https://en.wikipedia.org/wiki/Mariazell_Airport","Flugfeld Mariazell, Flugplatz Mariazell"
 29454,"LOGO","small_airport","Niederöblarn Airfield",47.478742,14.007101,2142,"EU","AT","AT-6","Niederöblarn","no","LOGO",,"LOGO",,,"https://de.wikipedia.org/wiki/Flugplatz_Nieder%C3%B6blarn",
@@ -44560,20 +44560,20 @@
 514629,"LOJR","heliport","Mittelberg Heliport",47.35788,10.17551,3652,"EU","AT","AT-8","Riezlern","no","LOJR",,"LOJR","LOJR",,,
 514630,"LOJS","heliport","Falbeson ÖAMTC Heliport",47.05056,11.23622,3950,"EU","AT","AT-7","Neustift im Stubaital","no",,,"LOJS","LOJS",,,
 43850,"LOJT","heliport","Hat Tux Heliport",47.133498,11.70391,4495,"EU","AT","AT-7","Madseit","no","LOJT",,"LOJT",,,,"Alpin 5"
-43793,"LOKA","heliport","Klagenfurt Clinic Heliport",46.635386,14.306521,1458,"EU","AT","AT-2","Klagenfurt am Wörthersee","no",,,"LOKA",,,,"Bodenlandeplatz"
+43793,"LOKA","heliport","Klagenfurt Clinic Heliport",46.634479,14.305569,1458,"EU","AT","AT-2","Klagenfurt am Wörthersee","no","LOKA",,"LOKA",,,,"Bodenlandeplatz"
 29462,"LOKF","small_airport","Feldkirchen Airfield",46.70893,14.076722,1706,"EU","AT","AT-2","Feldkirchen in Kärnten","no","LOKF",,"LOKF",,,"https://en.wikipedia.org/wiki/Feldkirchen-Ossiacher_See_Airport",
 29463,"LOKG","small_airport","Ferlach-Glainach Airfield",46.532778,14.330833,1498,"EU","AT","AT-2","Ferlach","no","LOKG",,"LOKG",,,"https://en.wikipedia.org/wiki/Ferlach-Glainach_Airport",
 29464,"LOKH","small_airport","Friesach/Hirt Airfield",46.927491,14.431848,2019,"EU","AT","AT-2","Micheldorf","no","LOKH",,"LOKH",,,"https://en.wikipedia.org/wiki/Friesach/Hirt_Airport",
-43853,"LOKJ","heliport","Lienz Hospital Heliport",46.834961,12.764722,2254,"EU","AT","AT-7","Lienz","no",,,"LOKJ",,,,
+43853,"LOKJ","heliport","Lienz Hospital Heliport",46.834961,12.764722,2254,"EU","AT","AT-7","Lienz","no","LOKJ",,"LOKJ",,,,
 29465,"LOKL","small_airport","Lienz-Nikolsdorf Airfield",46.798069,12.87833,2093,"EU","AT","AT-7","Lengberg","no","LOKL",,"LOKL",,"http://www.lokl.at/","https://en.wikipedia.org/wiki/Lienz-Nikolsdorf_Airport","LOWK"
 29466,"LOKM","small_airport","Mayerhofen Airfield",46.974996,14.371228,2119,"EU","AT","AT-2","Mayerhofen","no","LOKM",,"LOKM",,,"https://en.wikipedia.org/wiki/Mayerhofen_Airfield",
 29467,"LOKN","small_airport","Nötsch im Gailtal Airfield",46.5811,13.6292,1801,"EU","AT","AT-2","Nötsch im Gailtal","no","LOKN",,"LOKN",,,"https://en.wikipedia.org/wiki/N%C3%B6tsch_im_Gailtal_Airfield",
-43854,"LOKQ","heliport","Lienz-Nikolsdorf ÖAMTC Heliport",46.79974,12.876815,2097,"EU","AT","AT-7","Lengberg","no",,,"LOKQ",,,,"Christophorus 7"
-315902,"LOKR","small_airport","Sankt Donat / Mairist Airfield",46.743139,14.413134,1759,"EU","AT","AT-2","Mairist","no",,,"LOKR",,,"https://de.wikipedia.org/wiki/Flugplatz_St._Donat-Mairist",
+43854,"LOKQ","heliport","Lienz-Nikolsdorf ÖAMTC Heliport",46.79974,12.876815,2097,"EU","AT","AT-7","Lengberg","no","LOKQ",,"LOKQ",,,,"Christophorus 7"
+315902,"LOKR","small_airport","Sankt Donat / Mairist Airfield",46.743139,14.413134,1759,"EU","AT","AT-2","Mairist","no","LOKR",,"LOKR",,,"https://de.wikipedia.org/wiki/Flugplatz_St._Donat-Mairist",
 29468,"LOKW","small_airport","Wolfsberg Airfield",46.818202,14.825154,1460,"EU","AT","AT-2","Wolfsberg","no","LOKW",,"LOKW",,,"https://en.wikipedia.org/wiki/Wolfsberg_Airport",
 548812,"LOLA","heliport","Kepler III University Hospital Helipad",48.303207,14.303505,922,"EU","AT","AT-4","Linz","no",,,"LOLA",,,,
 29469,"LOLC","small_airport","Scharnstein Airfield",47.898602,13.9394,1742,"EU","AT","AT-4","Scharnstein","no","LOLC",,"LOLC",,,"https://en.wikipedia.org/wiki/Scharnstein_Airport","Flugplatz Scharnstein"
-43819,"LOLD","heliport","Europa 3 Heliport",48.400802,13.449803,1109,"EU","AT","AT-4","Suben","no",,,"LOLD",,,,
+43819,"LOLD","heliport","Suben ÖAMTC Heliport",48.400802,13.449803,1109,"EU","AT","AT-4","Suben","no","LOLD",,"LOLD",,,,"Europa 3"
 29470,"LOLE","small_airport","Eferding Airfield",48.338793,13.985209,887,"EU","AT","AT-4","Pupping","no","LOLE",,"LOLE",,,"https://en.wikipedia.org/wiki/Eferding_Airport",
 29471,"LOLF","small_airport","Freistadt Airfield",48.513748,14.406579,2237,"EU","AT","AT-4","Freistadt","no","LOLF",,"LOLF",,,"https://en.wikipedia.org/wiki/Freistadt_Airport",
 29472,"LOLG","small_airport","Sankt Georgen-Ybbsfeld Airfield",48.10332,14.951091,827,"EU","AT","AT-3","Sankt Georgen am Ybbsfelde","no","LOLG",,"LOLG",,"https://www.lolghauptseite.at/","https://en.wikipedia.org/wiki/Sankt_Georgen_Airport",
@@ -44586,12 +44586,15 @@
 29477,"LOLU","small_airport","Gmunden-Laakirchen Airfield",47.951541,13.867271,1670,"EU","AT","AT-4","Laakirchen","no","LOLU",,"LOLU",,"http://www.fliegerclub-traunsee.at/","https://en.wikipedia.org/wiki/Gmunden_Laakirchen_Airfield",
 4429,"LOLW","small_airport","Wels Airfield",48.182513,14.039283,1043,"EU","AT","AT-4","Wels","no","LOLW",,"LOLW",,"https://www.wmw.at","https://en.wikipedia.org/wiki/Wels_Airport",
 313922,"LOM","small_airport","Francisco Primo de Verdad y Ramos Airport",21.258983,-101.943758,6227,"NA","MX","MX-JAL","Lagos de Moreno","no",,"LOM","MMOO","LMO",,"https://en.wikipedia.org/wiki/Francisco_Primo_de_Verdad_National_Airport",
-598261,"LOMN","heliport","Sonnenalpe Naßfeld Heliport",46.569037,13.273951,4704,"EU","AT","AT-2","Sonnenalpe Naßfeld","no",,,"LOMN",,,,"Nassfeld"
+609163,"LOMM","heliport","Matrei in Osttirol Heliport",46.992101,12.54198,3054,"EU","AT","AT-7","Matrei in Osttirol","no","LOMM",,"LOMM",,,,"Martin Flugrettung"
+598261,"LOMN","heliport","Sonnenalpe Naßfeld Heliport",46.569037,13.273951,4704,"EU","AT","AT-2","Sonnenalpe Naßfeld","no","LOMN",,"LOMN",,,,"Nassfeld"
 596410,"LOMR","heliport","RK-1 Heliport",46.740944,13.664802,2858,"EU","AT","AT-2","Fresach","no","LOMR",,"LOMR",,,,"Kärnten"
+609162,"LOMU","heliport","ÖAMTC / Klagenfurt Heliport",46.645692,14.333743,1474,"EU","AT","AT-2","Klagenfurt am Wörthersee","no","LOMU",,"LOMU",,,,
 548813,"LOPE","heliport","Elisabethinen Hospital Helipad",48.305416,14.294207,864,"EU","AT","AT-4","Linz","no",,,"LOPE",,,,
 21633,"LOR","heliport","Lowe AHP (Fort Rucker) Heliport",31.35580063,-85.75119781,294,"NA","US","US-AL","Fort Rucker Ozark","no",,"LOR","KLOR","LOR",,"https://en.wikipedia.org/wiki/Lowe_Army_Heliport",
 596411,"LOSH","heliport","Hinterglemm Heliport",47.365793,12.597306,4170,"EU","AT","AT-5","Saalbach-Hinterglemm","no",,,"LOSH",,"https://www.saalbach.com/en/service/info/rescue-helicopter",,"Martin 6"
 29478,"LOSM","small_airport","Mauterndorf Airfield",47.131995,13.695867,3642,"EU","AT","AT-5","Mauterndorf","no","LOSM",,"LOSM",,,"https://en.wikipedia.org/wiki/Mauterndorf_Airport","Flugplatz Mauterndorf"
+609165,"LOSU","heliport","Salzburg Trauma Hospital Helistop.",47.799591,13.056501,1479,"EU","AT","AT-5","Salzburg","no","LOSU",,"LOSU",,,,
 4430,"LOWG","large_airport","Graz Airport",46.9911,15.4396,1115,"EU","AT","AT-6","Feldkirchen bei Graz","yes","LOWG","GRZ","LOWG",,"http://www.flughafen-graz.at/","https://en.wikipedia.org/wiki/Graz_Airport","Thalerhof Airport, Fliegerhorst Nittner, Nittner Air Base, Christophorus 12"
 4431,"LOWI","large_airport","Innsbruck Airport",47.260201,11.344,1907,"EU","AT","AT-7","Innsbruck","yes","LOWI","INN","LOWI",,"http://www.innsbruck-airport.com/","https://en.wikipedia.org/wiki/Innsbruck_Airport","Kranebitten Airport"
 4435,"LOWK","large_airport","Klagenfurt Airport",46.642502,14.3377,1472,"EU","AT","AT-2","Klagenfurt am Wörthersee","yes","LOWK","KLU","LOWK",,"http://www.klagenfurt-airport.com/","https://en.wikipedia.org/wiki/Klagenfurt_Airport","Kärnten Airport, Christophorus 11"
@@ -56468,20 +56471,20 @@
 526824,"RU-1006","heliport","Vladimir Nak Station Helipad",68.888827,70.302984,,"AS","RU","RU-YAN","Yuribey","no",,,,,,,"HELIOPS, OIL & GAS, Gazprom, Obskaya–Bovanenkovo Railroad"
 43676,"RU-10060","small_airport","Veshenskaya Airfield",49.656823,41.700713,253,"EU","RU","RU-ROS","Veshenskaya","no",,,"URRW",,,,"Vyoshenskaya Airport, Аэропорт Вешенская, Аэропорт Вёшенская, УРРВ"
 43691,"RU-10061","small_airport","Icha Airport",55.595402,155.619003,135,"AS","RU","RU-KAM","Icha","no",,,,"UHJI",,,"Аэропорт Ича, УХЯИ"
-44321,"RU-10062","medium_airport","Khanskaya Air Base",44.68,40.035,600,"EU","RU","RU-AD","Maykop","no",,,,"XRKH",,,"Hanskaya Airport, Аэропорт Ханская, RU-10062"
+44321,"RU-10062","medium_airport","Khanskaya Air Base",44.67956,40.036059,600,"EU","RU","RU-AD","Maykop","no",,,,"XRKH",,,"ЬРКХ, Майкоп / Ханская, Hanskaya Airport, Аэропорт Ханская"
 44606,"RU-10063","small_airport","Velsk Airfield",61.039843,42.10333,360,"EU","RU","RU-ARK","Velsk","no",,,,"ULKW",,,"Аэропорт Вельск, УЛКВ"
 44607,"RU-10064","small_airport","Vytegra Airfield",61.032427,36.434976,217,"EU","RU","RU-VLG","Vytegra","no",,,"ULWR",,,,"Аэропорт Вытегра, УЛВР"
 44657,"RU-10065","small_airport","Pudozh",61.825001,36.580002,144,"EU","RU","RU-KR","Pudozh","no",,,,"ULPA",,,"Аэропорт Пудож, УЛПА"
-44748,"RU-10066","small_airport","Borovichi Airfield",58.436001,33.889,,"EU","RU","RU-NGR","Borovichi","no",,,,"ULNB",,,"Аэропорт Боровичи, УЛНБ, RU-10066"
-44754,"RU-10067","small_airport","Karpogory Airfield",64.013,44.455002,,"EU","RU","RU-ARK","Karpogory","no",,,,"ULAP",,,"Аэропорт Карпогоры, УЛАП, RU-10067"
-44756,"RU-10068","small_airport","Pertominsk Airstrip",64.790463,38.422472,56,"EU","RU","RU-ARK","Pertominsk","no",,,,"ULAT",,,"Аэропорт Пертоминск, УЛАТ, RU-10068"
+44748,"RU-10066","small_airport","Borovichi Airfield",58.436001,33.889,340,"EU","RU","RU-NGR","Borovichi","no",,,"ULNB","ULNB",,,"Аэропорт Боровичи, УЛНБ"
+44754,"RU-10067","small_airport","Karpogory Airfield",64.013568,44.462614,130,"EU","RU","RU-ARK","Karpogory","no",,,"ULAP","ULAP",,,"Аэропорт Карпогоры, УЛАП"
+44756,"RU-10068","small_airport","Pertominsk Airstrip",64.79056,38.422902,56,"EU","RU","RU-ARK","Pertominsk","no",,,"ULAT",,,,"Аэропорт Пертоминск, УЛАТ"
 44759,"RU-10069","small_airport","Lopshenga Airstrip",64.980003,37.693001,49,"EU","RU","RU-ARK","Lopshenga","no",,,,"ULBL","http://www.aviapages.ru/airports/17973931010137965.shtml",,"Аэропорт Лопшеньга, УЛБЛ, RU-10069"
 526834,"RU-1007","heliport","KU №2 (57-Y KILOMETR)",69.782426,68.355764,,"AS","RU","RU-YAN","Bovanenkovo","no",,,,,,,"Bovanenkovo-Ukhta GTS, HELIOPS, GAZPROM, Pipeline, OIL & GAS"
 44760,"RU-10070","small_airport","Trufanovo Airfield",59.308998,39.849998,417,"EU","RU","RU-VLG","Vologda","no",,,,"XLWT","http://www.chpa.ru/dzvologda/dzvologda_main.htm",,"Аэродром Труфаново, RU-10070"
 44762,"RU-10071","small_airport","Krasnoshchelye Airstrip",67.348,37.077,492,"EU","RU","RU-MUR","Krasnoshchelye","no",,,,"ULMX",,,"Krasnoschelye Airport, Аэропорт Краснощелье, УЛМЬ, RU-10071"
 44765,"RU-10072","small_airport","Sosnovka Airfield",53.261002,45.277,,"EU","RU","RU-PNZ","Penza","no",,,,"XWPD",,,"Chemodanovka Airfield, Аэродром Сосновка, Аэродром Чемодановка, RU-10072"
 44775,"RU-10073","small_airport","Nizhnyaya Pesha Airport",66.7391,47.728815,32,"EU","RU","RU-NEN","Nizhnyaya Pesha","no",,,,"ULAV",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Nizhnyaya_Pyosha","УЛАЖ, Аэропорт Нижняя Пеша, RU-10073"
-44849,"RU-10074","small_airport","Shoyna Airstrip",67.869003,44.151001,,"EU","RU","RU-NEN","Shoyna","no",,,,"ULBO",,,"Аэропорт Шойна, УЛБО, RU-10074"
+44849,"RU-10074","small_airport","Shoyna Airstrip",67.869856,44.151193,25,"EU","RU","RU-NEN","Shoyna","no",,,"ULBO",,,,"Аэропорт Шойна, УЛБО"
 44850,"RU-10075","small_airport","Shenkursk Airfield",62.118229,42.89907,,"EU","RU","RU-ARK","Shenkursk","no",,,,"ULAN",,,"Nikiforovskaya, Аэропорт Шенкурск, Аэропорт Никифоровская, УЛАН"
 44992,"RU-10076","medium_airport","Smolensk North Airport",54.824,32.025,820,"EU","RU","RU-SMO","Smolensk","no",,"LNX",,"XUBS",,"https://en.wikipedia.org/wiki/Smolensk_North_Airport","Smolensk Severny Airfield, Аэродром Смоленск Северный, ЬУБС, RU-10076"
 45191,"RU-10077","medium_airport","Yeysk Airport",46.68,38.21,60,"EU","RU","RU-KDA","Yeysk","no",,"EIK","URKE","XRKE",,"https://en.wikipedia.org/wiki/Yeysk_Airport","Eysk Airport, Аэропорт Ейск, УРКЕ, ЬРКЕ"
@@ -56893,6 +56896,7 @@
 605631,"SA-0115","heliport","Almoosa Hospital Heliport",25.438285,49.571775,,"AS","SA","SA-04","Al Hofuf","no",,,,,,,
 605632,"SA-0116","heliport","Dallah Hospital Heliport",25.38547,49.57097,489,"AS","SA","SA-04","Al Hofuf","no",,,,,,,
 605633,"SA-0117","heliport","Salwa Border Guard Sector Heliport",24.80944,50.74736,10,"AS","SA","SA-04","Salwa","no",,,,,,,
+609167,"SA-0118","closed","Airfield",21.735149,51.052343,,"AS","SA","SA-04",,"no",,,,,,,
 13,"SA01","small_airport","Cachi Airport",-25.1049995422,-66.15720367429999,8232,"SA","AR","AR-A","Cachi","no",,,"SA01","CCS",,,"SA01"
 14,"SA02","small_airport","Cafayate Airport",-26.056101,-65.936897,5375,"SA","AR","AR-A","Cafayate","no",,,,"CAF",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Gilberto_Lavaque","SA02, Gilberto Lavaque"
 15,"SA03","small_airport","Villa Minetti Airport",-28.6201,-61.6038,246,"SA","AR","AR-S","Villa Minetti","no",,,"SA03","MIN",,,"SA03"
@@ -63731,7 +63735,7 @@
 37703,"SSVW","small_airport","Fazenda Galera Airport",-14.513055801391602,-59.55694580078125,975,"SA","BR","BR-MT","Conquista D`Oeste","no",,,"SSVW",,,,
 30266,"SSVY","small_airport","Fazenda Três Barras Airport",-20.93779945373535,-48.173301696777344,1575,"SA","BR","BR-SP","Pitangueiras","no",,,"SSVY",,,,
 45623,"SSVZ","heliport","Autovias Heliport",-21.163333,-47.754722,1804,"SA","BR","BR-SP","Ribeirão Preto","no",,,"SSVZ",,,,
-45579,"SSWG","heliport","Laguna Heliport",-21.780833,-46.556111,4249,"SA","BR","BR-MG","Poços De Caldas","no",,,"SSWG",,,,
+45579,"SSWG","heliport","Laguna Helistop",-21.781182,-46.556594,4249,"SA","BR","BR-MG","Poços de Caldas","no",,,,,,,"SSWG"
 45631,"SSWH","small_airport","Dr. Emílio Fehr Airport",-21.906268,-47.820806,2300,"SA","BR","BR-SP","São Carlos","no",,,"SSWH","SP0261",,,"Agropecuária Rossignolo"
 45629,"SSWI","heliport","Escas-Ipê Heliport",-23.157222,-46.320833,2848,"SA","BR","BR-SP","Nazaré Paulista","no",,,"SSWI",,,,
 46358,"SSWJ","heliport","Studart Heliport",-4.457222,-37.794722,56,"SA","BR","BR-CE","Fortim","no",,,"SSWJ","SSWJ",,,
@@ -66626,7 +66630,7 @@
 549628,"UKIN","small_airport","Haisyn Airfield",48.825876,29.33431,790,"EU","UA","UA-05","Haisyn","no",,,"UKIN",,,,"Gaysin, Гайсин, УКИН"
 6477,"UKKE","medium_airport","Cherkasy International Airport",49.4156,31.9953,375,"EU","UA","UA-71","Cherkasy","no","UKKE","CKC","UKKE",,,"https://en.wikipedia.org/wiki/Cherkasy_International_Airport",
 31744,"UKKG","small_airport","Kirovograd Airport",48.542801,32.285,568,"EU","UA","UA-35","Kirovograd","no","UKKG","KGO","UKKG",,,"https://en.wikipedia.org/wiki/Kropyvnytskyi_Airport",
-6478,"UKKK","medium_airport","Ihor Sikorsky Kyiv International Airport (Zhuliany)",50.40194,30.45194,587,"EU","UA","UA-30","Kyiv","yes","UKKK","IEV","UKKK",,"https://iev.aero/","https://en.wikipedia.org/wiki/Kyiv_International_Airport_(Zhuliany)","Міжнародний аеропорт ""Київ"", Kiev"
+6478,"UKKK","closed","Igor Sikorsky Kyiv International Airport (Zhuliany)",50.40194,30.45194,587,"EU","UA","UA-30","Kyiv","yes",,,,,"https://iev.aero/","https://en.wikipedia.org/wiki/Kyiv_International_Airport_(Zhuliany)","Міжнародний аеропорт ""Київ"", Kiev, UKKK, IEV"
 6479,"UKKM","medium_airport","Hostomel Airport",50.6035,30.1919,517,"EU","UA","UA-32","Kiev","no",,,"UKKM",,,"https://en.wikipedia.org/wiki/Hostomel_Airport","Antonov International Airport, Аеропорт „Антонов”, Gostomel Airport"
 44432,"UKKO","medium_airport","Ozerne Air Base",50.158298,28.7383,761,"EU","UA","UA-18","Zhytomyr","no",,,"UKKO",,,"https://en.wikipedia.org/wiki/Ozerne_(air_base)","Zhitomyr Ozernoye, Oziernoye, Ozernoe, Ozernoye, Ozyornoye, Ozerne, Ozernyy, Ozyornaya"
 302309,"UKKV","small_airport","Zhytomyr Airport",50.270556,28.738611,,"EU","UA","UA-18","Zhytomyr","no","UKKV","ZTR","UKKV",,,"https://en.wikipedia.org/wiki/Zhytomyr_Airport",
@@ -70917,7 +70921,7 @@
 603016,"US-12844","heliport","Fishermen Dock Pad",24.595943,-81.67548,,"NA","US","US-FL","Key West","no",,,,,,,
 603037,"US-12846","closed","Vihler Landing Strip",25.519422,-80.436608,,"NA","US","US-FL","Naranja","no",,,,,,,
 603038,"US-12847","seaplane_base","Biscayne Park Airport",25.882933,-80.159597,,"NA","US","US-FL","Miami","no",,,,,,,
-603039,"US-12848","small_airport","Redland field",25.546158,-80.458868,,"NA","US","US-FL","Miami","no",,,,,,,
+603039,"US-12848","small_airport","Taxiway for Mac’s Field",25.546158,-80.458868,,"NA","US","US-FL","Miami","no",,,,,,,
 603041,"US-12849","seaplane_base","Chalkes Seaplane base",24.55897,-81.815186,,"NA","US","US-FL","Key West","no",,,,,,,
 334337,"US-1285","heliport","1000 Museum Heliport",25.784189,-80.190046,709,"NA","US","US-FL","Miami","no",,,"FA10","FA10",,,
 603044,"US-12850","small_airport","Chrome Moddelers STOL Club / Pipsqueak Eagles Field",25.434554,-80.548024,,"NA","US","US-FL","Miami","no",,,,,,,
@@ -71047,6 +71051,7 @@
 608777,"US-12964","heliport","Innovation First Heliport",33.064243,-96.149562,521,"NA","US","US-TX","Greenville","no",,,"53TX","53TX",,,
 608785,"US-12965","heliport","Ty Heliport",39.232486,-96.421806,1160,"NA","US","US-KS","Saint George","no",,,"65KS","65KS",,,
 609058,"US-12966","heliport","TEMSCO Helicopters Heliport",59.450703,-135.330383,32,"NA","US","US-AK","Skagway","no",,,,,"https://temscoair.com/skagway-helicopter-tours/",,
+609168,"US-12967","small_airport","Hugos STOLPort",25.519761,-80.44195,,"NA","US","US-FL","Naranja","no",,,,,,,
 334365,"US-1297","closed","Army Reserve Parking Lot Heliport",43.305528,-91.791265,859,"NA","US","US-IA","Decorah","no",,,,,,,"1IA1"
 334368,"US-1298","closed","PAF Cannery Airport",58.725948,-156.950868,60,"NA","US","US-AK","South Naknek","no",,,,,,,"AK35, 3AK"
 334372,"US-1299","closed","Peninsula General Hospital Ground Level Heliport",38.361785,-75.598536,26,"NA","US","US-MD","Salisbury","no",,,,,,,"MD88"
