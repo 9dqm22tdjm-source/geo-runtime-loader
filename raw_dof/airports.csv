@@ -7991,7 +7991,7 @@
 45240,"84AL","small_airport","Blessings Landing Air Ranch",31.3031,-85.52705,400,"NA","US","US-AL","Pinckard","no",,,"84AL","84AL",,,
 14631,"84C","small_airport","Valhalla Airport",42.762501,-88.042603,805,"NA","US","US-WI","North Cape","no",,,"WI72","WI72",,,"84C"
 14632,"84CA","heliport","Beverly Center Heliport",34.073808,-118.377595,278,"NA","US","US-CA","Los Angeles","no",,,"84CA","84CA",,,
-14633,"84CL","heliport","Century City Heliport",34.060798645,-118.417999268,473,"NA","US","US-CA","Los Angeles","no",,"CCD","84CL","84CL",,,
+14633,"84CL","heliport","Century City Heliport",34.061015,-118.417344,473,"NA","US","US-CA","Los Angeles","no",,"CCD","84CL","84CL",,,
 14634,"84CO","heliport","Rampart Heliport",39.344239,-104.841906,6480,"NA","US","US-CO","Castle Rock","no",,,"84CO","84CO",,,
 598335,"84CT","heliport","Bridgeport Boatworks Heliport",41.172618,-73.176838,13,"NA","US","US-CT","Bridgeport","no",,,"84CT","84CT",,,
 561867,"84FA","heliport","Summer Spot Heliport",28.539093,-81.823341,90,"NA","US","US-FL","Clermont","no",,,"84FA","84FA",,,
@@ -20111,7 +20111,7 @@
 353305,"CO-0066","small_airport","Arabia Airport",3.60726,-69.046761,486,"SA","CO","CO-GUA","Barranco Minas","no",,,,,,,
 353407,"CO-0067","small_airport","La Esperanza Airport",3.31229,-73.36607,804,"SA","CO","CO-MET","Puerto Lleras","no",,,,,,,
 353409,"CO-0068","small_airport","San Martín Airport",3.70239,-73.68825,1378,"SA","CO","CO-MET","San Martín","no",,,,,,,
-353410,"CO-0069","closed","Techo International Airport",4.62674,-74.1474,8390,"SA","CO","CO-DC","Bogotá","no",,,,,,"https://en.wikipedia.org/wiki/Techo_International_Airport","BOG, SKBO"
+353410,"CO-0069","closed","Techo International Airport",4.62674,-74.1474,8390,"NA","CO","CO-DC","Bogotá","no",,,,,,"https://en.wikipedia.org/wiki/Techo_International_Airport_(Colombia)","BOG, SKBO"
 353411,"CO-0070","small_airport","Cocosolo Airport",10.35052,-75.50218,20,"SA","CO","CO-BOL","Cartagena de Indias","no",,,,,,,
 353412,"CO-0071","heliport","Cartagena Naval Heliport",10.41375,-75.54756,3,"SA","CO","CO-BOL","Cartagena de Indias","no",,,,,,,
 353413,"CO-0072","heliport","Carlos Haime University Hospital Helipad",10.5084,-75.46766,20,"SA","CO","CO-BOL","Serena del Mar","no",,,,,,,
@@ -20139,6 +20139,7 @@
 600294,"CO-0496","small_airport","Aterrizaje Field",2.258121,-69.913469,499,"SA","CO","CO-GUA","Morichal Nuevo","no",,,,,,,"Geriara North"
 600295,"CO-0497","closed","Geiriari North 2 Airstrip",2.26907,-69.88447,519,"SA","CO","CO-GUA","Morichal Nuevo","no",,,,,,,
 607603,"CO-0498","heliport","isla de malpelo",4.003481,-81.605646,,"NA","CO","CO-VAC","Santuario di Fauna e Flora di Malpelo","no",,,,,,"https://www.youtube.com/watch?v=ctEVCdIXO30",
+609175,"CO-0499","heliport","Bank of Bogotá Helistop",4.623,-74.067449,8797,"NA","CO","CO-DC","Bogotá","no",,,,,,,
 41597,"CO-LCR","small_airport","Virgilio Barco Vargas (La Chorrera) Airport",-1.456361,-72.801086,564,"SA","CO","CO-AMA","La Chorrera","yes",,"LCR","SKHZ",,,"https://en.wikipedia.org/wiki/La_Chorrera_Airport",
 16854,"CO00","small_airport","Flagler Aerial Spraying Inc Airport",39.279998779296875,-103.06700134277344,4945,"NA","US","US-CO","Flagler","no",,,"CO00","CO00",,,
 16855,"CO01","heliport","General Mail Facility Heliport",39.792621,-104.899104,5223,"NA","US","US-CO","Denver","no",,,"CO01","CO01",,,
@@ -22754,6 +22755,7 @@
 608389,"DE-0933","heliport","Ostfildern-Ruit Medius Hospital Helistop",48.741787,9.25447,1350,"EU","DE","DE-BW","Stuttgart","no",,,,,"https://www.medius-kliniken.de/standorte/medius-klinik-ostfildern-ruit/auf-einen-blick-medius-klinik-ostfildern-ruit/",,
 608390,"DE-0934","heliport","Bavaria Zscheckwitz Rehabilitation Hospital Heliport",50.953246,13.752254,820,"EU","DE","DE-SN","Kreischa","no",,,,"KBZ",,,
 609097,"DE-0935","small_airport","Eschelbach Airfield",48.569722,11.609722,1511,"EU","DE","DE-BY","Pfaffenhofen an der Ilm","no",,,,,"https://dulv.de/fmwebphp/Flugplatz/details.php?id=795",,
+609181,"DE-0936","medium_airport","EDCD",51.5322,14.3155,276,"EU","DE","DE-BR","Cottbus","no","EDCD","CBU",,,,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -26709,7 +26711,7 @@
 43435,"FR-0095","heliport","Hôpital Montimaran Heliport",43.34138870239258,3.255000114440918,176,"EU","FR","FR-OCC","Beziers","no",,,,,,,
 43436,"FR-0096","heliport","Le Corum Heliport",43.613609313964844,3.8822219371795654,176,"EU","FR","FR-OCC","Montpellier","no",,,,,,,
 43437,"FR-0097","heliport","Montpellier CHU Heliport",43.630001,3.849722,150,"EU","FR","FR-OCC","Montpellier","no",,,,,,,
-43438,"FR-0098","small_airport","Narbonne Airfield",43.194168,3.051667,10,"EU","FR","FR-OCC","Narbonne, Aude","no",,,"LFNN",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Narbonne-Vinassan",
+43438,"FR-0098","small_airport","Narbonne Airfield",43.194168,3.051667,10,"EU","FR","FR-OCC","Narbonne, Aude","no","LFNN",,"LFNN",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Narbonne-Vinassan",
 43439,"FR-0099","heliport","Narbonne St Crescent Centre Hospitalier Heliport",43.172791,2.994568,30,"EU","FR","FR-OCC","Narbonne","no",,,,,,,
 43440,"FR-0100","heliport","Centre Hospitalier La Perche Heliport",45.516387939453125,1.20305597782135,1178,"EU","FR","FR-NAQ","Saint-Yrieix","no",,,,,,,
 43441,"FR-0101","heliport","Brive-La Gaillarde Centre Hospitalier Heliport",45.1702766418457,1.5341670513153076,522,"EU","FR","FR-NAQ","Brive-La Gaillarde","no",,,,,,,
@@ -45942,7 +45944,7 @@
 4704,"MMCV","medium_airport","General Pedro Jose Mendez International Airport",23.7033,-98.956497,761,"NA","MX","MX-TAM","Ciudad Victoria","yes","MMCV","CVM","MMCV",,,"https://en.wikipedia.org/wiki/General_Pedro_J._M%C3%A9ndez_International_Airport",
 4705,"MMCY","medium_airport","Captain Rogelio Castillo National Airport",20.545998,-100.886539,5709,"NA","MX","MX-GUA","Celaya","no","MMCY","CYW","MMCY","CYA",,"https://en.wikipedia.org/wiki/Captain_Rogelio_Castillo_National_Airport","Aeropuerto Nacional Capitan Rogelio Castillo"
 4706,"MMCZ","large_airport","Cozumel International Airport",20.514922,-86.928538,15,"NA","MX","MX-ROO","Cozumel","yes","MMCZ","CZM","MMCZ",,"http://www.asur.com.mx/","https://en.wikipedia.org/wiki/Cozumel_International_Airport",
-30860,"MMDA","small_airport","Ciudad Constitución National Airport",25.053801,-111.614998,213,"NA","MX","MX-BCS","Comondú","yes",,"CUA","MMDA","CCB",,"https://en.wikipedia.org/wiki/Ciudad_Constituci%C3%B3n_Airport","MM71, Cap. Jaime Emilio Real Cossio"
+30860,"MMDA","small_airport","Ciudad Constitución National Airport",25.053801,-111.614998,213,"NA","MX","MX-BCS","Comondú","yes","MMDA","CUA","MMDA","CCB",,"https://en.wikipedia.org/wiki/Ciudad_Constituci%C3%B3n_Airport","MM71, Cap. Jaime Emilio Real Cossio"
 29788,"MMDM","small_airport","Ciudad Mante Los Huastecas National Airport",22.738957,-99.018516,341,"NA","MX","MX-TAM","Ciudad Mante","no","MMDM","MMC","MMDM","CDM",,"https://en.wikipedia.org/wiki/Ciudad_Mante_National_Airport","Cuauhtemoc Airport, Aeropuerto Nacional Las Huastecas"
 4707,"MMDO","medium_airport","General Guadalupe Victoria International Airport",24.125468,-104.527938,6104,"NA","MX","MX-DUR","Durango","yes","MMDO","DGO","MMDO",,,"https://en.wikipedia.org/wiki/General_Guadalupe_Victoria_International_Airport","Aeropuerto Internacional General Guadalupe Victoria"
 4708,"MMEP","medium_airport","Amado Nervo National Airport",21.419833,-104.842472,3020,"NA","MX","MX-NAY","Tepic","yes","MMEP","TPQ","MMEP","TNY","http://tepic.asa.gob.mx/wb/webasa/tepic_aeropuertos","https://en.wikipedia.org/wiki/Amado_Nervo_National_Airport","Tepic Airport"
@@ -46155,7 +46157,7 @@
 22228,"MO23","small_airport","Phillips Field",38.640581,-92.529229,820,"NA","US","US-MO","California","no",,,"MO23","MO23",,,
 22229,"MO24","small_airport","Lonesome Sky Airport",40.142799377441406,-95.38829803466797,868,"NA","US","US-MO","Craig","no",,,"MO24","MO24",,,
 22231,"MO26","small_airport","Peterson Farm Airport",39.39390182495117,-94.35299682617188,860,"NA","US","US-MO","Kearney","no",,,"MO26","MO26",,,
-22232,"MO27","small_airport","Ccc Airport",39.73529815673828,-94.19270324707031,984,"NA","US","US-MO","Cameron","no",,,"MO27","MO27",,,
+22232,"MO27","small_airport","CCC Airport",39.734822,-94.193031,984,"NA","US","US-MO","Cameron","no",,,"MO27","MO27",,,
 22233,"MO28","heliport","Blue Springs Heliport",39.027000427246094,-94.26360321044922,287,"NA","US","US-MO","Blue Springs","no",,,"MO28","MO28",,,
 22234,"MO29","small_airport","Inter-State Airport",38.77220153808594,-94.33489990234375,960,"NA","US","US-MO","Pleasant Hill","no",,,"MO29","MO29",,,
 22235,"MO30","small_airport","Harbour Airport",38.269901,-92.8115,823,"NA","US","US-MO","Gravois Mills","no",,,"MO30","MO30",,,"7L7"
@@ -46992,7 +46994,7 @@
 319552,"MX-0245","small_airport","Aeroclub Valle de Bravo Airport",19.1452,-100.074837,7229,"NA","MX","MX-MEX","Valle de Bravo","no",,,,"ACJ",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Valle_de_Bravo","MX69"
 319575,"MX-0246","small_airport","La Begoña Airport",21.126105,-100.40596,6740,"NA","MX","MX-GUA","Doctor Mora","no",,,,"LBG",,,
 319576,"MX-0247","small_airport","Aeródromo Sofía",20.539156,-101.451777,5650,"NA","MX","MX-GUA","Irapuato","no",,,,"SOF",,,
-319577,"MX-0248","small_airport","Aeródromo de Campo Cortés",20.775255,-101.347954,5748,"NA","MX","MX-GUA","Irapuato","no",,,,"CCR",,,
+319577,"MX-0248","small_airport","Campo Cortés Airport",20.775255,-101.347954,5748,"NA","MX","MX-GUA","Irapuato","no",,,,"CCR",,,
 319578,"MX-0249","small_airport","Estación Aérea Nº6 de la Fuerza Aérea Mexicana (Campo Militar 16-A Irapuato)",20.670116,-101.315838,5700,"NA","MX","MX-GUA","Irapuato","no",,,,,,"https://es.wikipedia.org/wiki/Estaci%C3%B3n_a%C3%A9rea_n.%C2%B0_6_Irapuato","MM70, MM2K, EAM-6"
 319579,"MX-0250","closed","Aeródromo Santa Rosalia",21.03045,-101.670569,5865,"NA","MX","MX-GUA","León","no",,,,,,,"MDD"
 319582,"MX-0251","small_airport","Aeródromo Los Filos",17.896226,-99.673043,4757,"NA","MX","MX-GRO","Eduardo Neri","no",,,,"FIL",,,
@@ -55317,7 +55319,7 @@
 336116,"RPSP","large_airport","Bohol-Panglao International Airport",9.573045,123.770143,42,"AS","PH","PH-BOH","Panglao","yes","RPSP","TAG","RPSP",,,"https://en.wikipedia.org/wiki/Bohol%E2%80%93Panglao_International_Airport",
 333098,"RPSV","small_airport","San Vicente Airport",10.524298,119.272899,24,"AS","PH","PH-PLW","San Vicente","yes","RPSV","SWL","RPSV",,,"https://en.wikipedia.org/wiki/San_Vicente_Airport",
 313723,"RPUA","small_airport","Pamalican Airstrip",11.35946,120.72668,,"AS","PH","PH-PLW","Agutaya","no",,,"RPUA",,,,"Amanpulo"
-5715,"RPUB","medium_airport","Loakan Airport",16.375034,120.619949,4251,"AS","PH","PH-BAG","Baguio","yes","RPUB","BAG","RPUB",,,"https://en.wikipedia.org/wiki/Loakan_Airport","Baguio Airport"
+5715,"RPUB","medium_airport","Loakan Airport",16.375034,120.619949,4251,"AS","PH","PH-BAG","Baguio","no","RPUB","BAG","RPUB",,,"https://en.wikipedia.org/wiki/Loakan_Airport","Baguio Airport"
 5716,"RPUD","medium_airport","Daet Airport",14.1292,122.980003,10,"AS","PH","PH-CAN","Daet","no","RPUD","DTE","RPUD",,,"https://en.wikipedia.org/wiki/Bagasbas_Airport",
 313724,"RPUE","small_airport","Semirara Airport",12.07522,121.38847,,"AS","PH","PH-ANT","Caluya","no",,,"RPUE",,,,"Semirara, Caluya"
 5717,"RPUF","small_airport","Basa Air Base",14.98724,120.492554,151,"AS","PH","PH-PAM","Floridablanca","no",,,"RPUF",,,"https://en.wikipedia.org/wiki/Basa_Air_Base","Lieutenant Cesar Basa Air Base"
@@ -64387,7 +64389,7 @@
 37912,"SWIM","small_airport","Fazenda Três Ranchos Airport",-16.126667022705078,-51.66972351074219,1142,"SA","BR","BR-GO","Montes Claros De Goiás","no",,,"SWIM",,,,
 545,"SWIN","small_airport","Fazenda Itamarati Norte Airport",-14.243000030517578,-57.99530029296875,2188,"SA","BR","BR-MT","Campo Novo Do Parecis","no",,,"SWIN","SWIN",,,
 37914,"SWIP","small_airport","Ipameri Airport",-17.685541,-48.161541,2730,"SA","BR","BR-GO","Ipameri","no",,,"SJ94","GO0026",,,"SWIP"
-45610,"SWIR","heliport","CCN Torre Norte Heliport",-22.911944,-43.208333,128,"SA","BR","BR-RJ","Rio De Janeiro","no",,,"SWIR",,,,
+45610,"SWIR","heliport","CCN North Tower Helistop",-22.911525,-43.208401,130,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SWIR","RJ0159",,,
 526485,"SWIS","small_airport","Caiapo Airport",-9.186566,-49.775399,648,"SA","BR","BR-TO","Caseara","no",,,"SWIS","TO0046",,,
 525391,"SWIT","small_airport","Condomínio de Voo Itaipu - CVI Airport",-25.484879,-54.441354,896,"SA","BR","BR-PR","Santa Terezinha de Itaipu","no",,,"SWIT","PR0096",,,
 37915,"SWIU","small_airport","Agropecuári Madeirinha Airport",-9.847383,-61.417572,502,"SA","BR","BR-MT","Aripuanã","no",,,"SJP6","MT0355",,,"SWIU"
