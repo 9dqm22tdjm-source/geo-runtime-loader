@@ -22755,7 +22755,7 @@
 608389,"DE-0933","heliport","Ostfildern-Ruit Medius Hospital Helistop",48.741787,9.25447,1350,"EU","DE","DE-BW","Stuttgart","no",,,,,"https://www.medius-kliniken.de/standorte/medius-klinik-ostfildern-ruit/auf-einen-blick-medius-klinik-ostfildern-ruit/",,
 608390,"DE-0934","heliport","Bavaria Zscheckwitz Rehabilitation Hospital Heliport",50.953246,13.752254,820,"EU","DE","DE-SN","Kreischa","no",,,,"KBZ",,,
 609097,"DE-0935","small_airport","Eschelbach Airfield",48.569722,11.609722,1511,"EU","DE","DE-BY","Pfaffenhofen an der Ilm","no",,,,,"https://dulv.de/fmwebphp/Flugplatz/details.php?id=795",,
-609181,"DE-0936","medium_airport","EDCD",51.5322,14.3155,276,"EU","DE","DE-BR","Cottbus","no","EDCD","CBU",,,,,
+609181,"DE-0936","closed","Unknown Airport",51.5322,14.3155,276,"EU","DE","DE-BR","Terpe","no",,,,,,,
 17115,"DE00","small_airport","Doyle's Airport",39.02069854736328,-75.57710266113281,51,"NA","US","US-DE","Felton","no",,,"DE00","DE00",,,
 17117,"DE02","heliport","Delaware State Police Heliport",39.20009994506836,-75.53299713134766,50,"NA","US","US-DE","Dover","no",,,"DE02","DE02",,,
 17118,"DE03","heliport","Dover Downs Helistop",39.18339920043945,-75.52459716796875,28,"NA","US","US-DE","Dover","no",,,"DE03","DE03",,,
@@ -23393,9 +23393,9 @@
 2205,"EDCM","small_airport","Kamenz Airfield",51.296944,14.1275,495,"EU","DE","DE-SN","Kamenz","no","EDCM",,"EDCM",,"http://www.fc-kamenz.de/","http://de.wikipedia.org/wiki/Flugplatz_Kamenz",
 2206,"EDCO","small_airport","Obermehler-Schlotheim Airfield",51.267776,10.634722,909,"EU","DE","DE-TH","Nottertal-Heilinger Höhen","no","EDCO",,"EDCO",,,"https://de.wikipedia.org/wiki/Flugplatz_Obermehler-Schlotheim","Flugplatz Obermehler-Schlotheim"
 2207,"EDCP","small_airport","Peenemünde Airport",54.15778,13.774444,7,"EU","DE","DE-MV","Peenemünde","no","EDCP","PEF","EDCP",,,"https://en.wikipedia.org/wiki/Peenem%C3%BCnde_Airfield","Peenemuende"
-28503,"EDCQ","small_airport","Aschersleben Airfield",51.766945,11.498333,525,"EU","DE","DE-ST","Aschersleben","no",,,"EDCQ",,,"https://de.wikipedia.org/wiki/Flugplatz_Aschersleben",
-28703,"EDCR","small_airport","Rerik-Zweedorf Airfield",54.081944,11.649167,30,"EU","DE","DE-MV","Bastorf","no",,,"EDCR",,,"https://de.wikipedia.org/wiki/Flugplatz_Rerik-Zweedorf",
-28712,"EDCS","small_airport","Saarmund Airfield",52.308334,13.100556,174,"EU","DE","DE-BR","Nuthetal","no",,,"EDCS",,,"https://de.wikipedia.org/wiki/Flugplatz_Saarmund",
+28503,"EDCQ","small_airport","Aschersleben Airfield",51.766945,11.498333,525,"EU","DE","DE-ST","Aschersleben","no","EDCQ",,"EDCQ",,,"https://de.wikipedia.org/wiki/Flugplatz_Aschersleben",
+28703,"EDCR","small_airport","Rerik-Zweedorf Airfield",54.081944,11.649167,30,"EU","DE","DE-MV","Bastorf","no","EDCR",,"EDCR",,,"https://de.wikipedia.org/wiki/Flugplatz_Rerik-Zweedorf",
+28712,"EDCS","small_airport","Saarmund Airfield",52.308334,13.100556,174,"EU","DE","DE-BR","Nuthetal","no","EDCS",,"EDCS",,,"https://de.wikipedia.org/wiki/Flugplatz_Saarmund",
 29069,"EDCT","small_airport","Taucha Airfield",51.395,12.536944,492,"EU","DE","DE-SN","Taucha","no",,,"EDCT",,"http://www.fclt.de/","http://de.wikipedia.org/wiki/Flugplatz_Taucha","Flugplatz Taucha"
 28583,"EDCU","small_airport","Güstrow Airfield",53.805279,12.230556,46,"EU","DE","DE-MV","Güstrow","no",,,"EDCU",,,"https://de.wikipedia.org/wiki/Flugplatz_G%C3%BCstrow",
 28687,"EDCV","small_airport","Pasewalk Airfield",53.50528,13.948333,72,"EU","DE","DE-MV","Pasewalk","no",,,"EDCV",,,"https://de.wikipedia.org/wiki/Flugplatz_Pasewalk","Flugplatz Pasewalk"
@@ -39469,7 +39469,7 @@
 19712,"KE95","small_airport","Benson Municipal Airport/Paul Kerchum Field",31.999396,-110.358224,3829,"NA","US","US-AZ","Benson","no",,,"KE95","E95","http://www.cityofbenson.com/index.asp?SEC=8D68F1E2-1D01-4429-B1E0-949F9E69008B&DE=5535AE28-BE41-4B3B-AAB4-153C66567159&Type=B_BA","https://en.wikipedia.org/wiki/Benson_Municipal_Airport_(Arizona)",
 19713,"KE98","small_airport","Mid Valley Airpark",34.759799957275,-106.74500274658,4830,"NA","US","US-NM","Los Lunas","no",,,"E98","E98","http://www.midvalleyairpark.com/",,
 19714,"KEAG","small_airport","Eagle Grove Municipal Airport",42.709801,-93.9161,1133,"NA","US","US-IA","Eagle Grove","no",,,"KEAG","EAG",,,
-19715,"KEAN","small_airport","Phifer Airfield",42.0555,-104.929001,4776,"NA","US","US-WY","Wheatland","no","KEAN","EAN","KEAN","EAN",,,
+19715,"KEAN","small_airport","Phifer Airfield",42.0555,-104.929001,4776,"NA","US","US-WY","Wheatland","no","KEAN","EAN","KEAN","EAN",,"https://en.wikipedia.org/wiki/Phifer_Airfield",
 19716,"KEAR","medium_airport","Kearney Regional Airport",40.727001,-99.006798,2131,"NA","US","US-NE","Kearney","yes","KEAR","EAR","KEAR","EAR",,"https://en.wikipedia.org/wiki/Kearney_Municipal_Airport",
 19717,"KEAT","medium_airport","Pangborn Memorial Airport",47.398899,-120.207001,1249,"NA","US","US-WA","Wenatchee","yes","KEAT","EAT","KEAT","EAT","http://www.pangbornairport.com/","https://en.wikipedia.org/wiki/Pangborn_Memorial_Airport",
 3501,"KEAU","medium_airport","Chippewa Valley Regional Airport",44.86579895019531,-91.48429870605469,913,"NA","US","US-WI","Eau Claire","yes","KEAU","EAU","KEAU","EAU",,"https://en.wikipedia.org/wiki/Chippewa_Valley_Regional_Airport",
@@ -40788,7 +40788,7 @@
 20713,"KOCH","small_airport","A L Mangham Jr. Regional Airport",31.57799911,-94.70950317,355,"NA","US","US-TX","Nacogdoches","no","KOCH","OCH","KOCH","OCH","http://www.ci.nacogdoches.tx.us/index.aspx?nid=634",,
 20714,"KOCQ","small_airport","J. Douglas Bake Memorial Airport",44.874286,-87.91171,604,"NA","US","US-WI","Oconto","no",,,"KOCQ","OCQ",,"https://en.wikipedia.org/wiki/Oconto_%E2%80%93_J._Douglas_Bake_Municipal_Airport",
 20715,"KOCW","small_airport","Warren Field",35.570499420166,-77.049797058105,38,"NA","US","US-NC","Washington","no","KOCW","OCW","KOCW","OCW","http://www.washingtonnc.gov/airport",,
-20716,"KODO","small_airport","Odessa Schlemeyer Field",31.920601,-102.387001,3004,"NA","US","US-TX","Odessa","no",,"ODT","KODO","ODO","http://www.co.ector.tx.us/default.aspx?Ector_County/SchlemeyerAirport","https://en.wikipedia.org/wiki/Odessa-Schlemeyer_Field","E02, Ector County"
+20716,"KODO","small_airport","Odessa Schlemeyer Field",31.920601,-102.387001,3004,"NA","US","US-TX","Odessa","no",,,"KODO","ODO","https://www.ectorcountytx.gov/Directory.aspx?DID=23","https://en.wikipedia.org/wiki/Odessa-Schlemeyer_Field","E02, Ector County"
 20717,"KODX","small_airport","Evelyn Sharp Field",41.62419891357422,-98.95240020751953,2070,"NA","US","US-NE","Ord","no",,,"KODX","ODX",,,
 20718,"KOEA","small_airport","O'Neal Airport",38.68521,-87.543138,414,"NA","US","US-IL","Lawrenceville","no",,"OEA","KOEA","OEA",,"https://en.wikipedia.org/wiki/O%27Neal_Airport",
 20719,"KOEB","small_airport","Branch County Memorial Airport",41.933399,-85.052597,959,"NA","US","US-MI","Coldwater","no",,,"KOEB","OEB",,"https://en.wikipedia.org/wiki/Branch_County_Memorial_Airport",
@@ -43400,7 +43400,7 @@
 3999,"LEAS","large_airport","Asturias Airport",43.563599,-6.03462,416,"EU","ES","ES-AS","Ranón","yes","LEAS","OVD","LEAS",,"https://www.aena.es/en/asturias.html","https://en.wikipedia.org/wiki/Asturias_Airport",
 30054,"LEAX","small_airport","La Axarquía-Leoni Benabu Airfield",36.801666,-4.135556,118,"EU","ES","ES-AN","Málaga","no","LEAX",,"LEAX",,,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_La_Axarqu%C3%ADa",
 550087,"LEAY","heliport","La Atalaya Firefighting Heliport",38.634316,-3.789527,3045,"EU","ES","ES-CM","Calzada de Calatrava","no",,,"LEAY",,,,
-4000,"LEBA","medium_airport","Córdoba Airport",37.841999,-4.84888,297,"EU","ES","ES-AN","Córdoba","no","LEBA","ODB","LEBA",,"https://www.aena.es/en/cordoba.html","https://en.wikipedia.org/wiki/C%C3%B3rdoba_Airport",
+4000,"LEBA","medium_airport","Córdoba Airport",37.841999,-4.84888,297,"EU","ES","ES-AN","Córdoba","yes","LEBA","ODB","LEBA",,"https://www.aena.es/en/cordoba.html","https://en.wikipedia.org/wiki/C%C3%B3rdoba_Airport",
 4001,"LEBB","large_airport","Bilbao Airport",43.301102,-2.91061,138,"EU","ES","ES-PV","Bilbao","yes","LEBB","BIO","LEBB",,"https://www.aena.es/en/bilbao.html","https://en.wikipedia.org/wiki/Bilbao_Airport",
 43249,"LEBC","heliport","Costa Brava-Centro Heliport",41.806959,3.036451,42,"EU","ES","ES-CT","Girona","no","LEBC",,"LEBC",,,,
 355324,"LEBD","heliport","El Bodon Heliport",40.484557,-6.577145,2647,"EU","ES","ES-CL","Salamanca","no","LEBD",,"LEBD",,,,
@@ -46995,7 +46995,7 @@
 319575,"MX-0246","small_airport","La Begoña Airport",21.126105,-100.40596,6740,"NA","MX","MX-GUA","Doctor Mora","no",,,,"LBG",,,
 319576,"MX-0247","small_airport","Aeródromo Sofía",20.539156,-101.451777,5650,"NA","MX","MX-GUA","Irapuato","no",,,,"SOF",,,
 319577,"MX-0248","small_airport","Campo Cortés Airport",20.775255,-101.347954,5748,"NA","MX","MX-GUA","Irapuato","no",,,,"CCR",,,
-319578,"MX-0249","small_airport","Estación Aérea Nº6 de la Fuerza Aérea Mexicana (Campo Militar 16-A Irapuato)",20.670116,-101.315838,5700,"NA","MX","MX-GUA","Irapuato","no",,,,,,"https://es.wikipedia.org/wiki/Estaci%C3%B3n_a%C3%A9rea_n.%C2%B0_6_Irapuato","MM70, MM2K, EAM-6"
+319578,"MX-0249","small_airport","Military Air Station 6",20.670116,-101.315838,5700,"NA","MX","MX-GUA","Irapuato","no",,,,,,"https://es.wikipedia.org/wiki/Estaci%C3%B3n_a%C3%A9rea_n.%C2%B0_6_Irapuato","MM70, MM2K, EAM-6, (Campo Militar 16-A Irapuato)"
 319579,"MX-0250","closed","Aeródromo Santa Rosalia",21.03045,-101.670569,5865,"NA","MX","MX-GUA","León","no",,,,,,,"MDD"
 319582,"MX-0251","small_airport","Aeródromo Los Filos",17.896226,-99.673043,4757,"NA","MX","MX-GRO","Eduardo Neri","no",,,,"FIL",,,
 319583,"MX-0252","closed","Aeródromo Tecuixiapan",17.97788,-99.38776,2440,"NA","MX","MX-GRO","Tepecoacuilco de Trujano","no",,,,,,,"FIL"
@@ -52349,7 +52349,7 @@
 342552,"PA-0029","small_airport","Wannukandi Airport",9.273166,-78.139873,13,"NA","PA","PA-GY","Wannukandi","no",,,,,,,
 342553,"PA-0030","small_airport","Mansukun Airport",9.05011,-77.80985,10,"NA","PA","PA-GY","Mansukum","no",,,,,,,
 342554,"PA-0031","closed","Napakanti Airport",9.012796,-77.802531,66,"NA","PA","PA-GY","Napakanti","no",,,,,,,
-342555,"PA-0032","small_airport","Caledonia Airport",8.90201,-77.69286,3,"NA","PA","PA-GY","Suletupu","no",,,"MPCA",,,,
+342555,"PA-0032","small_airport","Caledonia Airport",8.90201,-77.69286,3,"NA","PA","PA-GY","Suletupu","no","MPCA",,"MPCA",,,,"CDE"
 430649,"PA-0033","heliport","Soloy Heliport",8.4831,-82.0816,424,"NA","PA","PA-NB","Soloy","no",,,,,,,
 505196,"PA-0034","closed","Aidirgandí Airport",9.35515,-78.34587,23,"NA","PA","PA-GY","Aidirgandí","no",,,,,,,
 505212,"PA-0035","closed","Ingenio Las Cabras Airstrip",7.90044,-80.540391,112,"NA","PA","PA-6","Las Cabras","no",,,,,,,
@@ -61919,7 +61919,7 @@
 308268,"SMGH","small_airport","Godo Holo Airstrip",4.0583,-54.7861,280,"SA","SR","SR-SI","Pikienkondre of Miranda","yes",,,"SMGH",,,"https://en.wikipedia.org/wiki/Godo_Holo_Airstrip",
 323762,"SMGR","small_airport","Gross Rosebel Airstrip",5.091667,-55.249167,,"SA","SR","SR-BR",,"no",,,"SMGR",,,"https://en.wikipedia.org/wiki/Gross_Rosebel_Airstrip",
 323763,"SMHA","small_airport","Henri Alwies Airstrip",5.831891,-55.636875,22,"SA","SR","SR-SA","Antongron","no",,,"SMHA",,,"https://en.wikipedia.org/wiki/Henri_Alwies_Airstrip",
-507093,"SMHP","heliport","Gummels Heliport",5.858887,-55.193117,49,"SA","SR","SR-PM","Paramaribo","no",,,"SMHP",,,"https://en.wikipedia.org/wiki/Gummels_Heliport","Kwatta"
+507093,"SMHP","heliport","Gummels Heliport",5.858887,-55.193117,49,"SA","SR","SR-PM","Paramaribo","no",,"EAX","SMHP",,,"https://en.wikipedia.org/wiki/Gummels_Heliport","Kwatta"
 323764,"SMJA","small_airport","Jarikaba Airstrip",5.826389,-55.3375,19,"SA","SR","SR-SA","Jarikaba","no",,,"SMJA",,,"https://en.wikipedia.org/wiki/Jarikaba_Airstrip",
 6195,"SMJP","large_airport","Johan Adolf Pengel International Airport",5.45283,-55.187801,59,"SA","SR","SR-PR","Paramaribo","yes","SMJP","PBM","SMJP",,"http://www.japi-airport.com","https://en.wikipedia.org/wiki/Johan_Adolf_Pengel_International_Airport","Zandery, Zanderij, JAP International Airport, JAPI Airport, JAPIA, ZY Airport"
 32328,"SMKA","small_airport","Kabalebo Airport",4.406617,-57.223678,535,"SA","SR","SR-SI","Kabalebo","no",,,"SMKA",,,"https://en.wikipedia.org/wiki/Kabalebo_Airstrip",
@@ -63017,7 +63017,7 @@
 348619,"SR-0006","small_airport","Ramnath Agro Airstrip",5.88091,-56.81213,3,"SA","SR","SR-NI","Middenstandspolder","no",,,,,,,
 348620,"SR-0007","small_airport","Hazard Airstrip",5.881552,-56.956718,10,"SA","SR","SR-NI","Oostelijke Polders","no",,,,,,,
 348621,"SR-0008","small_airport","Manglie Airport",5.88444,-56.97911,10,"SA","SR","SR-NI","Nieuw-Nickerie","no",,,,,,,
-598609,"SR-0009","small_airport","Eduard Alexander Gummels Airport",5.8604,-55.192,49,"SA","SR","SR-PM","Kwatta","yes","SMEG","EAX",,,"https://eagairport.sr/","https://en.wikipedia.org/wiki/Eduard_Alexander_Gummels_Airport",
+598609,"SR-0009","small_airport","Eduard Alexander Gummels Airport",5.863807,-55.189504,49,"SA","SR","SR-PM","Kwatta","yes","SMEG",,"SMEG",,"https://eagairport.sr/","https://en.wikipedia.org/wiki/Eduard_Alexander_Gummels_Airport",
 314712,"SRL","small_airport","Palo Verde Airport",27.0927,-112.0985,127,"NA","MX","MX-BCS","Mulegé","yes",,"SRL",,"CIB",,"https://en.wikipedia.org/wiki/Palo_Verde_Airport","CIB, PVP, Chivato Bay, San Bruno"
 314728,"SRM","small_airport","Sandringham Airport",-24.0568,139.0821,313,"OC","AU","AU-QLD","Sandringham Station","no",,"SRM",,,,,
 24676,"SRV","small_airport","Stony River 2 Airport",61.7897,-156.589005,230,"NA","US","US-AK","Stony River","yes",,"SRV","SRV","SRV",,"https://en.wikipedia.org/wiki/Stony_River_Airport",
@@ -84905,7 +84905,7 @@
 331866,"ZA-0159","small_airport","SKA SA Karoo Landing Strip",-30.6938,21.4608,3427,"AF","ZA","ZA-NC","Carnarvon","no",,,,,,,
 332375,"ZA-0160","closed","Chalumna River Airstrip",-33.21,27.572,20,"AF","ZA","ZA-EC","Kayser's Beach","no",,,,,,,
 330312,"ZA-0161","small_airport","Klipriver Airfield",-26.475684,28.111032,5001,"AF","ZA","ZA-GT","Midvaal","no",,,,,,,
-330555,"ZA-0162","small_airport","Bingelela",-28.711116,29.331242,3731,"AF","ZA","ZA-NL","Bergville","no",,,,,"https://www.bingelela.co.za/",,"Sling aircraft, Places to eat, flyin, breakfast, Bergville. Accomodation"
+330555,"ZA-0162","small_airport","Bingelela",-28.711116,29.331242,3731,"AF","ZA","ZA-NL","Bergville","no",,,,,"https://www.bingelela.co.za/",,"Sling aircraft"
 333001,"ZA-0163","small_airport","Kalahari Oryx",-28.421977,22.200966,2880,"AF","ZA","ZA-NC","Upington","no",,,,,,,"Tweepoort"
 337687,"ZA-0164","small_airport","Vlakteplaas Airstrip",-33.969025,24.939802,216,"AF","ZA","ZA-EC","Jeffreys Bay","no",,,,,"http://www.skydivejeffreysbay.co.za/vlakteplaas",,
 340246,"ZA-0165","small_airport","Manzengwenya Airstrip",-27.25942,32.7522,,"AF","ZA","ZA-NL","Manzengwenya","no",,,,,,,
