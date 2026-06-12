@@ -14550,7 +14550,7 @@
 342290,"BR-1454","small_airport","Cedro Airport",-6.610627,-39.04927,935,"SA","BR","BR-CE","Cedro","no",,,,,,,
 342291,"BR-1455","closed","Orós Airport",-6.252312,-38.914457,787,"SA","BR","BR-CE","Orós","no",,,,,,,
 342312,"BR-1456","heliport","Reserva Mangabeiras Heliport",-11.248897,-37.336392,33,"SA","BR","BR-SE","Estância","no",,,"SITW","SE0005",,,
-342313,"BR-1457","small_airport","Fazenda Yara Airport",-21.065692,-54.114186,1325,"SA","BR","BR-MS","Campo Grande","no",,,,,,,"SIYX"
+342313,"BR-1457","small_airport","Fazenda Yara Airport",-21.065692,-54.114186,1352,"SA","BR","BR-MS","Campo Grande","no",,,"SN1X","MS0819",,,"SIYX"
 342329,"BR-1458","small_airport","Fazenda Chapadinha Airport",-29.650909,-54.386115,407,"SA","BR","BR-RS","São Pedro do Sul","no",,,,,,,"SJCS"
 342330,"BR-1459","small_airport","SJ Agropecuária Airstrip",-13.694265,-45.888133,2848,"SA","BR","BR-BA","Correntina","no",,,"SJCU","BA0344",,,
 342331,"BR-1460","small_airport","Pilar do Sul Airstrip",-23.83405,-47.71938,2480,"SA","BR","BR-SP","Pilar do Sul","no",,,,,,,
@@ -40788,7 +40788,7 @@
 20713,"KOCH","small_airport","A L Mangham Jr. Regional Airport",31.57799911,-94.70950317,355,"NA","US","US-TX","Nacogdoches","no","KOCH","OCH","KOCH","OCH","http://www.ci.nacogdoches.tx.us/index.aspx?nid=634",,
 20714,"KOCQ","small_airport","J. Douglas Bake Memorial Airport",44.874286,-87.91171,604,"NA","US","US-WI","Oconto","no",,,"KOCQ","OCQ",,"https://en.wikipedia.org/wiki/Oconto_%E2%80%93_J._Douglas_Bake_Municipal_Airport",
 20715,"KOCW","small_airport","Warren Field",35.570499420166,-77.049797058105,38,"NA","US","US-NC","Washington","no","KOCW","OCW","KOCW","OCW","http://www.washingtonnc.gov/airport",,
-20716,"KODO","small_airport","Odessa Schlemeyer Field",31.920601,-102.387001,3004,"NA","US","US-TX","Odessa","no",,,"KODO","ODO","https://www.ectorcountytx.gov/Directory.aspx?DID=23","https://en.wikipedia.org/wiki/Odessa-Schlemeyer_Field","E02, Ector County"
+20716,"KODO","small_airport","Odessa Schlemeyer Field",31.920601,-102.387001,3004,"NA","US","US-TX","Odessa","no",,"ODT","KODO","ODO","https://www.ectorcountytx.gov/Directory.aspx?DID=23","https://en.wikipedia.org/wiki/Odessa-Schlemeyer_Field","E02, Ector County"
 20717,"KODX","small_airport","Evelyn Sharp Field",41.62419891357422,-98.95240020751953,2070,"NA","US","US-NE","Ord","no",,,"KODX","ODX",,,
 20718,"KOEA","small_airport","O'Neal Airport",38.68521,-87.543138,414,"NA","US","US-IL","Lawrenceville","no",,"OEA","KOEA","OEA",,"https://en.wikipedia.org/wiki/O%27Neal_Airport",
 20719,"KOEB","small_airport","Branch County Memorial Airport",41.933399,-85.052597,959,"NA","US","US-MI","Coldwater","no",,,"KOEB","OEB",,"https://en.wikipedia.org/wiki/Branch_County_Memorial_Airport",
@@ -60162,6 +60162,10 @@
 36411,"SIZX","small_airport","Inácio Luís do Nascimento Airport",-11.2966,-57.5495,870,"SA","BR","BR-MT","Juara","no","SIZX","JUA","SIZX","MT0018",,"http://pt.wikipedia.org/wiki/Aeroporto_In%C3%A1cio_Lu%C3%ADs_do_Nascimento","Juara Sul Airport"
 36412,"SIZY","heliport","IMOCOP Heliport",-22.695981,-47.561842,1775,"SA","BR","BR-SP","Piracicaba","no",,,"SIZY","SP0584",,,"Coopersucar CTC"
 541476,"SJ09","small_airport","Senhor do Bonfim Airport",-10.51862,-40.084642,1529,"SA","BR","BR-BA","Senhor do Bonfim","no",,,"SJO9","BA0253",,,
+609227,"SJ1O","small_airport","Fazenda São José Airport",-13.152742,-57.976106,1591,"SA","BR","BR-MT","Brasnorte","no",,,"SJ1O","MT1149",,,
+609224,"SJ1R","small_airport","Fazendas Reunidas Baumgart Airstrip",-16.870278,-50.95977,2737,"SA","BR","BR-GO","Paraúna","no",,,"SJ1R","GO0101",,,
+609222,"SJ1V","small_airport","Aeroparque Bela Vista",-16.88132,-49.012292,2600,"SA","BR","BR-GO","Bela Vista de Goiás","no",,,"SJ1V","GO0225",,,
+609220,"SJ1Z","small_airport","Fazenda Jeovazão Airport",-14.211363,-47.077131,1594,"SA","BR","BR-GO","Flores de Goiás","no",,,"SJ1Z","GO0381",,,
 354291,"SJ22","small_airport","Fazenda Figueira Branca Airport",-10.763943,-54.485039,1365,"SA","BR","BR-MT","Marcelândia","no",,,"SJ22","MT0794",,,
 354586,"SJ23","small_airport","Fazenda Nova Aliança Airstrip",-15.648889,-40.835833,3071,"SA","BR","BR-BA","Encruzilhada","no",,,"SJ23","BA0397",,,
 355384,"SJ24","heliport","Vale dos Pinheiros Heliport",-22.7375,-45.533889,5889,"SA","BR","BR-SP","Campos do Jordão","no",,,"SJ24","SP1375",,,
@@ -60252,6 +60256,10 @@
 355187,"SJ4W","small_airport","Mato Verde Municipal Airport",-15.347287,-42.883896,1755,"SA","BR","BR-MG","Mato Verde","no",,,"SJ4W","MG0552",,,
 354590,"SJ4X","small_airport","Fazenda Caiçara Airstrip",-18.468611,-45.291944,1985,"SA","BR","BR-MG","Três Marias","no",,,"SJ4X","MG0541",,,
 354697,"SJ4Z","small_airport","Paes Landim - Vale do Fidalgo Airport",-7.737562,-42.303877,935,"SA","BR","BR-PI","Paes Landim","no",,,"SJ4Z","PI0072",,,
+609218,"SJ56","heliport","Helifor Heliport",-3.810593,-38.612253,85,"SA","BR","BR-CE","Fortaleza","no",,,"SJ56","CE0156",,,
+609216,"SJ58","heliport","Helimarte Heliport",-23.41094,-47.020917,2516,"SA","BR","BR-SP","Pirapora do Bom Jesus","no",,,"SJ58","SP1359",,,
+609211,"SJ5A","small_airport","Lago Azul Airstrip",2.737547,-60.677694,236,"SA","BR","BR-RR","Cantá","no",,,"SJ5A","RR0174",,,
+609209,"SJ5D","small_airport","Fazenda Campo Dourado Airstrip",-11.448306,-48.621628,840,"SA","BR","BR-TO","Gurupi","no",,,"SJ5D","TO0146",,,
 609034,"SJ5M","heliport","Michelon Helipad",-29.68779,-52.42386,650,"SA","BR","BR-RS","Santa Cruz do Sul","no",,,"SJ5M","RS0227",,,
 609032,"SJ5R","heliport","AG Fazenda Santa Rita Heliport",-12.887147,-39.608194,1220,"SA","BR","BR-BA","Santa Teresinha","no",,,"SJ5R","BA0526",,,
 354013,"SJ62","small_airport","Fazenda Nossa Senhora de Lourdes Airport",-22.646685,-52.947378,1204,"SA","BR","BR-PR","Diamante do Norte","no",,,"SJ62","PR0212",,,
@@ -60774,6 +60782,7 @@
 36811,"SJQW","heliport","Warna Roos Heliport",-28.181110382080078,-53.21666717529297,1804,"SA","BR","BR-RS","Santa Bárbara Do Sul","no",,,"SJQW",,,,
 36812,"SJQX","small_airport","Fazenda Uruará Airport",-3.523351,-53.393923,797,"SA","BR","BR-PA","Uruará","no",,,"SJQX",,,,
 36813,"SJQY","heliport","Terminal do Solimões Heliport",-3.944166898727417,-63.163612365722656,112,"SA","BR","BR-AM","Coari","no",,,"SJQY",,,,
+609207,"SJR1","heliport","Storm Ranch Heliport",-23.4371,-46.347642,2548,"SA","BR","BR-SP","Itaquaquecetuba","no",,,"SJR1","SP1515",,,
 564701,"SJR3","small_airport","Fazenda Caaguassu Airport",-12.28,-54.124722,1168,"SA","BR","BR-MT","Nova Ubiratã","no",,,"SJR3","MT0936",,,
 553245,"SJR4","small_airport","Fazenda Simeão Brandão Airport",-6.5625,-44.5725,1467,"SA","BR","BR-MA","Mirador","no",,,"SJR4","MA0178",,,
 559876,"SJR6","small_airport","Fazenda Mercúrio Airstrip",-12.183177,-54.40029,1188,"SA","BR","BR-MT","Feliz Natal","no",,,"SJR6","MT0948",,,
@@ -61919,7 +61928,7 @@
 308268,"SMGH","small_airport","Godo Holo Airstrip",4.0583,-54.7861,280,"SA","SR","SR-SI","Pikienkondre of Miranda","yes",,,"SMGH",,,"https://en.wikipedia.org/wiki/Godo_Holo_Airstrip",
 323762,"SMGR","small_airport","Gross Rosebel Airstrip",5.091667,-55.249167,,"SA","SR","SR-BR",,"no",,,"SMGR",,,"https://en.wikipedia.org/wiki/Gross_Rosebel_Airstrip",
 323763,"SMHA","small_airport","Henri Alwies Airstrip",5.831891,-55.636875,22,"SA","SR","SR-SA","Antongron","no",,,"SMHA",,,"https://en.wikipedia.org/wiki/Henri_Alwies_Airstrip",
-507093,"SMHP","heliport","Gummels Heliport",5.858887,-55.193117,49,"SA","SR","SR-PM","Paramaribo","no",,"EAX","SMHP",,,"https://en.wikipedia.org/wiki/Gummels_Heliport","Kwatta"
+507093,"SMHP","heliport","Gummels Heliport",5.858887,-55.193117,49,"SA","SR","SR-PM","Paramaribo","no",,,"SMHP",,,"https://en.wikipedia.org/wiki/Gummels_Heliport","Kwatta"
 323764,"SMJA","small_airport","Jarikaba Airstrip",5.826389,-55.3375,19,"SA","SR","SR-SA","Jarikaba","no",,,"SMJA",,,"https://en.wikipedia.org/wiki/Jarikaba_Airstrip",
 6195,"SMJP","large_airport","Johan Adolf Pengel International Airport",5.45283,-55.187801,59,"SA","SR","SR-PR","Paramaribo","yes","SMJP","PBM","SMJP",,"http://www.japi-airport.com","https://en.wikipedia.org/wiki/Johan_Adolf_Pengel_International_Airport","Zandery, Zanderij, JAP International Airport, JAPI Airport, JAPIA, ZY Airport"
 32328,"SMKA","small_airport","Kabalebo Airport",4.406617,-57.223678,535,"SA","SR","SR-SI","Kabalebo","no",,,"SMKA",,,"https://en.wikipedia.org/wiki/Kabalebo_Airstrip",
@@ -62074,6 +62083,7 @@
 509309,"SN4Y","heliport","Acelen Heliport",-12.71004,-38.558286,49,"SA","BR","BR-BA","São Francisco do Conde","no",,,"SN4Y","BA0432",,,
 509306,"SN4Z","small_airport","Fazenda Piracicaba Airport",-17.768889,-55.395833,499,"SA","BR","BR-MS","Corumbá","no",,,"SN4Z","MS0689",,,
 24627,"SN50","heliport","Mt Carmel Medical Center Heliport",37.38029861450195,-94.6852035522461,915,"NA","US","US-KS","Pittsburg","no",,,"SN50","SN50",,,
+609204,"SN51","small_airport","Fazenda 51",-11.032194,-46.253086,2628,"SA","BR","BR-BA","Formosa do Rio Preto","no",,,"SN51","BA0529",,,
 24629,"SN52","small_airport","Pilot Pointe Estates Airport",37.48139954,-97.01200104,1237,"NA","US","US-KS","Douglass","no",,,"SN52","SN52",,,
 24630,"SN53","small_airport","Bonner Field",37.43339920043945,-95.91690063476562,950,"NA","US","US-KS","Fredonia","no",,,"SN53","SN53",,,
 24631,"SN54","heliport","Overland Park Regional Medical Center Heliport",38.936905,-94.725906,961,"NA","US","US-KS","Overland Park","no",,,"SN54","SN54",,,
@@ -63017,7 +63027,7 @@
 348619,"SR-0006","small_airport","Ramnath Agro Airstrip",5.88091,-56.81213,3,"SA","SR","SR-NI","Middenstandspolder","no",,,,,,,
 348620,"SR-0007","small_airport","Hazard Airstrip",5.881552,-56.956718,10,"SA","SR","SR-NI","Oostelijke Polders","no",,,,,,,
 348621,"SR-0008","small_airport","Manglie Airport",5.88444,-56.97911,10,"SA","SR","SR-NI","Nieuw-Nickerie","no",,,,,,,
-598609,"SR-0009","small_airport","Eduard Alexander Gummels Airport",5.863807,-55.189504,49,"SA","SR","SR-PM","Kwatta","yes","SMEG",,"SMEG",,"https://eagairport.sr/","https://en.wikipedia.org/wiki/Eduard_Alexander_Gummels_Airport",
+598609,"SR-0009","small_airport","Eduard Alexander Gummels Airport",5.863807,-55.189504,49,"SA","SR","SR-PM","Kwatta","yes","SMEG","EAX","SMEG",,"https://eagairport.sr/","https://en.wikipedia.org/wiki/Eduard_Alexander_Gummels_Airport",
 314712,"SRL","small_airport","Palo Verde Airport",27.0927,-112.0985,127,"NA","MX","MX-BCS","Mulegé","yes",,"SRL",,"CIB",,"https://en.wikipedia.org/wiki/Palo_Verde_Airport","CIB, PVP, Chivato Bay, San Bruno"
 314728,"SRM","small_airport","Sandringham Airport",-24.0568,139.0821,313,"OC","AU","AU-QLD","Sandringham Station","no",,"SRM",,,,,
 24676,"SRV","small_airport","Stony River 2 Airport",61.7897,-156.589005,230,"NA","US","US-AK","Stony River","yes",,"SRV","SRV","SRV",,"https://en.wikipedia.org/wiki/Stony_River_Airport",
@@ -63235,6 +63245,7 @@
 600822,"SS72","heliport","Cimatec Park Heliport",-12.708442,-38.176489,115,"SA","BR","BR-BA","Camaçari","no",,,"SS72","BA0475",,,
 600824,"SS73","small_airport","Fazenda Boa Sorte Airport",-5.690586,-48.217306,446,"SA","BR","BR-PA","Palestina do Pará","no",,,"SS73","PA0432",,,
 600826,"SS74","small_airport","São João Airport",-9.462325,-57.025123,735,"SA","BR","BR-MT","Paranaíta","no",,,"SS74","MT1131",,,
+609202,"SS75","heliport","Helicentro Vale do Aço Heliport",-19.526758,-42.680644,1132,"SA","BR","BR-MG","Coronel Fabriciano","no",,,"SS75","MG0675",,,
 600828,"SS76","heliport","Santa Cecília Heliport",-22.978614,-43.27105,1168,"SA","BR","BR-RJ","Rio de Janeiro","no",,,"SS76","RJ0378",,,
 600830,"SS77","heliport","Deltaville Heliport",-27.479988,-48.668948,13,"SA","BR","BR-SC","Biguaçu","no",,,"SS77","SC0253",,,
 600832,"SS78","small_airport","Fazenda Vó Afife Airport",-10.098012,-52.779639,1058,"SA","BR","BR-MT","Santa Cruz do Xingu","no",,,"SS78","MT1129",,,
@@ -67973,7 +67984,7 @@
 11177,"US-10157","closed","Steinert Lakes Airport",36.220746,-97.843609,1120,"NA","US","US-OK","Bison","no",,,,,,,"46OK"
 11180,"US-10158","closed","Gaffney Airport",35.139529,-81.695055,840,"NA","US","US-SC","Gaffney","no",,,,,,,"46SC"
 11182,"US-10159","closed","02 Ranch Airport",29.873373,-103.702656,3799,"NA","US","US-TX","Alpine","no",,,,,,,"E46, 46TE"
-331671,"US-1016","small_airport","Irish Creek Airfield",37.880372,-97.887806,1512,"NA","US","US-KS","Hutchinson","no",,,"SN51","SN51",,,
+331671,"US-1016","small_airport","Irish Creek Airfield",37.878782,-97.894077,1512,"NA","US","US-KS","Hutchinson","no",,,,"SN51",,,
 11183,"US-10160","closed","Lavon North Airport",33.128201,-96.509697,565,"NA","US","US-TX","Princeton","no",,,,,,,"46TS, 46F"
 11188,"US-10161","closed","Windy Hill Airport",33.310827,-97.101741,600,"NA","US","US-TX","Denton","no",,,,,,,"46XS"
 11190,"US-10162","closed","Mabry Field Ultralight",36.043217,-91.945192,550,"NA","US","US-AR","Melbourne","no",,,,,,,"47AR"
