@@ -65580,6 +65580,9 @@
 609036,"TR-0316","heliport","Antalya Sehir Hastanesi Helipad",36.953355,30.664307,810,"AS","TR","TR-07","Antalya","no",,,,,,,
 609037,"TR-0317","heliport","Antalya Il Saglik Heliport",36.915817,30.648068,225,"AS","TR","TR-07","Antalya","no",,,,,,,
 609038,"TR-0318","heliport","Akseki OGM Helipad",37.03155,31.76231,3100,"AS","TR","TR-07","Antalya","no",,,,,,,
+609243,"TR-0319","heliport","Yukari Gülderen Border Post Helipad",39.03691,44.110299,,"AS","TR","TR-65","Çaldiran","no",,,,,,,
+609244,"TR-0320","heliport","Beydogan Border Post Helipad",39.016447,44.156804,,"AS","TR","TR-65","Çaldiran","no",,,,,,,
+609245,"TR-0321","closed","Sarıçimen Border Post Helipad (Disused)",39.164302,44.098688,,"AS","TR","TR-65","Çaldiran","no",,,,,,,
 43074,"TRPG","large_airport","John A. Osborne Airport",16.791835,-62.193204,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
@@ -79933,19 +79936,19 @@
 31118,"UTKF","medium_airport","Fergana International Airport",40.358799,71.745003,1980,"AS","UZ","UZ-FA","Fergana","yes","UZFF","FEG","UZFF",,,"https://en.wikipedia.org/wiki/Fergana_International_Airport","UTFF, UTKF"
 41794,"UTKK","small_airport","Kokand Airport",40.447781,70.991149,1357,"AS","UZ","UZ-FA","Kokand","no","UZKK","OQN","UZKK",,,,"UTKK, Kokand South"
 32558,"UTNM","small_airport","Muynak Airport",43.753636,59.029884,177,"AS","UZ","UZ-QR","Muynak","no","UZNM","MOK","UZNM",,,"https://en.wikipedia.org/wiki/Muynak_Airport","UTMM"
-32013,"UTNN","large_airport","Nukus International Airport",42.4884,59.623299,246,"AS","UZ","UZ-QR","Nukus","yes","UZNN","NCU","UTNN",,,"https://en.m.wikipedia.org/wiki/Nukus_Airport","Nokis"
+32013,"UTNN","large_airport","Nukus International Airport",42.4884,59.623299,246,"AS","UZ","UZ-QR","Nukus","yes","UZNN","NCU","UZNN",,,"https://en.m.wikipedia.org/wiki/Nukus_Airport","Nokis, UTNN"
 32559,"UTNT","closed","Turtkul Airport",41.57487,60.966335,305,"AS","UZ","UZ-QR","Turtkul","no",,,,,,,"UTNT"
 26387,"UTNU","large_airport","Urgench International Airport",41.58274,60.64338,320,"AS","UZ","UZ-XO","Urgench","yes","UZNU","UGC","UZNU",,,"https://en.wikipedia.org/wiki/Urgench_Airport","UTNU"
 32561,"UTSA","medium_airport","Navoi International Airport",40.117599,65.172658,1140,"AS","UZ","UZ-NW","Navoi","yes","UZSA","NVI","UZSA",,,"https://en.wikipedia.org/wiki/Navoi_International_Airport","UTSA"
 26388,"UTSB","large_airport","Bukhara International Airport",39.775319,64.482279,751,"AS","UZ","UZ-BU","Bukhara","yes","UZSB","BHK","UZSB",,,"https://en.wikipedia.org/wiki/Bukhara_International_Airport","UTSB, Buhara, Buxoro"
 41812,"UTSH","small_airport","Shahrisabz Airport",39.068003,66.758388,1900,"AS","UZ","UZ-QA","Shahrisabz","no","UZSH",,"UZSH",,,,"UTSH"
-26417,"UTSK","small_airport","Karshi Airport",38.802246,65.773068,1230,"AS","UZ","UZ-QA","Karshi","yes","UZSK","KSQ","UTSK","UT1N",,"https://en.wikipedia.org/wiki/Karshi_Airport","Qarshi Airport"
+26417,"UTSK","small_airport","Karshi Airport",38.802246,65.773068,1230,"AS","UZ","UZ-QA","Karshi","yes","UZSK","KSQ","UZSK","UT1N",,"https://en.wikipedia.org/wiki/Karshi_Airport","Qarshi Airport, UTSK"
 26389,"UTSL","small_airport","Karshi-Khanabad Air Base",38.833599,65.921501,1365,"AS","UZ","UZ-QA","Khanabad","no","UZSL",,"UZSL",,,"https://en.wikipedia.org/wiki/Karshi-Khanabad_Air_Base","UTSL, K2 Air Base, Qarshi Khanabad Airport"
 41821,"UTSM","small_airport","Tandy Bulak Airport",41.76217,64.600304,716,"AS","UZ","UZ-NW","Tandy Bulak","no","UZSM",,"UZSM",,,,"UTSM"
 41685,"UTSN","small_airport","Sugraly Airport",41.613795,64.232963,1396,"AS","UZ","UZ-NW","Zarafshan","no","UZSN","AFS","UZSN",,,"https://en.wikipedia.org/wiki/Zarafshan_Airport","UTSN, UT76, Zarafshon"
 41686,"UTSR","small_airport","Sariasiya Airport",38.408006,67.94502,1949,"AS","UZ","UZ-SU","Sariasiya","no","UZSR",,"UZSR",,,,"UTSR"
 26390,"UTSS","large_airport","Samarkand International Airport",39.701842,66.981467,2224,"AS","UZ","UZ-SA","Samarkand","yes","UZSS","SKD","UZSS",,,"https://en.wikipedia.org/wiki/Samarkand_Airport","UTSS"
-26391,"UTST","medium_airport","Termez Airport",37.287261,67.311869,1027,"AS","UZ","UZ-SU","Termez","yes","UZST","TMJ","UTST",,,"https://en.wikipedia.org/wiki/Termez_Airport",
+26391,"UTST","medium_airport","Termez Airport",37.287261,67.311869,1027,"AS","UZ","UZ-SU","Termez","yes","UZST","TMJ","UZST",,,"https://en.wikipedia.org/wiki/Termez_Airport","UTST"
 32562,"UTSU","small_airport","Uchkuduk Airport",42.083099,63.449299,416,"AS","UZ","UZ-NW","Uchkuduk","no","UZSU",,"UZSU",,,,"UTSU"
 41687,"UTTP","medium_airport","Tashkent-Khumo International Airport",41.312889,69.395535,1574,"AS","UZ","UZ-TO","Tashkent","yes","UZTP","TVT","UZTP",,,"https://uz.wikipedia.org/wiki/Toshkent-sharqiy_aerodromi","Tashkent Vostochny Airport, Tashkent East, Humo"
 26392,"UTTT","large_airport","Tashkent International Airport",41.2579,69.281197,1417,"AS","UZ","UZ-TO","Tashkent","yes","UZTT","TAS","UZTT",,,"https://en.wikipedia.org/wiki/Tashkent_International_Airport","UTTT"
