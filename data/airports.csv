@@ -149,7 +149,7 @@
 6665,"02MS","small_airport","Watts Field",34.095701,-90.846131,153,"NA","US","US-MS","Rochdale","no",,,"02MS","02MS",,,
 6668,"02NE","small_airport","Benes Service Airport",41.074501037597656,-96.90450286865234,1550,"NA","US","US-NE","Valparaiso","no",,,"02NE","02NE",,,
 6669,"02NH","seaplane_base","Iroquois Landing Seaplane Base",44.657100677490234,-71.21910095214844,1180,"NA","US","US-NH","Dummer","no",,,"02NH","02NH",,,
-6670,"02NJ","heliport","Penske Heliport",40.55730056762695,-74.46710205078125,78,"NA","US","US-NJ","Piscataway","no",,,"02NJ","02NJ",,,
+6670,"02NJ","closed","Penske Heliport",40.557301,-74.467102,78,"NA","US","US-NJ","Piscataway","no",,,,,,,"02NJ"
 526225,"02NM","small_airport","FFR Animas Landing Strip",32.09071,-108.870735,4240,"NA","US","US-NM","Animas","no",,,"02NM","02NM",,,
 506036,"02NR","heliport","McGee 02 Heliport",35.592197,-77.377372,25,"NA","US","US-NC","Greenville","no",,,"02NR","02NR",,,
 6671,"02NV","small_airport","Paiute Meadows Airport",41.299551,-118.926709,4443,"NA","US","US-NV","Winnemucca","no",,,"02NV","02NV",,,
@@ -2598,7 +2598,7 @@
 9222,"28PR","heliport","La Concepcion Hospital Heliport",18.108699798583984,-67.03939819335938,120,"NA","PR","PR-U-A","San German","no",,,"28PR","28PR",,,
 9223,"28TA","small_airport","Duval County Ranch Co Airport",27.83359909,-98.71700287,665,"NA","US","US-TX","Freer","no",,,"28TA","28TA",,,
 9224,"28TE","small_airport","Midlake Airport",29.268299102783203,-98.33699798583984,535,"NA","US","US-TX","Elmendorf","no",,,"28TE","28TE",,,
-9225,"28TN","heliport","Bhm East Helipad Heliport",35.12670135498047,-89.86190032958984,261,"NA","US","US-TN","Memphis","no",,,"28TN","28TN",,,
+9225,"28TN","heliport","BHM East Helipad",35.130309,-89.862673,261,"NA","US","US-TN","Memphis","no",,,"28TN","28TN",,,
 346566,"28TT","small_airport","Left Wing Low Airport",31.995861,-97.002169,596,"NA","US","US-TX","Bynum","no",,,"28TT","28TT",,,
 9227,"28TX","small_airport","Lehman Airport",34.085899353027344,-99.4551010131836,1275,"NA","US","US-TX","Vernon","no",,,"28TX","28TX",,,
 9228,"28U","small_airport","Owyhee Reservoir State Airport",43.42462,-117.345483,2680,"NA","US","US-OR","Owyhee","no",,,"K28U","28U",,"https://en.wikipedia.org/wiki/Owyhee_Reservoir_State_Airport",
@@ -2810,7 +2810,7 @@
 20770,"2IG4","small_airport","Ed-Air Airport",38.851782,-87.49987,426,"NA","US","US-IN","Oaktown","no",,"OTN","KI20","I20","http://www.edairinc.com/index.html","https://en.wikipedia.org/wiki/Ed-Air_Airport","2IG4, KOTN, OTN, Emison, Green, Vincennes Executive Inn"
 9371,"2IG5","heliport","Heli-Bell Museum Heliport",41.171556,-86.042816,822,"NA","US","US-IN","Mentone","no",,,"2IG5","2IG5","https://www.bellaircraftmuseum.org/",,"Formerly 2E4, 9IN4"
 45405,"2IG6","heliport","Indiana University Health Bloomington Heliport",39.160646,-86.541531,800,"NA","US","US-IN","Bloomington","no",,,"2IG6","2IG6",,,
-9440,"2II0","small_airport","Indian Hills Flying Field",40.417613,-86.150215,860,"NA","US","US-IN","Kokomo","no",,,"2II0","2II0",,,
+9440,"2II0","closed","Indian Hills Flying Field",40.417613,-86.150215,860,"NA","US","US-IN","Kokomo","no",,,,,,,
 9443,"2II3","small_airport","Stottlemyer Airport",40.229283,-85.816269,865,"NA","US","US-IN","Frankton","no",,,"2II3","2II3",,,
 9444,"2II4","heliport","Psi Heliport",39.71120071411133,-86.3855972290039,780,"NA","US","US-IN","Plainfield","no",,,"2II4","2II4",,,
 9445,"2II5","heliport","Burns International Harbor Heliport",41.637001037597656,-87.15229797363281,596,"NA","US","US-IN","Portage","no",,,"2II5","2II5",,,
@@ -12972,7 +12972,7 @@
 598544,"BH-0022","closed","Bahrain International Circuit South Helipad",26.027766,50.511129,,"AS","BH","BH-14","Sakhir","no",,,,,,,
 598579,"BH-0023","heliport","Sheik Isa Air Base Helipad",25.946174,50.608078,,"AS","BH","BH-14","Al Dur","no",,,,,,,
 30705,"BHL","small_airport","Bahía de los Ángeles Airport",28.9786,-113.560997,34,"NA","MX","MX-BCN","Ensenada","no",,"BHL",,"BAX",,"https://en.wikipedia.org/wiki/Bah%C3%ADa_de_los_%C3%81ngeles_Airport",
-302410,"BHT","small_airport","Brighton Downs Airport",-23.363333,141.562778,390,"OC","AU","AU-QLD","Brighton Downs","no",,"BHT","YBTD",,,,
+302410,"BHT","small_airport","Brighton Downs Airport",-23.365763,141.562947,390,"OC","AU","AU-QLD","Brighton Downs","no",,"BHT","YBTD",,,,
 318985,"BI-0001","small_airport","Ruyigi Airport",-3.471371,30.231485,5194,"AF","BI","BI-RY","Ruyigi","no",,,,,,,
 318986,"BI-0002","small_airport","Mwumba Airport",-2.879447,29.832178,,"AF","BI","BI-NG","Ngozi","no",,,,,,,
 318984,"BI-0003","closed","Nyanza-Lac Airport",-4.339434,29.598245,2559,"AF","BI","BI-MA","Nyanza-Lac","no",,,,,,"https://en.wikipedia.org/wiki/Nyanza-Lac_Airport","HBBL, HBBL"
@@ -25527,7 +25527,7 @@
 17213,"FA21","heliport","Memorial Hospital West Helistop",26.014299392700195,-80.3114013671875,12,"NA","US","US-FL","Pembroke Pines","no",,,"FA21","FA21",,,
 17214,"FA22","heliport","Dove Heliport",27.33340072631836,-82.43009948730469,12,"NA","US","US-FL","Sarasota","no",,,"FA22","FA22",,,
 17215,"FA23","heliport","Sarasota Memorial Hospital Heliport",27.317800521850586,-82.52980041503906,100,"NA","US","US-FL","Sarasota","no",,,"FA23","FA23",,,
-17216,"FA24","small_airport","Horseshoe Acres Airpark",27.093299865722656,-80.61219787597656,9,"NA","US","US-FL","Indiantown","no",,,"FA24","FA24",,,
+17216,"FA24","closed","Horseshoe Acres Airpark",27.0933,-80.612198,9,"NA","US","US-FL","Indiantown","no",,,,,,,"FA24"
 45344,"FA25","small_airport","Black Creek Pass Airport",30.50095,-84.0781,95,"NA","US","US-FL","Tallahasse","no",,,"FA25","FA25",,,
 17217,"FA26","small_airport","Dogwood Farm Airport",30.537200927734375,-84.45189666748047,200,"NA","US","US-FL","Havana","no",,,"FA26","FA26",,,
 506342,"FA28","heliport","AAS Heliport",27.359167,-80.486944,26,"NA","US","US-FL","Fort Pierce","no",,,"FA28","FA28",,,
@@ -26556,6 +26556,7 @@
 338486,"FO-0005","closed","Trøllanes Heliport",62.362427,-6.788021,,"EU","FO","FO-U-A","Trøllanes","no",,,,,,,
 338487,"FO-0006","closed","Gásadalur Heliport",62.108372,-7.434793,,"EU","FO","FO-U-A","Gásadalur","no",,,,,,,
 338488,"FO-0007","closed","Múli Heliport",62.349895,-6.582285,,"EU","FO","FO-U-A","Múli","no",,,,,,,
+609251,"FO03","small_airport","Bidoungui Airport",-1.773301,13.037398,1995,"AF","GA","GA-2","Mipoundi","no",,,"FO03",,,"https://en.wikipedia.org/wiki/Bidoungui_Airport",
 535163,"FO10","small_airport","Mandji Airport",-1.701616,10.409681,413,"AF","GA","GA-4","Mandji","no",,,,"FO08",,,"KMD"
 30633,"FOGA","small_airport","Akieni Airport",-1.13967001438,13.9035997391,1660,"AF","GA","GA-2","Akieni","no","FOGA","AKE","FOGA",,,"https://en.wikipedia.org/wiki/Akieni_Airport",
 30698,"FOGB","small_airport","Booue Airport",-0.1075,11.9438,604,"AF","GA","GA-6","Booue","no","FOGB","BGB","FOGB",,,"https://en.wikipedia.org/wiki/Boou%C3%A9_Airport",
@@ -26580,7 +26581,7 @@
 2965,"FOOK","medium_airport","Makokou Airport",0.5792109966278076,12.890899658203125,1726,"AF","GA","GA-6","Makokou","yes","FOOK","MKU","FOOK",,,"https://en.wikipedia.org/wiki/Makokou_Airport",
 2966,"FOOL","large_airport","Libreville Leon M'ba International Airport",0.458951,9.41214,39,"AF","GA","GA-1","Libreville","yes","FOOL","LBV","FOOL",,"https://www.adlgabon.com","https://en.wikipedia.org/wiki/Libreville_International_Airport",
 31999,"FOOM","small_airport","Mitzic Airport",0.783,11.55,1913,"AF","GA","GA-9","Mitzic","no","FOOM","MZC","FOOM",,,"https://en.wikipedia.org/wiki/Mitzic_Airport",
-2967,"FOON","large_airport","M'Vengue El Hadj Omar Bongo Ondimba International Airport",-1.65616,13.438,1450,"AF","GA","GA-2","Franceville","yes","FOON","MVB","FOON",,,"https://en.wikipedia.org/wiki/M'Vengue_El_Hadj_Omar_Bongo_Ondimba_International_Airport",
+2967,"FOON","medium_airport","M'Vengue El Hadj Omar Bongo Ondimba International Airport",-1.65616,13.438,1450,"AF","GA","GA-2","Franceville","yes","FOON","MVB","FOON",,,"https://en.wikipedia.org/wiki/M'Vengue_El_Hadj_Omar_Bongo_Ondimba_International_Airport",
 31857,"FOOR","small_airport","Lastourville Airport",-0.826667,12.7486,1585,"AF","GA","GA-7","Lastourville","no","FOOR","LTL","FOOR",,,"https://en.wikipedia.org/wiki/Lastourville_Airport",
 32747,"FOOS","small_airport","Sette Cama Airport",-2.53732,9.76386,10,"AF","GA","GA-8","Sette Cama","no","FOOS",,"FOOS",,,"https://en.wikipedia.org/wiki/Sett%C3%A9_Cama_Airport","ZKM"
 32428,"FOOT","small_airport","Tchibanga Airport",-2.88848,10.955429,269,"AF","GA","GA-5","Tchibanga","no","FOOT","TCH","FOOT",,,"https://en.wikipedia.org/wiki/Tchibanga_Airport",
@@ -27951,6 +27952,8 @@
 608935,"FR-1339","heliport","Croix en Ternois Racetrack HLS",50.378191,2.296572,401,"EU","FR","FR-HDF","Croix-en-Ternois, Pas-de-Calais","no",,,,,"https://www.circuitdecroix.com/",,
 609057,"FR-1340","heliport","Ajaccio Port Heliport",41.923245,8.764268,6,"EU","FR","FR-COR","Ajaccio, Corse-du-Sud","no",,,,,,,
 609136,"FR-1341","heliport","Château de Rebreuve-Ranchicourt",50.441452,2.551656,,"EU","FR","FR-HDF","Rebreuve-Ranchicourt, Pas-de-Calais","no",,,,,,,
+609258,"FR-1342","heliport","Château des Forges",47.500556,-0.56192,,"EU","FR","FR-PDL","Angers","no",,,,,,,
+609259,"FR-1343","heliport","La couetterie",47.765796,0.387203,,"EU","FR","FR-PDL",,"no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -38689,7 +38692,7 @@
 336952,"KBH","small_airport","Kahama Airstrip",-3.847,32.6865,,"AF","TZ","TZ-22","Kahama","no",,"KBH",,,,"https://en.wikipedia.org/wiki/Kahama_Airstrip",
 19373,"KBHB","medium_airport","Hancock County-Bar Harbor Airport",44.45000076,-68.3615036,83,"NA","US","US-ME","Bar Harbor","yes","KBHB","BHB","KBHB","BHB",,"https://en.wikipedia.org/wiki/Hancock_County-Bar_Harbor_Airport",
 19374,"KBHC","small_airport","Baxley Municipal Airport",31.7138,-82.393799,201,"NA","US","US-GA","Baxley","no",,,"KBHC","BHC",,,"30J"
-19375,"KBHK","small_airport","Baker Municipal Airport",46.347599,-104.259002,2975,"NA","US","US-MT","Baker","no",,,"KBHK","BHK",,"https://en.wikipedia.org/wiki/Baker_Municipal_Airport","3U6"
+19375,"KBHK","small_airport","Baker Municipal Airport",46.34661,-104.258126,2975,"NA","US","US-MT","Baker","no","KBHK",,"KBHK","BHK",,"https://en.wikipedia.org/wiki/Baker_Municipal_Airport","3U6"
 3406,"KBHM","large_airport","Birmingham-Shuttlesworth International Airport",33.562877,-86.750712,650,"NA","US","US-AL","Birmingham","yes","KBHM","BHM","KBHM","BHM","http://www.flybirmingham.com/","https://en.wikipedia.org/wiki/Birmingham_International_Airport_(US)",
 16500,"KBID","small_airport","Block Island State Airport",41.168446,-71.578631,108,"NA","US","US-RI","Block Island","yes","KBID","BID","KBID","BID","http://www.blockislandri.net/blockislandairport.htm","https://en.wikipedia.org/wiki/Block_Island_State_Airport",
 19376,"KBIE","small_airport","Beatrice Municipal Airport",40.3013,-96.754097,1324,"NA","US","US-NE","Beatrice","no","KBIE","BIE","KBIE","BIE","http://beatriceairport.com/","https://en.wikipedia.org/wiki/Beatrice_Municipal_Airport",
@@ -52839,7 +52842,7 @@
 535709,"PG-0112","small_airport","Wanikipa Airstrip",-5.254801,142.521895,2200,"OC","PG","PG-HLA",,"no",,,"AYWP","WNA",,,
 556746,"PG-0113","closed","Panguna Airstrip",-6.322081,155.472965,1914,"OC","PG","PG-NSB","Panguna Mine","no",,,,,,"https://en.wikipedia.org/wiki/Panguna_mine",
 42759,"PG-0114","closed","Karoola Airport",-5.1431,154.5928,52,"OC","PG","PG-NSB","Buka Island","no",,,,,,,"KXR, KXR, PG-KXR"
-301807,"PG-0115","closed","Bimin Airport",-5.28611111111,142.033055556,5775,"OC","PG","PG-SAN",,"no",,,,,,,"BIZ, BIZ, BMN"
+301807,"PG-0115","small_airport","Bimin Airport",-5.289378,142.014039,6543,"OC","PG","PG-SAN","Bimin","no",,"BIZ",,"BMN",,,
 302109,"PG-0116","closed","Fishermans Airfield",-9.5128,147.0505,24,"OC","PG","PG-CPM","Daugo Island","no",,,,,,"https://en.wikipedia.org/wiki/Fishermans_Airfield","DGG, DGG"
 308079,"PG-0117","closed","Lae Airfield",-6.731666,146.996368,50,"OC","PG","PG-MPL","Lae","no",,,,,,"https://en.wikipedia.org/wiki/Lae_Airfield","Lae Drome, Lae Aerodrome, Old Lae Airfield, AYLA"
 308586,"PG-0118","closed","Lakunai Airfield",-4.223,152.185,30,"OC","PG","PG-EBR","Rabaul","no",,,,,,"https://en.wikipedia.org/wiki/Lakunai_Airfield","RAB, Old Rabaul Airport, AYRB"
@@ -71068,6 +71071,7 @@
 608785,"US-12965","heliport","Ty Heliport",39.232486,-96.421806,1160,"NA","US","US-KS","Saint George","no",,,"65KS","65KS",,,
 609058,"US-12966","heliport","TEMSCO Helicopters Heliport",59.450703,-135.330383,32,"NA","US","US-AK","Skagway","no",,,,,"https://temscoair.com/skagway-helicopter-tours/",,
 609168,"US-12967","small_airport","Hugos STOLPort",25.519761,-80.44195,,"NA","US","US-FL","Naranja","no",,,,,,,
+609262,"US-12968","heliport","Merck Kenilworth Campus Heliport",40.67466,-74.27814,166,"NA","US","US-NJ","Kenilworth","no",,,"02NJ","02NJ",,,
 334365,"US-1297","closed","Army Reserve Parking Lot Heliport",43.305528,-91.791265,859,"NA","US","US-IA","Decorah","no",,,,,,,"1IA1"
 334368,"US-1298","closed","PAF Cannery Airport",58.725948,-156.950868,60,"NA","US","US-AK","South Naknek","no",,,,,,,"AK35, 3AK"
 334372,"US-1299","closed","Peninsula General Hospital Ground Level Heliport",38.361785,-75.598536,26,"NA","US","US-MD","Salisbury","no",,,,,,,"MD88"
