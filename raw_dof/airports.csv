@@ -5595,7 +5595,7 @@
 12164,"58CO","heliport","Purgatory Nr One Heliport",37.627201080322266,-107.80400085449219,8700,"NA","US","US-CO","Durango","no",,,"58CO","58CO",,,
 346408,"58FA","heliport","Saint Joseph's Hospital South Heliport",27.786979,-82.345764,53,"NA","US","US-FL","Riverview","no",,,"58FA","58FA",,,
 12166,"58FD","small_airport","Southerly Airport",28.01420021057129,-81.54060363769531,78,"NA","US","US-FL","Dundee","no",,,"58FD","58FD",,,
-12167,"58FL","heliport","AIM Heliport",26.415227,-80.183416,20,"NA","US","US-FL","Boca Raton","no",,,"58FL","58FL",,,
+12167,"58FL","closed","A I M Heliport",26.415227,-80.183416,20,"NA","US","US-FL","Boca Raton","no",,,,,,,"58FL"
 12168,"58GA","heliport","Washington County Regional Medical Center Heliport",32.997898101800004,-82.8046035767,458,"NA","US","US-GA","Sandersville","no",,,"58GA","58GA",,,
 12169,"58II","small_airport","Eagles Nest Airport",39.520901,-85.899544,770,"NA","US","US-IN","Boggstown","no",,,"58II","58II",,,"Henneman, Cardinals Nest"
 12170,"58IL","closed","Spangler Airport",41.239828,-87.857656,675,"NA","US","US-IL","Manteno","no",,,,,,,"58IL"
@@ -6873,7 +6873,7 @@
 13481,"6OK2","small_airport","Redhills Airport",35.062801361083984,-97.89530181884766,1175,"NA","US","US-OK","Chickasha","no",,,"6OK2","6OK2",,,
 13483,"6OK4","heliport","Hillcrest Medical Center Heliport",36.14590072631836,-95.96690368652344,787,"NA","US","US-OK","Tulsa","no",,,"6OK4","6OK4",,,
 13485,"6OK6","closed","Earl Henry Airport",36.795898,-97.317001,1054,"NA","US","US-OK","Blackwell","no",,,,,,"https://web.archive.org/web/20150212194309/http://en.wikipedia.org/wiki/Earl_Henry_Airport","6OK6"
-13486,"6OK7","small_airport","Cochran Ranch Airport",34.59590148925781,-95.86299896240234,790,"NA","US","US-OK","Atoka","no",,,"6OK7","6OK7",,,
+13486,"6OK7","closed","Cochran Ranch Airport",34.595396,-95.863206,790,"NA","US","US-OK","Atoka","no",,,,,,,"6OK7"
 13487,"6OK8","small_airport","Lasley Private Airport",35.359500885009766,-98.57119750976562,1630,"NA","US","US-OK","Eakly","no",,,"6OK8","6OK8",,,
 13488,"6OK9","small_airport","Mulberry Hill Airport",36.14170074,-96.94229889,1026,"NA","US","US-OK","Stillwater","no",,,"6OK9","6OK9",,,
 13490,"6OR1","small_airport","Pointers Airport",45.584082,-121.268215,1140,"NA","US","US-OR","The Dalles","no",,,"6OR1","6OR1",,,
@@ -42475,7 +42475,7 @@
 21067,"KSHL","small_airport","Sheldon Regional Airport",43.208401,-95.833396,1419,"NA","US","US-IA","Sheldon","no",,,"KSHL","SHL",,,"Sheldon Municipal"
 21068,"KSHN","small_airport","Sanderson Field",47.233600616455,-123.14800262451,273,"NA","US","US-WA","Shelton","no","KSHN","SHN","KSHN","SHN","http://www.portofshelton.com/airport.html","https://en.wikipedia.org/wiki/Sanderson_Field",
 3881,"KSHR","medium_airport","Sheridan County Airport",44.76919937133789,-106.9800033569336,4021,"NA","US","US-WY","Sheridan","yes","KSHR","SHR","KSHR","SHR",,"https://en.wikipedia.org/wiki/Sheridan_County_Airport",
-3882,"KSHV","medium_airport","Shreveport Regional Airport",32.446602,-93.8256,258,"NA","US","US-LA","Shreveport","yes","KSHV","SHV","KSHV","SHV",,"https://en.wikipedia.org/wiki/Shreveport_Regional_Airport",
+3882,"KSHV","medium_airport","Shreveport Regional Airport",32.444747,-93.826741,258,"NA","US","US-LA","Shreveport","yes","KSHV","SHV","KSHV","SHV",,"https://en.wikipedia.org/wiki/Shreveport_Regional_Airport",
 21069,"KSIF","small_airport","Rockingham County NC Shiloh Airport",36.437199,-79.850998,694,"NA","US","US-NC","Stoneville","no",,,"KSIF","SIF","http://shilohairport.com/","https://en.wikipedia.org/wiki/Rockingham_County_NC_Shiloh_Airport","78N"
 21070,"KSIK","small_airport","Sikeston Memorial Municipal Airport",36.898899078369,-89.561798095703,315,"NA","US","US-MO","Sikeston","no","KSIK","SIK","KSIK","SIK",,"https://en.wikipedia.org/wiki/Sikeston_Memorial_Municipal_Airport",
 21071,"KSIV","small_airport","Sullivan County Airport",39.1147,-87.448303,540,"NA","US","US-IN","Sullivan","no","KSIV","SIV","KSIV","SIV","http://www.co.sullivan.ny.us/Departments/SullivanCountyAirport/tabid/3203/default.aspx","https://en.wikipedia.org/wiki/Sullivan_County_International_Airport",
@@ -51975,7 +51975,7 @@
 598982,"OL49","small_airport","Walnut Creek Landing",35.108343,-97.709225,1287,"NA","US","US-OK","Blanchard","no",,,"OL49","OL49",,,
 600377,"OL50","heliport","Harmon Memorial Hospital Heliport",34.691734,-99.914582,1633,"NA","US","US-OK","Hollis","no",,,"OL50","OL50",,,
 608921,"OL51","small_airport","Rivercamp Airport",35.110847,-99.430643,1640,"NA","US","US-OK","Carter","no",,,"OL51","OL51",,,
-608038,"OL52","small_airport","Bryan Brothers Ranch Airport",36.827447,-95.024008,814,"NA","US","US-OK","Welch","no",,,"OL52","OL52",,,
+608038,"OL52","small_airport","Bryan Brothers Ranch Airport",36.827447,-95.024008,814,"NA","US","US-OK","Welch","no",,,"6OK7","6OK7",,,"OL52"
 524180,"OL54","heliport","Exceptional Community Hospital Heliport",34.192744,-97.163347,882,"NA","US","US-OK","Ardmore","no",,,"OL54","OL54",,,
 569391,"OL55","small_airport","Blackberry Hill Airport",36.009752,-97.042263,997,"NA","US","US-OK","Perkins","no",,,"OL55","OL55",,,
 430457,"OL56","small_airport","GK Edwards Airport",35.88625,-97.322361,1108,"NA","US","US-OK","Guthrie","no",,,"OL56","OL56",,,
@@ -61982,6 +61982,7 @@
 601260,"SN-0006","closed","Ouakam Airfield",14.709803,-17.476373,,"AF","SN","SN-DK","Dakar","no",,,,,,"https://en.wikipedia.org/wiki/Ouakam_Airfield",
 601284,"SN-0007","closed","Eknes Airfield",14.729636,-17.237978,,"AF","SN","SN-DK",,"no",,,,,,"https://en.wikipedia.org/wiki/Eknes_Airfield",
 602120,"SN-0008","closed","Kolda Airport",12.880881,-14.954152,,"AF","SN","SN-KD","Kolda","no",,,,,,,"KDA, GOGK"
+609402,"SN-0009","small_airport","(Duplicate??)GOOT",14.809,16.951,273,"AF","SN","SN-TH","Thiès","no","GOOT",,,,,,
 24580,"SN00","small_airport","J Roesner Airport",38.846900939941406,-97.55030059814453,1211,"NA","US","US-KS","Salina","no",,,"SN00","SN00",,,
 24581,"SN01","heliport","Dwight Eisenhower Va Medical Center Heliport",39.282798767089844,-94.88800048828125,897,"NA","US","US-KS","Leavenworth","no",,,"SN01","SN01",,,
 24582,"SN02","small_airport","Wright International Airport",39.40829849243164,-102.02100372314453,3883,"NA","US","US-KS","Kanorado","no",,,"SN02","SN02",,,
@@ -71103,6 +71104,7 @@
 609376,"US-12982","small_airport","ZQ Ranch Airport",33.345881,-96.097404,602,"NA","US","US-TX","Wolfe City","no",,,"34TA","34TA",,,
 609378,"US-12983","heliport","Sentara Nova Medical Center Heliport",38.636241,-77.285631,190,"NA","US","US-VA","Woodbridge","no",,,"3VA6","3VA6",,,
 609386,"US-12984","heliport","High Pointe Helipad",44.762628,-85.436667,807,"NA","US","US-MI","Williamsburg","no",,,"47MI","47MI",,,
+609388,"US-12985","small_airport","Blackwater Landing",29.553778,-82.379673,78,"NA","US","US-FL","Gainesville","no",,,"58FL","58FL",,,
 334372,"US-1299","closed","Peninsula General Hospital Ground Level Heliport",38.361785,-75.598536,26,"NA","US","US-MD","Salisbury","no",,,,,,,"MD88"
 334388,"US-1300","closed","Luck Field",32.599024,-97.322794,,"NA","US","US-TX","Fort Worth","no",,,,,,,
 335788,"US-1301","closed","Baird Ranch Airstrip",30.276247,-98.310106,,"NA","US","US-TX","Johnson City","no",,,,,,,
