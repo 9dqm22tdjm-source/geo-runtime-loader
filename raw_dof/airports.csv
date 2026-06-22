@@ -24930,7 +24930,7 @@
 320512,"ES-0069","small_airport","Air Marugán",40.9111,-4.370917,3068,"EU","ES","ES-CL","Marugán","no",,,"LEIR",,,,
 320513,"ES-0070","small_airport","Aeródromo Alcalá del Río",37.553279,-5.980612,144,"EU","ES","ES-AN","Alcalá del Río","no",,,,,"http://www.aeroilipamagna.com",,"Ilipa Magna"
 320514,"ES-0071","small_airport","Ronda",36.73786,-5.114125,2526,"EU","ES","ES-AN","Ronda","no",,,,,,,"ICONA"
-320515,"ES-0072","small_airport","Beariz Airfield",42.461198,-8.339795,2589,"EU","ES","ES-GA","O Carballiño","no","LEBI",,"LEBI",,,,
+320515,"ES-0072","small_airport","Beariz Airfield",42.461198,-8.339795,2644,"AF","ES","ES-GA","Concello de Beariz, Ourense","no","LEBI",,"LEBI",,,"https://gl.wikipedia.org/wiki/Aer%C3%B3dromo_de_Beariz#","Girazga, O Carballiño"
 320543,"ES-0073","small_airport","Aeródromo de Caravaca de la Cruz",38.0468,-1.92201,2625,"EU","ES","ES-MC",,"no",,,,,,,
 320545,"ES-0074","small_airport","Aeródromo el Maíllo",40.571167,-6.2188167,3396,"EU","ES","ES-CL",,"no",,,,,,,
 320546,"ES-0075","small_airport","Aeródromo de Navianos de Valverde",41.959145,-5.835035,2395,"EU","ES","ES-CL",,"no",,,,,,,
@@ -27969,6 +27969,7 @@
 609136,"FR-1341","heliport","Château de Rebreuve-Ranchicourt",50.441452,2.551656,,"EU","FR","FR-HDF","Rebreuve-Ranchicourt, Pas-de-Calais","no",,,,,,,
 609258,"FR-1342","heliport","Château des Forges",47.500556,-0.56192,,"EU","FR","FR-PDL","Angers","no",,,,,,,
 609259,"FR-1343","heliport","La couetterie",47.765796,0.387203,,"EU","FR","FR-PDL",,"no",,,,,,,
+609443,"FR-1344","heliport","Zuytpeene HLS",50.794192,2.424912,90,"EU","FR","FR-HDF","Zuytpeene, Nord","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -29988,6 +29989,7 @@
 605698,"GB-1351","closed","Sunderland Airport",54.911742,-1.472938,121,"EU","GB","GB-ENG","Sunderland","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Usworth","Sunderland, Usworth"
 606862,"GB-1352","closed","de Havilland factory airfield",51.765196,-0.237158,254,"EU","GB","GB-ENG","Hatfield","no",,,,,,,
 608086,"GB-1353","small_airport","Hillgate Farm Airstrip",52.667378,-0.031328,,"EU","GB","GB-ENG","Peterborough","no",,,,,,,
+609449,"GB-1354","small_airport","East Haven",56.51784,-2.674821,,"EU","GB","GB-SCT",,"no",,,,,,,
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121916,-2.053439,150,"EU","GB","GB-SCT","Foula","yes",,"FOA","EGFO",,,"https://en.wikipedia.org/wiki/Foula_Airfield","EG42"
@@ -30621,17 +30623,17 @@
 17623,"HI01","small_airport","Princeville Airport",22.209313,-159.44515,344,"OC","US","US-HI","Hanalei","no",,"HPV","HI01","HI01",,"https://en.wikipedia.org/wiki/Princeville_Airport",
 17625,"HI03","small_airport","Hanamaulu Airstrip",22.041896,-159.388746,404,"OC","US","US-HI","Hanamaulu","no",,,"HI03","HI03",,,
 17626,"HI04","heliport","Hilo Medical Center Heliport",19.718464,-155.114422,487,"OC","US","US-HI","Hilo","no",,,"HI04","HI04",,,
-17627,"HI05","small_airport","Honokaa Airstrip [UNUSABLE]",20.08334,-155.502252,1440,"OC","US","US-HI","Honokaa, Hawaiʻi","no",,,"HI05","HI05",,,
+17627,"HI05","closed","Honokaa Airstrip",20.08334,-155.502252,1440,"OC","US","US-HI","Honokaa, Hawaiʻi","no",,,,,,,"HI05"
 17628,"HI07","heliport","Waikoloa Heliport",19.920546,-155.860628,119,"OC","US","US-HI","Waikoloa Village","no",,"WKL","HI07","HI07",,,
 17629,"HI09","heliport","Honolulu Municipal Building Heliport",21.304213,-157.854802,231,"OC","US","US-HI","Honolulu","no",,,"HI09","HI09",,,
 17630,"HI12","heliport","Kahuku Medical Center Heliport",21.676956,-157.955166,40,"OC","US","US-HI","Kahuku, O'ahu","no",,,,,,,"HI12, K6YR1"
 17632,"HI18","heliport","Lucy Henriques Medical Center Heliport",20.02174,-155.663466,2707,"OC","US","US-HI","Waimea (Kamuela)","no",,,"HI18","HI18",,,
 4780,"HI22","closed","Tinian Heliport",14.963692,145.627127,75,"OC","MP","MP-U-A","San Jose, Tinian","no",,,,,,,"HI22"
-17633,"HI23","small_airport","Mountain View Airstrip",19.546359,-155.108116,1500,"OC","US","US-HI","Mountain View","no",,,"HI23","HI23",,,
+17633,"HI23","closed","Mountain View Airstrip",19.546359,-155.108116,1500,"OC","US","US-HI","Mountain View","no",,,,,,,"HI23"
 17634,"HI24","heliport","Heco-Waiau Heliport",21.3908,-157.964996,6,"OC","US","US-HI","Honolulu","no",,,"HI24","HI24",,,
-17635,"HI25","small_airport","Kaalaiki Airstrip",19.122507,-155.578398,1964,"OC","US","US-HI","Naalehu","no",,,"HI25","HI25",,,
+17635,"HI25","closed","Kaalaiki Airstrip",19.122507,-155.578398,1964,"OC","US","US-HI","Naalehu","no",,,,,,,"HI25"
 17636,"HI27","small_airport","Upper Paauilo Airstrip",20.028196,-155.388162,1520,"OC","US","US-HI","Paauilo","no",,,"HI27","HI27",,,
-17637,"HI28","small_airport","Pahala Airstrip",19.215392,-155.468559,1195,"OC","US","US-HI","Pahala","no",,,"HI28","HI28",,,
+17637,"HI28","closed","Pahala Airstrip",19.215392,-155.468559,1195,"OC","US","US-HI","Pahala","no",,,,,,,"HI28"
 17640,"HI32","closed","Pepeekeo Airstrip",19.846402,-155.107021,675,"OC","US","US-HI","Pepeekeo, Hawaiʻi","no",,,,,,,"HI32"
 17641,"HI33","small_airport","Haiku Airstrip",21.966071,-159.426963,385,"OC","US","US-HI","Lihue","no",,,"HI33","HI33",,,"Puhi Airstrip"
 17642,"HI38","heliport","The Queen's Medical Center Heliport",21.308197,-157.853645,102,"OC","US","US-HI","Honolulu","no",,,"HI38","HI38",,,
@@ -67057,7 +67059,7 @@
 302270,"US-0221","closed","RAF Cardington",52.108922,-0.422499,98,"EU","GB","GB-ENG","Bedford, Bedfordshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Cardington",
 302272,"US-0222","closed","RAF Chailey",50.95521,-0.055876,,"EU","GB","GB-ENG","Lewes, East Sussex","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Chailey",
 317247,"US-0223","heliport","Sutter Health Memorial Medical Center Heliport",37.669127,-120.972088,97,"NA","US","US-CA","Modesto","no",,,,,,,
-309370,"US-0224","small_airport","Cooper Airfield",19.726675,-155.524542,6390,"OC","US","US-HI","Waimea (Kamuela)","no",,,,,,,"Camp Pohakuloa, Pohakuloa Training Area"
+309370,"US-0224","small_airport","Cooper Airfield",19.726352,-155.524428,6390,"OC","US","US-HI","Waimea (Kamuela)","no",,,,,,,"Camp Pohakuloa, Pohakuloa Training Area"
 309373,"US-0225","heliport","Treasure Island Helipad",37.819896,-122.364774,7,"NA","US","US-CA","San Francisco","no",,,,,,,
 309409,"US-0226","closed","Tulsa Downtown Airpark",36.211,-96.0084,713,"NA","US","US-OK","Tulsa","no",,,,,,,"Tulsa North, TNR"
 309573,"US-0227","small_airport","Ranger Station Airstrip",34.0373,-120.3493,560,"NA","US","US-CA","San Miguel Island","no",,,,,,,
