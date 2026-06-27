@@ -19218,7 +19218,7 @@
 605530,"CL-0043","heliport","Quillota-Petorca Biprovincial Hospital Helistop",-32.901881,-71.252916,456,"SA","CL","CL-VS","Quillota","no","SHBI",,"SHBI",,,,
 605667,"CL-0044","heliport","Helipuerto Hospital Militar de Santiago",-33.451289,-70.53684,,"SA","CL","CL-U-A","La Reina","no",,,,,,,
 608077,"CL-0045","small_airport","Grupo Tamarena Airport",-33.716163,-70.973665,875,"SA","CL","CL-RM","Talagante","no","SCAD",,"SCAD",,,,
-609431,"CL-0046","heliport","Melipilla Hospital Helistop.",-33.680087,-71.187074,587,"SA","CL","CL-RM","Melipilla","no",,,,,"https://hospitaldemelipilla.cl/","https://es.wikipedia.org/wiki/Hospital_San_Jos%C3%A9_de_Melipilla",
+609431,"CL-0046","heliport","Melipilla Hospital Helistop",-33.680087,-71.187074,587,"SA","CL","CL-RM","Melipilla","no",,,,,"https://hospitaldemelipilla.cl/","https://es.wikipedia.org/wiki/Hospital_San_Jos%C3%A9_de_Melipilla",
 1641,"CL-SC49","small_airport","Oficina Victoria Airport",-20.734699249267578,-69.62570190429688,3280,"SA","CL","CL-TA","Oficina Victoria","no",,,"SC49",,,,
 16719,"CL00","heliport","USC University Hospital Heliport",34.061623,-118.201585,476,"NA","US","US-CA","Los Angeles","no",,,"CL00","CL00",,,
 16720,"CL01","small_airport","Eagle Field",36.899899,-120.667999,153,"NA","US","US-CA","Dos Palos","no",,,"CL01","CL01",,"https://en.wikipedia.org/wiki/Eagle_Field_(airport)",
@@ -27961,14 +27961,14 @@
 608902,"FR-1333","heliport","Noirmoutier HLS",46.9788,-2.242477,10,"EU","FR","FR-PDL","Noirmoutier-en-l'Île","no",,,,,,,
 608903,"FR-1334","heliport","Seraussaix Farm HLS",46.197537,6.74633,5483,"EU","FR","FR-ARA","Avoriaz, Haute-Savoie","no",,,,,"https://www.lafermedeseraussaix.com/",,
 608904,"FR-1335","heliport","Blugeon Helipad",46.166558,6.709353,3724,"EU","FR","FR-ARA","Morzine, Haute-Savoie","no",,,,,"https://www.blugeon-helicopteres.com/en/our-bases/",,
-608905,"FR-1336","heliport","Saint Raphael DZ",43.462338,6.818621,,"EU","FR","FR-PAC",,"no",,,,,,,
+608905,"FR-1336","heliport","Saint Raphael HLS",43.462338,6.818621,406,"EU","FR","FR-PAC","Saint-Raphaël, Var","no",,,,,,,
 608933,"FR-1337","heliport","Le Ravin Off-road Circuit HLS",50.339414,2.083551,381,"EU","FR","FR-HDF","Saint-Georges, Pas-de-Calais","no",,,,,"https://ravin.info/",,
 608934,"FR-1338","heliport","KHUB Karting Helipad",50.316189,2.762209,311,"EU","FR","FR-HDF","Arras, Pas-de-Calais","no",,,,,"https://khub-arras.com/",,
 608935,"FR-1339","heliport","Croix en Ternois Racetrack HLS",50.378191,2.296572,401,"EU","FR","FR-HDF","Croix-en-Ternois, Pas-de-Calais","no",,,,,"https://www.circuitdecroix.com/",,
 609057,"FR-1340","heliport","Ajaccio Port Heliport",41.923245,8.764268,6,"EU","FR","FR-COR","Ajaccio, Corse-du-Sud","no",,,,,,,
 609136,"FR-1341","heliport","Château de Rebreuve-Ranchicourt",50.441452,2.551656,,"EU","FR","FR-HDF","Rebreuve-Ranchicourt, Pas-de-Calais","no",,,,,,,
 609258,"FR-1342","heliport","Château des Forges",47.500556,-0.56192,,"EU","FR","FR-PDL","Angers","no",,,,,,,
-609259,"FR-1343","heliport","La couetterie",47.765796,0.387203,,"EU","FR","FR-PDL",,"no",,,,,,,
+609259,"FR-1343","heliport","La Couetterie Castle HLS",47.765796,0.387203,465,"EU","FR","FR-PDL","La Couetterie, Sarthe","no",,,,,,,
 609443,"FR-1344","heliport","Zuytpeene HLS",50.794192,2.424912,90,"EU","FR","FR-HDF","Zuytpeene, Nord","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
@@ -31915,6 +31915,7 @@
 599470,"IE-0086","small_airport","Ballymoney Airfield",52.93241,-6.08221,,"EU","IE","IE-WW",,"no",,,,,,,
 603230,"IE-0087","closed","Oranmore Aerodrome",53.283056,-8.918889,43,"EU","IE","IE-G","Galway","no",,,,,,,"RAF Oranmore"
 604120,"IE-0088","heliport","Executive Helicopters Ireland Helipad",53.12475,-8.47096,,"EU","IE","IE-G","Barratoor","no",,,,,,,
+609498,"IE-0089","small_airport","Coill an tSíáin Airstrip",53.60779,-9.45045,,"EU","IE","IE-MO","Killateeaun","no",,,,,,,
 17877,"IG00","heliport","Cameron Hospital Heliport",41.6338996887207,-84.99469757080078,1073,"NA","US","US-IN","Angola","no",,,"IG00","IG00",,,
 17878,"IG01","heliport","Iwc Heliport",39.78369903564453,-87.18360137939453,700,"NA","US","US-IN","Indianapolis","no",,,"IG01","IG01",,,
 17880,"IG03","small_airport","Bluebird Airport",39.391348,-86.597103,580,"NA","US","US-IN","Paragon","no",,,"IG03","IG03",,,
@@ -33947,9 +33948,10 @@
 609067,"IT-0970","heliport","Elisusperficie di Stellantis Balocco S.R.L.",45.487129,8.306072,,"EU","IT","IT-21","Comune di Balocco","no",,,,,,,
 609069,"IT-0971","heliport","Elisuperficie Ladiona",45.496759,8.419374,,"EU","IT","IT-21","Comune di Ladiona","no",,,,,,,
 609071,"IT-0972","heliport","Elisuperficie Ondaland",45.478346,8.424121,,"EU","IT","IT-21","Comune di Vicolungo","no",,,,,,,
-609074,"IT-0973","heliport","Elisuperficie di Casaleggio Novara",45.484,8.495779,,"EU","IT","IT-21","Comune di Casaleggio Novara","no",,,,,,,
+609074,"IT-0973","heliport","Casaleggio Novara Heliport",45.484,8.495779,550,"EU","IT","IT-21","Casaleggio Novara (NO)","no",,,,,,,
 609076,"IT-0974","heliport","Elisuperficie Galliate",45.478926,8.681828,,"EU","IT","IT-21","Comune di Galliate","no",,,,,,,
 609078,"IT-0975","heliport","Elisuperfice Cargandino agriturismo",45.609129,8.589689,,"EU","IT","IT-21","Comune di Mezzomerico","no",,,,,,,
+609502,"IT-0976","heliport","Bressanone Hospital Heliport",46.725115,11.64793,1883,"EU","IT","IT-32","Brixen - Bressanone (BZ)","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -44949,7 +44951,7 @@
 342530,"LT-0020","small_airport","Klebonai Airstrip",55.50751,24.41479,,"EU","LT","LT-PN",,"no",,,,,,,
 346225,"LT-0021","small_airport","Upitėnai Airstrip",55.60306,21.62339,,"EU","LT","LT-KL",,"no",,,,,,,
 346367,"LT-0022","small_airport","Aukštelkai Airfield",55.863079,23.62833,,"EU","LT","LT-SA",,"no",,,,,,,
-346434,"LT-0023","small_airport","Paberžės Aerodromas",54.98973,25.27568,,"EU","LT","LT-UT",,"no",,,,,,,
+346434,"LT-0023","closed","Paberžės Aerodromas",54.98973,25.27568,,"EU","LT","LT-UT",,"no",,,,,,,
 346436,"LT-0024","small_airport","Pociūnai Airstrip",55.59152,23.96661,,"EU","LT","LT-SA",,"no",,,,,,,
 346841,"LT-0025","small_airport","Bistrampolis Airfield",55.59597,24.36418,,"EU","LT","LT-PN",,"no",,,,,,,
 347931,"LT-0026","small_airport","Dainava Airstrip",54.32387,25.24008,,"EU","LT","LT-VL",,"no",,,,,,,
@@ -44967,6 +44969,7 @@
 31033,"LT-9519","closed","Kazlų Rūda Air Base",54.80559921,23.5331001,243,"EU","LT","LT-MR","Kazlų Rūda","no",,,,,,"https://en.wikipedia.org/wiki/Kazlu_Ruda_airbase","EYKR, EYKR"
 34994,"LT-9520","closed","Jonava Air Base",55.010146,24.363481,246,"EU","LT","LT-KU","Jonava","no",,,,,,"https://en.wikipedia.org/wiki/Jonava_Airport","Rukla, Gaižiūnai, EYRU"
 608649,"LT-9521","small_airport","Kupiskis Airfield",55.92476,24.95255,,"EU","LT","LT-PN",,"no",,,,,,,
+609500,"LT-9522","small_airport","Gaiveniai Airstrip",55.367082,24.746044,272,"EU","LT","LT-VL","Gaiveniai, Ukmergė","no",,,,,,,
 4508,"LTAB","small_airport","Güvercinlik Airport",39.935001,32.740799,2687,"AS","TR","TR-06","Ankara","no","LTAB",,"LTAB",,,"https://en.wikipedia.org/wiki/Ankara_G%C3%BCvercinlik_Army_Air_Base",
 4509,"LTAC","large_airport","Esenboğa International Airport",40.128101,32.995098,3125,"AS","TR","TR-06","Ankara","yes","LTAC","ESB","LTAC",,"https://esenbogaairport.com/","https://en.wikipedia.org/wiki/Esenbo%C4%9Fa_International_Airport",
 4510,"LTAD","medium_airport","Etimesgut Air Base",39.949798584,32.6885986328,2653,"AS","TR","TR-06","Ankara","no","LTAD","ANK","LTAD",,,"https://en.wikipedia.org/wiki/Etimesgut_Air_Base",
@@ -66841,7 +66844,7 @@
 44865,"URRT","medium_airport","Taganrog Yuzhny Airport",47.1983333,38.8491667,117,"EU","RU","RU-ROS","Taganrog","yes","URRT","TGK","URRT",,"http://www.beriev.com/rus/airport.html","https://ru.wikipedia.org/wiki/Таганрог-Южный_(аэропорт)","Taganrog South Airport, Аэропорт Таганрог Южный"
 6519,"URSS","large_airport","Sochi International Airport",43.449902,39.9566,89,"EU","RU","RU-KDA","Sochi","yes","URSS","AER","URSS",,"https://aer.aero/en","https://en.wikipedia.org/wiki/Sochi_International_Airport","Adler Airport, Black Sea, Международный Аэропорт Сочи"
 6520,"URWA","large_airport","Astrakhan Narimanovo Boris M. Kustodiev International Airport",46.282843,48.010511,-65,"AS","RU","RU-AST","Astrakhan","yes","URWA","ASF","URWA",,"http://xn--80aaaa9dcahhdbllc1cxhc.xn--p1ai/","https://en.wikipedia.org/wiki/Narimanovo_Airport","Astrahan Airport, Narimanovo Airport, Аэропорт Астрахань, Аэропорт Нариманово"
-6521,"URWI","medium_airport","Elista Airport",46.373901,44.330898,501,"AS","RU","RU-KL","Elista","yes","URWI","ESL","URWI",,"https://aero-elista.ru/","https://en.wikipedia.org/wiki/Elista_Airport",
+6521,"URWI","medium_airport","Elista Airport",46.373901,44.330898,501,"EU","RU","RU-KL","Elista","yes","URWI","ESL","URWI",,"https://aero-elista.ru/","https://en.wikipedia.org/wiki/Elista_Airport",
 6522,"URWW","large_airport","Volgograd International Airport",48.78134,44.339194,482,"EU","RU","RU-VGG","Volgograd","yes","URWW","VOG","URWW",,,"https://en.wikipedia.org/wiki/Volgograd_International_Airport","Gumrak Airport, Аэропорт Волгоград, Аэропорт Гумрак"
 34930,"US-0001","small_airport","Flying M Ranch Airport",38.61127,-119.001718,4922,"NA","US","US-NV",,"no",,,,"3A5",,"https://en.wikipedia.org/wiki/Flying-M_Ranch",
 38682,"US-0002","closed","Governor's Island Army Airfield",40.68709945678711,-74.02210235595703,,"NA","US","US-NY","Governor's Island","no",,,,,,,
