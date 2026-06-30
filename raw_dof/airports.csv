@@ -17073,7 +17073,7 @@
 46523,"CA-0441","closed","Edmonton / St. Albert Aerodrome",53.690049,-113.693433,2270,"NA","CA","CA-AB","St. Albert","no",,,,,,,"ES3, CES3"
 46545,"CA-0442","small_airport","Little's Farm",43.7975530554,-79.7895812988,,"NA","CA","CA-ON",,"no",,,,,,,
 46577,"CA-0443","small_airport","Brier Island Airstrip",44.25700308649999,-66.3593530655,,"NA","CA","CA-NS","Westport","no",,,,,,,
-46580,"CA-0444","small_airport","Beaverton Airport",44.447473,-79.100107,820,"NA","CA","CA-ON",,"no",,,"CBV2","CBV2",,"https://en.wikipedia.org/wiki/Beaverton_Aerodrome",
+46580,"CA-0444","closed","Beaverton Airport",44.447473,-79.100107,820,"NA","CA","CA-ON",,"no",,,,,,"https://en.wikipedia.org/wiki/Beaverton_Aerodrome","CBV2"
 349730,"CA-0445","closed","RCAF Detachment Standoff",49.55,-113.3333,3290,"NA","CA","CA-AB",,"no",,,,,,"https://en.wikipedia.org/wiki/RCAF_Station_Fort_Macleod","BCATP, RCAF"
 298628,"CA-0446","small_airport","Stuart Island Airstrip",50.409447,-125.131617,360,"NA","CA","CA-BC","Big Bay","no",,"YRR",,,,,
 46629,"CA-0447","small_airport","Gamble Field",43.3576842766,-79.9830651283,,"NA","CA","CA-ON","Harper Corners","no",,,,,,,
@@ -17887,6 +17887,11 @@
 609520,"CA-1258","small_airport","Belle Riviere Private Field",45.607133,-74.125056,,"NA","CA","CA-QC","Montreal","no",,,,,,,
 609524,"CA-1259","small_airport","Bathurst Inlet Airport",66.836865,-108.011278,36,"NA","CA","CA-NU","Bathurst Inlet/Qingaut","no",,,,,,,"ᕿᙵᐅᓐ"
 609526,"CA-1260","closed","Ascot Corner Field",45.473863,-71.763586,,"NA","CA","CA-QC","Sherbrooke","no",,,,,,,
+609574,"CA-1261","small_airport","Trotter Field",44.728336,-78.750579,1039,"NA","CA","CA-ON","Norland","no",,,,"CNR5",,"https://en.wikipedia.org/wiki/List_of_airports_in_Ontario#Norland/Trotter_Aerodrome",
+609575,"CA-1262","closed","Victoria Road Airstrip",44.589886,-78.873425,,"NA","CA","CA-ON","Victoria Road","no",,,,,,,
+609576,"CA-1263","small_airport","Oakwood Field",44.336373,-78.911855,920,"NA","CA","CA-ON","Oakwood","no",,,"COK3","COK3",,,
+609588,"CA-1264","small_airport","Gotz Farm Field",45.100305,-79.432955,,"NA","CA","CA-ON","Bracebridge","no",,,,"CBG3",,,
+609590,"CA-1265","small_airport","Jackson's Point Private Field",44.276332,-79.375062,,"NA","CA","CA-ON","Baldwin","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -17993,7 +17998,7 @@
 28164,"CAD6","seaplane_base","Atlin Seaplane Base",59.5666999817,-133.716995239,2190,"NA","CA","CA-BC","Atlin","no",,,"CAD6","CAD6",,"https://en.wiki2.org/wiki/Atlin_Water_Aerodrome","AD6"
 28238,"CAD7","seaplane_base","Gilford Island/Health Bay Seaplane Base",50.7000007629,-126.599998474,0,"NA","CA","CA-BC","Gilford Island","no",,,"CAD7","CAD7",,"https://en.wikipedia.org/wiki/Gilford_Island/Health_Bay_Water_Aerodrome","AD7"
 28335,"CAD8","seaplane_base","Nelson Seaplane Base",49.5,-117.300003052,1740,"NA","CA","CA-BC","Nelson","no",,,"CAD8","CAD8",,"https://en.wikipedia.org/wiki/Nelson_Water_Aerodrome","AD8"
-562355,"CAD9","heliport","Norwood Dale Field",44.526492,-79.634725,1214,"NA","CA","CA-ON","Coulson","no",,,"CAD9","CAD9",,,
+562355,"CAD9","small_airport","Norwood Dale Field",44.52616,-79.631277,1214,"NA","CA","CA-ON","Coulson","no",,,"CAD9","CAD9",,,
 616,"CAE2","heliport","Cranbrook (East Kootenay Regional Hospital) Heliport",49.51250076293945,-115.75,3050,"NA","CA","CA-BC","Cranbrook","no",,,"CAE2","CAE2",,,"AE2"
 28187,"CAE3","seaplane_base","Campbell River Seaplane Base",50.049999,-125.25,,"NA","CA","CA-BC","Campbell River","yes",,"YHH","CAE3","CAE3",,"https://en.wikipedia.org/wiki/Campbell_River_Water_Aerodrome","AE3, Campbell River Harbour Airport"
 28465,"CAE5","seaplane_base","Whistler/Green Lake Water Aerodrome",50.1436004639,-122.948997498,2100,"NA","CA","CA-BC","Whistler","yes",,"YWS","CAE5","CAE5",,"https://en.wikipedia.org/wiki/Whistler/Green_Lake_Water_Aerodrome","AE5"
@@ -18167,7 +18172,7 @@
 320087,"CBN2","heliport","Bonnyville Health Care Centre Helipad",54.264,-110.7405,1810,"NA","CA","CA-AB","Bonnyville","no",,,"CBN2","CBN2",,,
 46537,"CBN3","heliport","Buffalo Narrows (Fire Centre) Heliport",55.834240702699994,-108.404202461,1411,"NA","CA","CA-SK","Buffalo Narrows","no",,,"CBN3","CBN3",,,"BN3"
 28312,"CBN4","seaplane_base","Masset Seaplane Base",54.009,-132.15,,"NA","CA","CA-BC",,"no",,,"CBN4","CBN4",,"https://en.wikipedia.org/wiki/Masset_Water_Aerodrome",
-43877,"CBN7","small_airport","Beaverton North",44.459513,-79.125896,800,"NA","CA","CA-ON",,"no",,,,"CBN7",,"https://en.wikipedia.org/wiki/Beaverton_North_Aerodrome",
+43877,"CBN7","closed","Beaverton North",44.459513,-79.125896,800,"NA","CA","CA-ON",,"no",,,,,,"https://en.wikipedia.org/wiki/Beaverton_North_Aerodrome","CBN7"
 703,"CBN9","small_airport","Tsay Keh Airport",56.906101,-124.964996,2280,"NA","CA","CA-BC","Tsay Keh","yes",,,"CBN9","CBN9",,"https://en.wikipedia.org/wiki/Tsay_Keh_Airport",
 704,"CBP2","heliport","Banff Park Compound Heliport",51.191085,-115.558311,4570,"NA","CA","CA-AB","Banff","no",,,"CBP2","CBP2",,,
 705,"CBP3","heliport","Fernie (Elk Valley Hospital) Heliport",49.512858,-115.056179,3300,"NA","CA","CA-BC","Fernie","no",,,"CBP3","CBP3",,,
@@ -18205,9 +18210,10 @@
 729,"CBW2","small_airport","Kitimat Airport",54.167758,-128.578663,250,"NA","CA","CA-BC","Kitimat","no",,,"CBW2","CBW2",,"https://en.wikipedia.org/wiki/Kitimat_Airport","BW2"
 730,"CBW3","small_airport","Fort Grahame Airport",56.52138778769999,-124.470291138,2230,"NA","CA","CA-BC","Fort Graham","no",,,"CBW3","CBW3",,"https://en.wikipedia.org/wiki/Fort_Graham_Airport","BW3"
 731,"CBW4","small_airport","Bob Quinn Lake Airport",56.966702,-130.25,2000,"NA","CA","CA-BC","Bob Quinn Lake","no",,"YBO","CBW4","CBW4",,"https://en.wikipedia.org/wiki/Bob_Quinn_Lake_Airport",
+609592,"CBW5","heliport","Bluewater Health Heliport",42.975365,-82.388135,598,"NA","CA","CA-ON","Sarnia","no",,,"CBW5","CBW5",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#Sarnia_(Bluewater_Health)",
 300226,"CBW6","small_airport","Belwood (Wright Field) Aerodrome",43.793889,-80.4025,1490,"NA","CA","CA-ON","Belwood","no",,,"CBW6","CBW6",,"https://en.wikipedia.org/wiki/Belwood_(Wright_Field)_Aerodrome",
 733,"CBW7","heliport","Victoria (General Hospital) Heliport",48.46796,-123.43241,55,"NA","CA","CA-BC","Victoria","no",,,"CBW7","CBW7",,"https://en.wikipedia.org/wiki/Victoria_General_Hospital",
-734,"CBW8","small_airport","Baldwin West Aerodrome",44.2764,-79.3746,755,"NA","CA","CA-ON","Baldwin","no",,,"CBW8","CBW8",,"https://en.wikipedia.org/wiki/Baldwin_West_Aerodrome",
+734,"CBW8","small_airport","Baldwin West Aerodrome",44.277193,-79.361844,755,"NA","CA","CA-ON","Baldwin","no",,,"CBW8","CBW8",,"https://en.wikipedia.org/wiki/Baldwin_West_Aerodrome",
 735,"CBW9","heliport","Madrona Bay Heliport",48.855801,-123.486,35,"NA","CA","CA-BC","Madrona Bay","no",,,"CBW9","CBW9",,"https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#145",
 736,"CBX5","small_airport","Tungsten (Cantung) Airport",61.956901550293,-128.20300292969,3500,"NA","CA","CA-NT","Tungsten","no",,"TNS","CBX5","CBX5",,"https://en.wikipedia.org/wiki/Tungsten_(Cantung)_Airport","BX5"
 737,"CBX7","small_airport","Tumbler Ridge Airport",55.025001525879,-120.93499755859,3075,"NA","CA","CA-BC","Tumbler Ridge","no",,"TUX","CBX7","CBX7",,"https://en.wikipedia.org/wiki/Tumbler_Ridge_Airport","BX7"
@@ -20243,6 +20249,7 @@
 16948,"CO95","small_airport","True Grit South Airport",38.052378,-107.984871,9580,"NA","US","US-CO","Telluride","no",,,"CO95","CO95",,,"Wilson Ranch"
 16949,"CO96","small_airport","Reed Hollow Ranch Airport",39.371700286865234,-104.74299621582031,6200,"NA","US","US-CO","Franktown","no",,,"CO96","CO96",,,
 16950,"CO97","small_airport","Comanche Springs Ranch Airport",39.72079849243164,-104.322998046875,5435,"NA","US","US-CO","Strasburg","no",,,"CO97","CO97",,,
+609591,"COB2","seaplane_base","Oak Bay Water Aerodrome",44.796,-79.736,579,"NA","CA","CA-ON","Port Severen","no",,,"COB2","COB2",,"https://en.wikipedia.org/wiki/List_of_airports_in_Ontario#Port_Severn/Oak_Bay_Water_Aerodrome",
 46617,"COB4","small_airport","Orangeville / Brundle Field",43.8745094139,-80.1798963547,1630,"NA","CA","CA-ON",,"no",,,"COB4",,,,"ob4"
 43873,"COL2","small_airport","Orangeville / Laurel Airstrip",43.916799,-80.205731,1620,"NA","CA","CA-ON","Orangeville","no",,,"COL2","COL2",,"https://en.wikipedia.org/wiki/Orangeville/Laurel_Aerodrome","orangeville laurel ol2"
 1369,"COP2","heliport","Orillia (Ontario Provincial Police) Heliport",44.584698344699994,-79.4275474548,820,"NA","CA","CA-ON","Orillia","no",,,"COP2","COP2",,,"OP2"
@@ -20388,7 +20395,7 @@
 298390,"CPZ6","heliport","Montreal / Point Zero Helipad",45.529803,-73.657787,152,"NA","CA","CA-QC","Montreal","no",,,"CPZ6","CPZ6",,,"PZ6"
 28307,"CPZ7","seaplane_base","MacTier/Francis Island Seaplane Base",45.150299,-80.019203,580,"NA","CA","CA-ON",,"no",,,"CPZ7","CPZ7",,"https://en.wikipedia.org/wiki/Mac_Tier/Francis_Island_Water_Aerodrome",
 28448,"CPZ9","seaplane_base","Toronto/City Centre Seaplane Base",43.633099,-79.394402,246,"NA","CA","CA-ON","Toronto","no",,,"CPZ9","CPZ9",,"https://en.wikipedia.org/wiki/Billy_Bishop_Toronto_City_Water_Aerodrome","PZ9, Toronto Island Water Aerodrome, Billy Bishop Toronto City Water Aerodrome"
-350793,"CQH2","heliport","Ottawa / Questral Helicopters Heliport",45.29917,-75.5,280,"NA","CA","CA-ON","Ottawa","no",,,"CQH2",,"https://www.questralhelicopters.com/","https://en.wikipedia.org/wiki/List_of_airports_in_the_Ottawa_area",
+350793,"CQH2","heliport","Questral Helicopters Heliport",45.298753,-75.500451,280,"NA","CA","CA-ON","Ottawa","no",,,"CQH2","CQH2","https://www.questralhelicopters.com/","https://en.wikipedia.org/wiki/List_of_airports_in_the_Ottawa_area",
 326325,"CR-0001","small_airport","Potrero Grande Airfield",9.012758,-83.180511,546,"NA","CR","CR-P","Potrero Grande","no",,,,,,,
 326326,"CR-0002","closed","Toro Rojo Airstrip",9.070512,-83.084948,3182,"NA","CR","CR-P",,"no",,,,,,,
 326327,"CR-0003","closed","Colorado Airstrip",9.011229,-83.043617,2526,"NA","CR","CR-P",,"no",,,,,,,
@@ -27984,6 +27991,7 @@
 609259,"FR-1343","heliport","La Couetterie Castle HLS",47.765796,0.387203,465,"EU","FR","FR-PDL","La Couetterie, Sarthe","no",,,,,,,
 609443,"FR-1344","heliport","Zuytpeene HLS",50.794192,2.424912,90,"EU","FR","FR-HDF","Zuytpeene, Nord","no",,,,,,,
 609544,"FR-1345","heliport","Armbouts-Cappen",50.974347,2.350437,,"EU","FR","FR-HDF","Armbouts-Cappel","no",,,,,,,
+609573,"FR-1346","heliport","HéliSMUR 03 Heliport",46.31801,3.31765,,"EU","FR","FR-ARA","Saint-Pourçain-sur-Sioule","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -30010,6 +30018,10 @@
 609477,"GB-1358","closed","Dundonald Airfield",55.581944,-4.61389,3,"EU","GB","GB-SCT","Dundonald, South Ayrshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Dundonald","Gailes, RAF Dundonald, Barrassie"
 609478,"GB-1359","closed","Dumfries Airfield",55.093611,-3.571667,62,"EU","GB","GB-SCT","Tinwald Downs, Dumfries and Galloway","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Dumfries","RAF Dumfries, Microlights."
 609481,"GB-1360","small_airport","Cluntoe Airfield",54.621947,-6.531097,89,"EU","GB","GB-NIR","Cluntoe, Mid Ulster","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Cluntoe","RAF Cluntoe"
+609581,"GB-1361","small_airport","Ragley Hall Airstrip",52.2283,-1.8439,210,"EU","GB","GB-ENG","Alcester","no",,,,,"https://www.midlandsairfestival.com",,"Ragley Hall, Midlands Air Festival, temporary airstrip, grass runway, private, event airfield, Alcester, Warwickshire"
+609582,"GB-1362","small_airport","Ragley Hall Airstrip",52.197207,-1.8439,210,"EU","GB","GB-U-A","Alcester","no",,,,,"https://www.midlandsairfestival.com",,"Ragley Hall, Midlands Air Festival, temporary airstrip, grass runway, private, event airfield, Alcester, Warwickshire"
+609583,"GB-1363","small_airport","Ragley Hall Airstrip",52.197207,-1.896893,210,"EU","GB","GB-U-A","Alcester","no",,,,,"https://www.midlandsairfestival.com",,"Ragley Hall, Midlands Air Festival, temporary airstrip, grass runway, private, event airfield, Alcester, Warwickshire"
+609584,"GB-1364","small_airport","Ragley Hall Airstrip",52.2283,-1.8439,210,"EU","GB","GB-U-A","Alcester","no",,,,,"https://www.midlandsairfestival.com",,"Ragley Hall, Midlands Air Festival, temporary airstrip, grass runway, private, event airfield, Alcester, Warwickshire"
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121916,-2.053439,150,"EU","GB","GB-SCT","Foula","yes",,"FOA","EGFO",,,"https://en.wikipedia.org/wiki/Foula_Airfield","EG42"
@@ -44986,7 +44998,7 @@
 31033,"LT-9519","closed","Kazlų Rūda Air Base",54.80559921,23.5331001,243,"EU","LT","LT-MR","Kazlų Rūda","no",,,,,,"https://en.wikipedia.org/wiki/Kazlu_Ruda_airbase","EYKR, EYKR"
 34994,"LT-9520","closed","Jonava Air Base",55.010146,24.363481,246,"EU","LT","LT-KU","Jonava","no",,,,,,"https://en.wikipedia.org/wiki/Jonava_Airport","Rukla, Gaižiūnai, EYRU"
 608649,"LT-9521","small_airport","Kupiskis Airfield",55.92476,24.95255,,"EU","LT","LT-PN",,"no",,,,,,,
-609500,"LT-9522","small_airport","Gaiveniai Airstrip",55.367082,24.746044,272,"EU","LT","LT-VL","Gaiveniai, Ukmergė","no",,,,,,,
+609500,"LT-9522","closed","Gaiveniai Airstrip",55.367082,24.746044,272,"EU","LT","LT-VL","Gaiveniai, Ukmergė","no",,,,,,,
 4508,"LTAB","small_airport","Güvercinlik Airport",39.935001,32.740799,2687,"AS","TR","TR-06","Ankara","no","LTAB",,"LTAB",,,"https://en.wikipedia.org/wiki/Ankara_G%C3%BCvercinlik_Army_Air_Base",
 4509,"LTAC","large_airport","Esenboğa International Airport",40.128101,32.995098,3125,"AS","TR","TR-06","Ankara","yes","LTAC","ESB","LTAC",,"https://esenbogaairport.com/","https://en.wikipedia.org/wiki/Esenbo%C4%9Fa_International_Airport",
 4510,"LTAD","medium_airport","Etimesgut Air Base",39.949798584,32.6885986328,2653,"AS","TR","TR-06","Ankara","no","LTAD","ANK","LTAD",,,"https://en.wikipedia.org/wiki/Etimesgut_Air_Base",
@@ -54473,7 +54485,7 @@
 329822,"PT-0134","small_airport","Pista do Monte do Pombo",39.644693,-7.560568,,"EU","PT","PT-12","Nisa","no",,,,,,,
 329823,"PT-0135","closed","Pista da Lagoa da Carrasqueira",37.999375,-8.231592,,"EU","PT","PT-02","Ferreira do Alentejo","no",,,,,,,
 329856,"PT-0136","small_airport","Dragoa Airstrip",40.406895,-6.997218,,"EU","PT","PT-09","Sabugal","no",,,,,,,
-332599,"PT-0137","closed","V.N.Milfontes",37.675042,-8.745966,,"EU","PT","PT-07","Odemira","no",,,,,,,
+332599,"PT-0137","closed","V.N.Milfontes",37.675042,-8.745966,,"EU","PT","PT-02","Odemira","no",,,,,,,
 332600,"PT-0138","small_airport","Piper Road Airstrip",38.916323,-8.951862,,"EU","PT","PT-11","Portas do Capitão Mór","no",,,,,,,
 332601,"PT-0139","closed","Regimento Artilharia Military Airfield",38.693397,-8.443196,,"EU","PT","PT-07","Vendas Novas","no",,,,,,,
 332602,"PT-0140","small_airport","Herdade da Galega",39.387534,-8.358682,,"EU","PT","PT-14","Santa Margarida","no",,,,,,,
