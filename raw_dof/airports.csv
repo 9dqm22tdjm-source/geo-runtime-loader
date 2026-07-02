@@ -12579,49 +12579,49 @@
 301840,"BAJ","small_airport","Bali Airport",-4.8833333333299995,149.133333333,90,"OC","PG","PG-WBK","Unea Island","no",,"BAJ",,"BALI",,,
 27301,"BCW","medium_airport","Benguera Island Airport",-21.8533,35.438301,,"AF","MZ","MZ-I","Benguera Island","no",,"BCW",,,,"https://en.wikipedia.org/wiki/Benguera_Island_Airport",
 301872,"BCZ","small_airport","Milyakburra Airport",-13.780833333299999,136.201666667,85,"OC","AU","AU-NT","Bickerton Island","no",,"BCZ",,"YBIC",,"https://en.wikipedia.org/wiki/Bickerton_Island",
-339981,"BD-0001","heliport","Inani Beach Heliport",21.22472,92.0482,,"AS","BD","BD-2","Inani","no",,,,,,,
-339982,"BD-0002","heliport","Ocean Paradise Heliport",21.418572,91.982574,,"AS","BD","BD-2","Cox's Bazar","no",,,,,,,
-339983,"BD-0003","closed","Hotel Sea Palace Heliport",21.419863,91.981569,,"AS","BD","BD-2","Cox's Bazar","no",,,,,,,
-339984,"BD-0004","heliport","Nilgiri Heliport",21.91355,92.3244,,"AS","BD","BD-2","Barpara","no",,,,,,,
-339985,"BD-0005","heliport","Boga Lake Heliport",21.97982,92.46715,,"AS","BD","BD-2","Ruma","no",,,,,,,
-339987,"BD-0006","heliport","Ruma Helipad",22.05122,92.38641,,"AS","BD","BD-2","Ruma","no",,,,,,,
-339988,"BD-0007","heliport","Bandarban Heliport",22.20272,92.21449,,"AS","BD","BD-2","Bandarban","no",,,,,,,
-339989,"BD-0008","heliport","NVK Helipad",22.28432,91.80263,,"AS","BD","BD-2","Dangar Char","no",,,,,,,
-339990,"BD-0009","heliport","BNS Issa Khan Heliport",22.28124,91.7925,,"AS","BD","BD-2","Chattogram (Chittagong)","no",,,,,,,
-339991,"BD-0010","heliport","GEC Convention Centre Helipad",22.35886,91.82005,,"AS","BD","BD-2","Chattogram (Chittagong)","no",,,,,,,
-339992,"BD-0011","heliport","Bhasan Char Nayamasti Heliport 1",22.3589,91.36826,,"AS","BD","BD-2","Hatiya","no",,,,,,,
-339993,"BD-0012","heliport","Bhasan Char Nayamasti Heliport 2",22.36626,91.36998,,"AS","BD","BD-2","Hatiya","no",,,,,,,
-339994,"BD-0013","heliport","Swarna Dweep West Helipad",22.55542,91.29466,,"AS","BD","BD-2","Noakhali","no",,,,,,,
-339995,"BD-0014","heliport","Swarna Dweep Water Plant Helipad",22.54405,91.32899,,"AS","BD","BD-2","Noakhali","no",,,,,,,
-339996,"BD-0015","heliport","Swarna Dweep North Helipad",22.57064,91.3128,,"AS","BD","BD-2","Noakhali","no",,,,,,,
-339997,"BD-0016","heliport","Swarna Dweep Central Helipad",22.56377,91.30638,,"AS","BD","BD-2","Noakhali","no",,,,,,,
-339998,"BD-0017","heliport","Sandwip Heliport",22.48591,91.46101,,"AS","BD","BD-2","Sandwip","no",,,,,,,
-339999,"BD-0018","heliport","Begumganj Helipad",22.94184,91.10494,,"AS","BD","BD-2","Begumganj","no",,,,,,,
-340000,"BD-0019","small_airport","Noakhali Airport",22.7389,91.06489,26,"AS","BD","BD-2","Noakhali","no",,,,,,,
-340001,"BD-0020","heliport","Senbag Heliport",22.97907,91.2301,,"AS","BD","BD-2","Senbag","no",,,,,,,
-340002,"BD-0021","heliport","Burhanuddin Heliport",22.508,90.71304,,"AS","BD","BD-1","Burhanuddin","no",,,,,,,
-340003,"BD-0022","small_airport","Patuakhali Airport",22.37647,90.32213,,"AS","BD","BD-1","Patuakhali","no",,,,,,,
-348751,"BD-0023","closed","Hathazari Airfield",22.50999,91.79041,39,"AS","BD","BD-2","Hathazari","no",,,,,,,
-349318,"BD-0024","closed","Chakaria Airport",21.77327,92.06874,36,"AS","BD","BD-2","Chakaria","no",,,,,,,
-349319,"BD-0025","heliport","Narikel Jinjira (Saint Martin's) Heliport",20.62663,92.32488,10,"AS","BD","BD-2","Saint Martins","no",,,,,,,
-349320,"BD-0026","heliport","Dhumdumia BGB Heliport",20.95911,92.25133,18,"AS","BD","BD-2","Dhumdumia","no",,,,,,,
-349321,"BD-0027","heliport","Naikhongchari BGB Heliport",21.43336,92.17393,169,"AS","BD","BD-2","Naikhongchari","no",,,,,,,
-349322,"BD-0028","heliport","Chhagalkhaiya BOP Heliport",21.48655,92.23599,171,"AS","BD","BD-2","Chhagalkhaiya","no",,,,,,,
-349323,"BD-0029","heliport","Tindu Heliport",21.72334,92.45736,354,"AS","BD","BD-2","Tindu","no",,,,,,,
-349324,"BD-0030","heliport","Bolipara Heliport",21.88065,92.39703,434,"AS","BD","BD-2","Bolipara","no",,,,,,,
-349325,"BD-0031","heliport","Keokradong Heliport",21.94874,92.5146,3186,"AS","BD","BD-2","Keokradong","no",,,,,,,
-349326,"BD-0032","heliport","Thanchi BGB Heliport",21.81823,92.44067,233,"AS","BD","BD-2","Thanchi","no",,,,,,,
-349327,"BD-0033","heliport","Remakri Heliport",21.67607,92.52014,233,"AS","BD","BD-2","Remakri","no",,,,,,,
-349328,"BD-0034","heliport","Boro Mowdak Heliport",21.57058,92.57103,341,"AS","BD","BD-2","Boro Mowdak","no",,,,,,,
-349329,"BD-0035","heliport","Upper Sangu River Heliport 1",21.40321,92.58095,502,"AS","BD","BD-2","Remakri","no",,,,,,,
-349330,"BD-0036","heliport","Upper Sangu River Heliport 2",21.40229,92.60747,609,"AS","BD","BD-2","Remakri","no",,,,,,,
-349331,"BD-0037","heliport","Marang Chara Heliport",21.34993,92.60561,491,"AS","BD","BD-2","Remakri","no",,,,,,,
-349332,"BD-0038","heliport","Upper Sangu River Heliport 3",21.30249,92.61998,941,"AS","BD","BD-2","Remakri","no",,,,,,,
-349397,"BD-0039","closed","Bajitpur Regional Airport",24.21232,90.9065,33,"AS","BD","BD-3","Bajitpur","no",,,,,,,
-516838,"BD-0040","heliport","Khulna Circuit House Helipad",22.813996,89.569741,22,"AS","BD","BD-4","Khulna","no",,,,,,,
-516839,"BD-0041","heliport","Uttara Helipad",23.892722,90.390378,31,"AS","BD","BD-3","Dhaka","no",,,,,,,
-313421,"BD-0042","closed","Khan Jahan Ali Airport (under construction)",22.6486,89.6454,21,"AS","BD","BD-4","Bagerhat","no",,,,,,"https://en.wikipedia.org/wiki/Khan_Jahan_Ali_Airport","Mongla, Bagerhat, KHL"
-595338,"BD-0043","heliport","Chapal Nawabganj Heliport",24.586668,88.283111,75,"AS","BD","BD-5","Nawabganj","no",,,,,,,
+339981,"BD-0001","heliport","Inani Beach Heliport",21.22472,92.0482,,"AS","BD","BD-B","Inani","no",,,,,,,
+339982,"BD-0002","heliport","Ocean Paradise Heliport",21.418572,91.982574,,"AS","BD","BD-B","Cox's Bazar","no",,,,,,,
+339983,"BD-0003","closed","Hotel Sea Palace Heliport",21.419863,91.981569,,"AS","BD","BD-B","Cox's Bazar","no",,,,,,,
+339984,"BD-0004","heliport","Nilgiri Heliport",21.91355,92.3244,,"AS","BD","BD-B","Barpara","no",,,,,,,
+339985,"BD-0005","heliport","Boga Lake Heliport",21.97982,92.46715,,"AS","BD","BD-B","Ruma","no",,,,,,,
+339987,"BD-0006","heliport","Ruma Helipad",22.05122,92.38641,,"AS","BD","BD-B","Ruma","no",,,,,,,
+339988,"BD-0007","heliport","Bandarban Heliport",22.20272,92.21449,,"AS","BD","BD-B","Bandarban","no",,,,,,,
+339989,"BD-0008","heliport","NVK Helipad",22.28432,91.80263,,"AS","BD","BD-B","Dangar Char","no",,,,,,,
+339990,"BD-0009","heliport","BNS Issa Khan Heliport",22.28124,91.7925,,"AS","BD","BD-B","Chattogram (Chittagong)","no",,,,,,,
+339991,"BD-0010","heliport","GEC Convention Centre Helipad",22.35886,91.82005,,"AS","BD","BD-B","Chattogram (Chittagong)","no",,,,,,,
+339992,"BD-0011","heliport","Bhasan Char Nayamasti Heliport 1",22.3589,91.36826,,"AS","BD","BD-B","Hatiya","no",,,,,,,
+339993,"BD-0012","heliport","Bhasan Char Nayamasti Heliport 2",22.36626,91.36998,,"AS","BD","BD-B","Hatiya","no",,,,,,,
+339994,"BD-0013","heliport","Swarna Dweep West Helipad",22.55542,91.29466,,"AS","BD","BD-B","Noakhali","no",,,,,,,
+339995,"BD-0014","heliport","Swarna Dweep Water Plant Helipad",22.54405,91.32899,,"AS","BD","BD-B","Noakhali","no",,,,,,,
+339996,"BD-0015","heliport","Swarna Dweep North Helipad",22.57064,91.3128,,"AS","BD","BD-B","Noakhali","no",,,,,,,
+339997,"BD-0016","heliport","Swarna Dweep Central Helipad",22.56377,91.30638,,"AS","BD","BD-B","Noakhali","no",,,,,,,
+339998,"BD-0017","heliport","Sandwip Heliport",22.48591,91.46101,,"AS","BD","BD-B","Sandwip","no",,,,,,,
+339999,"BD-0018","heliport","Begumganj Helipad",22.94184,91.10494,,"AS","BD","BD-B","Begumganj","no",,,,,,,
+340000,"BD-0019","small_airport","Noakhali Airport",22.7389,91.06489,26,"AS","BD","BD-B","Noakhali","no",,,,,,,
+340001,"BD-0020","heliport","Senbag Heliport",22.97907,91.2301,,"AS","BD","BD-B","Senbag","no",,,,,,,
+340002,"BD-0021","heliport","Burhanuddin Heliport",22.508,90.71304,,"AS","BD","BD-A","Burhanuddin","no",,,,,,,
+340003,"BD-0022","small_airport","Patuakhali Airport",22.37647,90.32213,,"AS","BD","BD-A","Patuakhali","no",,,,,,,
+348751,"BD-0023","closed","Hathazari Airfield",22.50999,91.79041,39,"AS","BD","BD-B","Hathazari","no",,,,,,,
+349318,"BD-0024","closed","Chakaria Airport",21.77327,92.06874,36,"AS","BD","BD-B","Chakaria","no",,,,,,,
+349319,"BD-0025","heliport","Narikel Jinjira (Saint Martin's) Heliport",20.62663,92.32488,10,"AS","BD","BD-B","Saint Martins","no",,,,,,,
+349320,"BD-0026","heliport","Dhumdumia BGB Heliport",20.95911,92.25133,18,"AS","BD","BD-B","Dhumdumia","no",,,,,,,
+349321,"BD-0027","heliport","Naikhongchari BGB Heliport",21.43336,92.17393,169,"AS","BD","BD-B","Naikhongchari","no",,,,,,,
+349322,"BD-0028","heliport","Chhagalkhaiya BOP Heliport",21.48655,92.23599,171,"AS","BD","BD-B","Chhagalkhaiya","no",,,,,,,
+349323,"BD-0029","heliport","Tindu Heliport",21.72334,92.45736,354,"AS","BD","BD-B","Tindu","no",,,,,,,
+349324,"BD-0030","heliport","Bolipara Heliport",21.88065,92.39703,434,"AS","BD","BD-B","Bolipara","no",,,,,,,
+349325,"BD-0031","heliport","Keokradong Heliport",21.94874,92.5146,3186,"AS","BD","BD-B","Keokradong","no",,,,,,,
+349326,"BD-0032","heliport","Thanchi BGB Heliport",21.81823,92.44067,233,"AS","BD","BD-B","Thanchi","no",,,,,,,
+349327,"BD-0033","heliport","Remakri Heliport",21.67607,92.52014,233,"AS","BD","BD-B","Remakri","no",,,,,,,
+349328,"BD-0034","heliport","Boro Mowdak Heliport",21.57058,92.57103,341,"AS","BD","BD-B","Boro Mowdak","no",,,,,,,
+349329,"BD-0035","heliport","Upper Sangu River Heliport 1",21.40321,92.58095,502,"AS","BD","BD-B","Remakri","no",,,,,,,
+349330,"BD-0036","heliport","Upper Sangu River Heliport 2",21.40229,92.60747,609,"AS","BD","BD-B","Remakri","no",,,,,,,
+349331,"BD-0037","heliport","Marang Chara Heliport",21.34993,92.60561,491,"AS","BD","BD-B","Remakri","no",,,,,,,
+349332,"BD-0038","heliport","Upper Sangu River Heliport 3",21.30249,92.61998,941,"AS","BD","BD-B","Remakri","no",,,,,,,
+349397,"BD-0039","closed","Bajitpur Regional Airport",24.21232,90.9065,33,"AS","BD","BD-C","Bajitpur","no",,,,,,,
+516838,"BD-0040","heliport","Khulna Circuit House Helipad",22.813996,89.569741,22,"AS","BD","BD-D","Khulna","no",,,,,,,
+516839,"BD-0041","heliport","Uttara Helipad",23.892722,90.390378,31,"AS","BD","BD-C","Dhaka","no",,,,,,,
+313421,"BD-0042","closed","Khan Jahan Ali Airport (under construction)",22.6486,89.6454,21,"AS","BD","BD-D","Bagerhat","no",,,,,,"https://en.wikipedia.org/wiki/Khan_Jahan_Ali_Airport","Mongla, Bagerhat, KHL"
+595338,"BD-0043","heliport","Chapal Nawabganj Heliport",24.586668,88.283111,75,"AS","BD","BD-E","Nawabganj","no",,,,,,,
 43750,"BE-0001","closed","Froidchapelle Glider Field",50.176388,4.352222,902,"EU","BE","BE-WHT","Froidchapelle","no",,,,,,,
 43753,"BE-0002","closed","Chimay-Virelles Ulmodrome",50.117778778,4.33055591583,919,"EU","BE","BE-WHT","Chimay","no",,,,,,,
 43762,"BE-0003","closed","Sovet Airfield",50.286944,5.038462,919,"EU","BE","BE-WNA","Ciney","no",,,,,,,
@@ -17892,6 +17892,7 @@
 609576,"CA-1263","small_airport","Oakwood Field",44.336373,-78.911855,920,"NA","CA","CA-ON","Oakwood","no",,,"COK3","COK3",,,
 609588,"CA-1264","small_airport","Gotz Farm Field",45.100305,-79.432955,,"NA","CA","CA-ON","Bracebridge","no",,,,"CBG3",,,
 609590,"CA-1265","small_airport","Jackson's Point Private Field",44.276332,-79.375062,,"NA","CA","CA-ON","Baldwin","no",,,,,,,
+609617,"CA-1266","small_airport","Baldwin South Field",44.255929,-79.382529,,"NA","CA","CA-ON","Baldwin","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -31752,6 +31753,7 @@
 607063,"ID-0406","small_airport","Teraplu Airport",-3.991445,140.445024,791,"AS","ID","ID-PP","Terablu","no",,,,,,,
 607494,"ID-0407","small_airport","Kapiraya Airstrip",-4.411759,135.998729,161,"AS","ID","ID-PT",,"no",,,,,,,
 607495,"ID-0408","small_airport","Kilmit Airstrip",-4.309575,138.122154,3291,"AS","ID","ID-PP","Kilmit","no",,,,,,,
+609605,"ID-0409","small_airport","(Duplicate)Ranai Airport",3.908714,108.387897,,"AS","ID","ID-U-A","Ranai-Natuna Besar Island","no","WIDO",,,,,,
 41361,"ID-AAS","small_airport","Apalapsili Airport",-3.882495,139.310932,3100,"AS","ID","ID-PP","Apalapsili","no",,"AAS","WAVR","APA",,"https://en.wikipedia.org/wiki/Apalapsili_Airport",
 41362,"ID-AGD","small_airport","Anggi Airport",-1.3858,133.8737,6644,"AS","ID","ID-PB","Anggi-Papua Island","no",,"AGD","WAUA",,,"https://en.wikipedia.org/wiki/Anggi_Airport","WASG"
 43978,"ID-AHI","small_airport","Mina Wanam Airport",-7.540726,139.110916,22,"AS","ID","ID-PS","Wanam","no",,,,,,,"WT82"
@@ -33979,6 +33981,10 @@
 609078,"IT-0975","heliport","Elisuperfice Cargandino agriturismo",45.609129,8.589689,,"EU","IT","IT-21","Comune di Mezzomerico","no",,,,,,,
 609502,"IT-0976","heliport","Bressanone Hospital Heliport",46.725115,11.64793,1883,"EU","IT","IT-32","Brixen - Bressanone (BZ)","no",,,,,,,
 609532,"IT-0977","small_airport","Cà del Pierpa",44.899176,8.782698,299,"EU","IT","IT-21","Alessandria","no",,,,,,,
+609610,"IT-0978","small_airport","ANZANO DEL PARCO EA",45.777757,9.215711,324,"EU","IT","IT-25","Cavogno","no",,,,,,,
+609611,"IT-0979","small_airport","Isolone Airstrip",45.09135,9.66593,46,"EU","IT","IT-25","San Rocco al Porto (LO)","no",,,,,,,
+609612,"IT-0980","small_airport","Il Go - Le Caminaglie Airfield",44.97634,9.49446,470,"EU","IT","IT-45","Agazzano (PC)","no",,,,,,,
+609613,"IT-0981","small_airport","Valtidone Airstrip",45.026389,9.435361,338,"EU","IT","IT-45","Borgonovo Val Tidone (PC)","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -41050,7 +41056,7 @@
 20807,"KPBF","medium_airport","Pine Bluff Regional Airport, Grider Field",34.174121,-91.935643,206,"NA","US","US-AR","Pine Bluff","no","KPBF","PBF","KPBF","PBF","http://www.pbaviation.com","https://en.wikipedia.org/wiki/Grider_Field",
 20808,"KPBG","medium_airport","Plattsburgh International Airport",44.650902,-73.468102,234,"NA","US","US-NY","Plattsburgh","yes","KPBG","PBG","KPBG","PBG","http://www.plattsburghinternationalairport.com/","https://en.wikipedia.org/wiki/Plattsburgh_International_Airport","Plattsburgh Air Force Base"
 20809,"KPBH","small_airport","Price County Airport",45.709,-90.402496,1497,"NA","US","US-WI","Phillips","no",,,"KPBH","PBH",,"https://en.wikipedia.org/wiki/Price_County_Airport",
-3766,"KPBI","large_airport","Palm Beach International Airport",26.683201,-80.095596,19,"NA","US","US-FL","West Palm Beach","yes","KPBI","PBI","KPBI","PBI","https://www.pbia.org/","https://en.wikipedia.org/wiki/Palm_Beach_International_Airport","MFW, South Florida"
+3766,"KPBI","large_airport","President Donald J. Trump International Airport",26.683201,-80.095596,19,"NA","US","US-FL","West Palm Beach","yes","KPBI","PBI","KPBI","PBI","https://www.pbia.org/","https://en.wikipedia.org/wiki/Palm_Beach_International_Airport","MFW, South Florida"
 20810,"KPBX","small_airport","Pike County Airport Hatcher Field",37.560795,-82.570051,1473,"NA","US","US-KY","Pikeville","no","KPBX","PVL","KPBX","PBX",,"https://en.wikipedia.org/wiki/Pike_County_Airport_(Kentucky)","Hatcher Field"
 24076,"KPCA","heliport","Picacho Stagefield Heliport",32.662789,-111.48797,1675,"NA","US","US-AZ","Picacho","no",,,"KPCA","PCA",,"https://en.wikipedia.org/wiki/Picacho_Stagefield_ARNG_Heliport",
 20811,"KPCM","small_airport","Plant City Municipal Airport",28.0002,-82.1642,153,"NA","US","US-FL","Plant City","no",,,"KPCM","PCM",,"https://en.wikipedia.org/wiki/Plant_City_Airport",
@@ -51892,7 +51898,7 @@
 5215,"OJHF","small_airport","Prince Hassan Air Base",32.160702,37.149399,2220,"AS","JO","JO-MA",,"no","OJPH",,"OJPH",,"http://www.rjaf.mil.jo/index.php/en/en/.html","https://en.wikipedia.org/wiki/Prince_Hassan_Air_Base",
 5216,"OJHR","small_airport","H4 Air Base",32.5392,38.195,2250,"AS","JO","JO-MA",,"no","OJHR",,"OJHR",,,"https://en.wikipedia.org/wiki/H-4_Air_Base",
 5218,"OJMF","small_airport","King Hussein Air College",32.3564,36.259201,2240,"AS","JO","JO-MA","Mafraq","no","OJMF","OMF","OJMF",,,"https://en.wikipedia.org/wiki/King_Hussein_Air_Base",
-3354,"OJMS","medium_airport","Muwaffaq Salti Air Base",31.8256,36.782001,1706,"AS","JO","JO-AZ","Al Azraq","no","OJMS",,"OJMS",,,"https://en.wikipedia.org/wiki/Muwaffaq_Salti_Air_Base","OJ40, Shaheed Mwaffaq, Al Shaheed Muwaffaq Salti Air Base"
+3354,"OJMS","medium_airport","Muwaffaq Salti Air Base",31.8256,36.782001,1706,"AS","JO","JO-AZ","Al Azraq","no","OJMS",,"OJMS",,,"https://en.wikipedia.org/wiki/Muwaffaq_Salti_Air_Base","OJ40, OJ2, Shaheed Mwaffaq, Al Shaheed Muwaffaq Salti Air Base"
 23744,"OK00","small_airport","Jacktown Airport",35.516300201416016,-97.02210235595703,954,"NA","US","US-OK","Jacktown","no",,,"OK00","OK00",,,
 23745,"OK01","small_airport","Sky Haven Airpark/Sellmeyer Field",36.42900085449219,-95.9032974243164,675,"NA","US","US-OK","Vera","no",,,"OK01","OK01",,,
 23746,"OK02","small_airport","Dick's Airport",35.110802,-97.481697,1160,"NA","US","US-OK","Washington","no",,,"OK02","OK02",,,
@@ -54789,7 +54795,7 @@
 5598,"RJOO","large_airport","Osaka Itami International Airport",34.780853,135.440829,50,"AS","JP","JP-27","Osaka","yes","RJOO","ITM","RJOO",,"https://www.osaka-airport.co.jp/en/","https://en.wikipedia.org/wiki/Osaka_International_Airport","OSA, Itami"
 309676,"RJOP","heliport","JMSDF Komatsushima Heliport",34.005278,134.626479,13,"AS","JP","JP-36","Komatsushima","no",,,"RJOP",,,"https://en.wikipedia.org/wiki/List_of_airports_in_Japan#Heliports","Komatsushima Airfield"
 5599,"RJOR","medium_airport","Tottori Sand Dunes Conan Airport",35.530058,134.165023,65,"AS","JP","JP-31","Tottori","yes","RJOR","TTJ","RJOR",,"https://www.ttj-ap-bld.co.jp/","https://en.wikipedia.org/wiki/Tottori_Airport","鳥取砂丘コナン空港, 鳥取, コナン, Tottori Airport"
-5600,"RJOS","large_airport","Tokushima Awaodori Airport / JMSDF Tokushima Air Base",34.132559,134.607816,26,"AS","JP","JP-36","Tokushima","yes","RJOS","TKS","RJOS",,"https://www.tokushima-airport.co.jp/","https://en.wikipedia.org/wiki/Tokushima_Airport%E5%A0%B4#.E8","Tokushima"
+5600,"RJOS","large_airport","Tokushima Awaodori Airport / JMSDF Tokushima Air Base",34.132559,134.607816,26,"AS","JP","JP-36","Tokushima","yes","RJOS","TKS","RJOS",,"https://www.tokushima-airport.co.jp/","https://en.wikipedia.org/wiki/Tokushima_Airport","Tokushima"
 5601,"RJOT","large_airport","Takamatsu Airport",34.214963,134.015454,607,"AS","JP","JP-37","Takamatsu","yes","RJOT","TAK","RJOT",,"https://www.takamatsu-airport.com/","https://en.wikipedia.org/wiki/Takamatsu_Airport",
 5602,"RJOW","medium_airport","Iwami Airport",34.676399231,131.789993286,184,"AS","JP","JP-32","Masuda","yes","RJOW","IWJ","RJOW",,,"https://en.wikipedia.org/wiki/Iwami_Airport",
 5603,"RJOY","medium_airport","Yao Airport",34.59629821777344,135.60299682617188,39,"AS","JP","JP-27","Yao","no",,,"RJOY",,,"https://en.wikipedia.org/wiki/Yao_Airport",
@@ -81009,6 +81015,7 @@
 601814,"VE-0523","heliport","S/E Yaracuy HLS",9.923368,-69.13267,1181,"SA","VE","VE-U","El Palmar","no",,,,"SVOHF",,,
 601815,"VE-0524","heliport","GN Castilletes HLS",11.84984,-71.332074,3,"SA","VE","VE-V",,"no",,,,"SVT7D",,,
 601830,"VE-0525","heliport","PS3 Helideck",11.960278,-70.537778,,"SA","VE","VE-U-A","Gulf of Venezuela","no",,,,,,,
+609615,"VE-0526","medium_airport","(Misplaced duplicate?)Aeropuerto internacional Simón bolivar",12.504223,20.81543,,"NA","VE","VE-V",,"no",,,,,,,
 3307,"VE23","small_airport","Burnpur Airport",23.631500244140625,86.97550201416016,310,"AS","IN","IN-WB",,"no",,,"VE23","VE23",,,
 3308,"VE24","small_airport","Sookerating (Doomdooma) Airport",27.5529,95.570602,400,"AS","IN","IN-AS","Sokriting T.E.","no",,,"VE24","VE24",,,
 3310,"VE36","small_airport","Nuagaon Airport",20.511699676513672,83.4480972290039,656,"AS","IN","IN-OR",,"no",,,"VE36","VE36",,,
@@ -81144,21 +81151,21 @@
 531720,"VG67","small_airport","Stuart Red House Field",37.204247,-78.834036,713,"NA","US","US-VA","Appomattox","no",,,"VG67","VG67",,,
 511931,"VG68","heliport","Bon Secours St Francis Medical Center Heliport",37.466939,-77.660086,270,"NA","US","US-VA","Midlothian","no",,,"VG68","VG68",,,
 329486,"VG94","heliport","Loves Helipad",36.745292,-78.101337,431,"NA","US","US-VA","Loves Helipad","no",,,"VG94","VG94",,,
-309876,"VGBG","small_airport","Bogra Airport",24.8668,89.3165,69,"AS","BD","BD-5","Bogra","no",,,"VGBG",,,"https://en.wikipedia.org/wiki/Bogra_STOLport",
-26525,"VGBR","medium_airport","Barisal Airport",22.801001,90.301201,23,"AS","BD","BD-1","Barisal","yes","VGBR","BZL","VGBR",,,"https://en.wikipedia.org/wiki/Barisal_Airport",
-26526,"VGCB","medium_airport","Cox's Bazar Airport",21.457517,91.963263,12,"AS","BD","BD-2","Cox's Bazar","yes","VGCB","CXB","VGCB",,,"https://en.wikipedia.org/wiki/Cox's_Bazar_Airport",
-30832,"VGCM","small_airport","Comilla Airport",23.440133,91.188685,25,"AS","BD","BD-2","Comilla","no","VGCM","CLA","VGCM",,,"https://en.wikipedia.org/wiki/Comilla_Airport",
-26527,"VGEG","large_airport","Shah Amanat International Airport",22.249599,91.813301,12,"AS","BD","BD-2","Chattogram (Chittagong)","yes","VGEG","CGP","VGEG",,,"https://en.wikipedia.org/wiki/Shah_Amanat_International_Airport","M.A. Hannan International Airport"
-26534,"VGHS","large_airport","Hazrat Shahjalal International Airport",23.843347,90.397783,30,"AS","BD","BD-3","Dhaka","yes","VGHS","DAC","VGHS","5500",,"https://www.linkedin.com/in/md-shamim-islam-109925358/","VGZR, Zia International Airport, Dacca International Airport, Hazrat Shahjalal International Airport"
-26528,"VGIS","medium_airport","Ishurdi Airport",24.1525,89.0494,45,"AS","BD","BD-5","Ishurdi","no","VGIS","IRD","VGIS",,,"https://en.wikipedia.org/wiki/Ishwardi_Airport","Ishwardi"
-26529,"VGJR","medium_airport","Jessore Airport",23.1838,89.160797,20,"AS","BD","BD-4","Jashore (Jessore)","yes","VGJR","JSR","VGJR",,,"https://en.wikipedia.org/wiki/Jessore_Airport",
-31831,"VGLM","small_airport","Lalmonirhat Airport",25.887624,89.431254,106,"AS","BD","BD-5","Lalmonirhat","no","VGLM",,"VGLM",,,"https://en.wikipedia.org/wiki/Lalmonirhat_Airport",
-26530,"VGRJ","medium_airport","Shah Makhdum Airport",24.437201,88.616501,64,"AS","BD","BD-5","Rajshahi","yes","VGRJ","RJH","VGRJ",,,"https://en.wikipedia.org/wiki/Shah_Makhdum_Airport",
-26531,"VGSD","medium_airport","Saidpur Airport",25.759199,88.908897,125,"AS","BD","BD-5","Saidpur","yes","VGSD","SPD","VGSD",,,"https://en.wikipedia.org/wiki/Saidpur_Airport",
-32455,"VGSG","small_airport","Thakurgaon Airport",26.016378,88.402092,176,"AS","BD","BD-5","Thakurgaon","no","VGSG","TKR","VGSG",,,"https://en.wikipedia.org/wiki/Thakurgaon_Airport",
-32744,"VGSH","small_airport","Shamshernagar Airport",24.398333,91.916944,56,"AS","BD","BD-6","Shamshernagar","no","VGSH","ZHM","VGSH",,,"https://en.wikipedia.org/wiki/Shamshernagar_STOLport",
-26532,"VGSY","large_airport","Osmany International Airport",24.963993,91.864749,50,"AS","BD","BD-6","Sylhet","yes","VGSY","ZYL","VGSY",,,"https://en.wikipedia.org/wiki/Osmani_International_Airport",
-26533,"VGTJ","small_airport","Tejgaon Airport",23.778507,90.382719,24,"AS","BD","BD-3","Dhaka","no","VGTJ",,"VGTJ",,,"https://en.wikipedia.org/wiki/Tejgaon_Airport",
+309876,"VGBG","small_airport","Bogra Airport",24.8668,89.3165,69,"AS","BD","BD-E","Bogra","no",,,"VGBG",,,"https://en.wikipedia.org/wiki/Bogra_STOLport",
+26525,"VGBR","medium_airport","Barisal Airport",22.801001,90.301201,23,"AS","BD","BD-A","Barisal","yes","VGBR","BZL","VGBR",,,"https://en.wikipedia.org/wiki/Barisal_Airport",
+26526,"VGCB","medium_airport","Cox's Bazar Airport",21.457517,91.963263,12,"AS","BD","BD-B","Cox's Bazar","yes","VGCB","CXB","VGCB",,,"https://en.wikipedia.org/wiki/Cox's_Bazar_Airport",
+30832,"VGCM","small_airport","Comilla Airport",23.440133,91.188685,25,"AS","BD","BD-B","Comilla","no","VGCM","CLA","VGCM",,,"https://en.wikipedia.org/wiki/Comilla_Airport",
+26527,"VGEG","large_airport","Shah Amanat International Airport",22.249599,91.813301,12,"AS","BD","BD-B","Chattogram (Chittagong)","yes","VGEG","CGP","VGEG",,,"https://en.wikipedia.org/wiki/Shah_Amanat_International_Airport","M.A. Hannan International Airport"
+26534,"VGHS","large_airport","Hazrat Shahjalal International Airport",23.843347,90.397783,30,"AS","BD","BD-C","Dhaka","yes","VGHS","DAC","VGHS","5500",,"https://www.linkedin.com/in/md-shamim-islam-109925358/","VGZR, Zia International Airport, Dacca International Airport, Hazrat Shahjalal International Airport"
+26528,"VGIS","medium_airport","Ishurdi Airport",24.1525,89.0494,45,"AS","BD","BD-E","Ishurdi","no","VGIS","IRD","VGIS",,,"https://en.wikipedia.org/wiki/Ishwardi_Airport","Ishwardi"
+26529,"VGJR","medium_airport","Jessore Airport",23.1838,89.160797,20,"AS","BD","BD-D","Jashore (Jessore)","yes","VGJR","JSR","VGJR",,,"https://en.wikipedia.org/wiki/Jessore_Airport",
+31831,"VGLM","small_airport","Lalmonirhat Airport",25.887624,89.431254,106,"AS","BD","BD-E","Lalmonirhat","no","VGLM",,"VGLM",,,"https://en.wikipedia.org/wiki/Lalmonirhat_Airport",
+26530,"VGRJ","medium_airport","Shah Makhdum Airport",24.437201,88.616501,64,"AS","BD","BD-E","Rajshahi","yes","VGRJ","RJH","VGRJ",,,"https://en.wikipedia.org/wiki/Shah_Makhdum_Airport",
+26531,"VGSD","medium_airport","Saidpur Airport",25.759199,88.908897,125,"AS","BD","BD-E","Saidpur","yes","VGSD","SPD","VGSD",,,"https://en.wikipedia.org/wiki/Saidpur_Airport",
+32455,"VGSG","small_airport","Thakurgaon Airport",26.016378,88.402092,176,"AS","BD","BD-E","Thakurgaon","no","VGSG","TKR","VGSG",,,"https://en.wikipedia.org/wiki/Thakurgaon_Airport",
+32744,"VGSH","small_airport","Shamshernagar Airport",24.398333,91.916944,56,"AS","BD","BD-G","Shamshernagar","no","VGSH","ZHM","VGSH",,,"https://en.wikipedia.org/wiki/Shamshernagar_STOLport",
+26532,"VGSY","large_airport","Osmany International Airport",24.963993,91.864749,50,"AS","BD","BD-G","Sylhet","yes","VGSY","ZYL","VGSY",,,"https://en.wikipedia.org/wiki/Osmani_International_Airport",
+26533,"VGTJ","small_airport","Tejgaon Airport",23.778507,90.382719,24,"AS","BD","BD-C","Dhaka","no","VGTJ",,"VGTJ",,,"https://en.wikipedia.org/wiki/Tejgaon_Airport",
 26535,"VHHH","large_airport","Hong Kong International Airport",22.31184,113.914862,28,"AS","HK","HK-NT","Hong Kong","yes","VHHH","HKG","VHHH",,"http://www.hongkongairport.com/","https://en.wikipedia.org/wiki/Hong_Kong_International_Airport","Chek Lap Kok Airport, 赤鱲角機場"
 26536,"VHSK","medium_airport","Shek Kong Air Base",22.4366,114.080002,50,"AS","HK","HK-NT","Islands","no","VHSK",,"VHSK",,,"https://en.wikipedia.org/wiki/Shek_Kong_Airfield","Yuen Long Airport, RAF Sek Kong, 石崗機場"
 43192,"VHST","heliport","Shun Tak Heliport",22.288868,114.152369,107,"AS","HK","HK-HK","Central and Western","yes","VHSS","HHP","VHSS",,"http://www.skyshuttlehk.com/","https://en.wikipedia.org/wiki/Hong_Kong-Macau_Ferry_Pier,_Hong_Kong#Heliport",
@@ -82129,12 +82136,12 @@
 605056,"WIAC","small_airport","Balai Sepuak Airstrip",0.450209,111.217012,51,"AS","ID","ID-KB","Balai Sepuak","no","WIAC",,"WIAC",,,,
 41454,"WIAG","small_airport","Menggala Airport",-4.48943996429,105.217002869,98,"AS","ID","ID-LA","Menggala-Sumatra Island","no",,,"WIPM",,,,"WIAG, Astrakestra"
 46482,"WIAJ","small_airport","Atang Senjaya Airport",-6.538819,106.755466,538,"AS","ID","ID-JB","Bogor","no",,,"WIHJ",,,"https://en.wikipedia.org/wiki/Atang_Senjaya_Airport","WIAJ, Atang Sanjaya, Atang Sendjaja, Atang Senjaya"
-41455,"WIAK","small_airport","Sulaiman Airport",-6.98278,107.572998,2184,"AS","ID","ID-JB","Margahayu","no",,,"WICK",,,,"WIAK, Margahajoe, Margahaju"
+41455,"WIAK","small_airport","Sulaiman Airport",-6.98278,107.572998,2184,"AS","ID","ID-JB","Margahayu","no","WICK",,"WICK",,,,"WIAK, Margahajoe, Margahaju"
 26821,"WIBB","medium_airport","Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB",0.458647,101.444321,102,"AS","ID","ID-RI","Pekanbaru","yes","WIBB","PKU","WIBB",,,"https://en.wikipedia.org/wiki/Sultan_Syarif_Qasim_II_International_Airport","Simpang Tiga"
 26822,"WIBD","medium_airport","Pinang Kampai Airport",1.609026,101.433493,55,"AS","ID","ID-RI","Dumai","yes","WIBD","DUM","WIBD",,,"https://en.wikipedia.org/wiki/Pinang_Kampai_Airport",
 523211,"WIBI","small_airport","Pulai Airport",0.218532,103.163037,21,"AS","ID","ID-RI","Pelangiran","no",,,"WIBI",,,,
 26857,"WIBJ","medium_airport","Japura Airport",-0.352808,102.334999,62,"AS","ID","ID-RI","Rengat-Sumatra Island","no","WIBJ","RGT","WIBJ",,,"https://en.wikipedia.org/wiki/Japura_Airport","WIPR"
-523204,"WIBL","small_airport","Sultan Syarif Haroen Setia Negara Airport",0.499262,101.923391,42,"AS","ID","ID-RI","Pangkalan Kerinci","no",,,"WIBL",,,,"Pelalawan"
+523204,"WIBL","small_airport","Sultan Syarif Haroen Setia Negara Airport",0.499262,101.923391,42,"AS","ID","ID-RI","Pangkalan Kerinci","no","WIBL",,"WIBL",,,,"Pelalawan"
 32282,"WIBS","small_airport","Sungai Pakning Bengkalis Airport",1.37,102.139999,3,"AS","ID","ID-RI","Bengkalis-Sumatra Island","no","WIBS","SEQ","WIBS",,,"https://en.wikipedia.org/wiki/Sei_Pakning_Airport",
 32452,"WIBT","small_airport","Raja Haji Abdullah Airport",1.05287,103.391517,16,"AS","ID","ID-KR","Tanjung Balai-Karinmunbesar Island","no",,"TJB","WIDT",,,"https://en.wikipedia.org/wiki/Raja_Haji_Abdullah_Airport","WIBT, Sei Bati. Tanjung Balai Airport"
 333068,"WICA","medium_airport","Kertajati International Airport",-6.647384,108.165561,134,"AS","ID","ID-JB","Kertajati","yes","WICA","KJT","WICA",,,"https://en.wikipedia.org/wiki/Kertajati_International_Airport",
@@ -82145,7 +82152,7 @@
 3272,"WICN","small_airport","Nusawiru Airport",-7.719895,108.488995,16,"AS","ID","ID-JB","Cijulang","yes","WICN","CJN","WICN",,,"https://en.wikipedia.org/wiki/Cijulang_Nusawiru_Airport","WI1A"
 525167,"WIDB","small_airport","Tambelan Airport",0.979922,107.564658,19,"AS","ID","ID-KR","Tambelan","no",,"TBX","WIDB",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Tambelan",
 26828,"WIDD","large_airport","Hang Nadim International Airport",1.12103,104.119003,126,"AS","ID","ID-KR","Batam","yes","WIDD","BTH","WIDD",,,"https://en.wikipedia.org/wiki/Hang_Nadim_Airport","WIKB"
-26829,"WIDE","small_airport","Tuanku Tambusai Airport",0.845431,100.370154,151,"AS","ID","ID-RI","Pasir Pengarayan","no",,"PPR","WIBG",,,"https://en.wikipedia.org/wiki/Tuanku_Tambusai_Airport","WIDE"
+26829,"WIDE","small_airport","Tuanku Tambusai Airport",0.845431,100.370154,151,"AS","ID","ID-RI","Pasir Pengarayan","no","WIBG","PPR","WIBG",,,"https://en.wikipedia.org/wiki/Tuanku_Tambusai_Airport","WIDE"
 333092,"WIDL","small_airport","Letung Airport",2.96447,105.75484,33,"AS","ID","ID-KR","Bukit Padi","no","WIDL","LMU","WIDL",,,"https://en.wikipedia.org/wiki/Letung_Airport",
 26845,"WIDM","small_airport","Matak Airport",3.34812,106.258003,10,"AS","ID","ID-KR","Palmatak","no",,"MWK","WIDM",,,"https://en.wikipedia.org/wiki/Matak_Airport","WIOM, Medco E&P Natuna, Taremba"
 26830,"WIDN","medium_airport","Raja Haji Fisabilillah International Airport",0.92397,104.53341,52,"AS","ID","ID-KR","Tanjung Pinang-Bintan Island","yes","WIDN","TNJ","WIDN",,,"https://en.wikipedia.org/wiki/Raja_Haji_Fisabilillah_Airport","WIKN"
@@ -82153,6 +82160,7 @@
 604144,"WIFL","small_airport","Riam Batu Airstrip.",-1.497363,110.674943,216,"AS","ID","ID-KB","Riam Batu","no",,,"WIFL",,,,
 41468,"WIGM","small_airport","Muko Muko Airport",-2.541058,101.087651,24,"AS","ID","ID-BE","Muko Muko","yes",,"MPC","WIGM",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Mukomuko","WIPU, Mukomuko, Muko-Muko"
 525295,"WIHC","small_airport","Wiladatika Airport",-6.35643,106.900796,210,"AS","ID","ID-JK",,"no",,,"WIHC",,,,
+609609,"WIHF","heliport","Pabelokan Heliport",-5.477868,106.394934,27,"AS","ID","ID-JB","Pabelokan Island","no","WIHF",,"WIHF",,,,"WIIF, Seribu"
 26832,"WIHH","large_airport","Halim Perdanakusuma International Airport",-6.266989,106.890318,84,"AS","ID","ID-JK","Jakarta","yes","WIHH","HLP","WIHH",,"https://www.angkasapura2.co.id/cabang/hlp/content.php?menu=8&page_id=1","https://en.wikipedia.org/wiki/Halim_Perdanakusuma_International_Airport","WIIH, WIIX, WIID"
 26834,"WIHP","small_airport","Pondok Cabe Air Base",-6.3369598388671875,106.76499938964844,200,"AS","ID","ID-JK","Jakarta","no","WIHP","PCB","WIHP",,,"https://en.wikipedia.org/wiki/Pondok_Cabe_Airport","WIPC,WIIP"
 26835,"WIII","large_airport","Soekarno-Hatta International Airport",-6.12557,106.655998,34,"AS","ID","ID-BT","Jakarta","yes","WIII","CGK","WIII",,"http://www.jakartasoekarnohattaairport.com/","https://en.wikipedia.org/wiki/Soekarno-Hatta_International_Airport","JKT, Cengkareng, Java"
@@ -82185,7 +82193,7 @@
 26850,"WIPA","small_airport","Sultan Thaha Airport",-1.638685,103.645063,82,"AS","ID","ID-JA","Jambi","yes","WIJJ","DJB","WIJJ",,,"https://en.wikipedia.org/wiki/Sultan_Thaha_Airport","WIPA, Palmerah"
 41459,"WIPB","small_airport","Silampari Airport",-3.288165,102.91449,371,"AS","ID","ID-SS","Lubuk Linggau","no","WIPB","LLJ","WIPB","LLG",,"https://en.wikipedia.org/wiki/Silampari_Airport",
 26851,"WIPD","small_airport","Banding Agung Airport",-4.78702,103.932999,2100,"AS","ID","ID-SS","Pasar Bandingagung","no","WIPD",,"WIPD",,,"https://id.wikipedia.org/wiki/Bandar_Udara_Banding_Agung",
-41467,"WIPF","small_airport","Kuala Tungkal Airport",-0.8166670203208923,103.46666717529297,12,"AS","ID","ID-JA","Kuala Tungkal-Sumatra Island","no",,,"WIPF",,,,
+41467,"WIPF","closed","Kuala Tungkal Airport",-0.816667,103.466667,12,"AS","ID","ID-JA","Kuala Tungkal-Sumatra Island","no",,,,,,,"WIPF"
 310599,"WIPI","small_airport","Muara Bungo Airport",-1.541635,102.181613,192,"AS","ID","ID-JA","Muara Bungo","yes",,"BUU","WIJB",,"https://web.archive.org/web/20171021003712/http://www.infobungo.com:80/2012/12/jadwal-penerbangan-dari-bandara-muara.html","https://en.wikipedia.org/wiki/Muara_Bungo_Airport","Pasir Mayang"
 26852,"WIPK","medium_airport","Depati Amir Airport",-2.1622,106.139,109,"AS","ID","ID-BB","Pangkal Pinang","yes","WIKK","PGK","WIKK",,,"https://en.wikipedia.org/wiki/Pangkalpinang_Airport","WIPK"
 26853,"WIPL","medium_airport","Fatmawati Soekarno Airport",-3.8637,102.338997,50,"AS","ID","ID-BE","Bengkulu","yes","WIGG","BKS","WIGG",,,"https://en.wikipedia.org/wiki/Fatmawati_Soekarno_Airport","WIPL, Padang Kemiling Airport"
