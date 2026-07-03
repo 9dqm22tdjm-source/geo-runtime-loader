@@ -10718,7 +10718,7 @@
 318256,"AR-0528","small_airport","Kalbermatter Airport",-27.26028,-61.47444,331,"SA","AR","AR-H","General Pinedo","no",,,,"GPK",,,
 318257,"AR-0529","small_airport","Estancia El Potrero Airport",-32.97472,-58.25389,88,"SA","AR","AR-E","Gualeguaychu","no",,,,"GEP",,,
 318259,"AR-0530","small_airport","Plus Agroservicios Aereos S.R.L. Airport",-33.8136,-61.3357,325,"SA","AR","AR-S","Hughes","no",,,,"HGS",,,
-318260,"AR-0531","small_airport","Biondi Airport]",-33.2232,-62.4046,400,"SA","AR","AR-X","Isla Verde","no",,,,"IVL",,,
+318260,"AR-0531","small_airport","Biondi Airport",-33.2232,-62.4046,400,"SA","AR","AR-X","Isla Verde","no",,,,"IVL",,,
 318263,"AR-0532","small_airport","Casajus",-33.3882,-63.3055,475,"SA","AR","AR-X","La Carlota","no",,,,"LCC",,,
 318264,"AR-0533","small_airport","Don Emilio Airport",-26.73247,-64.88455,1525,"SA","AR","AR-T","La Ramada De Abajo","no",,,,"LRE",,,
 318265,"AR-0534","small_airport","AeroSoluciones Airport",-24.74889,-64.235,1614,"SA","AR","AR-A","Las Lajitas","no",,,,"LLA",,,
@@ -15388,7 +15388,7 @@
 35640,"BR-2285","heliport","Center Shopping Heliport",-18.909553,-48.260445,2881,"SA","BR","BR-MG","Uberlândia","no",,,,,,,"SDNF"
 35641,"BR-2286","small_airport","Fazenda São Gabriel Airport",-13.1,-56.952778,1197,"SA","BR","BR-MT","Nova Maringá","no",,,,,,,"SDNG"
 35649,"BR-2287","heliport","Samambaia Heliport",-22.4625,-43.130554,3167,"SA","BR","BR-RJ","Petrópolis","no",,,,,,,"SDNS"
-35651,"BR-2288","small_airport","Fazenda Alto do Piriqui Airport",-17.844999,-54.76889,1640,"SA","BR","BR-MS","Sonora","no",,,,,,,"SDNZ"
+35651,"BR-2288","small_airport","Fazenda Alto do Piriqui Airport",-17.836181,-54.769169,1632,"SA","BR","BR-MS","Sonora","no",,,"SI21","MS0561",,,"SDNZ"
 35658,"BR-2289","heliport","Hospital Montreal Heliport",-23.5366,-46.7768,2520,"SA","BR","BR-SP","Osasco","no",,,,,,,"SDOM"
 35665,"BR-2290","heliport","Ambev Heliport",-23.213888,-45.998611,1854,"SA","BR","BR-SP","Jacareí","no",,,,,,,"SDOY"
 35670,"BR-2291","small_airport","Fazenda Progresso Airport",-21.054443,-51.406113,1198,"SA","BR","BR-SP","Andradina","no",,,,,,,"SDPG"
@@ -17893,6 +17893,9 @@
 609588,"CA-1264","small_airport","Gotz Farm Field",45.100305,-79.432955,,"NA","CA","CA-ON","Bracebridge","no",,,,"CBG3",,,
 609590,"CA-1265","small_airport","Jackson's Point Private Field",44.276332,-79.375062,,"NA","CA","CA-ON","Baldwin","no",,,,,,,
 609617,"CA-1266","small_airport","Baldwin South Field",44.255929,-79.382529,,"NA","CA","CA-ON","Baldwin","no",,,,,,,
+609637,"CA-1267","closed","Granby Airport",45.413572,-72.687349,,"NA","CA","CA-QC","Granby","no",,,,,,,
+609640,"CA-1268","closed","Granby Ouest Airfield",45.418304,-72.819657,,"NA","CA","CA-QC","Granby","no",,,,,,,
+609643,"CA-1269","closed","Granby Airfield",45.346475,-72.83309,,"NA","CA","CA-QC","Granby","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -22142,7 +22145,7 @@
 315939,"DE-0286","small_airport","Ernzen Airfield",49.828271,6.434691,1145,"EU","DE","DE-RP","Ernzen","no",,,,,,,"Flugplatz Emzen, UL-Flugplatz Emzen"
 315940,"DE-0287","small_airport","Drensteinfurt Ultralight Airfield",51.767335,7.747003,,"EU","DE","DE-NW","Drensteinfurt","no",,,,,,,"UL-Flugplatz Drensteinfurt, Flugplatz Flugschule Thomas Weigel, Thomas Weigel Flight School"
 315941,"DE-0288","small_airport","Haiterbach-Nagold Glider Field",48.531389,8.675278,1975,"EU","DE","DE-BW","Nagold","no",,,,,,,"Haiterbach, Nagold, Segelfluggelände Haiterbach-Nagold"
-315942,"DE-0289","small_airport","Imsweiler UL",49.606543,7.795593,950,"EU","DE","DE-RP","Imsweiler","no",,,"EDRQ",,"https://fsvi.de/","https://de.wikipedia.org/wiki/Flugplatz_Imsweiler","Flugplatz Imsweiler, UL-Flugplatz Imsweiler-Donnersberg"
+315942,"DE-0289","small_airport","Imsweiler UL",49.606543,7.795593,950,"EU","DE","DE-RP","Imsweiler","no","EDRQ",,"EDRQ",,"https://fsvi.de/","https://de.wikipedia.org/wiki/Flugplatz_Imsweiler","Flugplatz Imsweiler, UL-Flugplatz Imsweiler-Donnersberg"
 315943,"DE-0290","small_airport","Linnich-Boslar Ultralight Airfield",50.962572,6.33678,341,"EU","DE","DE-NW","Linnich","no",,,,,,,"Boslar"
 315944,"DE-0291","small_airport","Morschenich Ultralight Airfield",50.873203,6.552472,338,"EU","DE","DE-NW","Merzenich","no",,,,,,,"Sonderlandeplatz Morschenich"
 315945,"DE-0292","small_airport","Paradiek Lohne bei Vechta",52.6680556,8.3213889,102,"EU","DE","DE-NI","Lohne","no",,,,,,,"Vechta,Paradiek"
@@ -54126,6 +54129,7 @@
 608085,"PL-0286","small_airport","Pałowo Airstrip",54.44638,16.81782,,"EU","PL","PL-ZP","Słupsk","no",,,,,,,
 608243,"PL-0287","small_airport","Osiek Airstrip",53.182736,19.390247,,"EU","PL","PL-KP",,"no",,,,,,,
 609488,"PL-0288","small_airport","Rypin Airfield",53.04709,19.42536,,"EU","PL","PL-U-A",,"no",,,,,,,
+609618,"PL-0289","small_airport","Krzywina Airfield",50.71386,17.16418,,"EU","PL","PL-DS",,"no",,,,,,,
 5493,"PLCH","large_airport","Cassidy International Airport",1.986278,-157.350011,5,"OC","KI","KI-L","Kiritimati","yes","PLCH","CXI","PLCH",,,"https://en.wikipedia.org/wiki/Cassidy_International_Airport","Christmas Island, Banana"
 32466,"PLFA","small_airport","Tabuaeran Island Airport",3.89944,-159.389008,,"OC","KI","KI-L","Tabuaeran Island","no","PLFA","TNV","PLFA",,,"https://de.wikipedia.org/wiki/Flugplatz_Tabuaeran","Fanning Island"
 6493,"PLPA","small_airport","Palmyra (Cooper) Airport",5.888748,-162.077866,5,"OC","UM","UM-95","Palmyra Island Atoll","no","PLPA",,"PLPA","P16",,"https://en.wikipedia.org/wiki/Palmyra_(Cooper)_Airport",
@@ -58339,7 +58343,7 @@
 35540,"SDGY","small_airport","Fazenda Anhangaí Airport",-20.926714,-50.743803,1181,"SA","BR","BR-SP","Araçatuba","no",,,"SDGY","SP0104",,,
 35541,"SDGZ","heliport","Bradesco Cidade de Deus Heliport",-23.549455,-46.772364,2529,"SA","BR","BR-SP","Osasco","no",,,"SDGZ","SP0341",,,
 606627,"SDH1","heliport","Green House Helistop",-23.090941,-47.183185,2061,"SA","BR","BR-SP","Indaiatuba","no",,,"SDH1","SP1259",,,
-347848,"SDH2","small_airport","Porto Alegre do Norte Airport",-10.918067,-51.60941,712,"SA","BR","BR-MT","Porto Alegre do Norte","no",,,"SDH2","MT0662",,,
+347848,"SDH2","small_airport","Porto Alegre do Norte Airport",-10.918067,-51.60941,712,"SA","BR","BR-MT","Porto Alegre do Norte","no",,,"SDH2","MT0662",,"https://en.wikipedia.org/wiki/Porto_Alegre_do_Norte_Airport",
 347850,"SDH3","small_airport","Fazenda São Jorge Airport",-17.328333,-54.665,1781,"SA","BR","BR-MT","Itiquira","no",,,"SDH3","MT0761",,,
 348222,"SDH6","small_airport","Giongo Participações - Fazenda Victória",-14.500773,-53.761597,1732,"SA","BR","BR-MT","Paranatinga","no",,,"SDH6","MT0770",,,
 349062,"SDH7","heliport","Base Naval de Aratu Heliport",-12.794193,-38.497995,9,"SA","BR","BR-BA","Candeias","no",,,"SDH7","BA9002",,,
@@ -59443,6 +59447,7 @@
 608744,"SI18","heliport","Lagoa do Japonês Heliport",-11.365614,-47.561381,1534,"SA","BR","BR-TO","Pindorama do Tocantins","no",,,"SI18","TO0174",,,
 608746,"SI19","small_airport","Fazenda Entre Rios Airstrip",-9.46329,-56.438156,794,"SA","BR","BR-MT","Paranaíta","no",,,"SI19","MT1179",,,
 608748,"SI1A","heliport","Três Colinas State Hospital Helistop",-20.558998,-47.381037,3406,"SA","BR","BR-SP","Franca","no",,,"SI1A","SP1500",,,
+609622,"SI1B","small_airport","Fazenda Matrinchã Airport",-12.786831,-56.084352,1320,"SA","BR","BR-MT","Lucas do Rio Verde","no",,,"SI1B","MT1181",,,
 608116,"SI1C","heliport","Fazenda Verdana",-23.079985,-48.622765,2825,"SA","BR","BR-SP","Itatinga","no",,,"SI1C","SP1510",,,
 608111,"SI1D","heliport","Fortaleza Heliport",-21.580078,-46.748819,2371,"SA","BR","BR-SP","Divinolândia","no",,,"SI1D","SP1508",,,
 608108,"SI1E","small_airport","Fazenda Califórnia Airport",-3.138447,-48.928334,197,"SA","BR","BR-PA","Moju","no",,,"SI1E","PA0448",,,
@@ -59455,6 +59460,16 @@
 609553,"SI1M","heliport","Onix Heliport",-22.644244,-42.414833,39,"SA","BR","BR-RJ","Silva Jardim","no",,,"SI1M","RJ0404",,,
 609556,"SI1N","small_airport","Fazenda Santa Cruz Airport",-16.720458,-47.233597,2790,"SA","BR","BR-GO","Cristalina","no",,,"SI1N","GO0432",,,
 609558,"SI1P","heliport","Cristal Heliport",-28.672551,-49.3538,356,"SA","BR","BR-SC","Criciúma","no",,,"SI1P","SC0267",,,
+609624,"SI1Q","small_airport","Alvorada do Norte Airport",-14.512409,-46.52484,1797,"SA","BR","BR-GO","Alvorada do Norte","no",,,"SI1Q","GO0249",,,
+609625,"SI1R","heliport","CTA Centro Tático Aéreo Balsas Heliport",-7.540128,-46.041611,794,"SA","BR","BR-MA",,"no",,,"SI1R","MA0215",,,
+609626,"SI1S","small_airport","Wagner Cordeiro Airstrip",-15.60479,-42.944892,1913,"SA","BR","BR-MG","Porteirinha","no",,,"SI1S","MG0674",,,
+609627,"SI1T","small_airport","Fazenda São Cristóvão Airstrip",-13.593792,-53.499175,1572,"SA","BR","BR-MT","Gaúcha do Norte","no",,,"SI1T","MT9004",,,
+609630,"SI1U","small_airport","Fazenda Guanabara Airstrip",-16.694991,-51.001565,2274,"SA","BR","BR-GO","Ivolândia","no",,,"SI1U","GO0434",,,
+609631,"SI1V","small_airport","Fazenda Sudotex Airport",-13.469808,-45.549581,2595,"SA","BR","BR-BA","Correntina","no",,,"SI1V","BA0530",,,
+609632,"SI1W","small_airport","Fazenda Santo Antônio Airport",-17.920194,-49.699556,2456,"SA","BR","BR-GO","Joviânia","no",,,"SI1W","GO0435",,,
+609644,"SI1X","heliport","Perini Heliport",-26.244281,-48.885022,56,"SA","BR","BR-SC","Joinville","no",,,"SI1X","SC0268",,,
+609646,"SI1Y","small_airport","Fazenda Campininha Airstrip",-23.261422,-48.861703,1920,"SA","BR","BR-SP","Avaré","no",,,"SI1Y","SP1517",,,
+609648,"SI1Z","small_airport","Dedo de Deus Airstrip",-11.469823,-47.290529,1198,"SA","BR","BR-TO","Almas","no",,,"SI1Z","TO0176",,,
 352922,"SI22","small_airport","Fazenda Santa Helena Airport",-18.303983,-55.651875,499,"SA","BR","BR-MS","Corumbá","no",,,"SI22","MS0482",,,
 353275,"SI23","small_airport","Fazenda Água Fina Airport",-14.504167,-55.492778,1214,"SA","BR","BR-MT","Rosário Oeste","no",,,"SI23","MT0797",,,
 352939,"SI24","small_airport","Fazenda Cambará Airstrip",-20.138056,-52.978333,1234,"SA","BR","BR-MS","Água Clara","no",,,"SI24","MS0605",,,
@@ -83394,8 +83409,11 @@
 519257,"YE-0016","small_airport","Little Aden Airfield",12.785666,44.825802,,"AS","YE","YE-AD","Little Aden","no",,,,,,,
 557987,"YE-0017","small_airport","Abd al-Kuri Air Base",12.186662,52.291746,,"AS","YE","YE-SU","Kilmia","no",,,,,,,
 595537,"YE-0018","small_airport","Perim Air Base",12.66653,43.40793,,"AS","YE","YE-TA","Mayyun","no",,,,,,,
-598010,"YE-0019","small_airport","Sayma",13.020746,43.467598,,"AS","YE","YE-U-A",,"no",,,,,,,
-598011,"YE-0020","small_airport","New Mocha",12.873542,43.511844,94,"AS","YE","YE-TA",,"no",,,,,,,
+598010,"YE-0019","small_airport","Sayma (duplicate)",13.021815,43.468351,,"AS","YE","YE-U-A",,"no",,,,,,,
+598011,"YE-0020","closed","Falaise Airfield",12.784531,44.833446,94,"AS","YE","YE-AD",,"no",,,,,,,
+609650,"YE-0021","closed","RAF Riyan",14.651966,49.322798,,"AS","YE","YE-HD","Riyan","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Riyan",
+609651,"YE-0022","closed","RAF Hiswa",12.826067,44.905865,,"AS","YE","YE-AD","Hiswa","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Hiswa",
+609652,"YE-0023","closed","RAF Sheikh Othman",12.874448,44.9607,,"AS","YE","YE-AD",,"no",,,,,,"https://en.wikipedia.org/wiki/RAF_Sheikh_Othman",
 27537,"YEAB","small_airport","Euabalong Airport",-33.137268,146.424494,,"OC","AU","AU-NSW",,"no",,,"YEAB",,,,
 38335,"YEAT","small_airport","Yea Airport",-37.21580123901367,146.42999267578125,,"OC","AU","AU-VIC",,"no",,,"YEAT",,,,
 526536,"YECB","small_airport","Eco Beach Airport",-18.323333,122.128056,73,"OC","AU","AU-WA","Broome","no",,,"YECB",,,,
