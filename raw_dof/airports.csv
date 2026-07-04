@@ -21903,7 +21903,7 @@
 308191,"DE-0044","small_airport","Witzenhausen-Burgberg Glider Field",51.349735,9.824789,659,"EU","DE","DE-HE","Witzenhausen","no",,,,,"https://www.luftsportverein-witzenhausen.de","http://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Witzenhausen-Burgberg",
 308192,"DE-0045","closed","Kleve-Wisseler Dünen Airfield",51.769461,6.299106,50,"EU","DE","DE-NW","Kalkar","no",,,,,,,
 308196,"DE-0046","small_airport","Wildberg Glider Airfield",48.637325,8.733327,1670,"EU","DE","DE-BW","Wildberg","no",,,,,,,
-308197,"DE-0047","small_airport","Wächtersberg-Hub Glider Airfield",48.614931,8.755457,1965,"EU","DE","DE-BW","Wildberg","no",,,"EDSV",,,"https://de.wikipedia.org/wiki/Flugplatz_W%C3%A4chtersberg",
+308197,"DE-0047","small_airport","Wächtersberg-Hub Glider Airfield",48.614931,8.755457,1965,"EU","DE","DE-BW","Wildberg","no","EDSV",,"EDSV",,,"https://de.wikipedia.org/wiki/Flugplatz_W%C3%A4chtersberg",
 308199,"DE-0048","small_airport","Steinberg in Surwold Glider Airfield",52.956445,7.556663,100,"EU","DE","DE-NI","Surwold","no",,,,,,,
 308209,"DE-0049","small_airport","Altfeld Airfield",49.831865,9.537292,1160,"EU","DE","DE-BY","Marktheidenfeld","no",,,,,,,"Flugplatz Altfeld"
 308211,"DE-0050","small_airport","Alsfeld Airfield",50.750565,9.248615,970,"EU","DE","DE-HE","Alsfeld","no",,,,,,,
@@ -21962,14 +21962,14 @@
 310077,"DE-0103","small_airport","Rote Wiese Glider Field",52.2336,10.9809,360,"EU","DE","DE-NI","Helmstedt","no",,,,,"http://www.lsv-helmstedt.de/03103a98cd1350604/",,
 310079,"DE-0104","small_airport","Höpen Airfield",53.1473,9.796,275,"EU","DE","DE-NI","Schneverdingen","no",,,,,"http://www.lsv-schneverdingen.de/","https://en.wikipedia.org/wiki/H%C3%B6pen_Airfield",
 310080,"DE-0105","small_airport","Holtorfsloh Airfield",53.3222,10.0743,181,"EU","DE","DE-NI","Holtorfsloh","no",,,,,,,
-310081,"DE-0106","small_airport","Hoya Airfield",52.8119,9.1638,55,"EU","DE","DE-NI","Hoya","no",,,"EDHY",,"http://www.sfv-hoya.de/","https://de.wikipedia.org/wiki/Flugplatz_Hoya",
+310081,"DE-0106","small_airport","Hoya Airfield",52.8119,9.1638,53,"EU","DE","DE-NI","Hoya","no","EDHY",,"EDHY",,"http://www.sfv-hoya.de/","https://de.wikipedia.org/wiki/Flugplatz_Hoya",
 310655,"DE-0107","small_airport","Gronau Airfield",52.0578,9.8104,480,"EU","DE","DE-NI","An den sieben Bergen","no",,,,,,,
 310656,"DE-0108","small_airport","Aue bei Hattorf Airfield",51.6334,10.2544,618,"EU","DE","DE-NI","Hattorf am Harz","no",,,,,,,
 310657,"DE-0109","small_airport","Brockzetel Glider Field",53.4814,7.6511,34,"EU","DE","DE-NI","Aurich","no",,,,,,"http://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Aurich-Brockzetel",
 310658,"DE-0110","small_airport","Bad Zwischenahn-Rostrup Airfield",53.2102,7.9887,33,"EU","DE","DE-NI","Bad Zwischenahn","no",,,,,,,"Segelfluggelände Bad Zwischenahn-Rostrup"
 311008,"DE-0111","small_airport","Berliner Heide Airfield",52.6697,10.3705,226,"EU","DE","DE-NI","Metzingen","no",,,,,"https://www.flugplatz-berliner-heide.de",,
 311009,"DE-0112","small_airport","Bisperode Airfield",52.0788,9.476,635,"EU","DE","DE-NI","Coppenbrügge","no",,,,,"http://www.lsv-hameln.de/wordpress/",,"Luftsportverein Hameln"
-311010,"DE-0113","small_airport","Blexen Airfield",53.5383,8.5388,4,"EU","DE","DE-NI","Blexen","no",,,"EDWT",,"http://www.wlv-blexen.de/flugplatz/","https://de.wikipedia.org/wiki/Flugplatz_Blexen",
+311010,"DE-0113","small_airport","Blexen Airfield",53.5383,8.5388,10,"EU","DE","DE-NI","Blexen","no","EDWT",,"EDWT",,"http://www.wlv-blexen.de/flugplatz/","https://de.wikipedia.org/wiki/Flugplatz_Blexen",
 311045,"DE-0114","small_airport","Farrenberg Gliderfield",48.385706,9.076333,2690,"EU","DE","DE-BW","Mössingen","no",,,,,,,
 311066,"DE-0115","small_airport","Oppershausen Airfield",52.5955,10.2235,147,"EU","DE","DE-NI","Wienhausen","no",,,,,"http://www.hannover-segelflug.net/haec/index.php?option=com_content&task=view&id=76&Itemid=125",,"Hannover Aero Club"
 311067,"DE-0116","small_airport","Peißenberg Airfield",47.8337,11.06685,1967,"EU","DE","DE-BY","Peißenberg","no",,,,,,,
@@ -21981,7 +21981,7 @@
 311548,"DE-0122","small_airport","Bollrich Airfield",51.9058,10.4619,945,"EU","DE","DE-NI","Goslar","no",,,,,"http://www.bollrich.de/",,
 311550,"DE-0123","small_airport","Bückeburg-Weinberg Airfield",52.2511,9.0146,256,"EU","DE","DE-NW","Porta Westfalica","no",,,,,"http://www.lsv-bueckeburg.de/",,
 311666,"DE-0124","small_airport","Osterholz-Scharmbeck Airfield",53.2135,8.8102,3,"EU","DE","DE-NI","Osterholz-Scharmbeck","no",,,,,"http://www.segelflug.de/vereine/osterholz/",,
-311668,"DE-0125","small_airport","Peine-Glindbruchkippe Airfield",52.3238,10.1815,235,"EU","DE","DE-NI","Peine","no",,,"EDVP",,"http://www.uhlenflug-peine.de/index.php/peine-kippe","https://de.wikipedia.org/wiki/Flugplatz_Peine-Glindbruchkippe",
+311668,"DE-0125","small_airport","Peine-Glindbruchkippe Airfield",52.3238,10.1815,246,"EU","DE","DE-NI","Peine","no","EDVP",,"EDVP",,"http://www.uhlenflug-peine.de/index.php/peine-kippe","https://de.wikipedia.org/wiki/Flugplatz_Peine-Glindbruchkippe",
 311669,"DE-0126","small_airport","Stüde Bernsteinsee Airfield",52.564326,10.682343,245,"EU","DE","DE-NI","Sassenburg","no",,,,,"http://www.aeroclub-wolfsburg.com/flugplatz_stuede.html",,"Wolfsburger Segelflug-Zentrum Stüde-Bernsteinsee, Wolfsburg Gliding Center Stüde Bernsteinsee"
 311720,"DE-0127","small_airport","Sultmer Berg Airfield",51.73,9.9925,736,"EU","DE","DE-NI","Northeim","no",,,,,"http://www.segelflug-northeim.de/",,"Flugplatz Sultmer Berg, Segelfluggelände Sultmer Berg"
 311721,"DE-0128","small_airport","Tarmstedt Airfield",53.2514,9.1084,140,"EU","DE","DE-NI","Westertimke","no",,,,,"http://www.sfg-bremen.de/","http://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Tarmstedt","Airbus Segelfluggemeinschaft Bremen"
@@ -22058,7 +22058,7 @@
 315397,"DE-0199","small_airport","Ippesheim Ultralight Airfield",49.60982,10.225507,1000,"EU","DE","DE-BY","Ippesheim","no",,,,,"http://www.fsg-ippesheim.de",,"UL-Flugplatz Ippesheim"
 315398,"DE-0200","small_airport","Kerken Ultralight Airfield",51.438889,6.445556,114,"EU","DE","DE-NW","Kerken","no",,,,,"http://www.ul-kerken.de",,
 315401,"DE-0201","small_airport","Vettweiß-Soller ULM",50.7475,6.566944,525,"EU","DE","DE-NW","Vettweiß","no",,,,,"http://www.ul-vettweiss.de",,"Gertrudenhof"
-315403,"DE-0202","small_airport","Eutingen Airfield",48.485439,8.778033,1637,"EU","DE","DE-BW","Eutingen im Gäu","no",,,"EDTE",,"http://www.fsv-rottenburg-horb.de","https://de.wikipedia.org/wiki/Flugplatz_Eutingen_im_G%C3%A4u","EUT1"
+315403,"DE-0202","small_airport","Eutingen Airfield",48.485439,8.778033,1640,"EU","DE","DE-BW","Eutingen im Gäu","no","EDTE",,"EDTE",,"http://www.fsv-rottenburg-horb.de","https://de.wikipedia.org/wiki/Flugplatz_Eutingen_im_G%C3%A4u","EUT1"
 315455,"DE-0203","small_airport","Lünen-Lippeweiden Glider Field",51.6171,7.501,162,"EU","DE","DE-NW","Lünen","no",,,,,"http://www.fsg-luenen.de/startseite/",,"LUN1"
 315456,"DE-0204","small_airport","Meiersberg Airfield",51.2996,6.9565,520,"EU","DE","DE-NW","Heiligenhaus","no",,,,,"http://www.sportflug-niederberg.de/",,"MEI1"
 315459,"DE-0205","small_airport","Menden-Barge Airfield",51.46,7.8376,750,"EU","DE","DE-NW","Menden","no",,,,,"http://www.lsgmenden.de/","https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Menden-Barge",
@@ -22190,7 +22190,7 @@
 316050,"DE-0331","small_airport","Forst-Sengenthal Ultralight Airfield",49.215229,11.400697,,"EU","DE","DE-BY","Sengenthal","no",,,,,,,
 316051,"DE-0332","small_airport","Roßfeld Airfield",48.513231,9.3331,2634,"EU","DE","DE-BW","Metzingen","no",,,,,"http://www.lsv-rossfeld.de/home/index.php?",,"Rossfeld"
 316052,"DE-0333","small_airport","Schäfhalde Airfield",48.6922,10.0995,2075,"EU","DE","DE-BW","Steinheim am Albuch","no",,,,,"http://www.fliegergruppe-heidenheim.de/",,
-316053,"DE-0334","small_airport","Sinsheim Airfield",49.2472,8.8938,525,"EU","DE","DE-BW","Sinsheim","no",,,"EDTK",,"http://www.flugsportring-kraichgau.de/","https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Sinsheim",
+316053,"DE-0334","small_airport","Sinsheim Airfield",49.2472,8.8938,519,"EU","DE","DE-BW","Sinsheim","no","EDTK",,"EDTK",,"http://www.flugsportring-kraichgau.de/","https://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Sinsheim",
 316054,"DE-0335","small_airport","Schwann-Conweiler Airfield",48.8382,8.5432,1550,"EU","DE","DE-BW","Pforzheim","no",,,,,"http://www.fsc-pforzheim.de/flugplatz.html","http://www.pfenz.de/wiki/Flugplatz_Schwann-Conweiler",
 316121,"DE-0336","small_airport","Altes Lager Airfield",51.996217,12.973008,322,"EU","DE","DE-BR","Niedergörsdorf","no",,,,,,"https://en.wikipedia.org/wiki/J%C3%BCterbog_Airfield","Sonderlandeplatz ""Altes Lager"", Jüterbog"
 316126,"DE-0337","small_airport","Crawinkel Airfield",50.778494,10.81692,1549,"EU","DE","DE-TH","Ohrdruf","no",,,,,"http://www.flugplatz-crawinkel.de/",,"Flugplatz Crawinkel"
@@ -23469,7 +23469,7 @@
 28700,"EDFB","small_airport","Reichelsheim Airfield",50.337973,8.878984,397,"EU","DE","DE-HE","Reichelsheim","no",,,"EDFB",,,"https://en.wikipedia.org/wiki/Reichelsheim_Airfield",
 28502,"EDFC","small_airport","Aschaffenburg Airfield",49.938806,9.062777,410,"EU","DE","DE-BY","Großostheim","no",,,"EDFC",,,"https://de.wikipedia.org/wiki/Flugplatz_Aschaffenburg",
 28515,"EDFD","small_airport","Bad Neustadt/Saale-Grasberg Airfield",50.306062,10.227284,997,"EU","DE","DE-BY","Bad Neustadt an der Saale","no",,,"EDFD",,,"https://de.wikipedia.org/wiki/Flugplatz_Bad_Neustadt/Saale-Grasberg",
-2226,"EDFE","medium_airport","Frankfurt-Egelsbach Airport",49.96,8.643043,384,"EU","DE","DE-HE","Egelsbach","no","EDFE",,"EDFE",,"https://egelsbach-airport.com/","https://en.wikipedia.org/wiki/Frankfurt_Egelsbach_Airport",
+2226,"EDFE","medium_airport","Frankfurt-Egelsbach Airport",49.96,8.643043,384,"EU","DE","DE-HE","Egelsbach","no","EDFE",,"EDFE",,"https://egelsbach-airport.com/","https://en.wikipedia.org/wiki/Frankfurt_Egelsbach_Airport","QEF"
 28568,"EDFG","small_airport","Gelnhausen Airfield",50.196738,9.167061,446,"EU","DE","DE-HE","Gelnhausen","no",,,"EDFG",,,"https://de.wikipedia.org/wiki/Flugplatz_Gelnhausen","Flugplatz Gelnhausen, Verkehrslandeplatz Gelnhausen"
 2227,"EDFH","large_airport","Frankfurt-Hahn Airport",49.946353,7.261734,1649,"EU","DE","DE-RP","Frankfurt am Main (Lautzenhausen)","yes","EDFH","HHN","EDFH",,"https://www.hahn-airport.de/en/home","https://en.wikipedia.org/wiki/Frankfurt-Hahn_Airport",
 28598,"EDFI","small_airport","Hirzenhain Airfield",50.787777,8.392778,1706,"EU","DE","DE-HE","Eschenburg","no",,,"EDFI",,,"https://de.wikipedia.org/wiki/Flugplatz_Hirzenhain","Flugplatz Hirzenhain, Sonderlandeplatz Hirzenhain"
@@ -23481,7 +23481,7 @@
 28648,"EDFO","small_airport","Michelstadt-Odenwald Airfield",49.678466,8.971614,1142,"EU","DE","DE-HE","Michelstadt","no",,,"EDFO",,,"http://de.wikipedia.org/wiki/Flugplatz_Michelstadt","Flugplatz Michelstadt/Odenwald"
 505089,"EDFP","small_airport","Ober-Mörlen Airfield",50.3622,8.71164,822,"EU","DE","DE-HE","Ober-Mörlen","no","EDFP",,,,,"https://de.wikipedia.org/wiki/Flugplatz_Ober-M%C3%B6rlen",
 2229,"EDFQ","small_airport","Allendorf-Eder Airfield",51.035268,8.681002,1158,"EU","DE","DE-HE","Allendorf (Eder)","no","EDFQ",,"EDFQ",,,"https://en.wikipedia.org/wiki/Allendorf_Airport",
-28708,"EDFR","small_airport","Rothenburg ob der Tauber Airfield",49.388332,10.218056,1309,"EU","DE","DE-BY","Rothenburg ob der Tauber","no",,,"EDFR",,,"https://de.wikipedia.org/wiki/Flugplatz_Rothenburg_ob_der_Tauber","Rothenburg ob d. Tauber, Rothenburg o d T, Rothenburg oT"
+28708,"EDFR","small_airport","Rothenburg ob der Tauber Airfield",49.388941,10.218564,1309,"EU","DE","DE-BY","Rothenburg ob der Tauber","no","EDFR",,"EDFR",,,"https://de.wikipedia.org/wiki/Flugplatz_Rothenburg_ob_der_Tauber","QTK, Rothenburg ob d. Tauber, Rothenburg o d T, Rothenburg oT"
 28724,"EDFS","small_airport","Schweinfurt South Airfield",50.010834,10.251111,686,"EU","DE","DE-BY","Gochsheim","no",,,"EDFS",,,"https://de.wikipedia.org/wiki/Flugplatz_Schweinfurt-S%C3%BCd","Schweinfurt-Süd"
 28635,"EDFT","small_airport","Lauterbach Airfield",50.683666,9.4117,1211,"EU","DE","DE-HE","Lauterbach (Hessen)","no",,,"EDFT",,"http://www.aeroclub-lauterbach.de/","https://de.wikipedia.org/wiki/Flugplatz_Lauterbach","aerobatics, ultralight, glider, echo, helicopters"
 28642,"EDFU","small_airport","Mainbullau Airfield",49.695042,9.18236,1503,"EU","DE","DE-BY","Miltenberg","no",,,"EDFU",,,"https://de.wikipedia.org/wiki/Flugplatz_Mainbullau",
@@ -23513,7 +23513,7 @@
 28581,"EDHB","small_airport","Grube Airfield",54.244446,11.024722,7,"EU","DE","DE-SH","Grube","no","EDHB",,"EDHB",,"https://flugplatz-grube.de/","https://de.wikipedia.org/wiki/Flugplatz_Grube","Sonderlandeplatz Grube"
 28640,"EDHC","small_airport","Lüchow-Rehbeck Airfield",53.017158,11.144729,49,"EU","DE","DE-NI","Lüchow","no",,,"EDHC",,,"https://de.wikipedia.org/wiki/Flugplatz_L%C3%BCchow-Rehbeck","Flugplatz Lüchow-Rehbeck"
 308604,"EDHD","small_airport","Eichsfeld Airfield",51.40755,10.1453,1195,"EU","DE","DE-TH","Heilbad Heiligenstadt","no",,,"EDHD",,,"https://de.wikipedia.org/wiki/Flugplatz_Eichsfeld",
-28742,"EDHE","small_airport","Uetersen-Heist Airfield",53.645477,9.703503,23,"EU","DE","DE-SH","Heist","yes","EDHE",,"EDHE",,,"https://en.wikipedia.org/wiki/Uetersen_Airfield",
+28742,"EDHE","small_airport","Uetersen-Heist Airfield",53.645477,9.703503,23,"EU","DE","DE-SH","Heist","yes","EDHE",,"EDHE",,,"https://en.wikipedia.org/wiki/Uetersen_Airfield","QSM"
 29073,"EDHF","small_airport","Itzehoe Hungriger Wolf Airfield",53.992009,9.576409,89,"EU","DE","DE-SH","Hohenlockstedt","no",,"IZE","EDHF",,,"https://de.wikipedia.org/wiki/Flugplatz_Itzehoe/Hungriger_Wolf","Itzehoe"
 29074,"EDHG","small_airport","Lüneburg Airfield",53.24832,10.458705,161,"EU","DE","DE-NI","Lüneburg","no",,,"EDHG",,,"https://en.wikipedia.org/wiki/L%C3%BCneburg_Airfield","Flugplatz Lüneburg"
 2234,"EDHI","medium_airport","Hamburg-Finkenwerder Airport",53.535278,9.835556,23,"EU","DE","DE-HH","Hamburg","no","EDHI","XFW","EDHI",,,"https://en.wikipedia.org/wiki/Hamburg_Finkenwerder_Airport","Airbus"
@@ -23522,7 +23522,7 @@
 28589,"EDHM","small_airport","Hartenholm Airfield",53.915001,10.035556,108,"EU","DE","DE-SH","Hasenmoor","no",,,"EDHM",,,"https://de.wikipedia.org/wiki/Flugplatz_Hartenholm","Flugplatz Hartenholm"
 28662,"EDHN","small_airport","Neumünster Airport",54.079445,9.941389,72,"EU","DE","DE-SH","Neumünster","no","EDHN","EUM","EDHN",,,"https://de.wikipedia.org/wiki/Flugplatz_Neum%C3%BCnster",
 28492,"EDHO","small_airport","Ahrenlohe Airfield",53.70031,9.742119,33,"EU","DE","DE-SH","Tornesch","no","EDHO",,,,,"https://de.wikipedia.org/wiki/Flugplatz_Ahrenlohe","Flugplatz Ahrenlohe"
-28735,"EDHS","small_airport","Stade Airfield",53.561111,9.499167,63,"EU","DE","DE-NI","Stade","no",,,"EDHS",,"https://www.lsvstade.de/","https://de.wikipedia.org/wiki/Flugplatz_Stade","Flugplatz Stade"
+28735,"EDHS","small_airport","Stade Airfield",53.561111,9.499167,63,"EU","DE","DE-NI","Stade","no","EDHS",,"EDHS",,"https://www.lsvstade.de/","https://de.wikipedia.org/wiki/Flugplatz_Stade","ZQD, Flugplatz Stade"
 28633,"EDHU","small_airport","Lauenbrück Airfield",53.2075,9.573333,98,"EU","DE","DE-NI","Lauenbrück","no",,,"EDHU",,"https://www.edhu.de","https://de.wikipedia.org/wiki/Flugplatz_Lauenbr%C3%BCck","Sonderlandeplatz"
 28748,"EDHW","small_airport","Wahlstedt Airfield",53.969444,10.221667,128,"EU","DE","DE-SH","Wahlstedt","no",,,"EDHW",,"http://www.edhw.de/","https://de.wikipedia.org/wiki/Flugplatz_Wahlstedt","Flugplatz Wahlstedt"
 308606,"EDHX","heliport","Bad Bramstedt Heliport",53.9428,9.9055,118,"EU","DE","DE-SH","Bad Bramstedt","no",,,"EDHX",,,,
@@ -23534,7 +23534,7 @@
 505117,"EDKF","small_airport","Bergneustadt-Auf dem Dümpel Airfield",51.05209,7.70683,1604,"EU","DE","DE-NW","Bergneustadt","no",,,"EDKF",,"https://www.lsc-duempel.de/","https://de.wikipedia.org/wiki/Flugplatz_Bergneustadt_Auf_dem_D%C3%BCmpel",
 28606,"EDKH","small_airport","Hünsborn Airfield",50.928612,7.899167,1306,"EU","DE","DE-NW","Wenden","no",,,"EDKH",,,"https://de.wikipedia.org/wiki/Flugplatz_H%C3%BCnsborn",
 28524,"EDKI","small_airport","Betzdorf-Kirchen Airfield",50.817223,7.830556,1125,"EU","DE","DE-RP","Kirchen (Sieg)","no",,,"EDKI",,,"https://de.wikipedia.org/wiki/Flugplatz_Betzdorf-Kirchen",
-28637,"EDKL","small_airport","Leverkusen Airfield",51.015278,7.005556,157,"EU","DE","DE-NW","Leverkusen","no",,,"EDKL",,,"https://de.wikipedia.org/wiki/Flugplatz_Leverkusen",
+28637,"EDKL","small_airport","Leverkusen Airfield",51.015278,7.005556,157,"EU","DE","DE-NW","Leverkusen","no","EDKL",,"EDKL",,,"https://de.wikipedia.org/wiki/Flugplatz_Leverkusen","ZOA"
 28647,"EDKM","small_airport","Meschede-Schüren Airfield",51.302776,8.239167,1434,"EU","DE","DE-NW","Meschede","no",,,"EDKM",,,"https://de.wikipedia.org/wiki/Flugplatz_Meschede-Sch%C3%BCren",
 28761,"EDKN","small_airport","Wipperfürth-Neye Airfield",51.124168,7.373611,863,"EU","DE","DE-NW","Wipperfürth","no","EDKN",,"EDKN",,,"https://de.wikipedia.org/wiki/Flugplatz_Wipperf%C3%BCrth-Neye",
 28540,"EDKO","small_airport","Brilon-Hochsauerland Airfield",51.402833,8.643043,1509,"EU","DE","DE-NW","Brilon","no",,,"EDKO",,,"https://de.wikipedia.org/wiki/Flugplatz_Brilon/Hochsauerland","Brilon-Thülen"
@@ -23547,14 +23547,14 @@
 2240,"EDLA","small_airport","Arnsberg-Menden Airfield",51.483891,7.898333,794,"EU","DE","DE-NW","Arnsberg","no",,,"EDLA",,,"https://de.wikipedia.org/wiki/Flugplatz_Arnsberg-Menden",
 28536,"EDLB","small_airport","Borkenberge Airfield",51.779999,7.288056,157,"EU","DE","DE-NW","Lüdinghausen","no",,,"EDLB",,"http://www.borkenberge.com/","https://de.wikipedia.org/wiki/Flugplatz_Borkenberge",
 28615,"EDLC","small_airport","Kamp-Lintfort Airfield",51.529167,6.536111,85,"EU","DE","DE-NW","Rheinberg","no",,,"EDLC",,,"https://de.wikipedia.org/wiki/Flugplatz_Kamp-Lintfort",
-28553,"EDLD","small_airport","Dinslaken-Schwarze Heide Airfield",51.616018,6.861262,217,"EU","DE","DE-NW","Hünxe","no","EDLD",,"EDLD",,"http://schwarze-heide.com","https://de.wikipedia.org/wiki/Flugplatz_Schwarze_Heide",
+28553,"EDLD","small_airport","Dinslaken-Schwarze Heide Airfield",51.616018,6.861262,217,"EU","DE","DE-NW","Hünxe","no","EDLD",,"EDLD",,"http://schwarze-heide.com","https://de.wikipedia.org/wiki/Flugplatz_Schwarze_Heide","ZCV"
 2241,"EDLE","small_airport","Essen-Mülheim Airport",51.402302,6.93733,424,"EU","DE","DE-NW","Essen","no","EDLE","ESS","EDLE",,"https://www.flughafen-essen-muelheim.de/","https://en.wikipedia.org/wiki/Essen/M%C3%BClheim_Airport",
 28577,"EDLF","small_airport","Grefrath-Niershorst Airfield",51.333889,6.359444,105,"EU","DE","DE-NW","Grefrath","no",,,"EDLF",,,"https://de.wikipedia.org/wiki/Flugplatz_Grefrath-Niershorst",
 29075,"EDLG","small_airport","Goch-Asperden Airfield",51.690834,6.104167,52,"EU","DE","DE-NW","Goch","no",,,"EDLG",,,"https://de.wikipedia.org/wiki/Flugplatz_Goch-Asperden",
 28586,"EDLH","small_airport","Hamm-Lippewiesen Airfield",51.68972,7.816111,190,"EU","DE","DE-NW","Hamm","no",,,"EDLH",,,"https://de.wikipedia.org/wiki/Flugplatz_Hamm-Lippewiesen",
 2242,"EDLI","medium_airport","Bielefeld Airport",51.964722,8.544444,454,"EU","DE","DE-NW","Bielefeld","no","EDLI","BFE","EDLI",,"http://www.flugplatz-bielefeld.de/","http://de.wikipedia.org/wiki/Flugplatz_Bielefeld","Flugplatz-Windelsbleiche"
 29826,"EDLJ","small_airport","Detmold Airfield",51.940834,8.904722,650,"EU","DE","DE-NW","Detmold","no",,,"EDLJ",,,"https://en.wikipedia.org/wiki/Hobart_Barracks",
-28625,"EDLK","small_airport","Krefeld-Egelsberg Airfield",51.384998,6.587778,141,"EU","DE","DE-NW","Krefeld","no",,,"EDLK",,,"https://de.wikipedia.org/wiki/Flugplatz_Krefeld-Egelsberg",
+28625,"EDLK","small_airport","Krefeld-Egelsberg Airfield",51.384998,6.587778,141,"EU","DE","DE-NW","Krefeld","no","EDLK",,"EDLK",,,"https://de.wikipedia.org/wiki/Flugplatz_Krefeld-Egelsberg","QKF"
 28644,"EDLM","small_airport","Marl-Loemühle Airfield",51.647202,7.16333,240,"EU","DE","DE-NW","Marl","no",,,"EDLM",,"http://www.vlp-loemuehle.de/","http://de.wikipedia.org/wiki/Flugplatz_Marl-Loem%C3%BChle","Recklinghausen"
 2243,"EDLN","medium_airport","Mönchengladbach Airport",51.230278,6.504444,125,"EU","DE","DE-NW","Mönchengladbach","no","EDLN","MGL","EDLN",,,"https://en.wikipedia.org/wiki/D%C3%BCsseldorf-M%C3%B6nchengladbach_Airport",
 28678,"EDLO","small_airport","Oerlinghausen Airfield",51.93222,8.661667,558,"EU","DE","DE-NW","Oerlinghausen","no",,,"EDLO",,"https://flugplatz-oerlinghausen.de/en/home-english/","https://en.wikipedia.org/wiki/Oerlinghausen_Airfield","Flugplatz Oerlinghausen"
@@ -23677,13 +23677,13 @@
 28664,"EDQN","small_airport","Neustadt/Aisch Airfield",49.587502,10.5775,1198,"EU","DE","DE-BY","Neustadt an der Aisch","no",,,"EDQN",,"https://flugplatz-neustadt-aisch.de/","https://de.wikipedia.org/wiki/Flugplatz_Neustadt/Aisch","http://www.edqn.de (not working June 2023)"
 28685,"EDQO","small_airport","Ottengrüner Heide Airfield",50.225834,11.731667,1880,"EU","DE","DE-BY","Helmbrechts","no",,,"EDQO",,"https://www.edqo.de/","https://de.wikipedia.org/wiki/Flugplatz_Ottengr%C3%BCner_Heide",
 28707,"EDQP","small_airport","Rosenthal-Plössen Airfield",49.863335,11.787778,1496,"EU","DE","DE-BY","Speichersdorf","no",,,"EDQP",,"http://www.fliegerschule-stroessenreuther.de/index.html","https://de.wikipedia.org/wiki/Flugplatz_Rosenthal-Field_Pl%C3%B6ssen",
-28556,"EDQR","small_airport","Ebern-Sendelbach Airfield",50.039444,10.822778,827,"EU","DE","DE-BY","Ebern","no",,,"EDQR",,"https://fsc-ebern.de/","https://de.wikipedia.org/wiki/Flugplatz_Ebern-Sendelbach",
-28736,"EDQS","small_airport","Suhl-Goldlauter Airfield",50.632047,10.726013,1923,"EU","DE","DE-TH","Goldlauter-Heidersbach","no",,,"EDQS",,,"https://de.wikipedia.org/wiki/Flugplatz_Suhl-Goldlauter","Flugplatz Suhl-Goldlauter"
-2264,"EDQT","small_airport","Haßfurt-Schweinfurt Airfield",50.0182,10.529165,719,"EU","DE","DE-BY","Haßfurt","no",,,"EDQT",,,"https://de.wikipedia.org/wiki/Flugplatz_Ha%C3%9Ffurt-Schweinfurt","Flugplatz Haßfurt-Schweinfurt, Hassfurt"
-28753,"EDQW","small_airport","Weiden in der Oberpfalz Airfield",49.678902,12.1164,1329,"EU","DE","DE-BY","Weiden in der Oberpfalz","no",,,"EDQW",,,"https://de.wikipedia.org/wiki/Verkehrslandeplatz_Weiden/Opf.","Weiden/Opf. Airport"
-28596,"EDQX","small_airport","Hetzleser Berg Airfield",49.642341,11.162574,1765,"EU","DE","DE-BY","Neunkirchen am Brand","no",,,"EDQX",,,"https://de.wikipedia.org/wiki/Flugplatz_Hetzleser_Berg",
-28545,"EDQY","small_airport","Coburg-Steinrücken Airfield",50.230556,10.995833,1184,"EU","DE","DE-BY","Coburg","no",,,"EDQY",,,"https://de.wikipedia.org/wiki/Flugplatz_Coburg-Steinr%C3%BCcken","Flugplatz Coburg-Steinrücken"
-28688,"EDQZ","small_airport","Pegnitz-Zipser Berg Airfield",49.76238,11.574619,1791,"EU","DE","DE-BY","Pegnitz","no",,,"EDQZ",,,"https://de.wikipedia.org/wiki/Flugplatz_Pegnitz-Zipser_Berg",
+28556,"EDQR","small_airport","Ebern-Sendelbach Airfield",50.040004,10.822537,827,"EU","DE","DE-BY","Ebern","no","EDQR",,"EDQR",,"https://fsc-ebern.de/","https://de.wikipedia.org/wiki/Flugplatz_Ebern-Sendelbach",
+28736,"EDQS","small_airport","Suhl-Goldlauter Airfield",50.632047,10.726013,1923,"EU","DE","DE-TH","Goldlauter-Heidersbach","no","EDQS",,"EDQS",,,"https://de.wikipedia.org/wiki/Flugplatz_Suhl-Goldlauter","Flugplatz Suhl-Goldlauter"
+2264,"EDQT","small_airport","Haßfurt-Schweinfurt Airfield",50.0182,10.529165,719,"EU","DE","DE-BY","Haßfurt","no","EDQT",,"EDQT",,,"https://de.wikipedia.org/wiki/Flugplatz_Ha%C3%9Ffurt-Schweinfurt","Flugplatz Haßfurt-Schweinfurt, Hassfurt"
+28753,"EDQW","small_airport","Weiden in der Oberpfalz Airfield",49.678902,12.1164,1329,"EU","DE","DE-BY","Weiden in der Oberpfalz","no","EDQW",,"EDQW",,,"https://de.wikipedia.org/wiki/Verkehrslandeplatz_Weiden/Opf.","Weiden/Opf. Airport"
+28596,"EDQX","small_airport","Hetzleser Berg Airfield",49.642341,11.162574,1765,"EU","DE","DE-BY","Neunkirchen am Brand","no","EDQX",,"EDQX",,,"https://de.wikipedia.org/wiki/Flugplatz_Hetzleser_Berg",
+28545,"EDQY","small_airport","Coburg-Steinrücken Airfield",50.230556,10.995833,1184,"EU","DE","DE-BY","Coburg","no","EDQY",,"EDQY",,,"https://de.wikipedia.org/wiki/Flugplatz_Coburg-Steinr%C3%BCcken","Flugplatz Coburg-Steinrücken"
+28688,"EDQZ","small_airport","Pegnitz-Zipser Berg Airfield",49.76238,11.574619,1791,"EU","DE","DE-BY","Pegnitz","no","EDQZ",,"EDQZ",,,"https://de.wikipedia.org/wiki/Flugplatz_Pegnitz-Zipser_Berg",
 28514,"EDRA","small_airport","Bad Neuenahr-Ahrweiler Airfield",50.557779,7.137144,673,"EU","DE","DE-RP","Bad Neuenahr","no",,,"EDRA",,,"https://de.wikipedia.org/wiki/Flugplatz_Bad_Neuenahr-Ahrweiler",
 2265,"EDRB","small_airport","Bitburg Airport",49.945278,6.565,1220,"EU","DE","DE-RP","Bitburg","no","EDRB","BBJ","EDRB",,,"https://en.wikipedia.org/wiki/Bitburg_Airport",
 308863,"EDRC","small_airport","Marpingen Glider Airfield",49.453,7.039,1155,"EU","DE","DE-SL","Marpingen","no",,,"EDRC",,,"http://de.wikipedia.org/wiki/Segelfluggel%C3%A4nde_Marpingen","Segelfluggelände Marpingen"
@@ -23698,7 +23698,7 @@
 28739,"EDRM","small_airport","Traben-Trarbach/Mont Royal Airfield",49.967777,7.111944,919,"EU","DE","DE-RP","Traben-Trarbach","no",,,"EDRM",,,"https://de.wikipedia.org/wiki/Flugplatz_Traben-Trarbach/Mont_Royal",
 28654,"EDRN","small_airport","Nannhausen Airfield",49.96992,7.478357,1224,"EU","DE","DE-RP","Nannhausen","no","EDRN",,"EDRN",,"https://www.edrn.de/","https://en.wikipedia.org/wiki/Nannhausen_Airfield",
 28723,"EDRO","small_airport","Schweighofen Airfield",49.031884,7.990508,492,"EU","DE","DE-RP","Schweighofen","no",,,"EDRO",,,"https://de.wikipedia.org/wiki/Flugplatz_Schweighofen",
-28694,"EDRP","small_airport","Pirmasens-Pottschütthöhe Airfield",49.264442,7.488333,1247,"EU","DE","DE-RP","Battweiler","no",,,"EDRP",,"https://edrp.de/","https://de.wikipedia.org/wiki/Flugplatz_Pirmasens","Flugplatz Pirmasens-Pottschütthöhe"
+28694,"EDRP","small_airport","Pirmasens-Pottschütthöhe Airfield",49.264442,7.488333,1247,"EU","DE","DE-RP","Battweiler","no","EDRP",,"EDRP",,"https://edrp.de/","https://de.wikipedia.org/wiki/Flugplatz_Pirmasens","ZPI, Flugplatz Pirmasens-Pottschütthöhe"
 28729,"EDRS","small_airport","Bad Sobernheim-Domberg Airfield",49.790833,7.666111,810,"EU","DE","DE-RP","Bad Sobernheim","no",,,"EDRS",,,"https://de.wikipedia.org/wiki/Flugplatz_Bad_Sobernheim-Domberg","Flugplatz Bad Sobernheim-Domberg"
 2267,"EDRT","small_airport","Trier-Föhren Airfield",49.863888,6.7875,666,"EU","DE","DE-RP","Föhren","no","EDRT",,"EDRT",,,"https://en.wikipedia.org/wiki/Trier-F%C3%B6hren_Airfield","ZQF, Flugplatz Trier-Föhren"
 29088,"EDRV","small_airport","Wershofen/Eifel Airfield",50.451902,6.784086,1581,"EU","DE","DE-RP","Wershofen","no",,,"EDRV",,,"https://de.wikipedia.org/wiki/Flugplatz_Wershofen/Eifel",
@@ -23708,11 +23708,11 @@
 2269,"EDRZ","small_airport","Zweibrücken Airport",49.2094,7.40056,1132,"EU","DE","DE-RP","Zweibrücken","no","EDRZ","ZQW","EDRZ",,"http://www.edrz-airport.de","https://en.wikipedia.org/wiki/Zweibr%C3%BCcken_Airport",
 28494,"EDSA","small_airport","Albstadt-Degerfeld Airfield",48.249722,9.0625,2881,"EU","DE","DE-BW","Albstadt","no",,,"EDSA",,"http://www.lsv-degerfeld.de/","http://de.wikipedia.org/wiki/Flugplatz_Albstadt-Degerfeld",
 2270,"EDSB","large_airport","Karlsruhe Baden-Baden Airport",48.7794,8.0805,408,"EU","DE","DE-BW","Rheinmünster","yes","EDSB","FKB","EDSB",,"http://www.baden-airpark.de/startseite.html","https://en.wikipedia.org/wiki/Baden_Airpark","Baden Airpark"
-314004,"EDSE","small_airport","Göppingen-Bezgenriet Airfield",48.658611,9.624167,,"EU","DE","DE-BW","Göppingen","no",,,"EDSE",,,"https://de.wikipedia.org/wiki/Flugplatz_G%C3%B6ppingen-Bezgenriet","Flugplatz Göppingen-Bezgenriet"
+314004,"EDSE","small_airport","Göppingen-Bezgenriet Airfield",48.658611,9.624167,,"EU","DE","DE-BW","Göppingen","no","EDSE",,"EDSE",,,"https://de.wikipedia.org/wiki/Flugplatz_G%C3%B6ppingen-Bezgenriet","ZES, Flugplatz Göppingen-Bezgenriet"
 43126,"EDSG","small_airport","Grabenstetten Airfield",48.53611,9.436944,2329,"EU","DE","DE-BW","Grabenstetten","no",,,"EDSG",,"http://www.flg-grabenstetten.de/flugplatz.htm","https://de.wikipedia.org/wiki/Flugplatz_Grabenstetten","Flugplatz Grabenstetten"
 28506,"EDSH","small_airport","Backnang-Heiningen Airfield",48.919724,9.455278,965,"EU","DE","DE-BW","Backnang","no",,,"EDSH",,"http://www.edsh.de/","https://de.wikipedia.org/wiki/Flugplatz_Backnang-Heiningen","Flugplatz Backnang-Heiningen"
 28526,"EDSI","small_airport","Binningen Glider Field",47.798772,8.718553,1594,"EU","DE","DE-BW","Hilzingen","no",,,"EDSI",,,"https://de.wikipedia.org/wiki/Flugplatz_Binningen","Flugplatz Binningen, Segelflugplatz Binningen"
-28618,"EDSK","small_airport","Kehl-Sundheim Airfield",48.561111,7.843333,453,"EU","DE","DE-BW","Kehl","no",,,"EDSK",,,"https://de.wikipedia.org/wiki/Flugplatz_Kehl-Sundheim",
+28618,"EDSK","small_airport","Kehl-Sundheim Airfield",48.561111,7.843333,453,"EU","DE","DE-BW","Kehl","no","EDSK",,"EDSK",,,"https://de.wikipedia.org/wiki/Flugplatz_Kehl-Sundheim","ZIW"
 28529,"EDSL","small_airport","Blumberg Airfield",47.843676,8.564344,2290,"EU","DE","DE-BW","Blumberg","no",,,"EDSL",,,"https://de.wikipedia.org/wiki/Flugplatz_Blumberg","Flugplatz Blumberg"
 2271,"EDSN","small_airport","Neuhausen ob Eck Airfield",47.976665,8.903889,2638,"EU","DE","DE-BW","Neuhausen ob Eck","no",,,"EDSN",,,"https://en.wikipedia.org/wiki/Neuhausen_ob_Eck_Airfield","Flugplatz Neuhausen ob Eck"
 315964,"EDSO","small_airport","Gruibingen-Nortel Airfield",48.6212,9.6557,2318,"EU","DE","DE-BW","Salach","no",,,"EDSO",,"http://www.aeroclub-gs.de/flugplatz.html","https://de.wikipedia.org/wiki/Flugplatz_Gruibingen-Nortel",
@@ -23734,7 +23734,7 @@
 28679,"EDTO","small_airport","Offenburg-Baden Airfield",48.448134,7.92356,509,"EU","DE","DE-BW","Offenburg","no",,,"EDTO",,,"https://de.wikipedia.org/wiki/Flugplatz_Offenburg","ZPA, Flugplatz Offenburg"
 28693,"EDTP","small_airport","Pfullendorf Airfield",47.90889,9.250556,2303,"EU","DE","DE-BW","Pfullendorf","no",,,"EDTP",,,"https://de.wikipedia.org/wiki/Flugplatz_Pfullendorf","Flugplatz Pfullendorf"
 29090,"EDTQ","small_airport","Pattonville Airfield",48.864166,9.224722,920,"EU","DE","DE-BW","Remseck am Neckar","no",,,"EDTQ",,,"https://de.wikipedia.org/wiki/Flugplatz_Pattonville","Christoph 51"
-28593,"EDTR","small_airport","Herten-Rheinfelden Airfield",47.56028,7.748333,925,"EU","DE","DE-BW","Rheinfelden (Baden)","no",,,"EDTR",,,"https://de.wikipedia.org/wiki/Flugplatz_Herten-Rheinfelden",
+28593,"EDTR","small_airport","Herten-Rheinfelden Airfield",47.56028,7.748333,925,"EU","DE","DE-BW","Rheinfelden (Baden)","no","EDTR",,"EDTR",,,"https://de.wikipedia.org/wiki/Flugplatz_Herten-Rheinfelden","ZNM"
 28725,"EDTS","small_airport","Schwenningen am Neckar Airfield",48.065834,8.571389,2169,"EU","DE","DE-BW","Villingen-Schwenningen","no",,,"EDTS",,"http://sfg-schwenningen.de/","https://de.wikipedia.org/wiki/Flugplatz_Schwenningen_am_Neckar",
 28714,"EDTU","small_airport","Bad Saulgau Airfield",48.029446,9.507222,1903,"EU","DE","DE-BW","Bad Saulgau","no",,,"EDTU",,,"https://de.wikipedia.org/wiki/Flugplatz_Saulgau","Flugplatz Bad Saulgau, Flugplatz Saulgau"
 28760,"EDTW","small_airport","Winzeln-Schramberg Airfield",48.279167,8.428333,2310,"EU","DE","DE-BW","Schramberg","no",,,"EDTW",,"http://www.lsv-schwarzwald.de/flugplatz/","http://de.wikipedia.org/wiki/Flugplatz_Winzeln-Schramberg","Flugplatz Winzeln-Schramberg"
@@ -23758,7 +23758,7 @@
 29095,"EDVJ","small_airport","Salzgitter-Schäferstuhl Airfield",52.030682,10.362468,741,"EU","DE","DE-NI","Salzgitter","no",,,"EDVJ",,,"https://de.wikipedia.org/wiki/Flugplatz_Salzgitter-Sch%C3%A4ferstuhl",
 2285,"EDVK","large_airport","Kassel Airport",51.418395,9.391638,820,"EU","DE","DE-HE","Calden","yes","EDVK","KSF","EDVK",,"http://www.flughafenkassel.de/","https://en.wikipedia.org/wiki/Kassel_Airport","Kassel-Calden"
 28601,"EDVL","small_airport","Hölleberg Airfield",51.610881,9.398375,837,"EU","DE","DE-HE","Trendelburg","no",,,"EDVL",,,"https://de.wikipedia.org/wiki/Flugplatz_H%C3%B6lleberg","Flugplatz Hölleberg"
-2286,"EDVM","small_airport","Hildesheim Airfield",52.179819,9.945803,292,"EU","DE","DE-NI","Hildesheim","no",,,"EDVM",,"https://www.flugplatz-hildesheim.de/","https://en.wikipedia.org/wiki/Flugplatz_Hildesheim-Drispenstedt",
+2286,"EDVM","small_airport","Hildesheim Airfield",52.179819,9.945803,292,"EU","DE","DE-NI","Hildesheim","no","EDVM",,"EDVM",,"https://www.flugplatz-hildesheim.de/","https://en.wikipedia.org/wiki/Flugplatz_Hildesheim-Drispenstedt","ZNO"
 28674,"EDVN","small_airport","Northeim Airfield",51.70639,10.039722,404,"EU","DE","DE-NI","Northeim","no",,,"EDVN",,,"https://de.wikipedia.org/wiki/Flugplatz_Northeim","Flugplatz Northeim"
 28705,"EDVR","small_airport","Rinteln Airfield",52.175278,9.053333,180,"EU","DE","DE-NI","Rinteln","no","EDVR",,"EDVR",,"https://lsv-rinteln.de/lsv/","https://de.wikipedia.org/wiki/Flugplatz_Rinteln",
 28713,"EDVS","closed","Salzgitter-Drütte Airfield",52.154446,10.426667,328,"EU","DE","DE-NI","Salzgitter","no",,,,,,"https://de.wikipedia.org/wiki/Flugplatz_Salzgitter-Dr%C3%BCtte","EDVS"
@@ -23778,7 +23778,7 @@
 28616,"EDWK","small_airport","Karlshöfen Airfield",53.332779,9.028333,20,"EU","DE","DE-NI","Gnarrenburg","no",,,"EDWK",,,"https://de.wikipedia.org/wiki/Flugplatz_Karlsh%C3%B6fen","Flugplatz Karlshöfen"
 28632,"EDWL","small_airport","Langeoog Airport",53.742379,7.496345,7,"EU","DE","DE-NI","Langeoog","no","EDWL","LGO","EDWL",,,"https://de.wikipedia.org/wiki/Flugplatz_Langeoog",
 28758,"EDWM","small_airport","Weser-Wümme Airfield",53.05389,9.208611,59,"EU","DE","DE-NI","Hellwege","no",,,"EDWM",,,"https://de.wikipedia.org/wiki/Flugplatz_Weser-W%C3%BCmme","Flugplatz Weser-Wümme"
-28672,"EDWN","small_airport","Flugplatz Nordhorn-Lingen",52.4575,7.182222,89,"EU","DE","DE-NI","Klausheide","no",,,"EDWN",,"http://www.Flugplatz-Nordhorn-Lingen.de","https://de.wikipedia.org/wiki/Flugplatz_Nordhorn-Lingen","ETUN, Nordhorn Range Airport"
+28672,"EDWN","small_airport","Nordhorn-Lingen Airfield",52.4575,7.182222,89,"EU","DE","DE-NI","Klausheide","no","EDWN",,"EDWN",,"http://www.Flugplatz-Nordhorn-Lingen.de","https://de.wikipedia.org/wiki/Flugplatz_Nordhorn-Lingen","ZOW, ETUN, Nordhorn Range Airport"
 28684,"EDWO","small_airport","Atterheide Airfield",52.286388,7.969722,287,"EU","DE","DE-NI","Osnabrück","no","EDWO",,"EDWO",,"https://atterheide.de/","https://en.wikipedia.org/wiki/Atterheide_Airfield",
 43127,"EDWP","small_airport","Wiefelstede-Conneforde Airfield",53.321388,8.073333,33,"EU","DE","DE-NI","Wiefelstede","no",,,"EDWP",,,"https://de.wikipedia.org/wiki/Flugplatz_Wiefelstede-Conneforde","Conneforde, Flugplatz Conneforde, Flugplatz Wiefelstede-Conneforde"
 28566,"EDWQ","small_airport","Ganderkesee Atlas Airfield",53.03611,8.505556,95,"EU","DE","DE-NI","Ganderkesee","no",,,"EDWQ",,"https://www.flugplatz-ganderkesee.de/","https://de.wikipedia.org/wiki/Flugplatz_Ganderkesee",
@@ -44006,7 +44006,7 @@
 28990,"LFQU","small_airport","Sarre-Union Airfield",48.950944,7.078468,837,"EU","FR","FR-GES","Sarre-Union","no",,,"LFQU",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Sarre-Union",
 4204,"LFQV","medium_airport","Charleville-Mézières Ardennes-Etienne Riché Airfield",49.783901,4.64708,492,"EU","FR","FR-GES","Charleville-Mézières","no","LFQV",,"LFQV",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Charleville-M%C3%A9zi%C3%A8res",
 4205,"LFQW","medium_airport","Vesoul-Frotey Airfield",47.638588,6.204443,1249,"EU","FR","FR-BFC","Frotey-lès-Vesoul, Haute-Saône","no",,,"LFQW",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Vesoul_-_Frotey",
-28991,"LFQX","small_airport","Juvancourt Aerodrome",48.113977,4.819424,1145,"EU","FR","FR-GES","Juvancourt, Aube","no",,,"LFQX",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Juvancourt","Aérodrome de Juvancourt"
+28991,"LFQX","small_airport","Juvancourt Aerodrome",48.113977,4.819424,1145,"EU","FR","FR-GES","Juvancourt, Aube","no","LFQX",,"LFQX",,,"https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Juvancourt","Aérodrome de Juvancourt"
 28992,"LFQY","small_airport","Saverne Steinbourg Airfield",48.753392,7.425402,630,"EU","FR","FR-GES","Saverne","no",,,"LFQY",,"http://aeroclub.saverne.pagesperso-orange.fr/","https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Saverne-Steinbourg",
 28993,"LFQZ","small_airport","Dieuze-Guéblange Airfield",48.774378,6.714106,722,"EU","FR","FR-GES","Gelucourt","no",,,"LFQZ",,,,
 4206,"LFRB","large_airport","Brest Bretagne airport",48.447899,-4.41854,325,"EU","FR","FR-BRE","Brest","yes","LFRB","BES","LFRB",,"https://www.brest.aeroport.bzh","https://en.wikipedia.org/wiki/Brest_Bretagne_Airport",
@@ -45095,7 +45095,7 @@
 355205,"LTHD","heliport","Orgeneral Eşref Bitlis Askeri Heliportu",37.9306,40.2311,2251,"AS","TR","TR-21","Diyarbakır","no",,,"LTHD",,,,
 353970,"LTHE","heliport","Süleyman Satır Heliport",36.834114,30.603468,9,"AS","TR","TR-07","Antalya","no",,,"LTHE",,,,"sahil guvenlik, helipad, heliport, coast guard"
 355204,"LTHF","heliport","DHMİ Atatürk Airport Heliport",40.9817,28.8222,120,"EU","TR","TR-34","İstanbul","no",,,"LTHF",,,,
-44488,"LTXE","small_airport","Karain Airport",37.096443,30.647736,1015,"AS","TR","TR-07","Antalya","no",,,,,,,
+44488,"LTXE","small_airport","Karain Airport",37.097222,30.648264,1015,"AS","TR","TR-07","Antalya","no",,,,"LT0701",,,
 43763,"LU-0001","heliport","Ettelbruck Heliport",49.85432,6.094475,666,"EU","LU","LU-D","Ettelbruck","no",,,"ELET",,,,
 43764,"LU-0002","closed","Medernach / Kitzebour Ultralight Airfield",49.7892,6.24111,1171,"EU","LU","LU-D","Medernach","no",,,,,"http://www.aeroplume.lu/",,"ELMD"
 43765,"LU-0003","heliport","Luxembourg Hospital Heliport",49.619279,6.102534,1079,"EU","LU","LU-L","Luxembourg","no",,,"ELLC",,,,
@@ -62375,7 +62375,7 @@
 340053,"SNCP","medium_airport","Planalto Serrano Regional Airport",-27.634128,-50.358253,2887,"SA","BR","BR-SC","Correia Pinto","no","SNCP","EEA","SNCP",,"https://infracea.com.br/aeroporto-regional-do-planalto-serrano-correia-pinto/","https://pt.wikipedia.org/wiki/Aeroporto_de_Correia_Pinto",
 37054,"SNCR","heliport","Viganó I Heliport",-19.963056564331055,-43.9555549621582,3426,"SA","BR","BR-MG","Belo Horizonte","no",,,"SNCR",,,,
 291,"SNCS","small_airport","Campos Sales Airport",-7.051714,-40.358274,2001,"SA","BR","BR-CE","Campos Sales","no",,,"SNCS","CE0009",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Campos_Sales",
-292,"SNCT","small_airport","Ubaporanga Airport",-19.7253,-42.112099,2067,"SA","BR","BR-MG","Caratinga","no",,,"SNCT","SNCT",,"https://en.wikipedia.org/wiki/Ubaporanga_Airport",
+292,"SNCT","small_airport","Ubaporanga Airport",-19.7253,-42.112099,2067,"SA","BR","BR-MG","Caratinga","no",,,"SNCT","MG0056",,"https://en.wikipedia.org/wiki/Ubaporanga_Airport","QTL "
 29752,"SNCV","small_airport","Campina Verde Airport",-19.551478,-49.497425,1805,"SA","BR","BR-MG","Campina Verde","no",,,"SNCV","MG0062",,,
 293,"SNCW","small_airport","Alcântara Space Center Airport",-2.373,-44.3964,148,"SA","BR","BR-MA","Alcântara","no",,,"SNCW","MA9001",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Alc%C3%A2ntara",
 294,"SNCX","small_airport","Colatina Airport",-19.487476,-40.579362,502,"SA","BR","BR-ES","Colatina","no",,"QCH","SNCX","ES0004",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Colatina",
@@ -65637,7 +65637,7 @@
 539741,"TR-0280","heliport","Karaköy Helipad",39.028969,27.917617,,"AS","TR","TR-45","Akhisar","no",,,,,,,
 545699,"TR-0281","closed","Karamürselbey Airfield",40.701106,29.529638,,"AS","TR","TR-41",,"no",,,,,,,
 545700,"TR-0282","small_airport","Istanbul Aviation Pamukova Airfield",40.487089,30.169232,,"AS","TR","TR-54",,"no",,,,,"https://www.istanbulhavacilik.com.tr/",,
-545701,"TR-0283","small_airport","KTO Karatay University Airfield",38.095469,32.779033,1005,"AS","TR","TR-42",,"no",,,,,,,
+545701,"TR-0283","small_airport","KTO Karatay University Airfield",38.095469,32.779033,1005,"AS","TR","TR-42",,"no",,,,"LT4201",,,
 545703,"TR-0284","seaplane_base","Haliç Seaplane Base",41.058313,28.948058,,"EU","TR","TR-34",,"no",,,,,,,
 545704,"TR-0285","heliport","Zorlu Center Helipad",41.066611,29.017986,,"EU","TR","TR-34",,"no",,,,,,,
 545705,"TR-0286","heliport","Acıbadem Altunizade Hospital Helipad",41.018622,29.047339,,"AS","TR","TR-34",,"no",,,,,,,
@@ -65649,7 +65649,7 @@
 555348,"TR-0292","small_airport","Yıldızlar Sportif Havaalanı",38.331013,27.245631,,"AS","TR","TR-35","Buca","no",,,,,,,
 561246,"TR-0293","closed","Tuzla Airstrip",40.825996,29.283028,,"AS","TR","TR-34","Tuzla","no",,,,,,,
 568880,"TR-0294","heliport","Muğla Education and Research Hospital Heliport",37.16565,28.36756,2372,"AS","TR","TR-48","Muğla","no",,,,,,,
-570160,"TR-0295","small_airport","Sivrihisar Aviation Center",39.30217,31.49727,2841,"AS","TR","TR-26","Sivrihisar","no",,,,,,,
+570160,"TR-0295","small_airport","Sivrihisar Havacılık Merkezi",39.302492,31.498282,2841,"AS","TR","TR-26","Sivrihisar","no",,,,,"https://shm.aero/tesisler/",,"LT2602"
 4517,"TR-0297","closed","İskenderun Airport",36.5744552612,36.1534194946,25,"AS","TR","TR-31","İskenderun","no",,,,,,,"Antakya, Antioch, LTAK, ISK"
 4554,"TR-0298","closed","Şanlıurfa Airport",37.094299,38.847099,1483,"AS","TR","TR-63","Şanlıurfa","no",,,,,,"https://en.wikipedia.org/wiki/%C5%9Eanl%C4%B1urfa_Airport","LTCH, SFQ"
 29854,"TR-0299","closed","Ereğli Erdemir Airport",41.251399993896,31.410800933838,10,"AS","TR","TR-67","Eregli","no",,,,,,,"LTAX, LTAX"
