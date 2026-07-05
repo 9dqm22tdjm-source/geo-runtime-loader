@@ -10272,7 +10272,7 @@
 38755,"AR-0080","small_airport","Aeroclub Capitan Sarmiento",-34.1639,-59.7311,160,"SA","AR","AR-B","Capitan Sarmiento","no",,,,"CTS",,,"CTS"
 38756,"AR-0081","small_airport","Vedia Aeroclub",-34.4817,-61.4903,291,"SA","AR","AR-B","Vedia","no",,,,"VDA",,,
 38757,"AR-0082","small_airport","Carhue Airport",-37.1942,-62.7814,360,"SA","AR","AR-B","Carhue","no",,,,"HUE",,,
-38758,"AR-0083","small_airport","Carlos Casares Airport",-35.6328,-61.3842,275,"SA","AR","AR-B","Carlos Casares","no",,,,"CSR",,,
+38758,"AR-0083","small_airport","Carlos Casares Airport",-35.629284,-61.393885,275,"SA","AR","AR-B","Carlos Casares","no",,,,"CSR",,,
 38759,"AR-0084","small_airport","Las Ensenadas Airport",-31.4552993774,-64.5263977051,2394,"SA","AR","AR-X","Carlos Paz","no",,,,"CPZ",,,
 38760,"AR-0085","small_airport","Carlos Tejedor Airport",-35.4256,-62.4697,308,"SA","AR","AR-B","Carlos Tejedor","no",,,,"TEJ",,,
 38761,"AR-0086","small_airport","Carmen de Areco Airport",-34.4175,-59.8719,160,"SA","AR","AR-B","Carmen de Areco","no",,,,"CNO",,,
@@ -16979,7 +16979,7 @@
 39993,"CA-0347","closed","Smoky Tower Airport",54.400001525878906,-118.28333282470703,,"NA","CA","CA-AB",,"no",,,,,,,
 39994,"CA-0348","closed","Snag Airport",62.354151,-140.404432,,"NA","CA","CA-YT",,"no",,,,,,,
 39995,"CA-0349","closed","Squanga Lake Airport",60.48659,-133.458067,2608,"NA","CA","CA-YT","Squanga Lake","no",,,,,,,"FR6"
-39996,"CA-0350","closed","St-Gabriel-De-Brandon Airport",46.349998474121094,-73.38333129882812,,"NA","CA","CA-QC",,"no",,,,,,,
+39996,"CA-0350","closed","St-Gabriel-De-Brandon Airport",46.342546,-73.389273,,"NA","CA","CA-QC",,"no",,,,,,,
 39997,"CA-0351","closed","St-Joseph-De-St-Hyacinths Airport",45.61666488647461,-72.93333435058594,,"NA","CA","CA-QC",,"no",,,,,,,
 39998,"CA-0352","closed","St-Prosper (Pel) Airport",46.216667,-70.5,988,"NA","CA","CA-QC",,"no",,,,,,,"CTW2, TW2"
 39999,"CA-0353","closed","St-Simon-De-Bagot Airport",45.68333435058594,-72.83333587646484,,"NA","CA","CA-QC",,"no",,,,,,,
@@ -20254,7 +20254,7 @@
 16949,"CO96","small_airport","Reed Hollow Ranch Airport",39.371700286865234,-104.74299621582031,6200,"NA","US","US-CO","Franktown","no",,,"CO96","CO96",,,
 16950,"CO97","small_airport","Comanche Springs Ranch Airport",39.72079849243164,-104.322998046875,5435,"NA","US","US-CO","Strasburg","no",,,"CO97","CO97",,,
 609591,"COB2","seaplane_base","Oak Bay Water Aerodrome",44.796,-79.736,579,"NA","CA","CA-ON","Port Severen","no",,,"COB2","COB2",,"https://en.wikipedia.org/wiki/List_of_airports_in_Ontario#Port_Severn/Oak_Bay_Water_Aerodrome",
-46617,"COB4","small_airport","Orangeville / Brundle Field",43.8745094139,-80.1798963547,1630,"NA","CA","CA-ON",,"no",,,"COB4",,,,"ob4"
+46617,"COB4","small_airport","Brundle Field",43.874509,-80.179896,1630,"NA","CA","CA-ON","Orangeville","no",,,,"COB4",,"https://en.wikipedia.org/wiki/List_of_airports_in_Ontario#Orangeville/Brundle_Field_Aerodrome",
 43873,"COL2","small_airport","Orangeville / Laurel Airstrip",43.916799,-80.205731,1620,"NA","CA","CA-ON","Orangeville","no",,,"COL2","COL2",,"https://en.wikipedia.org/wiki/Orangeville/Laurel_Aerodrome","orangeville laurel ol2"
 1369,"COP2","heliport","Orillia (Ontario Provincial Police) Heliport",44.584698344699994,-79.4275474548,820,"NA","CA","CA-ON","Orillia","no",,,"COP2","COP2",,,"OP2"
 577138,"COP5","small_airport","Cooper Falls Airstrip",44.778056,-79.248333,781,"NA","CA","CA-ON",,"no",,,"COP5","COP5",,,
@@ -27996,6 +27996,7 @@
 609443,"FR-1344","heliport","Zuytpeene HLS",50.794192,2.424912,90,"EU","FR","FR-HDF","Zuytpeene, Nord","no",,,,,,,
 609544,"FR-1345","heliport","Armbouts-Cappen",50.974347,2.350437,,"EU","FR","FR-HDF","Armbouts-Cappel","no",,,,,,,
 609573,"FR-1346","heliport","HéliSMUR 03 Heliport",46.31801,3.31765,,"EU","FR","FR-ARA","Saint-Pourçain-sur-Sioule","no",,,,,,,
+609665,"FR-1347","heliport","Château Hendecourt-les-cagnicourt",50.211846,2.953074,,"EU","FR","FR-HDF","Hendecourt les Cagnicourt","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -30918,7 +30919,7 @@
 347939,"HLBS","small_airport","Booster Airport",29.9124,23.287275,151,"AF","LY","LY-BU",,"no",,,"HLBS",,,,
 526474,"HLFE","small_airport","El Feel Airport",26.0425,12.047833,2674,"AF","LY","LY-WD",,"no",,,"HLFE",,,,
 3218,"HLFL","small_airport","Bu Attifel Airport",28.795400619506836,22.080900192260742,161,"AF","LY","LY-WA",,"no",,,"HLFL",,,,
-3219,"HLGD","large_airport","Sirt International Airport / Ghardabiya Airbase",31.058578,16.597095,267,"AF","LY","LY-SR","Sirt","no","HLGD","SRX","HLGD",,,"https://en.wikipedia.org/wiki/Ghardabiya_Airbase","Gardabiya, Sirte"
+3219,"HLGD","large_airport","Sirt International Airport / Ghardabiya Airbase",31.058578,16.597095,267,"AF","LY","LY-SR","Sirt","no","HLGD","SRX","HLGD","HLGS",,"https://en.wikipedia.org/wiki/Ghardabiya_Airbase","Gardabiya, Sirte"
 3220,"HLGL","small_airport","Warehouse 59e Airport",28.638500213623047,21.437999725341797,325,"AF","LY","LY-WA",,"no",,,"HLGL",,,,
 3221,"HLGT","medium_airport","Ghat Airport",25.1455993652,10.142600059500001,2296,"AF","LY","LY-GT","Ghat","yes","HLGT","GHT","HLGT",,,"https://en.wikipedia.org/wiki/Ghat_Airport",
 526531,"HLHB","small_airport","Hateiba Airport",29.733611,19.697222,-120,"AF","LY","LY-WA",,"no",,,"HLHB",,,,
@@ -65649,7 +65650,7 @@
 555348,"TR-0292","small_airport","Yıldızlar Sportif Havaalanı",38.331013,27.245631,,"AS","TR","TR-35","Buca","no",,,,,,,
 561246,"TR-0293","closed","Tuzla Airstrip",40.825996,29.283028,,"AS","TR","TR-34","Tuzla","no",,,,,,,
 568880,"TR-0294","heliport","Muğla Education and Research Hospital Heliport",37.16565,28.36756,2372,"AS","TR","TR-48","Muğla","no",,,,,,,
-570160,"TR-0295","small_airport","Sivrihisar Havacılık Merkezi",39.302492,31.498282,2841,"AS","TR","TR-26","Sivrihisar","no",,,,,"https://shm.aero/tesisler/",,"LT2602"
+570160,"TR-0295","small_airport","Sivrihisar Aviation Center S.H.M.",39.302492,31.498282,2790,"AS","TR","TR-26","Sivrihisar","no",,,,,"https://shm.aero/tesisler/","https://tr.wikipedia.org/wiki/Sivrihisar_Havac%C4%B1l%C4%B1k_Merkezi_S.H.M.","LT2602"
 4517,"TR-0297","closed","İskenderun Airport",36.5744552612,36.1534194946,25,"AS","TR","TR-31","İskenderun","no",,,,,,,"Antakya, Antioch, LTAK, ISK"
 4554,"TR-0298","closed","Şanlıurfa Airport",37.094299,38.847099,1483,"AS","TR","TR-63","Şanlıurfa","no",,,,,,"https://en.wikipedia.org/wiki/%C5%9Eanl%C4%B1urfa_Airport","LTCH, SFQ"
 29854,"TR-0299","closed","Ereğli Erdemir Airport",41.251399993896,31.410800933838,10,"AS","TR","TR-67","Eregli","no",,,,,,,"LTAX, LTAX"
@@ -80495,7 +80496,7 @@
 26471,"VCCT","medium_airport","China Bay Airport",8.539159,81.18128,6,"AS","LK","LK-5","Trincomalee","yes","VCCT","TRR","VCCT",,,"https://en.wikipedia.org/wiki/China_Bay_Airport","SLAF China Bay, RAF China Bay, Trincomalee Airport"
 4391,"VCCV","small_airport","Vavuniya Airport",8.741009,80.497845,299,"AS","LK","LK-4","Vavuniya","no",,,"VCCV",,,"https://en.wikipedia.org/wiki/Vavuniya_Airport","VC13"
 26472,"VCCW","small_airport","Weerawila Airport",6.25449,81.235199,50,"AS","LK","LK-3","Weerawila","no","VCCW","WRZ","VCCW",,,"https://en.wikipedia.org/wiki/Weerawila_Airport","Wirawila Airport"
-309579,"VCRI","large_airport","Mattala Rajapaksa International Airport",6.283878,81.124163,157,"AS","LK","LK-3","Mattala","yes","VCRI","HRI","VCRI","VCRI","http://www.mria.lk/","https://en.wikipedia.org/wiki/Mattala_Rajapaksa_International_Airport","Hambantota International Airport"
+309579,"VCRI","medium_airport","Mattala Rajapaksa International Airport",6.283878,81.124163,157,"AS","LK","LK-3","Mattala","yes","VCRI","HRI","VCRI","VCRI","http://www.mria.lk/","https://en.wikipedia.org/wiki/Mattala_Rajapaksa_International_Airport","Hambantota International Airport"
 26473,"VDBG","medium_airport","Battambang Airport",13.0956,103.223999,59,"AS","KH","KH-2","Battambang","yes","VDBG","BBM","VDBG",,,"https://en.wikipedia.org/wiki/Battambang_Airport",
 32569,"VDKC","small_airport","Kampong Cham Airport",12.028657,105.441165,148,"AS","KH","KH-3","Kompong Cham","no","VDKC",,"VDKC",,,"https://en.wikipedia.org/wiki/Kampong_Cham_Airport",
 26474,"VDKH","closed","Kampong Chhnang Airport",12.255032,104.564657,56,"AS","KH","KH-4","Kampong Chhnang","no",,,,,,"https://en.wikipedia.org/wiki/Kampong_Chhnang_Airport","VDKH, KZC"
@@ -84142,6 +84143,7 @@
 30484,"YOAS","small_airport","The Oaks Airport",-34.084097,150.559602,909,"OC","AU","AU-NSW","The Oaks","no",,,"YOAS",,"https://www.srfc.org.au/","https://en.wikipedia.org/wiki/The_Oaks_Airfield",
 27861,"YOAY","small_airport","Oaky Creek Airport",-23.057324,148.495846,177,"OC","AU","AU-QLD",,"no",,,"YOAY",,,,
 311767,"YOBE","heliport","Oberon Heliport",-33.7007,149.856,3612,"OC","AU","AU-NSW","Oberon","no",,,"YOBE","YOBE",,,
+609663,"YOBN","small_airport","Oban Airport",-21.234797,139.033231,902,"OC","AU","AU-QLD","Oban","no","YOBN","OBA","YOBN",,,,"Mount Isa"
 30209,"YOBR","small_airport","Old Bar Heritage Airport",-31.9653,152.591003,10,"OC","AU","AU-NSW",,"no",,,"YOBR",,,"https://en.wikipedia.org/wiki/Old_Bar_Airfield",
 38531,"YODA","small_airport","Ooldea Airport",-30.45669937133789,131.822998046875,,"OC","AU","AU-SA",,"no",,,"YODA",,,,
 27862,"YODL","small_airport","Ourdel Airport",-25.350000381469727,142.63299560546875,,"OC","AU","AU-QLD",,"no",,,"YODL",,,,
