@@ -9523,7 +9523,7 @@
 41025,"ACM","small_airport","Arica Airport",-2.143713,-71.75935,316,"SA","CO","CO-AMA","Arica","no",,"ACM",,,,"https://en.wikipedia.org/wiki/Arica_Airport_(Colombia)",
 318235,"AD-0001","heliport","Terra Guindaldes Heliport",42.546257,1.51916,,"EU","AD","AD-04","La Massana","no",,,,,,,
 338490,"AD-0002","closed","Arinsal (Coll de la Botella) Heliport",42.544983,1.452258,,"EU","AD","AD-04","La Massana","no",,,,,,,
-41841,"AD-ALV","heliport","Andorra la Vella (Our Lady of Meritxell Hospital) Heliport",42.511228,1.533651,3450,"EU","AD","AD-08","Escaldes-Engordany","no",,,,,,"http://pl.wikipedia.org/wiki/Heliport_Andorra_la_Vella",
+41841,"AD-ALV","heliport","Andorra la Vella Heliport",42.511227,1.53365,3450,"EU","AD","AD-08","Escaldes-Engordany","no",,"ALV",,,,"https://en.wikipedia.org/wiki/Andorra_la_Vella_Heliport","Our Lady of Meritxell Hospital"
 309426,"ADV","small_airport","El Daein Airport",11.4023,26.1186,1560,"AF","SD","SD-DE","El Daein","no",,"ADV",,,,"https://en.wikipedia.org/wiki/Ed_Daein_Airport",
 42257,"AE-0001","small_airport","Batha Airport",24.214693,51.44989,257,"AS","SA","SA-04","Batha","yes","OEBT",,"OEBT",,,,"Ras Sumeira UAE,"
 44426,"AE-0002","heliport","Burj al Arab Resort Helipad",25.141327,55.185496,689,"AS","AE","AE-DU","Dubai","no",,,,,"http://www.jumeirah.com/en/Hotels-and-Resorts/Destinations/Dubai/Burj-Al-Arab/",,
@@ -16979,7 +16979,7 @@
 39993,"CA-0347","closed","Smoky Tower Airport",54.400001525878906,-118.28333282470703,,"NA","CA","CA-AB",,"no",,,,,,,
 39994,"CA-0348","closed","Snag Airport",62.354151,-140.404432,,"NA","CA","CA-YT",,"no",,,,,,,
 39995,"CA-0349","closed","Squanga Lake Airport",60.48659,-133.458067,2608,"NA","CA","CA-YT","Squanga Lake","no",,,,,,,"FR6"
-39996,"CA-0350","closed","St-Gabriel-De-Brandon Airport",46.342546,-73.389273,,"NA","CA","CA-QC",,"no",,,,,,,
+39996,"CA-0350","closed","St-Gabriel-de-Brandon Airport",46.342546,-73.389273,479,"NA","CA","CA-QC","St-Gabriel-de-Brandon","no",,,,,,,"SS5"
 39997,"CA-0351","closed","St-Joseph-De-St-Hyacinths Airport",45.61666488647461,-72.93333435058594,,"NA","CA","CA-QC",,"no",,,,,,,
 39998,"CA-0352","closed","St-Prosper (Pel) Airport",46.216667,-70.5,988,"NA","CA","CA-QC",,"no",,,,,,,"CTW2, TW2"
 39999,"CA-0353","closed","St-Simon-De-Bagot Airport",45.68333435058594,-72.83333587646484,,"NA","CA","CA-QC",,"no",,,,,,,
@@ -17896,6 +17896,7 @@
 609637,"CA-1267","closed","Granby Airport",45.413572,-72.687349,,"NA","CA","CA-QC","Granby","no",,,,,,,
 609640,"CA-1268","closed","Granby Ouest Airfield",45.418304,-72.819657,,"NA","CA","CA-QC","Granby","no",,,,,,,
 609643,"CA-1269","closed","Granby Airfield",45.346475,-72.83309,,"NA","CA","CA-QC","Granby","no",,,,,,,
+609671,"CA-1270","seaplane_base","Chute-Saint-Philippe Water Aerodrome",46.6505,-75.2372,807,"NA","CA","CA-QC","Chute-Saint-Philippe","no",,,,"SS6",,,"Kiamika River"
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -30643,6 +30644,8 @@
 3201,"HETR","small_airport","At Tur Airport",28.208964,33.645483,52,"AS","EG","EG-JS","At Tur","no","HETR","ELT","HETR",,,"https://en.wikipedia.org/wiki/El_Tor_Airport","El Tor"
 17620,"HEY","heliport","Hanchey Army (Fort Rucker) Heliport",31.34600067,-85.65429688,317,"NA","US","US-AL","Fort Rucker Ozark","no",,"HEY","KHEY","HEY",,"https://en.wikipedia.org/wiki/Hanchey_Army_Heliport",
 17622,"HGT","heliport","Tusi (Hunter Liggett) Army Heliport",35.9935,-121.237,1017,"NA","US","US-CA","Jolon","no",,"HGT","KHGT","HGT",,,
+609676,"HH0A","heliport","Frunzenskaya 2 Helistop",55.726949,37.58947,483,"EU","RU","RU-MOW","Moscow","no",,,"HH0A","HH0A",,,"HH0A, Москва"
+609678,"HH34","heliport","Teikovo-16 HLS",56.92709,40.74333,459,"EU","RU","RU-IVA","Shilykovo","no",,,"HH34","HH34",,,"ХХ34, Тейково-16, Шилыково"
 324060,"HHAG","small_airport","Agordat Airport",15.536313,37.865546,,"AF","ER","ER-GB","Agordat","no","HHAG",,"HHAG",,,,
 607203,"HHAK","small_airport","Adi Keyh Airfield",14.827129,39.365238,7991,"AF","ER","ER-DU","Adi Keyh","no","HHAK",,"HHAK",,,,"Adi Keih, Adi Caieh"
 607205,"HHAL","small_airport","Alghena Airfield",17.335379,38.519347,1262,"AF","ER","ER-DU","Alghena","no","HHAL",,"HHAL",,,,"Alghiena"
@@ -33073,7 +33076,7 @@
 308695,"IT-0059","small_airport","Città di Tortona Airfield",44.938436,8.865881,315,"EU","IT","IT-21","Tortona (AL)","no",,,,"ALTRT",,,"Aviosuperficie Città di Tortona"
 308696,"IT-0060","closed","Aviosuperficie Valentino",44.437222,7.660556,1457,"EU","IT","IT-21","Castelletto Stura (CN)","no",,,,,,,"Valentino"
 314853,"IT-0061","heliport","Capitalia Heliport",41.824691,12.381729,116,"EU","IT","IT-62","Rome","no","LIAD",,"LIAD",,,,
-308698,"IT-0062","small_airport","Bosio Guido Airfield",44.434208,7.632153,1500,"EU","IT","IT-21","Castelletto Stura (CN)","no",,,,"CNCST","https://sites.google.com/view/aviosuperficiebosioguido",,"Aviosuperficie Bosio Guido, Campo di Volo Bosio Guido, Aviosuperficie Castelletto Stura, Campo Volo Castelletto Stura, CN05"
+308698,"IT-0062","small_airport","Bosio Guido Airfield",44.434208,7.632153,1500,"EU","IT","IT-21","Castelletto Stura (CN)","no",,,,"CN05","https://sites.google.com/view/aviosuperficiebosioguido",,"Aviosuperficie Bosio Guido, Campo di Volo Bosio Guido, Aviosuperficie Castelletto Stura, Campo Volo Castelletto Stura, CN05"
 308699,"IT-0063","small_airport","Country Fly Airfield",44.503056,7.821667,1350,"EU","IT","IT-21","Bene Vagienna (CN)","no",,,,"CN06",,,"Avio Langhe, Campo di Volo Country Fly"
 308700,"IT-0064","small_airport","Campo di volo Ploia",44.884167,8.780833,420,"EU","IT","IT-21","San Giuliano Vecchio (AL)","no",,,,"ALTOR",,,
 308701,"IT-0065","small_airport","Il Laghetto Airfield",44.777885,8.13034,450,"EU","IT","IT-21","Castagnole delle Lanze (AT)","no",,,,"ATCAL","http://www.trattorialaghetto.it/campo_volo.htm",,"Campo volo Il Laghetto"
@@ -45978,7 +45981,7 @@
 4900,"MM56","small_airport","Xicoténcatl Airport",22.953829,-98.959908,377,"NA","MX","MX-TAM","Xicoténcatl","no",,,"MM56","XIC",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Xicot%C3%A9ncatl",
 319587,"MM62","small_airport","Aeródromo Zacacoyuca",18.26992,-99.517491,2890,"NA","MX","MX-GRO","Iguala de la Independencia","no",,,"MM62","ZKA",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Zacacoyuca","MM2B, MX50"
 4905,"MM63","small_airport","Autlán Airport",19.7453,-104.336998,2900,"NA","MX","MX-JAL","Autlán de Navarro","no",,,"MM63","AUN",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Autl%C3%A1n_de_Navarro","MM63, MX08"
-4906,"MM64","small_airport","Aeródromo de Cuatro Ciénegas",26.9904,-102.032997,2450,"NA","MX","MX-COA","Cuatro Cienegas de Carranza","no",,,"MM64","CUC",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Constitucionalista","Cuatro Cienegas New Airport"
+4906,"MM64","small_airport","Constitutionalist Airport",26.9904,-102.032997,2450,"NA","MX","MX-COA","Cuatro Cienegas de Carranza","no",,,"MM64","CUC",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Constitucionalista","Cuatro Cienegas New Airport"
 4907,"MM65","small_airport","La Calera Airport",31.2523,-109.608002,4213,"NA","MX","MX-SON","Agua Prieta","no",,,,"LKE",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Agua_Prieta","MM65, Agua Prieta South"
 4908,"MM66","small_airport","Coahuayana Airport",18.684601,-103.676003,200,"NA","MX","MX-MIC",,"no",,,,"CHY",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Coahuayana","MM66"
 4909,"MM67","small_airport","Engineer Manuel Moreno Torres National Airport",23.6766,-100.623001,5118,"NA","MX","MX-SLP","Matehuala","no",,,"MM67","MTH",,"https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Ingeniero_Manuel_Moreno_Torres","MX73, Aeropuerto Nacional Ingeniero Manuel Moreno Torres"
@@ -47058,7 +47061,7 @@
 319479,"MX-0238","small_airport","Pucte Airport",18.2654,-88.69206,119,"NA","MX","MX-ROO","Othon Pompeyo Blanco","no",,,,"PCU",,,
 319480,"MX-0239","small_airport","Aeródromo de Xcaret",20.58035,-87.12706,46,"NA","MX","MX-ROO","Solidaridad","no",,,,"XRT",,,
 319543,"MX-0240","closed","Aeródromo Jorge Llerenas Silva",19.220117,-103.730378,1475,"NA","MX","MX-COL","Colima","no",,,,,,,"JLS"
-319544,"MX-0241","small_airport","Aeródromo Chavarín",19.19735,-104.54093,190,"NA","MX","MX-COL","Manzanillo","no",,,,"CHV",,,
+319544,"MX-0241","small_airport","Chavarín Airport",19.19735,-104.54093,190,"NA","MX","MX-COL","Manzanillo","no",,,,"CHV",,,
 319549,"MX-0242","small_airport","Aeródromo La Tigrera",19.02606,-104.23294,60,"NA","MX","MX-COL","Manzanillo","no",,,,"TGR",,,"Skydive Paracaidismo Manzanillo"
 319550,"MX-0243","small_airport","Aeródromo Cerro de Ortega",18.781,-103.75662,59,"NA","MX","MX-COL","Tecoman","no",,,,"COG",,,
 319551,"MX-0244","small_airport","Aeródromo de Rancho Lanzarote",19.671231,-99.3225,7878,"NA","MX","MX-MEX","Cañada de Cisneros","no",,,,"RZT",,,
@@ -57126,7 +57129,7 @@
 5828,"SAVV","medium_airport","Gobernador Castello Airport",-40.8692,-63.0004,20,"SA","AR","AR-R","Viedma / Carmen de Patagones","yes","SAVV","VDM","SAVV","VIE",,"https://en.wikipedia.org/wiki/Gobernador_Edgardo_Castello_Airport",
 5829,"SAVY","medium_airport","El Tehuelche Airport",-42.7592,-65.1027,427,"SA","AR","AR-U","Puerto Madryn","yes","SAVY","PMY","SAVY","DRY",,"https://en.wikipedia.org/wiki/El_Tehuelche_Airport",
 5830,"SAWB","small_airport","Gustavo Marambio Airport",-64.238297,-56.630798,760,"AN","AQ","AQ-U-A","Marambio Base","no",,,"SAWB","MBI",,"https://en.wikipedia.org/wiki/Marambio_Airport",
-5831,"SAWC","large_airport","El Calafate - Commander Armando Tola International Airport",-50.281997,-72.053949,669,"SA","AR","AR-Z","El Calafate","yes",,"FTE","SAWC","ECA","http://www.aeropuertoelcalafate.com/en/","https://en.wikipedia.org/wiki/Comandante_Armando_Tola_International_Airport",
+5831,"SAWC","medium_airport","El Calafate - Commander Armando Tola International Airport",-50.280267,-72.053401,669,"SA","AR","AR-Z","El Calafate","yes",,"FTE","SAWC","ECA","http://www.aeropuertoelcalafate.com/en/","https://en.wikipedia.org/wiki/Comandante_Armando_Tola_International_Airport",
 5832,"SAWD","medium_airport","Puerto Deseado Airport",-47.7353,-65.9041,268,"SA","AR","AR-Z","Puerto Deseado","yes","SAWD","PUD","SAWD","ADO",,"https://en.wikipedia.org/wiki/Puerto_Deseado_Airport",
 5833,"SAWE","medium_airport","Gobernador Ramón Trejo Noel International Airport",-53.7777,-67.7494,65,"SA","AR","AR-V","Rio Grande","yes","SAWE","RGA","SAWE","GRA",,"https://en.wikipedia.org/wiki/Hermes_Quijada_Airport","Hermes Quijada, Gobernador Ramón Trejo Noel"
 5834,"SAWG","large_airport","Piloto Civil Norberto Fernández International Airport",-51.608791,-69.308948,61,"SA","AR","AR-Z","Rio Gallegos","yes","SAWG","RGL","SAWG","GAL",,"https://en.wikipedia.org/wiki/Piloto_Civil_Norberto_Fern%C3%A1ndez_International_Airport","Brigadier General D. A. Parodi"
@@ -85245,6 +85248,7 @@
 607147,"ZA-0362","small_airport","Klippunt Airstrip",-28.57991,21.13157,2661,"AF","ZA","ZA-NC","Kai !Garib","no",,,,,,,
 607148,"ZA-0363","small_airport","Karos Airstrip",-28.37984,21.58413,2772,"AF","ZA","ZA-NC","Upington","no",,,,,,,
 31753,"ZA-KIG","small_airport","Koingnaas Airport",-30.187136,17.282706,228,"AF","ZA","ZA-NC","Koingnaas","no",,"KIG",,,,,
+609677,"ZA49","small_airport","Ilyinskoye-Khovanskoye Airport",56.959436,39.781629,456,"EU","RU","RU-IVA",,"no",,,"ZA49","ZA49",,,"ЗА49"
 27188,"ZBAA","large_airport","Beijing Capital International Airport",40.077349,116.596702,116,"AS","CN","CN-11","Beijing","yes","ZBAA","PEK","ZBAA",,"https://en.bcia.com.cn/","https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport","BJS, Beijing, Peking, 北京, 北京首都国际机场, 北京首都机场, 北京机场"
 330820,"ZBAD","large_airport","Beijing Daxing International Airport",39.501289,116.413967,98,"AS","CN","CN-11","Beijing","yes","ZBAD","PKX","ZBAD",,,"https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport",
 32006,"ZBBB","medium_airport","Beijing Xijiao Airport",39.958592,116.256765,164,"AS","CN","CN-11","Beijing","no","ZBBB",,"ZBBB",,,"https://en.wikipedia.org/w/index.php?title=Beijing_Xijiao_Airport&oldid=1173024518","BJS, Beijing City Airport"
