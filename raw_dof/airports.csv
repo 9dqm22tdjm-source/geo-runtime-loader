@@ -22846,7 +22846,7 @@
 30899,"DFEC","small_airport","Komin-Yanga Airport",11.699999809265137,0.15000000596046448,1116,"AF","BF","BF-KOP","Komin-Yanga","no",,,"DFEC",,,,
 30919,"DFED","small_airport","Diapaga Airport",12.060324,1.784631,951,"AF","BF","BF-TAP","Diapaga","no","DFED","DIP","DFED",,,"https://en.wikipedia.org/wiki/Diapaga_Airport",
 30937,"DFEE","small_airport","Dori Airport",14.021638,-0.068207,925,"AF","BF","BF-SEN","Dori","no","DFEE","DOR","DFEE",,,"https://en.wikipedia.org/wiki/Dori_Airport",
-31193,"DFEF","small_airport","Fada N'gourma Airport",12.033,0.35,1011,"AF","BF","BF-GOU","Fada N'gourma","no","DFEF","FNG","DFEF",,,"https://en.wikipedia.org/wiki/Fada_N%27gourma_Airport",
+31193,"DFEF","small_airport","Fada N'gourma Airport",12.038931,0.362798,1011,"AF","BF","BF-GOU","Fada N'gourma","no","DFEF","FNG","DFEF",,,"https://en.wikipedia.org/wiki/Fada_N%27gourma_Airport",
 32699,"DFEG","small_airport","Gorom-Gorom Airport",14.454174,-0.218644,935,"AF","BF","BF-OUD","Gorom-Gorom","no","DFEG","XGG","DFEG",,,"https://en.wikipedia.org/wiki/Gorom_Gorom_Airport",
 30900,"DFEK","small_airport","Koupela Airport",12.166999816894531,-0.30000001192092896,902,"AF","BF","BF-KOT","Koupela","no",,,"DFEK",,,,
 32702,"DFEL","small_airport","Kantchari Airport",12.464046,1.492939,879,"AF","BF","BF-TAP","Kantchari","no","DFEL","XKA","DFEL",,,"https://en.wikipedia.org/wiki/Kantchari_Airport",
@@ -30023,11 +30023,9 @@
 609476,"GB-1357","seaplane_base","Dalmore Seaplane Base",57.687499,-4.238333,,"EU","GB","GB-SCT","Dalmore, Highland","no",,,,,,,"Alness"
 609477,"GB-1358","closed","Dundonald Airfield",55.581944,-4.61389,3,"EU","GB","GB-SCT","Dundonald, South Ayrshire","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Dundonald","Gailes, RAF Dundonald, Barrassie"
 609478,"GB-1359","closed","Dumfries Airfield",55.093611,-3.571667,62,"EU","GB","GB-SCT","Tinwald Downs, Dumfries and Galloway","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Dumfries","RAF Dumfries, Microlights."
-609481,"GB-1360","small_airport","Cluntoe Airfield",54.621947,-6.531097,89,"EU","GB","GB-NIR","Cluntoe, Mid Ulster","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Cluntoe","RAF Cluntoe"
+609481,"GB-1360","closed","Cluntoe Airfield",54.621947,-6.531097,89,"EU","GB","GB-NIR","Cluntoe, Mid Ulster","no",,,,,,"https://en.wikipedia.org/wiki/RAF_Cluntoe","RAF Cluntoe"
 609581,"GB-1361","small_airport","Ragley Hall Airstrip",52.2283,-1.8439,210,"EU","GB","GB-ENG","Alcester","no",,,,,"https://www.midlandsairfestival.com",,"Ragley Hall, Midlands Air Festival, temporary airstrip, grass runway, private, event airfield, Alcester, Warwickshire"
-609582,"GB-1362","small_airport","Ragley Hall Airstrip",52.197207,-1.8439,210,"EU","GB","GB-U-A","Alcester","no",,,,,"https://www.midlandsairfestival.com",,"Ragley Hall, Midlands Air Festival, temporary airstrip, grass runway, private, event airfield, Alcester, Warwickshire"
 609583,"GB-1363","small_airport","Ragley Hall Airstrip",52.197207,-1.896893,210,"EU","GB","GB-U-A","Alcester","no",,,,,"https://www.midlandsairfestival.com",,"Ragley Hall, Midlands Air Festival, temporary airstrip, grass runway, private, event airfield, Alcester, Warwickshire"
-609584,"GB-1364","small_airport","Ragley Hall Airstrip",52.2283,-1.8439,210,"EU","GB","GB-U-A","Alcester","no",,,,,"https://www.midlandsairfestival.com",,"Ragley Hall, Midlands Air Festival, temporary airstrip, grass runway, private, event airfield, Alcester, Warwickshire"
 30935,"GB-DOC","small_airport","Dornoch Airfield",57.868999,-4.023,1,"EU","GB","GB-SCT","Dornoch, Sunderland","no",,,,,"http://www.dornochairfield.com/",,"EG08, EGZJ, DOC"
 31147,"GB-FLH","small_airport","Flotta Isle Airstrip",58.825802,-3.14278,50,"EU","GB","GB-SCT","Flotta Isle","no",,"FLH",,,,"https://en.wikipedia.org/wiki/Flotta_Isle_Airport","EGZR"
 31199,"GB-FOA","small_airport","Foula Airfield",60.121916,-2.053439,150,"EU","GB","GB-SCT","Foula","yes",,"FOA","EGFO",,,"https://en.wikipedia.org/wiki/Foula_Airfield","EG42"
@@ -31036,6 +31034,7 @@
 608185,"HR-0045","small_airport","Voloder Airstrip",45.527149,16.646176,,"EU","HR","HR-03",,"no",,,,,,,"Popovača"
 608307,"HR-0046","small_airport","USS Čađavica",45.73049,17.85027,,"EU","HR","HR-10","Čađavica","no",,,,,,,
 608728,"HR-0047","small_airport","Airfield Ravnice",45.995186,17.204908,364,"EU","HR","HR-06","Podravske Sesvete","no",,,,,,,
+609680,"HR-0048","small_airport","Lipik - Mali Gaj Airfield",45.472154,17.006576,,"EU","HR","HR-07","Nova Rača","no",,,,,"http://www.aeroklub.nova-raca.hr/zracnopristaniste.html",,
 313249,"HRC","small_airport","Sary Su Airport",48.3974,70.1915,1307,"AS","KZ","KZ-ULY","Zhayrem","no",,"HRC",,,,,"Zhairem, Жайрем"
 313252,"HRN","heliport","Heron Island Helipad",-23.441765,151.911416,8,"OC","AU","AU-QLD","Heron Island","no",,,"YHRN","YHRN",,,"HRN"
 3236,"HRYG","medium_airport","Gisenyi Airport",-1.6772,29.2589,5082,"AF","RW","RW-04","Gisenyi","no","HRYG","GYI","HRYG",,,"https://en.wikipedia.org/wiki/Gisenyi_Airport",
@@ -49354,6 +49353,8 @@
 607719,"MX-2531","heliport","[Duplicate] Center for Higher Naval Studies Heliport",19.318639,-99.11534,7358,"NA","MX","MX-DIF","Coyoacán","no",,,,,,,
 607720,"MX-2532","heliport","Naval Advanced Training Center Heliport",19.280975,-100.162757,7257,"NA","MX","MX-MEX","Valle de Bravo","no",,,,,,,
 607736,"MX-2533","heliport","Puerto Cortés Naval Base Heliport",24.475969,-111.821334,1,"NA","MX","MX-BCS","Comondú","no",,,,,,,"Isla Santa Margarita"
+609679,"MX-2534","closed","Old Tepic Airport",21.478683,-104.881676,3041,"NA","MX","MX-NAY","Tepic","no",,,,,,,"Recinto Ferial,"
+609683,"MX-2535","heliport","Regional Military Hospital Heliport",23.237029,-106.369632,65,"NA","MX","MX-SIN","Mazatlán,","no",,,,,,,
 30631,"MX-AJS","small_airport","Punta Abreojos Airport",26.7272,-113.558998,26,"NA","MX","MX-BCS","Mulegé","no",,"AJS",,"AJS",,"https://en.wikipedia.org/wiki/Punta_Abreojos_Airstrip","MX86"
 30671,"MX-AZG","small_airport","Apatzingán - Pablo L. Sidar Airport",19.093399,-102.393997,1033,"NA","MX","MX-MIC","Apatzingán","no",,"AZG","MMAG","AZG",,"https://es.wikipedia.org/wiki/Aeropuerto_Nacional_Pablo_L._Sidar","MM16"
 43044,"MX-CEO","small_airport","El Crucero Airport",27.407301,-109.928001,114,"NA","MX","MX-SON","Cajeme","no",,,,"CEO",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_El_Crucero_(Sonora)",
@@ -62415,7 +62416,7 @@
 607933,"SNE9","small_airport","Fazenda Sucuri Airstrip",-22.195556,-57.225278,489,"SA","BR","BR-MS","Caracol","no",,,"SNE9","MS0755",,,
 37068,"SNEB","small_airport","Nagib Demachki Airport",-3.019798,-47.316474,443,"SA","BR","BR-PA","Paragominas","yes",,"JPE","SNEB","PA0018",,"https://en.wikipedia.org/wiki/Paragominas_Airport",
 37069,"SNEC","small_airport","Outeiros da Brisas Airport",-16.712959,-39.142413,130,"SA","BR","BR-BA","Porto Seguro","no",,,"SNEC","BA0134",,"https://pt.wikipedia.org/wiki/Aeroporto_Outeiro_das_Brisas",
-302,"SNED","small_airport","Sócrates Rezende Airport",-15.666999816895,-38.954700469971,19,"SA","BR","BR-BA","Canavieiras","no","SNED","CNV","SNED","SNED",,,
+302,"SNED","small_airport","Sócrates Rezende Airport",-15.667,-38.9547,20,"SA","BR","BR-BA","Canavieiras","no","SNED","CNV","SNED","BA0023",,,
 321011,"SNEE","small_airport","Vacaria Airport",-28.43248,-51.023322,2999,"SA","BR","BR-RS","Vacaria","no",,"VCC","SNEE","RS0004",,"https://en.wikipedia.org/wiki/Vacaria_Airport",
 46211,"SNEF","heliport","Praia de Santa Rita Heliport",-23.190833,-44.645556,49,"SA","BR","BR-RJ","Parati","no",,,"SNEF","SNEF",,,
 323599,"SNEG","small_airport","Fazenda Netolândia Airport",-14.650115,-57.888688,1066,"SA","BR","BR-MT","Tangará da Serra","no",,,"SNEG",,,,
@@ -64575,7 +64576,7 @@
 37970,"SWMT","small_airport","Fazenda Centro da Mata Airport",-12.657777786254883,-54.82777786254883,1214,"SA","BR","BR-MT","Nova Ubiratã","no",,,"SWMT",,,,
 37971,"SWMU","small_airport","Surumu Airport",4.31639003754,-60.7005996704,1640,"SA","BR","BR-RR","Pacaraima","no",,,"SWMU",,,,
 37972,"SWMV","small_airport","Paa-Piu Airport",2.72694,-62.9506,984,"SA","BR","BR-RR","Mucajaí","no",,,"SWMV",,,"https://pt.wikipedia.org/wiki/Aeroporto_de_Mucaja%C3%AD",
-562,"SWMW","small_airport","Maués Airport",-3.37217,-57.7248,69,"SA","BR","BR-AM","Maués","no","SWMW","MBZ","SWMW","SWMW",,"https://en.wikipedia.org/wiki/Mau%C3%A9s_Airport",
+562,"SWMW","small_airport","Maués Airport",-3.37217,-57.7248,69,"SA","BR","BR-AM","Maués","no","SWMW","MBZ","SWMW","AM0020",,"https://en.wikipedia.org/wiki/Mau%C3%A9s_Airport",
 139,"SWMX","small_airport","Morrinhos Airport",-17.761758,-49.121654,2634,"SA","BR","BR-GO","Morrinhos","no",,,"SJ4Y","GO0028",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Morrinhos","SWMX, SB48"
 37973,"SWMY","small_airport","Porto Fluvial Suiá Missu Airport",-11.566944122314453,-50.700557708740234,623,"SA","BR","BR-MT","Barra Do Garças","no",,,"SWMY",,,,
 37974,"SWMZ","small_airport","Aeroporto Agroer Aviação",-16.442424,-54.701269,1047,"SA","BR","BR-MT","Rondonópolis","no",,,"SWMZ","MT0369",,,"Estância Aeronaldo"
@@ -85248,7 +85249,7 @@
 607147,"ZA-0362","small_airport","Klippunt Airstrip",-28.57991,21.13157,2661,"AF","ZA","ZA-NC","Kai !Garib","no",,,,,,,
 607148,"ZA-0363","small_airport","Karos Airstrip",-28.37984,21.58413,2772,"AF","ZA","ZA-NC","Upington","no",,,,,,,
 31753,"ZA-KIG","small_airport","Koingnaas Airport",-30.187136,17.282706,228,"AF","ZA","ZA-NC","Koingnaas","no",,"KIG",,,,,
-609677,"ZA49","small_airport","Ilyinskoye-Khovanskoye Airport",56.959436,39.781629,456,"EU","RU","RU-IVA",,"no",,,"ZA49","ZA49",,,"ЗА49"
+609677,"ZA49","closed","Ilyinskoye-Khovanskoye Airstrip",56.959436,39.781629,456,"EU","RU","RU-IVA",,"no",,,,,,,"ЗА49, ZA49"
 27188,"ZBAA","large_airport","Beijing Capital International Airport",40.077349,116.596702,116,"AS","CN","CN-11","Beijing","yes","ZBAA","PEK","ZBAA",,"https://en.bcia.com.cn/","https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport","BJS, Beijing, Peking, 北京, 北京首都国际机场, 北京首都机场, 北京机场"
 330820,"ZBAD","large_airport","Beijing Daxing International Airport",39.501289,116.413967,98,"AS","CN","CN-11","Beijing","yes","ZBAD","PKX","ZBAD",,,"https://en.wikipedia.org/wiki/Beijing_Daxing_International_Airport",
 32006,"ZBBB","medium_airport","Beijing Xijiao Airport",39.958592,116.256765,164,"AS","CN","CN-11","Beijing","no","ZBBB",,"ZBBB",,,"https://en.wikipedia.org/w/index.php?title=Beijing_Xijiao_Airport&oldid=1173024518","BJS, Beijing City Airport"
