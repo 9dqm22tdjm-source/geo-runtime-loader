@@ -20709,7 +20709,7 @@
 1594,"CTF3","small_airport","Causapscal Airport",48.311857,-67.250147,340,"NA","CA","CA-QC","Causapscal","no",,,"CTF3","CTF3",,"https://en.wikipedia.org/wiki/Causapscal_Airport","TF3"
 46595,"CTF4","small_airport","Dundalk (Tripp Field) Aerodrome",44.173018,-80.310297,1700,"NA","CA","CA-ON","Melancthon","no",,,"CTF4",,,"https://en.wikipedia.org/wiki/Dundalk_(Tripp_Field)_Aerodrome",
 320481,"CTF5","small_airport","Pierceland (Turchyn Field)",54.300305,-109.9269,1790,"NA","CA","CA-SK","Pierceland","no",,,"CTF5","CTF5",,"https://en.wikipedia.org/wiki/Pierceland_(Turchyn_Field)_Aerodrome",
-1595,"CTG2","heliport","Montreal / St-Hubert Helicraft",45.5319191641,-73.41086447240001,96,"NA","CA","CA-QC","Montréal","no",,,"CTG2","CTG2",,,"TG2"
+1595,"CTG2","heliport","St-Hubert Helicraft / Metropolitan Airport Heliport",45.532093,-73.411488,96,"NA","CA","CA-QC","Montréal","no",,,"CTG2","CTG2",,,"Longueuil"
 1596,"CTG3","small_airport","Du Rocher-Percé (Pabok) Airport",48.38378,-64.562703,87,"NA","CA","CA-QC","Grande-Rivière-Ouest","no",,,"CTG3","CTG3",,"https://en.wikipedia.org/wiki/Du_Rocher-Perc%C3%A9_(Pabok)_Airport","TG3, Chandler, Percé"
 300234,"CTH2","small_airport","Thor Lake Airport",62.1007902302,-112.624111176,809,"NA","CA","CA-NT",,"no",,,"CTH2","CTH2",,,
 1597,"CTH3","small_airport","Grandes-Bergeronnes Airport",48.232200622558594,-69.54280090332031,69,"NA","CA","CA-QC","Grandes-Bergeronnes","no",,,"CTH3","CTH3",,"https://en.wikipedia.org/wiki/Grandes-Bergeronnes_Airport","TH3"
@@ -23933,7 +23933,7 @@
 2328,"EFLN","small_airport","Lieksa Nurmes Airfield",63.511902,29.6292,374,"EU","FI","FI-13","Nurmes","no",,,"EFLN",,,"https://en.wikipedia.org/wiki/Lieksa-Nurmes_Airfield",
 2329,"EFLP","large_airport","Lappeenranta Airport",61.044601,28.144743,349,"EU","FI","FI-02","Lappeenranta","yes","EFLP","LPP","EFLP",,"https://lppairport.fi/en","https://en.wikipedia.org/wiki/Lappeenranta_Airport",
 44033,"EFLR","heliport","Lapland Central Hospital Heliport",66.491914,25.778312,341,"EU","FI","FI-10","Rovaniemi","no",,,"EFLR",,,,"Lapin keskussairaala"
-2330,"EFMA","large_airport","Mariehamn Airport",60.1222,19.898199,17,"EU","FI","FI-01","Mariehamn","yes","EFMA","MHQ","EFMA",,"http://www.finavia.fi/en/mariehamn/","https://en.wikipedia.org/wiki/Mariehamn_Airport",
+2330,"EFMA","medium_airport","Mariehamn Airport",60.1222,19.898199,17,"EU","FI","FI-01","Mariehamn","yes","EFMA","MHQ","EFMA",,"http://www.finavia.fi/en/mariehamn/","https://en.wikipedia.org/wiki/Mariehamn_Airport",
 2331,"EFME","small_airport","Menkijärvi Airfield",62.946701,23.5189,331,"EU","FI","FI-03","Alajärvi","no",,,"EFME",,,"https://fi.wikipedia.org/wiki/Menkij%C3%A4rven_lentokentt%C3%A4",
 2332,"EFMI","medium_airport","Mikkeli Airport",61.6866,27.201799,329,"EU","FI","FI-04","Mikkeli","no","EFMI","MIK","EFMI",,"http://www.mikkelinlentoasema.fi/en/","https://en.wikipedia.org/wiki/Mikkeli_Airport",
 310896,"EFML","small_airport","Ii Airfield",65.301144,25.416226,40,"EU","FI","FI-14","Ii","no",,,"EFML",,"http://www.ilmailukerho.fi/Uusi_sivusto_2012/Etusivu.html",,
@@ -37889,7 +37889,7 @@
 18514,"K1S5","small_airport","Sunnyside Municipal Airport",46.32709885,-119.9700012,768,"NA","US","US-WA","Sunnyside","no",,,"K1S5","1S5",,,
 18515,"K1S9","small_airport","Chewelah Municipal  Airport",48.314098,-117.742995,2084,"NA","US","US-WA","Chewelah","no",,,,"1S9",,,"Sand Canyon Airport"
 18516,"K1T7","small_airport","Kestrel Airpark",29.811536,-98.425777,1250,"NA","US","US-TX","Spring Branch","no",,,,"1T7",,,
-18517,"K1U2","small_airport","Mud Lake/West Jefferson County/ Airport",43.848201751699996,-112.499000549,4787,"NA","US","US-ID","Mud Lake","no",,,"K1U2","1U2",,,
+18517,"K1U2","small_airport","Mud Lake/West Jefferson County/ Airport",43.851014,-112.501359,4787,"NA","US","US-ID","Mud Lake","no",,,,"1U2",,,
 18518,"K1U7","small_airport","Bear Lake County Airport",42.2472,-111.337997,5928,"NA","US","US-ID","Paris","no",,,"K1U7","1U7",,"https://en.wikipedia.org/wiki/Bear_Lake_County_Airport",
 18519,"K1V0","small_airport","Navajo Lake Airport",36.808168,-107.653077,6475,"NA","US","US-NM","Navajo Dam","no",,,,"1V0",,"https://en.wikipedia.org/wiki/Navajo_Lake_Airport",
 18520,"K1V2","small_airport","Grant County Airport",42.010036,-101.77007,3710,"NA","US","US-NE","Hyannis","no",,,"1V2","1V2",,"https://en.wikipedia.org/wiki/Grant_County_Airport_(Nebraska)",
