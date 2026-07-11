@@ -23747,7 +23747,7 @@
 29091,"EDUA","small_airport","Flugplatz Stechow-Ferchesar",52.650555,12.487778,148,"EU","DE","DE-BR","Stechow-Ferchesar","no",,,"EDUA",,,"https://de.wikipedia.org/wiki/Flugplatz_Stechow-Ferchesar",
 2280,"EDUF","small_airport","Falkenberg-Lönnewitz Airfield",51.547779,13.228056,312,"EU","DE","DE-BR","Mühlberg","no",,,"EDUF",,,"https://de.wikipedia.org/wiki/Flugplatz_Falkenberg-L%C3%B6nnewitz","Flugplatz Falkenberg-Lönnewitz"
 29092,"EDUO","small_airport","Oberrißdorf Airfield",51.542895,11.595243,738,"EU","DE","DE-ST","Hedersleben","no","EDUO",,"EDUO",,,"https://de.wikipedia.org/wiki/Flugplatz_Oberri%C3%9Fdorf",
-2281,"EDUS","small_airport","Finsterwalde-Schacksdorf Airfield",51.60743,13.737702,384,"EU","DE","DE-BR","Lichterfeld-Schacksdorf","no","EDUS",,"EDUS",,,"https://de.wikipedia.org/wiki/Lausitzflugplatz_Finsterwalde/Schacksdorf","Lausitzflugplatz Finsterwalde/Schacksdorf"
+2281,"EDUS","closed","Finsterwalde-Schacksdorf Airfield",51.60743,13.737702,384,"EU","DE","DE-BR","Lichterfeld-Schacksdorf","no",,,,,,"https://de.wikipedia.org/wiki/Lausitzflugplatz_Finsterwalde/Schacksdorf","Lausitzflugplatz Finsterwalde/Schacksdorf, EDUS"
 2283,"EDUW","small_airport","Tutow-Betriebs Airfield",53.917731,13.22026,26,"EU","DE","DE-MV","Tutow","no","EDUW",,"EDUW",,,"https://de.wikipedia.org/wiki/Flugplatz_Tutow","Flugplatz Tutow"
 29093,"EDUY","seaplane_base","Welzow-Sedlitzer See Seaplane Base",51.557777,14.105,361,"EU","DE","DE-BR","Welzow","no","EDUY",,"EDUY",,,"https://de.wikipedia.org/wiki/Flugplatz_Sedlitzer_See",
 29094,"EDUZ","medium_airport","Zerbst Airfield",52.000832,12.148611,289,"EU","DE","DE-ST","Straguth","no","EDUZ",,"EDUZ",,"https://www.luftsportverein-zerbst.de/","https://de.wikipedia.org/wiki/Flugplatz_Zerbst",
@@ -25263,6 +25263,7 @@
 607970,"ES-0377","small_airport","Aeródromo de La Salceda",41.06474,-3.88266,,"EU","ES","ES-CL",,"no",,,,,,,
 608412,"ES-0378","heliport","Airbus Helicopters España",38.942781,-1.877506,2270,"EU","ES","ES-CM","Albacete","no",,,,,,"https://en.wikipedia.org/wiki/Albacete_helicopter_plant","Airbus"
 609432,"ES-0379","heliport","Ciudad Real University Hospital Heliport",38.970943,-3.932795,2072,"EU","ES","ES-CM","Ciudad Real","no",,,,,,,
+609746,"ES-0380","heliport","Vilamaior Forest Fire Base Heliport",41.973966,-7.39922,1400,"EU","ES","ES-GA","Verin","no","LEHK",,,,,"https://gl.wikipedia.org/wiki/Heliportos_de_Galicia",
 599574,"ESAN","heliport","Norra Alvsborgs County Hospital Heliport",58.319006,12.26819,312,"EU","SE","SE-Q","Trollhättan","no","ESEN",,"ESAN","NAL",,,
 2643,"ESCF","medium_airport","Malmen Air Base",58.397666,15.522422,308,"EU","SE","SE-E","Linköping","no","ESCF",,"ESCF",,,"https://en.wikipedia.org/wiki/Malmen_Airbase",
 2645,"ESCM","small_airport","Ärna Air Base",59.897301,17.5886,68,"EU","SE","SE-C","Uppsala","no","ESCM",,"ESCM",,,"https://en.wikipedia.org/wiki/%C3%84rna",
@@ -41063,7 +41064,7 @@
 20807,"KPBF","medium_airport","Pine Bluff Regional Airport, Grider Field",34.174121,-91.935643,206,"NA","US","US-AR","Pine Bluff","no","KPBF","PBF","KPBF","PBF","http://www.pbaviation.com","https://en.wikipedia.org/wiki/Grider_Field",
 20808,"KPBG","medium_airport","Plattsburgh International Airport",44.650902,-73.468102,234,"NA","US","US-NY","Plattsburgh","yes","KPBG","PBG","KPBG","PBG","http://www.plattsburghinternationalairport.com/","https://en.wikipedia.org/wiki/Plattsburgh_International_Airport","Plattsburgh Air Force Base"
 20809,"KPBH","small_airport","Price County Airport",45.709,-90.402496,1497,"NA","US","US-WI","Phillips","no",,,"KPBH","PBH",,"https://en.wikipedia.org/wiki/Price_County_Airport",
-3766,"KPBI","large_airport","President Donald J Trump International Airport",26.683201,-80.095596,19,"NA","US","US-FL","West Palm Beach","yes","KDJT","PBI","KDJT","DJT","https://www.pbia.org/","https://en.wikipedia.org/wiki/Palm_Beach_International_Airport","DJT, KDJT, MFW, South Florida"
+3766,"KPBI","large_airport","President Donald J. Trump International Airport",26.683201,-80.095596,19,"NA","US","US-FL","West Palm Beach","yes","KDJT","PBI","KDJT","DJT","https://www.pbia.org/","https://en.wikipedia.org/wiki/Palm_Beach_International_Airport","DJT, KDJT, MFW, South Florida"
 20810,"KPBX","small_airport","Pike County Airport Hatcher Field",37.560795,-82.570051,1473,"NA","US","US-KY","Pikeville","no","KPBX","PVL","KPBX","PBX",,"https://en.wikipedia.org/wiki/Pike_County_Airport_(Kentucky)","Hatcher Field"
 24076,"KPCA","heliport","Picacho Stagefield Heliport",32.662789,-111.48797,1675,"NA","US","US-AZ","Picacho","no",,,"KPCA","PCA",,"https://en.wikipedia.org/wiki/Picacho_Stagefield_ARNG_Heliport",
 20811,"KPCM","small_airport","Plant City Municipal Airport",28.0002,-82.1642,153,"NA","US","US-FL","Plant City","no",,,"KPCM","PCM",,"https://en.wikipedia.org/wiki/Plant_City_Airport",
@@ -42053,7 +42054,7 @@
 328337,"KR-0854","heliport","Mirae Asset Insurance Company Heliport",37.521783,126.922782,,"AS","KR","KR-11","Seoul","no",,,,,,,"Mirae Asset Insurance Company"
 328338,"KR-0855","heliport","Korea Telecommunications (KT) Building Heliport",37.521923,126.919062,,"AS","KR","KR-11","Seoul","no",,,,,,,"Korea Telecommunications, KT"
 328339,"KR-0856","heliport","Marriott Executive Apartments - Yeouido Centre Heliports",37.521261,126.918679,,"AS","KR","KR-11","Seoul","no",,,,,,,"Marriott Executive Apartment, Yeouido Centre"
-328343,"KR-0857","heliport","Korea Broadcasting System (KBS) Heliport",37.524159,126.916573,,"AS","KR","KR-11","Seoul","no",,,,,,,"Korea Broadcasting System, KBS"
+328343,"KR-0857","heliport","Korea Broadcasting System (KBS) Heliport",37.524159,126.916573,49,"AS","KR","KR-11","Seoul","no","RKBS",,"RKBS",,,,"Korea Broadcasting System, KBS, Yeouido"
 328344,"KR-0858","heliport","Korea Development Bank Heliport",37.52733,126.920798,,"AS","KR","KR-11","Seoul","no",,,,,,,"Korea Development Bank"
 328345,"KR-0859","heliport","LG Twin Towers West Heliport",37.527655,126.928671,,"AS","KR","KR-11","Seoul","no",,,,,,,"LG Twin Tower"
 328348,"KR-0860","heliport","Kukmin Ilbo Heliport",37.529329,126.924943,,"AS","KR","KR-11","Seoul","no",,,,,,,"Kukmin Ilbo"
@@ -42310,7 +42311,7 @@
 608545,"KR-1112","closed","Suyeong Airport",35.154995,129.126186,,"AS","KR","KR-26","Busan- Gwangyeoksi (Busan Metropolitan City)","no",,,,,,,"RKPP, PSN"
 608546,"KR-1113","small_airport","Ulleung Airport",42.547405,116.133728,,"AS","KR","KR-U-A","Ulleung-Gun (Ulleung County)","yes",,,,,,,
 608547,"KR-1114","small_airport","Ulleung Airport",37.455064,130.876828,,"AS","KR","KR-47","Ulleung-Gun (Ulleung County)","yes",,,,,,,
-608550,"KR-1115","closed","Andong Airfield",36.557262,128.751816,,"AS","KR","KR-47","Andong- Si (Andong City)","yes",,,,,,,
+608550,"KR-1115","closed","Andong Airfield",36.557262,128.751816,,"AS","KR","KR-47","Andong- Si (Andong City)","yes",,,,,,,"QDY, RKTD, K42"
 608552,"KR-1116","small_airport","Yeongdeok Educational Airstrip",36.552536,129.402546,,"AS","KR","KR-47","Yeongdeok-Gun (Yeongdeok County)","no",,,,,,,
 608572,"KR-1117","heliport","Jangdo Helipad",37.549751,126.606721,,"AS","KR","KR-28","Incheon","no",,,,,,,
 608621,"KR-1118","closed","(Duplicate)Yeouido Airport",37.525845,126.921995,,"AS","KR","KR-11",,"no",,,,,,,"SEL, RKSS"
@@ -42318,6 +42319,7 @@
 608644,"KR-1120","small_airport","Haman takeoff and landing pad",35.330781,128.387812,,"AS","KR","KR-48","Haman-Gun (Haman County)","no",,,,,,,
 608645,"KR-1121","closed","Hadong Takeoff and Lading Pad",34.996102,127.784086,,"AS","KR","KR-48","Hadong-Gun (Hadong County)","no",,,,,,,
 608646,"KR-1122","closed","Seungjin Flight Education School",37.222942,127.608278,,"AS","KR","KR-41",,"no",,,,,,,
+609738,"KR-1123","heliport","POSCO Heliport",35.999759,129.384915,19,"AS","KR","KR-47","Pohang","no","RKTS",,"RKTS",,,,
 20905,"KR47","small_airport","Ruhes Airport",41.102526,-84.05443,801,"NA","US","US-OH","Leipsic","no",,,"KR47","R47",,,
 20906,"KR49","small_airport","Ferry County Airport",48.71819,-118.656491,2522,"NA","US","US-WA","Republic","no",,,"KR49","R49",,,
 20907,"KRAC","small_airport","John H Batten Airport",42.7606010437,-87.8152008057,674,"NA","US","US-WI","Racine","no","KRAC","RAC","KRAC","RAC","http://www.battenairport.aero/","https://en.wikipedia.org/wiki/John_H._Batten_Airport","Horlick Field"
@@ -55053,7 +55055,7 @@
 301584,"RK9J","heliport","N 324 Helipad",33.960563,126.293367,88,"AS","KR","KR-49","Sang-Chuja Island","no",,,"RK9J","RK9J",,,
 301585,"RK9K","heliport","N 325 Helipad",33.939677,126.322973,42,"AS","KR","KR-49","Sinyangseo-gil (Ha-Chuja Island)","no",,,,"RK9K",,,"RK9K, Sinyangseo, Ha-Chuja Island, N 325, N-325"
 300350,"RK9L","heliport","ROK Navy Donghae Ammunition Depot Heliport (N-100)",37.531667,129.094562,200,"AS","KR","KR-42","Pyeongneung-dong","no",,,,"RK9L",,,"Donghae, RK9L, N 100, N-100"
-300549,"RK9P","heliport","N 201 Helipad",36.990951,126.80819,12,"AS","KR","KR-41","Poseung","no",,,"RKBN","RK9P",,,"N 201, N-201, RKBN, RK9P"
+300549,"RK9P","heliport","N 201 Helipad",36.990951,126.80819,12,"AS","KR","KR-41","Poseung","no","RKBN",,"RKBN","RK9P",,,
 301471,"RK9Q","heliport","N 204 Helipad",37.259222,126.098612,331,"AS","KR","KR-28","Deokjeokbuk-ro","no",,,,"RK9Q",,,"RK9Q, Deokjeok, N 204, N-204"
 301473,"RK9R","heliport","N 205 Helipad",36.117753,125.980171,165,"AS","KR","KR-45","Eoncheong Island","no",,,,"RK9R",,,"N 205, N-205, RK9R, Eoncheong"
 300356,"RK9S","heliport","N 101 Helipad",36.92002,129.377384,90,"AS","KR","KR-47","Maehwa-ri","no",,,"RK9S","RK9S",,,
@@ -55069,6 +55071,7 @@
 317116,"RKA8","heliport","H 302 Heliport",37.559841,127.541343,3537,"AS","KR","KR-41","Yongmunsan Mountain","no",,,"RKA8","RKA8",,,
 317117,"RKA9","heliport","C 193 Heliport",37.545147,126.823712,104,"AS","KR","KR-11","Oebalsan-dong, Seoul","no",,,"RKA9","RKA9",,,
 321076,"RKB2","heliport","C 195 Heliport",37.303683,126.792427,196,"AS","KR","KR-41","Sandan-ro","no",,,"RKB2","RKB2",,,
+609739,"RKBP","heliport","Everland Speedway Heliport",37.29596,127.208215,415,"AS","KR","KR-41","Yongin","no","RKBP",,"RKBP",,,,
 322787,"RKC1","heliport","C 153 Heliport",37.706143,126.959537,1035,"AS","KR","KR-41","Yangju","no",,,"RKC1","RKC1",,,
 315639,"RKC3","heliport","Camp Young (C 166) Heliport",37.92144,126.80125,158,"AS","KR","KR-41","Camp Young","no",,,"RKC3","RKC3",,,"Camp Young, C 166, C166, C-166"
 300302,"RKC4","heliport","C 168 Heliport",37.875664,126.763698,90,"AS","KR","KR-41",,"no",,,"RKC4","RKC4",,,
@@ -55121,28 +55124,28 @@
 323235,"RKSN","heliport","Kooni Range Heliport",37.036498,126.759213,,"AS","KR","KR-41","Kooni","no",,,"RKSN",,,,
 5655,"RKSO","medium_airport","Osan Air Base",37.091457,127.029448,38,"AS","KR","KR-41","Pyeongtaek","no","RKSO","OSN","RKSO",,,"https://en.wikipedia.org/wiki/Osan_Air_Base",
 323565,"RKSQ","heliport","Yeonpyeong-Myeon Heliport",37.664068,125.69797,299,"AS","KR","KR-28","Yeonpyeong-myeon","no",,,"RKSQ",,,,"Yeonpyeong-myeon, Yeonpyeong, RKSQ"
-5656,"RKSS","large_airport","Gimpo International Airport",37.5583,126.791,59,"AS","KR","KR-11","Seoul","yes","RKSS","GMP","RKSS",,"http://gimpo.airport.co.kr/eng/index.jsp","https://en.wikipedia.org/wiki/Gimpo_International_Airport",
-323185,"RKST","small_airport","Camp Casey-Dongduchon (Camp Mobile) (H-220) Airfield",37.920842,127.055361,,"AS","KR","KR-41","Dongduchon","no",,,"RKST",,,"https://en.wikipedia.org/wiki/Camp_Casey,_South_Korea",
+5656,"RKSS","large_airport","Seoul Gimpo International Airport",37.5583,126.791,59,"AS","KR","KR-11","Seoul","yes","RKSS","GMP","RKSS",,"https://www.airport.co.kr/gimpoeng/index.do","https://en.wikipedia.org/wiki/Gimpo_International_Airport","Kimpo"
+323185,"RKST","small_airport","Camp Casey-Dongduchon (Camp Mobile) (H-220) Airfield",37.92149,127.055495,170,"AS","KR","KR-41","Dongduchon","no","RKST",,"RKST",,,"https://en.wikipedia.org/wiki/Camp_Casey,_South_Korea",
 323564,"RKSU","heliport","Yeoju Range Heliport",37.436895,127.632886,141,"AS","KR","KR-41","Utsokgogaet-gil","no",,,"RKSU",,,,"RKSU, Yeoju Range, Utsokgogaet"
 323255,"RKSV","heliport","Pyoripsan Heliport",37.77857,126.381706,820,"AS","KR","KR-28","Pyoripsan","no",,,"RKSV",,,,
 5657,"RKSW","medium_airport","Suwon Airport",37.239399,127.007004,88,"AS","KR","KR-41","Suwon","no","RKSW","SWU","RKSW",,,"https://en.wikipedia.org/wiki/Suwon_Air_Base",
 300126,"RKSX","heliport","Camp Stanley (H 207) Heliport",37.722314,127.097335,216,"AS","KR","KR-41","Camp Stanley","no",,,"RKSX",,,"https://en.wikipedia.org/wiki/Camp_Stanley",
-300125,"RKSY","heliport","H 264 Heliport",37.528355,126.975799,67,"AS","KR","KR-11","Yongsan, Seoul","no",,,"RKSY",,,,
-323266,"RKTA","small_airport","Taean Airport",36.593781,126.29662,16,"AS","KR","KR-44","Taean","no",,"QDY","RKTA",,,"https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
+300125,"RKSY","heliport","H 264 Heliport",37.528355,126.975799,67,"AS","KR","KR-11","Yongsan, Seoul","no","RKSY",,"RKSY",,,,
+323266,"RKTA","small_airport","Taean Airport",36.593781,126.29662,16,"AS","KR","KR-44","Taean","no","RKTA",,"RKTA",,,"https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
 323554,"RKTB","heliport","Paekado Helipad",37.025726,125.997423,151,"AS","KR","KR-28","Paekado (Ul-do)","no",,,"RKTB",,,,"RKTB, Ul-do, Paekado"
-5658,"RKTE","small_airport","Seongmu Airport",36.568199,127.5,258,"AS","KR","KR-43",,"no",,,"RKTE",,,"https://en.wikipedia.org/wiki/Seongmu_Airport",
+5658,"RKTE","small_airport","Seongmu Airport",36.568199,127.5,258,"AS","KR","KR-43",,"no","RKTE",,"RKTE",,,"https://en.wikipedia.org/wiki/Seongmu_Airport",
 5659,"RKTH","medium_airport","Pohang Airport (G-815/K-3)",35.987955,129.420383,70,"AS","KR","KR-47","Pohang","yes","RKTH","KPO","RKTH",,"http://pohang.airport.co.kr/","https://en.wikipedia.org/wiki/Pohang_Airport",
 5660,"RKTI","medium_airport","Jungwon Air Base/Chungju Airport",37.03024,127.886353,281,"AS","KR","KR-43","Gimseang-ro","no","RKTI","JWO","RKTI","RKTV",,"https://en.wikipedia.org/wiki/Jungwon_Air_Base",
 300606,"RKTL","small_airport","Uljin Airport",36.777049,129.461861,191,"AS","KR","KR-47","Bongsan-ri, Uljin","no","RKTL","UJN","RKTL",,,"https://en.wikipedia.org/wiki/Uljin_Airport",
 5661,"RKTN","large_airport","Daegu International Airport",35.894394,128.656989,116,"AS","KR","KR-27","Daegu","yes","RKTN","TAE","RKTN",,,"https://en.wikipedia.org/wiki/Daegu_Airport",
 5662,"RKTP","small_airport","Seosan Air Base",36.703999,126.486,39,"AS","KR","KR-44","Seosan","no","RKTP","HMY","RKTP","RK6U",,"https://en.wikipedia.org/wiki/Seosan_Air_Base",
-323239,"RKTS","small_airport","Sangju Airfield",36.407451,128.177158,492,"AS","KR","KR-47","Sangju","no",,,"RKTS",,,,
+323239,"RKTS","small_airport","Sangju Airfield",36.407451,128.177158,492,"AS","KR","KR-47","Sangju","no",,,,,,,
 5663,"RKTU","large_airport","Cheongju International Airport/Cheongju Air Base (K-59/G-513)",36.71556,127.500289,191,"AS","KR","KR-43","Cheongju","yes","RKTU","CJJ","RKTU",,"http://cheongju.airport.co.kr/doc/cheongju_eng/","https://en.wikipedia.org/wiki/Cheongju_Airport",
-323563,"RKTW","heliport","Woong Cheon Heliport",36.219321,126.54962,,"AS","KR","KR-44","Sohwang","no",,,"RKTW",,,,"RKTW, Woong Cheon, Sohwang"
+323563,"RKTW","heliport","Woong Cheon Heliport",36.219321,126.54962,53,"AS","KR","KR-44","Sohwang","no","RKTW",,"RKTW",,,,"Woong Cheon, Sohwang, Ongcheon"
 5664,"RKTY","medium_airport","Yecheon Airbase",36.630373,128.34971,354,"AS","KR","KR-47","Yecheon-ri","no","RKTY","YEC","RKTY",,,"https://en.wikipedia.org/wiki/Yecheon_Air_Base; https://en.wikipedia.org/wiki/List_of_airports_in_South_Korea",
-5665,"RKUC","small_airport","Jochiwon (G-505) Airfield",36.571949,127.296067,82,"AS","KR","KR-44","Jochiwon","no",,,"RKUC",,,,
+5665,"RKUC","small_airport","Jochiwon (G-505) Airfield",36.571949,127.296067,82,"AS","KR","KR-44","Jochiwon","no","RKUC",,"RKUC",,,,
 5666,"RKUL","small_airport","G 536 Airport",36.267085,127.108881,104,"AS","KR","KR-44","Songdang-ri","no",,,"RKUL",,,,"RKUL, G 536, G-536, Songdang"
-323011,"RKUY","heliport","Yongchon Airport (G-801)",36.025333,128.81945,388,"AS","KR","KR-47","Yeongcheon","no",,,"RKUY",,,,"RKUY, Yongchon, Yeongcheon, G 801, G-801"
+323011,"RKUY","heliport","Yongchon Airport (G-801)",36.025333,128.81945,388,"AS","KR","KR-47","Yeongcheon","no","RKUY",,"RKUY",,,,"Yongchon, Yeongcheon"
 314489,"RKY","small_airport","Rokeby Airport",-13.6434,142.641,362,"OC","AU","AU-QLD","Rokeby","no",,"RKY",,,,,
 314508,"RLP","small_airport","Rosella Plains Airport",-18.4253,144.4587,1855,"OC","AU","AU-QLD","Rosella Plains","no",,"RLP",,,,,
 24363,"RMP","small_airport","Rampart Airport",65.507896,-150.141007,302,"NA","US","US-AK","Rampart","yes",,"RMP","PFMP","RMP",,"https://en.wikipedia.org/wiki/Rampart_Airport",
@@ -60268,6 +60271,7 @@
 609717,"SJ12","small_airport","Fazenda São José da Terra Roxa Airport",-20.330833,-51.382778,1231,"SA","BR","BR-MS","Selvíria","no",,,"SJ12","MS0791",,,
 609722,"SJ14","small_airport","Fazenda Sucupira Airport",-12.461196,-49.388322,881,"SA","BR","BR-TO","Figueirópolis","no",,,"SJ14","TO0164",,,
 609724,"SJ15","small_airport","Lizete & Odair Airport",-16.665515,-47.389187,3058,"SA","BR","BR-GO","Cristalina","no",,,"SJ15","GO0415",,,
+609732,"SJ1K","heliport","Ilha do Caju Heliport",-2.748636,-42.042203,12,"SA","BR","BR-MA","Araioses","no",,,"SJ1K","MA0212",,,
 609227,"SJ1O","small_airport","Fazenda São José Airport",-13.152742,-57.976106,1591,"SA","BR","BR-MT","Brasnorte","no",,,"SJ1O","MT1149",,,
 609224,"SJ1R","small_airport","Fazendas Reunidas Baumgart Airstrip",-16.870278,-50.95977,2737,"SA","BR","BR-GO","Paraúna","no",,,"SJ1R","GO0101",,,
 609222,"SJ1V","small_airport","Aeroparque Bela Vista",-16.88132,-49.012292,2600,"SA","BR","BR-GO","Bela Vista de Goiás","no",,,"SJ1V","GO0225",,,
@@ -62540,6 +62544,7 @@
 339794,"SNIW","small_airport","Fazenda Carmelo Airport",-21.479299,-55.330596,1637,"SA","BR","BR-MS","Maracaju","no",,,"SNIW","MS0211",,,
 45594,"SNIX","small_airport","Fazenda Masutti Airport",-13.553333,-59.100278,1617,"SA","BR","BR-MT","Campos De Júlio","no",,,"SNIX",,,,
 45618,"SNIZ","small_airport","Fazenda Jaqueline Airport",-12.8825,-60.119444,1772,"SA","BR","BR-RO","Vilhena","no",,,"SNIZ",,,,
+609749,"SNJ1","small_airport","Fazenda Jaraguá Airport",-13.401341,-53.065072,1188,"SA","BR","BR-MT","Gaúcha do Norte","no",,,"SNJ1","MT1174",,,
 552715,"SNJ2","small_airport","Fazenda Serra da Prata Airport",2.260722,-61.064676,312,"SA","BR","BR-RR","Iracema","no",,,"SNJ2","RR0158",,,
 604802,"SNJ3","small_airport","Fazenda Confinamento Airport",-11.909943,-62.802968,545,"SA","BR","BR-RO","São Miguel do Guaporé","no",,,"SNJ3","RO0099",,,
 604809,"SNJ4","small_airport","Flora Airport",-13.018333,-55.885833,1345,"SA","BR","BR-MT","Sorriso","no",,,"SNJ4","MT1080",,,
