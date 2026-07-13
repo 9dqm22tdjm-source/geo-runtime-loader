@@ -16398,6 +16398,7 @@
 608706,"BR-3296","heliport","Primavera Heliport",-16.542358,-49.407414,781,"SA","BR","BR-GO","Goianira","no",,,"SSTG","GO0172",,,
 608714,"BR-3297","heliport","Fazenda Santa Matilde Heliport",-22.267964,-43.002454,3120,"SA","BR","BR-RJ","Petrópolis","no",,,"SSTI","RJ0150",,,"São José do Vale do Rio Preto"
 609767,"BR-3298","small_airport","Fazenda Café da Roça Airport",-10.349333,-49.856714,585,"SA","BR","BR-TO","Pium","no",,,"SN12","TO0177",,,
+609777,"BR-3299","small_airport","Fazenda Jaburú Airport",-13.803651,-48.894319,1506,"SA","BR","BR-GO","Formoso","no",,,,,,,"SJFJ"
 30637,"BR-ALT","small_airport","Alenquer Municipal Airport",-1.917,-54.7231,55,"SA","BR","BR-PA","Alenquer","no",,"ALT","SDWQ","PA0027",,"https://en.wikipedia.org/wiki/Alenquer_Airport",
 46168,"BS-0001","closed","Fowl Cay Airstrip",24.2707432941,-76.5409862995,,"NA","BS","BS-EX","Fowl Cay","no",,,,,,,
 46379,"BS-0002","closed","Port Nelson Airstrip",23.651411,-74.845051,,"NA","BS","BS-RC","Port Nelson","no",,,,,,,
@@ -24327,7 +24328,7 @@
 320814,"EH58","heliport","Brunssum Joint Force Command Heliport",50.9437,6.0052,356,"EU","NL","NL-LI","Brunssum","no",,,,,,,
 340490,"EHAD","heliport","Ameland Heliport",53.450925,5.682351,11,"EU","NL","NL-FR","Ballum","no",,,"EHAD",,"https://www.ehal.nl/","https://nl.wikipedia.org/wiki/Ameland_Airport_Ballum",
 515264,"EHAK","heliport","A12-CPP Platform Helipad",55.399167,3.810278,,"EU","NL","NL-XX","North Sea","no",,,"EHAK",,,,
-28120,"EHAL","small_airport","Ameland Airport Ballum",53.453612,5.678396,11,"EU","NL","NL-FR","Ballum","no","EHAL",,,,"http://www.ehal.nl/","https://en.wikipedia.org/wiki/Ameland_Airport","Aachen"
+28120,"EHAL","small_airport","Ameland Airport Ballum",53.453612,5.678396,11,"EU","NL","NL-FR","Ballum","no","EHAL",,,,"http://www.ehal.nl/","https://en.wikipedia.org/wiki/Ameland_Airport",
 2513,"EHAM","large_airport","Amsterdam Airport Schiphol",52.308601,4.76389,-11,"EU","NL","NL-NH","Amsterdam","yes","EHAM","AMS","EHAM",,"https://www.schiphol.nl/","https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol",
 526404,"EHAX","heliport","A18-A",55.105,3.83167,,"EU","NL","NL-XX",,"no",,,"EHAX",,,,
 2514,"EHBD","medium_airport","Kempen Airport Budel",51.255299,5.60139,114,"EU","NL","NL-NB","Weert","no","EHBD",,,,"http://www.kempenairport.nl/","https://en.wikipedia.org/wiki/Kempen_Airport","Kempen Airport, Budel Aerodrome"
@@ -24771,7 +24772,7 @@
 17179,"EOD","heliport","Sabre Army Heliport (Fort Campbell)",36.568199,-87.480797,593,"NA","US","US-TN","Clarksville (Fort Campbell)","no",,,"KEOD","EOD",,"https://en.wikipedia.org/wiki/Sabre_Army_Heliport","Fort Campbell, Sabre Army Airfield"
 31010,"EPAR","small_airport","Arłamów Airfield",49.657501,22.514298,1455,"EU","PL","PL-PK","Wola Korzeniecka","no","EPAR",,"EPAR",,,"https://en.wikipedia.org/wiki/Ar%C5%82am%C3%B3w_Airfield","Krajna, Wola Korzeniecka"
 29702,"EPBA","small_airport","Bielsko-Biała Aleksandrowice Airfield",49.805,19.0019,1319,"EU","PL","PL-SL","Bielsko-Biała","no","EPBA",,"EPBA",,,"https://pl.wikipedia.org/wiki/Lotnisko_Bielsko-Bia%C5%82a_Aleksandrowice",
-323850,"EPBB","small_airport","Babięta",53.667905,21.255426,,"EU","PL","PL-WN","Babięta","no","EPBB",,"EPBB",,,"https://pl.wikipedia.org/wiki/L%C4%85dowisko_Babi%C4%99ta",
+323850,"EPBB","small_airport","Babięta",53.667905,21.255426,512,"EU","PL","PL-WN","Babięta","no","EPBB",,"EPBB",,"https://www.mazuryairfields.pl/airfield/babieta","https://pl.wikipedia.org/wiki/L%C4%85dowisko_Babi%C4%99ta",
 2603,"EPBC","small_airport","Warsaw Babice Airport",52.269199,20.907203,352,"EU","PL","PL-MZ","Warsaw","no","EPBC",,"EPBC",,,"https://en.wikipedia.org/wiki/Warsaw_Babice_Airport","Babice Airfield, Bemovo, Warszawa"
 600199,"EPBG","heliport","Gołubie Heliport",54.1975,18.0025,558,"EU","PL","PL-U-A","Gołubie","no","EPBG",,"EPBG",,,,
 529370,"EPBH","heliport","Bydgoszcz Baza Lpr Heliport",53.210278,18.101667,313,"EU","PL","PL-KP",,"no",,,"EPBH",,,,
@@ -25409,7 +25410,7 @@
 2713,"ESUD","medium_airport","Storuman Airport",64.960899,17.6966,915,"EU","SE","SE-AC","Storuman","no","ESUD","SQO","ESUD",,,"https://en.wikipedia.org/wiki/Storuman_Airport",
 29375,"ESUE","small_airport","Idre Airport",61.869701,12.6894,1480,"EU","SE","SE-W","Idre","no","ESUE","IDB","ESUE",,"https://www.idrefjallensairport.se/",,
 29377,"ESUG","small_airport","Gargnäs Airfield",65.304033,17.975175,974,"EU","SE","SE-AC","Gargnäs","no","ESUG",,"ESUG",,,,
-29378,"ESUH","small_airport","Myran Airfield",62.632734,17.982576,258,"EU","SE","SE-Y","Härnösand","no","ESUH",,"ESUH",,,,
+29378,"ESUH","small_airport","Myran Airfield",62.632734,17.982576,271,"EU","SE","SE-Y","Härnösand","no","ESUH",,"ESUH",,"https://www.harnosandsflygklubb.com",,
 30129,"ESUI","small_airport","Mellansel Airfield",63.391806,18.319471,310,"EU","SE","SE-Y","Mellansel","no","ESUI",,"ESUI",,"https://www.mellanselsfk.se",,
 29379,"ESUJ","small_airport","Tälje Airfield",62.5653,15.8347,446,"EU","SE","SE-Y","Ånge","no","ESUJ",,"ESUJ",,"http://www.angeflygklubb.se",,
 2714,"ESUK","small_airport","Kalixfors Airfield",67.764801,20.2572,1549,"EU","SE","SE-BD","Kiruna","no","ESUK",,"ESUK",,,"https://sv.wikipedia.org/wiki/Kalixfors_flygbas",
@@ -53965,7 +53966,7 @@
 323637,"PL-0108","small_airport","Herburtowo Forest Airfield",52.902234,16.129615,,"EU","PL","PL-WP","Marianowo","no",,,,,,,"Herburtowo"
 323645,"PL-0109","small_airport","Konopki Airfield",52.989607,20.506689,413,"EU","PL","PL-MZ","Konopki","no",,,,,,,
 323651,"PL-0110","small_airport","Pacółtowo Airfield",53.5327,20.1531,645,"EU","PL","PL-WN","Pacółtowo","no",,,,,"http://www.palacpacoltowo.com",,
-323658,"PL-0111","small_airport","Lotnisko Mrągowo",53.825276,21.318983,,"EU","PL","PL-WN","Mrągowo","no",,,"EPMG",,,,
+323658,"PL-0111","small_airport","Lotnisko Mrągowo",53.825276,21.318983,472,"EU","PL","PL-WN","Mrągowo","no","EPMG",,"EPMG",,"https://www.mazuryairfields.pl/airfield/mragowo",,
 323668,"PL-0112","small_airport","Pawłowiczki Airfield",50.244634,18.023596,,"EU","PL","PL-OP","Pawłowiczki","no",,,,,,,"Lądowisko Pawłowiczki"
 323688,"PL-0113","closed","Solec Kujawski",53.071092,18.195064,,"EU","PL","PL-KP","Solec Kujawski","no",,,,,,,
 323689,"PL-0114","small_airport","Horodek Airfield",49.351199,22.481757,1621,"EU","PL","PL-PK","Solina","no",,,,,,,
@@ -60781,6 +60782,7 @@
 511107,"SJM2","small_airport","Fazenda Fortaleza do Inajá",-8.528517,-50.584075,807,"SA","BR","BR-PA","Santa Maria das Barreiras","no",,,"SJM2","PA0364",,,
 511109,"SJM3","small_airport","Fazenda Campo Novo Airstrip",-19.271784,-52.553212,1808,"SA","BR","BR-MS","Chapadão do Sul","no",,,"SJM3","MS0713",,,
 511111,"SJM4","small_airport","Fazenda Duas Irmãs Airport",-14.600844,-59.571009,850,"SA","BR","BR-MT","Conquista d'Oeste","no",,,"SJM4","MT0869",,,
+609774,"SJM5","small_airport","Fazenda São Manoel Airport",-16.369979,-46.464707,3071,"SA","BR","BR-MG","Bonfinópolis de Minas","no",,,"SJM5","MG0679",,,
 515111,"SJM6","small_airport","Fazenda Tuiuiu Airport",-13.805381,-55.494831,1676,"SA","BR","BR-MT","Santa Rita do Trivelato","no",,,"SJM6","MT0933",,,
 519180,"SJM7","small_airport","Fazenda São Francisco Airstrip",-9.855278,-55.605556,902,"SA","BR","BR-MT","Novo Mundo","no",,,"SJM7","MT0937",,,
 512591,"SJM8","small_airport","Fazenda WS Airstrip",-10.328198,-56.076828,925,"SA","BR","BR-MT","Alta Floresta","no",,,"SJM8","MT0935",,,
@@ -62866,7 +62868,7 @@
 601061,"SNW7","small_airport","Fazenda São Paulo Airport",-11.993664,-55.737042,1219,"SA","BR","BR-MT","Sorriso","no",,,"SNW7","MT1120",,,
 601060,"SNW8","small_airport","Fazenda Santo Antônio Airport",-27.757578,-53.8124,1651,"SA","BR","BR-RS","Campo Novo","no",,,"SNW8","RS0205",,,
 601058,"SNW9","small_airport","Fazenda Retiro Airport",-8.840036,-43.961476,1109,"SA","BR","BR-PI","Cristino Castro","no",,,"SNW9","PI0120",,,
-30833,"SNWC","small_airport","Camocim - Pinto Martins Airport",-2.895596,-40.859299,16,"SA","BR","BR-CE","Camocim","no","SNWC","CMC","SNWC",,,"https://pt.wikipedia.org/wiki/Aeroporto_de_Camocim",
+30833,"SNWC","small_airport","Camocim - Pinto Martins Airport",-2.895596,-40.859299,46,"SA","BR","BR-CE","Camocim","no","SNWC","CMC","SNWC","CE0011",,"https://pt.wikipedia.org/wiki/Aeroporto_de_Camocim",
 37311,"SNWD","small_airport","Fazenda Guavirá Airport",-23.430278778076172,-54.608333587646484,1335,"SA","BR","BR-MS","Iguatemi","no",,,"SNWD",,,,
 37313,"SNWF","small_airport","Fazenda Cachoeirinha Airport",-22.43805694580078,-55.231666564941406,1476,"SA","BR","BR-MS","Ponta Porã","no",,,"SNWF",,,,
 37314,"SNWG","small_airport","Fazenda Iporã Airport",-23.582209,-54.048893,591,"SA","BR","BR-MS","Itaquiraí","no",,,"SNWG","MS0234",,,"SNWS"
