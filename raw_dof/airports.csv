@@ -11718,7 +11718,7 @@
 506926,"AU-0536","heliport","Muskoka Helicopter Landing Site",-33.448833,151.073167,26,"OC","AU","AU-NSW","Gunderman","no",,,,"OZHDC",,,
 506931,"AU-0537","heliport","McLean Oval Helicopter Landing Site",-34.556037,148.368001,1385,"OC","AU","AU-NSW","Harden","no",,,,"OZHJK",,,
 507115,"AU-0538","small_airport","Tinbeerwah Airstrip (private)",-26.411335,152.962976,,"OC","AU","AU-QLD","Cooroy","no",,,,"QN00",,,
-507237,"AU-0539","closed","Western Sydney International Airport (Under Construction)",-33.883461,150.712981,262,"OC","AU","AU-WA","Sydney","no",,,,,"https://www.wsiairport.com.au/","https://en.wikipedia.org/wiki/Western_Sydney_International_Airport","YSWS, WSI, Nancy Bird Walton"
+507237,"AU-0539","large_airport","Western Sydney International (Nancy-Bird Walton) Airport",-33.883461,150.712981,262,"OC","AU","AU-WA","Sydney","no","YSWS","WSI","YSWS",,"https://www.wsiairport.com.au/","https://en.wikipedia.org/wiki/Western_Sydney_International_Airport","Badgerys Creek"
 507244,"AU-0540","closed","RAAF Station Schofields",-33.713611,150.871111,49,"OC","AU","AU-NSW","Sydney","no",,,,,,"https://en.wikipedia.org/wiki/RAAF_Station_Schofields",
 507245,"AU-0541","closed","Fleurs Aerodrome",-33.863056,150.774167,138,"OC","AU","AU-NSW","Kemps Creek","no",,,,,,"https://en.wikipedia.org/wiki/Fleurs_Aerodrome",
 507246,"AU-0542","closed","Castlereagh Aerodrome",-33.676944,150.6875,151,"OC","AU","AU-NSW","Sydney","no",,,,,,"https://en.wikipedia.org/wiki/Castlereagh_Aerodrome",
@@ -11977,7 +11977,6 @@
 604006,"AU-0796","medium_airport","Nackeroo Airfield",-15.578026,130.475993,,"OC","AU","AU-NT",,"no","YNKR",,,,,"https://en.wikipedia.org/wiki/Nackeroo_Airfield",
 604432,"AU-0797","closed","Denham Airport",-25.884053,113.564408,,"OC","AU","AU-WA",,"no",,,,,,"https://en.wikipedia.org/wiki/Denham_Airport",
 604717,"AU-0798","small_airport","Mundowdna Airstrip",-29.71279,138.227757,,"OC","AU","AU-SA","Mundowdna","no",,,,,,,
-606676,"AU-0799","large_airport","[Duplicate] Western Sydney International Airport",-33.888056,150.714722,262,"OC","AU","AU-QLD","Sydney","yes",,,,,,"https://en.wikipedia.org/wiki/Western_Sydney_International_Airport",
 606679,"AU-0800","closed","RAAF Tuggerah",-33.309335,151.433271,39,"OC","AU","AU-NSW","Tuggerah","no",,,,,"https://sydneypast.blogspot.com/2010/06/thatwwii-landing-strip-at-tuggerah-link.html","https://en.wikipedia.org/wiki/Tuggerah_Aerodrome",
 608584,"AU-0801","small_airport","Hordern Vale Airstrip",-38.783163,143.48141,,"OC","AU","AU-VIC","Hordern Vale","no",,,,,,,
 608585,"AU-0802","small_airport","Anglesea Airfield",-38.37228,144.210649,,"OC","AU","AU-VIC","Anglesea","no",,,,,,,
@@ -17895,12 +17894,13 @@
 609576,"CA-1263","small_airport","Oakwood Field",44.336373,-78.911855,920,"NA","CA","CA-ON","Oakwood","no",,,"COK3","COK3",,,
 609588,"CA-1264","small_airport","Gotz Farm Field",45.100305,-79.432955,,"NA","CA","CA-ON","Bracebridge","no",,,,"CBG3",,,
 609590,"CA-1265","small_airport","Jackson's Point Private Field",44.276332,-79.375062,,"NA","CA","CA-ON","Baldwin","no",,,,,,,
-609617,"CA-1266","small_airport","Baldwin South Field",44.255929,-79.382529,,"NA","CA","CA-ON","Baldwin","no",,,,,,,
+609617,"CA-1266","small_airport","Sutton West Field",44.255929,-79.382529,,"NA","CA","CA-ON","Baldwin","no",,,,,,,
 609637,"CA-1267","closed","Granby Airport",45.413572,-72.687349,,"NA","CA","CA-QC","Granby","no",,,,,,,
 609640,"CA-1268","closed","Granby Ouest Airfield",45.418304,-72.819657,,"NA","CA","CA-QC","Granby","no",,,,,,,
 609643,"CA-1269","closed","Granby Airfield",45.346475,-72.83309,,"NA","CA","CA-QC","Granby","no",,,,,,,
 609671,"CA-1270","seaplane_base","Chute-Saint-Philippe Water Aerodrome",46.6505,-75.2372,807,"NA","CA","CA-QC","Chute-Saint-Philippe","no",,,,"SS6",,,"Kiamika River"
 609694,"CA-1271","small_airport","Baie St Paul Field",47.432297,-70.494204,,"NA","CA","CA-U-A","Baie St Paul","no",,,,,,,
+609788,"CA-1272","small_airport","Ted Smith Farm",51.383057,-114.199412,,"NA","CA","CA-AB","Crossfield","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -21125,7 +21125,7 @@
 1754,"CYGZ","small_airport","Grise Fiord Airport",76.425823,-82.908583,146,"NA","CA","CA-NU","Grise Fiord","yes","CYGZ","YGZ","CYGZ",,,"https://en.wikipedia.org/wiki/Grise_Fiord_Airport",
 1755,"CYHA","small_airport","Quaqtaq Airport",61.046398,-69.617798,103,"NA","CA","CA-QC","Quaqtaq","yes","CYHA","YQC","CYHA",,,"https://en.wikipedia.org/wiki/Quaqtaq_Airport","YHA"
 1756,"CYHB","small_airport","Hudson Bay Airport",52.8166999817,-102.310997009,1175,"NA","CA","CA-SK","Hudson Bay","no","CYHB","YHB","CYHB",,,"https://en.wikipedia.org/wiki/Hudson_Bay_Airport","YHB"
-28453,"CYHC","seaplane_base","Vancouver Harbour Water Aerodrome",49.291265,-123.11717,,"NA","CA","CA-BC","Vancouver","yes","CYHC","CXH","CYHC",,,"https://en.wikipedia.org/wiki/Vancouver_Harbour_Water_Aerodrome","Vancouver Coal Harbour Seaplane Base"
+28453,"CYHC","seaplane_base","Vancouver Harbour Water Aerodrome",49.290739,-123.118541,,"NA","CA","CA-BC","Vancouver","yes","CYHC","CXH","CYHC",,"https://harbourair.com/locations/vancouver-harbour/","https://en.wikipedia.org/wiki/Vancouver_Harbour_Water_Aerodrome","YHC, Vancouver Coal Harbour Seaplane Base"
 1757,"CYHD","medium_airport","Dryden Regional Airport",49.831699,-92.744202,1354,"NA","CA","CA-ON","Dryden","no","CYHD","YHD","CYHD",,,"https://en.wikipedia.org/wiki/Dryden_Regional_Airport",
 1758,"CYHE","small_airport","Hope Airport / FVRD Regional Airpark",49.368865,-121.49495,128,"NA","CA","CA-BC","Hope","no","CYHE","YHE","CYHE",,,"https://en.wikipedia.org/wiki/Hope_Aerodrome","YHE"
 1759,"CYHF","medium_airport","Hearst René Fontaine Municipal Airport",49.71419906616211,-83.68609619140625,827,"NA","CA","CA-ON","Hearst","no","CYHF","YHF","CYHF",,,"https://en.wikipedia.org/wiki/Hearst_(Ren%C3%A9_Fontaine)_Municipal_Airport",
@@ -24985,7 +24985,7 @@
 320735,"ES-0095","small_airport","Aeródromo de Tudela",42.109262,-1.686976,778,"EU","ES","ES-NC",,"no",,,,,,,"Aguasalada,Agua Salada"
 320751,"ES-0096","small_airport","Guadix",37.412624,-3.075759,3281,"EU","ES","ES-AN",,"no",,,,,,,"Conejo"
 320752,"ES-0097","small_airport","Campillos Airfield",39.941179,-1.53596,3937,"EU","ES","ES-CM","Campillos-Paravientos","no",,,,,,,
-320753,"ES-0098","small_airport","Camp de Vol Prat de la Plana-Moià",41.800541,2.112188,2264,"EU","ES","ES-CT","Moià","no",,,,,"http://campdevolmoia.com",,"Ultrallaugers, Moià, Camp de Vol"
+320753,"ES-0098","small_airport","Prat de la Plana Airfield",41.80016,2.112064,2264,"EU","ES","ES-CT","Moià","no",,,,,"http://campdevolmoia.com",,"Ultrallaugers, Moia, Camp de Vol"
 320754,"ES-0099","small_airport","Moià Les Umbertes",41.7868167,2.129783,2231,"EU","ES","ES-CT","Moià","no",,,,,"http://www.volxerpa.com/",,
 320761,"ES-0100","small_airport","Aeródromo de Algodor",39.898329,-3.874655,1608,"EU","ES","ES-CM","Algodor (Toledo)","no",,,"LETG",,,,"Casarrubias"
 320762,"ES-0101","small_airport","Aeródromo de la Guardia",39.770897,-3.604716,2097,"EU","ES","ES-CM","La Guardia","no",,,,,,,
@@ -26566,7 +26566,7 @@
 30813,"FNCT","medium_airport","Catumbela Airport",-12.4792,13.4869,23,"AF","AO","AO-BGU","Catumbela","yes","FNCT","CBT","FNCT",,,"https://en.wikipedia.org/wiki/Catumbela_Airport",
 598660,"FNCU","small_airport","Calulo Airport",-9.976268,14.917932,2988,"AF","AO","AO-CUS","Calulo","no","FNCU",,"FNCU",,,,
 30857,"FNCV","small_airport","Cuito Cuanavale Airport",-15.1603,19.156099,,"AF","AO","AO-CCU","Cuito Cuanavale","no","FNCV","CTI","FNCV",,,"https://en.wikipedia.org/wiki/Cuito_Cuanavale_Airport",
-30864,"FNCX","small_airport","Camaxilo Airport",-8.37361,18.923599,3957,"AF","AO","AO-LNO","Camaxilo","no","FNCX","CXM","FNCX",,,"https://en.wikipedia.org/wiki/Camaxilo_Airport",
+30864,"FNCX","small_airport","Camaxilo Airport",-8.373148,18.923625,3957,"AF","AO","AO-LNO","Camaxilo","no","FNCX",,"FNCX",,,"https://en.wikipedia.org/wiki/Camaxilo_Airport","CXM"
 30811,"FNCZ","small_airport","Cazombo Airport",-11.8931,22.916239,3700,"AF","AO","AO-MOX","Cazombo","no","FNCZ","CAV","FNCZ",,,"https://en.wikipedia.org/wiki/Cazombo_Airport",
 336106,"FND","small_airport","Funadhoo Airport",6.162443,73.28752,,"AS","MV","MV-24","Funadhoo","yes",,"FND",,"FND",,"https://en.wikipedia.org/wiki/Funadhoo_Airport",
 31192,"FNDB","small_airport","Damba Airport",-6.9,15.133,3648,"AF","AO","AO-UIG","Damba","no","FNDB",,"FNDB",,,"https://en.wikipedia.org/wiki/Damba_Airport",
@@ -28007,6 +28007,7 @@
 609544,"FR-1345","heliport","Armbouts-Cappen",50.974347,2.350437,,"EU","FR","FR-HDF","Armbouts-Cappel","no",,,,,,,
 609573,"FR-1346","heliport","HéliSMUR 03 Heliport",46.31801,3.31765,,"EU","FR","FR-ARA","Saint-Pourçain-sur-Sioule","no",,,,,,,
 609665,"FR-1347","heliport","Château Hendecourt-les-cagnicourt",50.211846,2.953074,,"EU","FR","FR-HDF","Hendecourt les Cagnicourt","no",,,,,,,
+609792,"FR-1348","heliport","LINZEUX DZ",50.342835,2.197005,,"EU","FR","FR-HDF","Linzeux","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -39058,7 +39059,7 @@
 3474,"KCXL","small_airport","Calexico International Airport",32.6694984436,-115.513000488,4,"NA","US","US-CA","Calexico","no","KCXL","CXL","KCXL","CXL","http://calexico.ca.gov/index.php?option=com_content&task=blogcategory&id=77&Itemid=90","https://en.wikipedia.org/wiki/Calexico_International_Airport",
 3475,"KCXO","medium_airport","Conroe-North Houston Regional Airport",30.351801,-95.414497,245,"NA","US","US-TX","Houston","no","KCXO","CXO","KCXO","CXO","https://web.archive.org/web/20160301220928/http://www.lonestarairport.org:80/","https://en.wikipedia.org/wiki/Lone_Star_Executive_Airport","Montgomery County Airport, Lone Star Executive Airport"
 19577,"KCXP","medium_airport","Carson Airport",39.194331,-119.734312,4697,"NA","US","US-NV","Carson City","no","KCXP","CSN","KCXP","CXP","http://flycarsoncity.com/","https://en.wikipedia.org/wiki/Carson_Airport","O04, Carson City Airport"
-19578,"KCXU","small_airport","Camilla Mitchell County Airport",31.21315,-84.235396,175,"NA","US","US-GA","Camilla","no",,,"KCXU","CXU",,,
+19578,"KCXU","small_airport","Camilla Mitchell County Airport",31.21315,-84.235396,175,"NA","US","US-GA","Camilla","no",,,"KCXU","CXU","https://www.camillaga.net/departments/airport/index.php",,
 318199,"KCXW","small_airport","Conway Regional Airport",35.019889,-92.555111,276,"NA","US","US-AR","Conway","no",,,"KCXW","CXW","https://conwayarkansas.gov/airport/","https://en.wikipedia.org/wiki/Conway_Municipal_Airport","Cantrell Field"
 19579,"KCXY","small_airport","Capital City Airport",40.2170982361,-76.85150146480001,347,"NA","US","US-PA","Harrisburg","no","KCXY","HAR","KCXY","CXY","http://www.flycxy.com/","https://en.wikipedia.org/wiki/Capital_City_Airport_(Pennsylvania)","Harrisburg Skyport, Harrisburg-Capital Landing Field, Harrisburg-York State Airport"
 19580,"KCYO","small_airport","Pickaway County Memorial Airport",39.515999,-82.982101,684,"NA","US","US-OH","Circleville","no",,,"KCYO","CYO",,"https://en.wikipedia.org/wiki/Pickaway_County_Memorial_Airport",
@@ -45998,7 +45999,7 @@
 43106,"MM69","small_airport","Tasícuri-Magdalena de Kino / Rodolfo Soto Bartell Airport",30.674254,-110.932171,2542,"NA","MX","MX-SON","Magdalena de Kino","no",,,"MM69","TSI",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_Rodolfo_Soto_Bartell",
 4913,"MM72","small_airport","Aeródromo de Cupul",21.155716,-88.172918,56,"NA","MX","MX-YUC","Tizimin","no",,"TZM","MM72","MM72",,"https://en.wikipedia.org/wiki/Cupul_National_Airport","MXA3"
 4914,"MM73","small_airport","Huetamo Airport",18.52739906311,-100.8509979248,984,"NA","MX","MX-MIC","Huetamo","no",,,"MM73","HTM",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_Huetamo","MM2M"
-319375,"MM74","small_airport","Aeródromo de Chichen Itzá",20.68973,-88.566817,100,"NA","MX","MX-YUC","Tinum","no",,,"MM74",,,,"Pisté"
+319375,"MM74","closed","Old Chichen Itzá Airport",20.68973,-88.566817,100,"NA","MX","MX-YUC","Tinum","no",,,,,,,"MM74, Pisté, Kaua Intl"
 4915,"MM75","small_airport","Agua Prieta Southwest Airport",31.242901,-109.625,4000,"NA","MX","MX-SON","Agua Prieta","no",,,"MM75","MM75",,,
 4918,"MM79","small_airport","El Fuerte Airport",26.398199,-108.612,246,"NA","MX","MX-SIN","El Fuerte","no",,,"MM79","FTE",,"https://en.wikipedia.org/wiki/El_Fuerte_Airport",
 4919,"MM80","small_airport","Rancho La Milpita Airport",30.4809,-109.643997,4707,"NA","MX","MX-SON","Nacozari de García","no",,,"MM80","LCI",,"https://es.wikipedia.org/wiki/Aer%C3%B3dromo_de_La_Caridad","Aeródromo La Caridad"
@@ -64799,7 +64800,6 @@
 38174,"SWYW","small_airport","Fazenda Adriana Airport",-16.834061,-53.83648,2451,"SA","BR","BR-MT","Alto Garças","no",,,"SWYW","MT0440",,,
 38175,"SWYY","small_airport","Fazenda Nova Viena Airport",-14.88443,-52.278779,974,"SA","BR","BR-MT","Nova Xavantina","no",,,"SWYY","MT0442",,,
 38176,"SWYZ","heliport","Residência Oficial Heliport",-20.327198,-40.269191,59,"SA","BR","BR-ES","Vila Velha","no",,,"SJIE","ES0020",,,"SWYZ"
-342109,"SWZ","heliport","[Duplicate] Western Sydney International (Nancy Bird Walton) Airport",-33.879444,150.739722,228,"OC","AU","AU-NSW","Sydney (Badgerys Creek)","no",,,,,,"https://en.wikipedia.org/wiki/Western_Sydney_Airport",
 38177,"SWZA","small_airport","Agrosan Airport",-11.397556,-58.121521,1040,"SA","BR","BR-MT","Juara","no",,,"SWZA","MT0443",,,
 38178,"SWZB","small_airport","Fazenda Arara Azul Airport",-17.005472,-56.459641,384,"SA","BR","BR-MT","Barão de Melgaço","no",,,"SJHZ","MT0181",,,"SWZB"
 38179,"SWZC","small_airport","Fazenda Corixo Airport",-16.245331,-58.894444,492,"SA","BR","BR-MT","Porto Esperidião","no",,,"SWZC","MT0444",,,
@@ -84460,7 +84460,6 @@
 354336,"YSWI","small_airport","Swan Island Airport",-40.72956,148.116549,26,"OC","AU","AU-TAS","Swan Island","no",,,"YSWI",,,,
 309722,"YSWK","small_airport","South West Rocks Airport",-30.9246,153.0276,7,"OC","AU","AU-NSW","South West Rocks","no",,,"YSWK","YSWK",,,"SWRK"
 27150,"YSWL","medium_airport","Stawell Airport",-37.07170104980469,142.74099731445312,807,"OC","AU","AU-VIC",,"no","YSWL","SWC","YSWL",,,"https://en.wikipedia.org/wiki/Stawell_Airport",
-607457,"YSWS","large_airport","Nancy Bird Walton, Western Sydney International Airport",-33.88806,150.71472,260,"OC","AU","AU-NSW","Sydney","yes","YSWS","WSI","YSWS",,"https://www.wsiairport.com.au","https://en.wikipedia.org/wiki/Western_Sydney_International_Airport",
 38592,"YSYN","small_airport","Strathalbyn Airport",-35.317766,139.000023,,"OC","AU","AU-SA","Strathalbyn","no",,,"YSYN",,,,
 27973,"YTAA","small_airport","Tara Airport",-27.163054,150.476423,360,"OC","AU","AU-QLD",,"no","YTAA","XTR","YTAA",,,,
 38593,"YTAB","small_airport","Tableland Homestead Airport",-17.2833003998,126.900001526,,"OC","AU","AU-WA",,"no","YTAB","TBL","YTAB",,,,
