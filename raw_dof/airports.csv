@@ -17693,7 +17693,7 @@
 1228,"CA-1061","closed","Outlook Airport",51.482498,-107.037003,1771,"NA","CA","CA-SK","Outlook","no",,,,,,"https://en.wikipedia.org/wiki/Outlook_Airport","CKR9, JH9"
 1234,"CA-1062","closed","Thompson (Canadian Helicopters) Heliport",55.766700744629,-97.816703796387,630,"NA","CA","CA-MB","Thompson","no",,,,,,,"KT2, CKT2, CKT2"
 1250,"CA-1063","closed","Wilkie Airport",52.403099,-108.720001,2149,"NA","CA","CA-SK","Wilkie","no",,,,,,"https://en.wikipedia.org/wiki/Wilkie_Airport","KW7, CKW7"
-1251,"CA-1064","closed","Warren / Woodlands Airport",50.159401,-97.591104,817,"NA","CA","CA-MB","Warren","no",,,,,,"https://en.wikipedia.org/wiki/Warren/Woodlands_Airport","KX2, CKX2"
+1251,"CA-1064","closed","Warren / Woodlands Airport",50.157024,-97.608333,817,"NA","CA","CA-MB","Warren","no",,,,,,"https://en.wikipedia.org/wiki/Warren/Woodlands_Airport","KX2, CKX2"
 1252,"CA-1065","closed","Eagle River Airport",49.7556525536,-93.1401157379,1210,"NA","CA","CA-ON","Eagle River","no",,,,,,"https://en.wikipedia.org/wiki/Eagle_River_Airport","KX3, CKX3, CKX3"
 1257,"CA-1066","closed","Gainsborough Airport",49.1833000183,-101.432998657,1650,"NA","CA","CA-SK","Gainsborough","no",,,,,,"https://en.wikipedia.org/wiki/Gainsborough_Airport","KY6, CKY6, CKY6"
 1259,"CA-1067","closed","Willow Bunch Airport",49.400002,-105.667,2427,"NA","CA","CA-SK","Willow Bunch","no",,,,,,"https://en.wikipedia.org/wiki/Willow_Bunch_Airport","KZ2, CKZ2"
@@ -17901,6 +17901,7 @@
 609671,"CA-1270","seaplane_base","Chute-Saint-Philippe Water Aerodrome",46.6505,-75.2372,807,"NA","CA","CA-QC","Chute-Saint-Philippe","no",,,,"SS6",,,"Kiamika River"
 609694,"CA-1271","small_airport","Baie St Paul Field",47.432297,-70.494204,,"NA","CA","CA-U-A","Baie St Paul","no",,,,,,,
 609788,"CA-1272","small_airport","Ted Smith Farm",51.383057,-114.199412,,"NA","CA","CA-AB","Crossfield","no",,,,,,,
+609806,"CA-1273","small_airport","New Woodlands Airport",50.158947,-97.59128,820,"NA","CA","CA-MB","Warren","no",,,,,,,
 43086,"CA-CAB5","heliport","Abbotsford (Regional Hospital & Cancer Centre) Heliport",49.0361500085,-122.314048558,287,"NA","CA","CA-BC","Abbotsford","no",,,"CAB5","CAB5",,,
 16531,"CA00","heliport","Platform Hermosa Heliport",34.455299377441406,-120.64700317382812,152,"NA","US","US-CA","Lompoc","no",,,"CA00","CA00",,,
 16532,"CA01","heliport","Burney Sheriff's Station Heliport",40.885121,-121.669368,3127,"NA","US","US-CA","Burney","no",,,"CA01","CA01",,,
@@ -19662,7 +19663,7 @@
 350941,"CN-0246","small_airport","Chongzhou Haoyun General Airport",30.560102,103.730721,1645,"AS","CN","CN-51","Chengdu (Chongzhou)","no",,,,,,,
 350942,"CN-0247","small_airport","Chengdu Xinjin Airport",30.4214,103.8444,1512,"AS","CN","CN-51","Chengdu (Xinjin)","no",,,"ZUXJ",,,"https://en.wikipedia.org/wiki/Xinjin_Airport",
 350943,"CN-0248","small_airport","Pengshan Air Base",30.26485,103.8511,1447,"AS","CN","CN-51","Meishan (Pengshan)","no",,,,,,,
-350945,"CN-0249","closed","New Sichuan Leshan Airport (under construction)",29.438627,103.749218,,"AS","CN","CN-51","Leshan (Wutongqiao)","no",,,,,,,
+350945,"CN-0249","medium_airport","Leshan Airport",29.438627,103.749218,1189,"AS","CN","CN-51","Leshan (Wutongqiao)","yes",,"LSG",,,,,
 350946,"CN-0250","small_airport","Yancheng Jianhu General Airport",33.42127,119.72231,5,"AS","CN","CN-32","Yancheng","no",,,,,,,
 350947,"CN-0251","heliport","Binhai Eastern General Heliport",39.05072,117.73315,,"AS","CN","CN-12","Binhai","no",,,,,,,
 350948,"CN-0252","small_airport","Xueye Aeronautics Technology Sports Park",36.43788,117.56978,770,"AS","CN","CN-37","Laiwu","no",,,,,,,
@@ -53849,7 +53850,7 @@
 604557,"PK-0094","heliport","SUPARCO Heliport",24.917811,66.924606,85,"AS","PK","PK-SD","Karachi,","no",,,,,,"https://en.wikipedia.org/wiki/SUPARCO",
 605516,"PK-0095","heliport","Badok Checkpoint Heliport",25.396389,63.68479,46,"AS","PK","PK-BA","Pasni","no",,,,,,,
 41628,"PK-BHC","small_airport","Bhurban Heliport",33.96099853515625,73.4520034790039,5750,"AS","PK","PK-KP","Bhurban","no",,"BHC",,,,,
-41629,"PK-CWP","small_airport","Campbellpore Airport",33.766700744628906,72.36689758300781,1175,"AS","PK","PK-PB","Campbellpore","no",,"CWP",,,,,
+41629,"PK-CWP","closed","Campbellpore Airport",33.766701,72.366898,1175,"AS","PK","PK-PB","Campbellpore","no",,,,,,,"CWP"
 41630,"PK-GRT","small_airport","Gujrat Airport",32.62826,74.067287,760,"AS","PK","PK-PB","Gujrat","no",,"GRT",,,,,
 35198,"PK-KCF","small_airport","[Duplicate] Kadanwari Airport",27.1667,69.316704,248,"AS","PK","PK-SD","Kadanwari","no",,,,,,"https://en.wikipedia.org/wiki/Kadanwari_Airport",
 41632,"PK-REQ","small_airport","Reko Diq Airport",29.04692,62.196819,2784,"AS","PK","PK-BA","Chagai","no",,"REQ",,,,,
@@ -54146,6 +54147,7 @@
 608243,"PL-0287","small_airport","Osiek Airstrip",53.182736,19.390247,,"EU","PL","PL-KP",,"no",,,,,,,
 609488,"PL-0288","small_airport","Rypin Airfield",53.04709,19.42536,,"EU","PL","PL-U-A",,"no",,,,,,,
 609618,"PL-0289","small_airport","Krzywina Airfield",50.71386,17.16418,,"EU","PL","PL-DS",,"no",,,,,,,
+609798,"PL-0290","small_airport","Sieraków-Lutomek Airfield",52.60866,16.15035,,"EU","PL","PL-WP","Lutomek","no","EPSP",,,,,,
 5493,"PLCH","large_airport","Cassidy International Airport",1.986278,-157.350011,5,"OC","KI","KI-L","Kiritimati","yes","PLCH","CXI","PLCH",,,"https://en.wikipedia.org/wiki/Cassidy_International_Airport","Christmas Island, Banana"
 32466,"PLFA","small_airport","Tabuaeran Island Airport",3.89944,-159.389008,,"OC","KI","KI-L","Tabuaeran Island","no","PLFA","TNV","PLFA",,,"https://de.wikipedia.org/wiki/Flugplatz_Tabuaeran","Fanning Island"
 6493,"PLPA","small_airport","Palmyra (Cooper) Airport",5.888748,-162.077866,5,"OC","UM","UM-95","Palmyra Island Atoll","no","PLPA",,"PLPA","P16",,"https://en.wikipedia.org/wiki/Palmyra_(Cooper)_Airport",
@@ -65706,6 +65708,8 @@
 609243,"TR-0319","heliport","Yukari Gülderen Border Post Helipad",39.03691,44.110299,,"AS","TR","TR-65","Çaldiran","no",,,,,,,
 609244,"TR-0320","heliport","Beydogan Border Post Helipad",39.016447,44.156804,,"AS","TR","TR-65","Çaldiran","no",,,,,,,
 609245,"TR-0321","closed","Sarıçimen Border Post Helipad (Disused)",39.164302,44.098688,,"AS","TR","TR-65","Çaldiran","no",,,,,,,
+609802,"TR-0322","heliport","Taşağıl OGM Helipad",36.951899,31.213055,330,"AS","TR","TR-07","Manavgat","no",,,,,,,
+609803,"TR-0323","heliport","Soğukpınar OGM Helipad",36.643376,31.867942,1012,"AS","TR","TR-07","Alanya","no",,,,,,,
 43074,"TRPG","large_airport","John A. Osborne Airport",16.791835,-62.193204,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
