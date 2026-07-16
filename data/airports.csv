@@ -7567,6 +7567,7 @@
 14170,"7K2","seaplane_base","Skagway Seaplane Base",59.446899,-135.322998,,"NA","US","US-AK","Skagway","no",,,"7K2","7K2",,"https://en.wikipedia.org/wiki/Skagway_Seaplane_Base",
 14172,"7K7","small_airport","Graham Field",42.540298,-96.485001,1106,"NA","US","US-SD","North Sioux City","no",,,"7K7","7K7",,"https://en.wikipedia.org/wiki/Graham_Field_(airport)",
 14173,"7KA","small_airport","Tatitlek Airport",60.871449,-146.690297,62,"NA","US","US-AK","Tatitlek","yes",,"TEK","PAKA","7KA",,"https://en.wikipedia.org/wiki/Tatitlek_Airport","AK47"
+609825,"7KS","small_airport","Coyote Creek Airport",37.893763,-97.266404,1456,"NA","US","US-KS","Fuley","no",,,"7KS","7KS",,,
 14174,"7KS0","small_airport","Flying T Airport",39.271085,-95.31705,1160,"NA","US","US-KS","Oskaloosa","no",,,"7KS0","7KS0",,,
 353045,"7KS1","heliport","Rooks County Health Center Heliport",39.247744,-99.297533,2156,"NA","US","US-KS","Plainville","no",,,"7KS1","7KS1",,,
 14175,"7KS2","small_airport","Cloud Airport",38.85082,-95.467906,1020,"NA","US","US-KS","Overbrook","no",,,"7KS2","7KS2",,,
@@ -28009,6 +28010,7 @@
 609573,"FR-1346","heliport","HéliSMUR 03 Heliport",46.31801,3.31765,,"EU","FR","FR-ARA","Saint-Pourçain-sur-Sioule","no",,,,,,,
 609665,"FR-1347","heliport","Château Hendecourt-les-cagnicourt",50.211846,2.953074,,"EU","FR","FR-HDF","Hendecourt les Cagnicourt","no",,,,,,,
 609792,"FR-1348","heliport","LINZEUX DZ",50.342835,2.197005,,"EU","FR","FR-HDF","Linzeux","no",,,,,,,
+609811,"FR-1349","heliport","Peronne Philippe DZ",49.934592,2.923713,,"EU","FR","FR-HDF","Peronne","no",,,,,,,
 35155,"FR-JCA","heliport","Cannes Croisette Heliport",43.535287,7.038296,,"EU","FR","FR-PAC","Cannes, Alpes-Maritimes","yes",,,,,,,"Palm Beach"
 2990,"FSAL","small_airport","Alphonse Airport",-7.00478,52.7262,10,"AF","SC","SC-26","Alphonse Island","yes","FSAL",,"FSAL",,,"https://en.wikipedia.org/wiki/Alphonse_Airport",
 2991,"FSAS","small_airport","Assomption Airport",-9.74222,46.506802,10,"AF","SC","SC-26","Assomption Island","no","FSAS",,"FSAS",,,"https://en.wikipedia.org/wiki/Assumption_Island_Airport","assumption airport, assumption island"
@@ -34001,6 +34003,9 @@
 609611,"IT-0979","small_airport","Isolone Airstrip",45.09135,9.66593,46,"EU","IT","IT-25","San Rocco al Porto (LO)","no",,,,,,,
 609612,"IT-0980","small_airport","Il Go - Le Caminaglie Airfield",44.97634,9.49446,470,"EU","IT","IT-45","Agazzano (PC)","no",,,,,,,
 609613,"IT-0981","small_airport","Valtidone Airstrip",45.026389,9.435361,338,"EU","IT","IT-45","Borgonovo Val Tidone (PC)","no",,,,,,,
+609815,"IT-0982","heliport","Pernate Helipad",45.457005,8.660555,479,"EU","IT","IT-21","Novara (NO)","no",,,,,,,
+609817,"IT-0983","heliport","Elisuperficie Bellini",45.431362,8.606479,,"EU","IT","IT-21","Comune di Novara","no",,,,,,,
+609819,"IT-0984","heliport","Hotel Novarello Heliport",45.378046,8.581317,433,"EU","IT","IT-21","Granozzo con Monticello (NO)","no",,,,,"https://www.novarellovillaggioazzurro.com/",,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -41072,7 +41077,7 @@
 20807,"KPBF","medium_airport","Pine Bluff Regional Airport, Grider Field",34.174121,-91.935643,206,"NA","US","US-AR","Pine Bluff","no","KPBF","PBF","KPBF","PBF","http://www.pbaviation.com","https://en.wikipedia.org/wiki/Grider_Field",
 20808,"KPBG","medium_airport","Plattsburgh International Airport",44.650902,-73.468102,234,"NA","US","US-NY","Plattsburgh","yes","KPBG","PBG","KPBG","PBG","http://www.plattsburghinternationalairport.com/","https://en.wikipedia.org/wiki/Plattsburgh_International_Airport","Plattsburgh Air Force Base"
 20809,"KPBH","small_airport","Price County Airport",45.709,-90.402496,1497,"NA","US","US-WI","Phillips","no",,,"KPBH","PBH",,"https://en.wikipedia.org/wiki/Price_County_Airport",
-3766,"KPBI","large_airport","President Donald J. Trump International Airport",26.683201,-80.095596,19,"NA","US","US-FL","West Palm Beach","yes","KDJT","PBI","KDJT","DJT","https://www.pbia.org/","https://en.wikipedia.org/wiki/Palm_Beach_International_Airport","DJT, KDJT, MFW, South Florida"
+3766,"KPBI","large_airport","President Donald J. Trump International Airport",26.683201,-80.095596,19,"NA","US","US-FL","West Palm Beach","yes","KDJT","PBI","KDJT","DJT","https://www.pbia.org/","https://en.wikipedia.org/wiki/Palm_Beach_International_Airport","KBPI, MFW, South Florida"
 20810,"KPBX","small_airport","Pike County Airport Hatcher Field",37.560795,-82.570051,1473,"NA","US","US-KY","Pikeville","no","KPBX","PVL","KPBX","PBX",,"https://en.wikipedia.org/wiki/Pike_County_Airport_(Kentucky)","Hatcher Field"
 24076,"KPCA","heliport","Picacho Stagefield Heliport",32.662789,-111.48797,1675,"NA","US","US-AZ","Picacho","no",,,"KPCA","PCA",,"https://en.wikipedia.org/wiki/Picacho_Stagefield_ARNG_Heliport",
 20811,"KPCM","small_airport","Plant City Municipal Airport",28.0002,-82.1642,153,"NA","US","US-FL","Plant City","no",,,"KPCM","PCM",,"https://en.wikipedia.org/wiki/Plant_City_Airport",
@@ -51936,6 +51941,7 @@
 23761,"OK17","small_airport","Bass Aero Airport",34.21825,-97.052567,840,"NA","US","US-OK","Ardmore","no",,,"OK17","OK17",,,
 23762,"OK18","small_airport","Grand Isle Airport",36.423401,-95.171097,636,"NA","US","US-OK","Big Cabin","no",,,"OK18","OK18",,,
 23763,"OK19","heliport","Integris Baptist Medical Center Heliport",35.53101,-97.578024,1276,"NA","US","US-OK","Oklahoma City","no",,,"OK19","OK19",,,"2O4"
+609822,"OK2","small_airport","Red River Airport",33.913975,-96.844702,792,"NA","US","US-OK","Kingston","no",,,"OK2","OK2",,,
 23764,"OK20","small_airport","Sageeyah Airfield",36.38370132446289,-95.64800262451172,640,"NA","US","US-OK","Claremore","no",,,"OK20","OK20",,,
 23765,"OK21","small_airport","Longs Airport North Airport",36.33340072631836,-95.30439758300781,650,"NA","US","US-OK","Pryor","no",,,"OK21","OK21",,,
 23767,"OK23","small_airport","Taliaferro Field",34.19829941,-97.23120117,930,"NA","US","US-OK","Ardmore","no",,,"OK23","OK23",,,
@@ -65710,6 +65716,7 @@
 609245,"TR-0321","closed","Sarıçimen Border Post Helipad (Disused)",39.164302,44.098688,,"AS","TR","TR-65","Çaldiran","no",,,,,,,
 609802,"TR-0322","heliport","Taşağıl OGM Helipad",36.951899,31.213055,330,"AS","TR","TR-07","Manavgat","no",,,,,,,
 609803,"TR-0323","heliport","Soğukpınar OGM Helipad",36.643376,31.867942,1012,"AS","TR","TR-07","Alanya","no",,,,,,,
+609829,"TR-0324","heliport","Manavgat Selale Depot OGM Helipad",36.798014,31.415602,115,"AS","TR","TR-07","Manavgat","no",,,,,,,
 43074,"TRPG","large_airport","John A. Osborne Airport",16.791835,-62.193204,550,"NA","MS","MS-SP","Gerald's Park","yes","TRPG","MNI","TRPG",,,"https://en.wikipedia.org/wiki/John_A._Osborne_Airport","Gerald's Airport, Brades"
 25017,"TS00","small_airport","Fuller Airport",32.787314,-97.180499,490,"NA","US","US-TX","Fort Worth","no",,,"TS00","TS00",,,
 25019,"TS02","small_airport","One Sixty Four Place Airport",33.119598388671875,-98.23059844970703,1200,"NA","US","US-TX","Jacksboro","no",,,"TS02","TS02",,,
