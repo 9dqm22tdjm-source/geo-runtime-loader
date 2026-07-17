@@ -1625,7 +1625,7 @@
 8206,"1AZ1","heliport","Boulais Heliport",33.515288,-112.255694,1060,"NA","US","US-AZ","Tolleson","no",,,"1AZ1","1AZ1",,,
 608619,"1AZ2","small_airport","Kirkland Valley Airport",34.429236,-112.754405,3817,"NA","US","US-AZ","Kirkland","no",,,"1AZ2","1AZ2",,,
 8208,"1AZ3","heliport","Arizona State Prison Safford Heliport",32.830014,-109.564335,3000,"NA","US","US-AZ","Safford","no",,,"1AZ3","1AZ3",,,
-8209,"1AZ4","heliport","Schuff Aviation Heliport",33.44258,-112.099222,1101,"NA","US","US-AZ","Phoenix","no",,,"1AZ4","1AZ4",,,
+8209,"1AZ4","closed","Schuff Aviation Heliport",33.44258,-112.099222,1101,"NA","US","US-AZ","Phoenix","no",,,,,,,"1AZ4"
 345287,"1AZ6","small_airport","Skyline Air Ranch Airport",31.556821,-110.107384,4180,"NA","US","US-AZ","Sierra Vista","no",,,"1AZ6","1AZ6",,,
 8212,"1AZ7","heliport","SRP Tolleson Center Heliport",33.44791,-112.226603,1140,"NA","US","US-AZ","Tolleson","no",,,"1AZ7","1AZ7",,,
 8213,"1AZ8","small_airport","Willow Springs Ranch Airport",35.295799255371094,-114.37300109863281,3750,"NA","US","US-AZ","Bullhead City","no",,,"1AZ8","1AZ8",,,
@@ -2870,7 +2870,7 @@
 9497,"2KY0","closed","Jane Todd Crawford Hospital Heliport",37.243245,-85.493048,625,"NA","US","US-KY","Greensburg","no",,,,,,,"2KY0"
 9498,"2KY1","small_airport","Kitty Hawk Farm Ultralightport",37.61920166015625,-84.38140106201172,980,"NA","US","US-KY","Paint Lick","no",,,"2KY1","2KY1",,,
 9499,"2KY2","heliport","Livingston Hospital Heliport",37.262994,-88.227639,420,"NA","US","US-KY","Salem","no",,,"2KY2","2KY2",,,
-9500,"2KY3","small_airport","Plane-O-Field Airport",36.83470153808594,-86.45829772949219,655,"NA","US","US-KY","Bowling Green","no",,,"2KY3","2KY3",,,
+9500,"2KY3","closed","Plane-O-Field Airport",36.835783,-86.458,655,"NA","US","US-KY","Bowling Green","no",,,,,,,"2KY3"
 9501,"2KY4","small_airport","Oz Airport",37.655488,-85.813441,820,"NA","US","US-KY","Elizabethtown","no",,,"2KY4","2KY4",,,
 9502,"2KY5","small_airport","Womstead Field",38.375,-83.15470123291016,1050,"NA","US","US-KY","Olive Hill","no",,,"2KY5","2KY5",,,
 9503,"2KY6","heliport","The Medical Center At Bowling Green Heliport",36.994456,-86.42863,494,"NA","US","US-KY","Bowling Green","no",,,"2KY6","2KY6",,,
@@ -4197,7 +4197,7 @@
 10828,"3TS9","small_airport","Oak Glen Ranch Airport",33.37929916381836,-95.60359954833984,430,"NA","US","US-TX","Cooper","no",,,"3TS9","3TS9",,,
 10829,"3TX0","heliport","Texas Department of Public Safety Corpus Christi Heliport",27.7411,-97.434998,37,"NA","US","US-TX","Corpus Christi","no",,,"3TX0","3TX0",,,
 10830,"3TX1","small_airport","Paradise Point Airport",32.082431,-95.445039,345,"NA","US","US-TX","Frankston","no",,,"3TX1","3TX1",,,
-10831,"3TX2","small_airport","Flying S Farm Airport",33.0806999206543,-97.3488998413086,780,"NA","US","US-TX","Justin","no",,,"3TX2","3TX2",,,
+10831,"3TX2","closed","Flying S Farm Airport",33.0807,-97.3489,780,"NA","US","US-TX","Justin","no",,,,,,,"3TX2"
 10832,"3TX3","closed","Sitton Field",33.119598,-97.319702,682,"NA","US","US-TX","Justin","no",,,,,,,"3TX3"
 45827,"3TX6","small_airport","Lowell Smith Jr Airport",32.233481,-97.380849,740,"NA","US","US-TX","Rio Vista","no",,,"3TX6","3TX6",,,
 10836,"3TX7","small_airport","Flying P Airport",33.14080047607422,-97.37110137939453,805,"NA","US","US-TX","Justin","no",,,"3TX7","3TX7",,,
@@ -4553,6 +4553,7 @@
 11129,"45NC","small_airport","Glover Airport",36.528381,-77.455308,120,"NA","US","US-NC","Seaboard","no",,,"45NC","45NC",,,
 604867,"45NE","small_airport","Mitchell Field",40.831523,-99.262451,2230,"NA","US","US-NE","Amherst","no",,,"45NE","45NE",,,
 11130,"45NH","heliport","Hayes Heliport",42.985198974609375,-71.17829895019531,152,"NA","US","US-NH","Raymond","no",,,"45NH","45NH",,,
+609842,"45NK","small_airport","Negrich Field",43.128772,-74.264085,975,"NA","US","US-NY","Mayfield","no",,,"45NK","45NK",,,
 324439,"45NR","heliport","NHRMC-Ed North Heliport",34.316552,-77.768284,29,"NA","US","US-NC","Wilmington","no",,,"45NR","45NR",,,
 45667,"45NY","heliport","Turning Stone Resort & Casino Heliport",43.110569,-75.593658,359,"NA","US","US-NY","Verona","no",,,"45NY","45NY",,,
 45732,"45OG","small_airport","Rugg Ranches Airport",45.476389,-118.791667,1890,"NA","US","US-OR","Pilot Rock","no",,,"45OG","45OG",,,
@@ -22991,6 +22992,7 @@
 31000,"DK-0064","closed","Avnø Air Base",55.083,11.783,13,"EU","DK","DK-85","Avnø","no",,,,,,,"Avno, Avnoe, EKAV"
 602183,"DK-0065","small_airport","Rømø Beach Airstrip",55.144154,8.482475,,"EU","DK","DK-83","Rømø","no",,,,,,,
 609466,"DK-0066","closed","Skovlunde Flyveplads",55.7176,12.382579,105,"EU","DK","DK-84",,"no",,,,,,"https://da.wikipedia.org/wiki/Skovlunde_Flyveplads","EKSL, Danish Airport, European airports, closed 1980"
+609837,"DK-0067","small_airport","Lille Gjerndrupholm Airstrip",55.531163,9.009519,,"EU","DK","DK-83",,"no",,,,,,,
 330383,"DLR","small_airport","Dalnerechensk Airport",45.879857,133.737629,272,"AS","RU","RU-PRI","Dalnerechensk","yes",,"DLR","UHHD",,,,"УХХД, Дальнереченск"
 604368,"DM-0001","closed","Dominica International Airport (Under Construction)",15.572906,-61.31357,,"NA","DM","DM-02","Wesley","no",,,,,,"https://en.wikipedia.org/wiki/Dominica_International_Airport",
 17152,"DM2","heliport","Diomede Heliport",65.758367,-168.953676,20,"NA","US","US-AK","Diomede","yes",,"DIO","PPDM","DM2",,,"DIO"
@@ -24534,12 +24536,12 @@
 44015,"EKHD","heliport","Harald Helideck",56.344120025634766,4.27191686630249,,"EU","DK","DK-XX",,"no",,,"EKHD",,,,
 318327,"EKHE","small_airport","Annisse flyveplads",55.984722,12.214444,,"EU","DK","DK-84","Annisse","no",,,"EKHE",,,,
 29236,"EKHG","small_airport","Herning Airfield",56.1847,9.04445,167,"EU","DK","DK-82","Herning","no",,,"EKHG",,"http://www.ekhg.dk/?lang=en","https://en.wikipedia.org/wiki/Herning_Airport",
-29237,"EKHK","small_airport","Holbæk (Ny Hagested) Airfield",55.733919,11.604706,2,"EU","DK","DK-85","Gislinge","no",,,"EKHK",,"https://www.ekhk.dk/","https://da.wikipedia.org/wiki/Holb%C3%A6k_Flyveplads","Holbaek, Holbæk Flyveplads"
-318902,"EKHL","heliport","Holsted Helipad",55.496667,8.910833,,"EU","DK","DK-83","Holsted","no",,,"EKHL",,,,"Ben Air"
-318291,"EKHM","small_airport","Hammer Glider Field",55.908195,9.446358,290,"EU","DK","DK-82","Tørring","no",,,"EKHM",,"http://www.vsk.dk/",,"Vejle Svæveflyveklub"
-44017,"EKHN","heliport","Horns Rev B Helideck",55.60016632080078,7.623805999755859,,"EU","DK","DK-XX",,"no",,,"EKHN",,,,
+29237,"EKHK","small_airport","Holbæk (Ny Hagested) Airfield",55.733919,11.604706,2,"EU","DK","DK-85","Gislinge","no","EKHK",,"EKHK",,"https://www.ekhk.dk/","https://da.wikipedia.org/wiki/Holb%C3%A6k_Flyveplads","Holbaek, Holbæk Flyveplads"
+318902,"EKHL","heliport","Holsted Helipad",55.496667,8.910833,141,"EU","DK","DK-83","Holsted","no","EKHL",,"EKHL",,,,"Ben Air"
+318291,"EKHM","small_airport","Hammer Glider Field",55.908195,9.446358,290,"EU","DK","DK-82","Tørring","no","EKHM",,"EKHM",,"http://www.vsk.dk/",,"Vejle Svæveflyveklub"
+44017,"EKHN","heliport","Horns Rev B Helideck",55.600166,7.623806,,"EU","DK","DK-XX",,"no","EKHN",,"EKHN",,,,
 31002,"EKHO","small_airport","Lindtorp Airfield",56.396868,8.444061,49,"EU","DK","DK-82","Struer","no",,,"EKHO",,,,
-44016,"EKHR","heliport","Horns Rev A Helideck",55.508949279785156,7.874917030334473,,"EU","DK","DK-XX",,"no",,,"EKHR",,,,
+44016,"EKHR","heliport","Horns Rev A Helideck",55.508949,7.874917,,"EU","DK","DK-XX",,"no","EKHR",,"EKHR",,,,"Wind farm"
 2545,"EKHV","small_airport","Haderslev Airfield",55.301829,9.524503,81,"EU","DK","DK-83","Haderslev","no",,,"EKHV",,,,
 2546,"EKKA","medium_airport","Midtjyllands Airport / Air Base Karup",56.297139,9.104311,170,"EU","DK","DK-82","Karup","yes","EKKA","KRP","EKKA",,,"https://en.wikipedia.org/wiki/Midtjyllands_Airport","Karup Airport"
 29239,"EKKL","small_airport","Kalundborg Airfield",55.700011,11.250095,1,"EU","DK","DK-85","Kalundborg","no",,,"EKKL",,,"https://en.wikipedia.org/wiki/Kalundborg_Airfield",
@@ -34006,6 +34008,9 @@
 609815,"IT-0982","heliport","Pernate Helipad",45.457005,8.660555,479,"EU","IT","IT-21","Novara (NO)","no",,,,,,,
 609817,"IT-0983","heliport","Elisuperficie Bellini",45.431362,8.606479,,"EU","IT","IT-21","Comune di Novara","no",,,,,,,
 609819,"IT-0984","heliport","Hotel Novarello Heliport",45.378046,8.581317,433,"EU","IT","IT-21","Granozzo con Monticello (NO)","no",,,,,"https://www.novarellovillaggioazzurro.com/",,
+609846,"IT-0985","heliport","Elisuperficie Casalvolone",45.404269,8.463399,,"EU","IT","IT-21","Comune di Casalvolone","no",,,,,,,
+609849,"IT-0986","heliport","Elisuperficie di Recetto",45.461613,8.439828,,"EU","IT","IT-21","Comune di Recetto","no",,,,,,,
+609851,"IT-0987","heliport","Elisuperficie di Formigliana",45.430338,8.287312,,"EU","IT","IT-21","Comune di formigliana","no",,,,,,,
 35275,"IT-TQR","heliport","San Domino Island Heliport",42.117775,15.490655,121,"EU","IT","IT-75","Tremiti Islands","yes","LINI","TQR","LINI",,"https://alidaunia.it/company-pages/en/apulian-heli-network","https://de.wikipedia.org/wiki/Heliport_San_Domino",
 308235,"ITK","small_airport","Itokama Airport",-9.201527,148.264261,2563,"OC","PG","PG-NPP","Itokama","no",,"ITK","AYIK","ITK",,,
 316549,"IVI","small_airport","Viveros Island Airport",8.4693,-79.0016,100,"NA","PA","PA-8","Isla Viveros","no",,"IVI",,,,,
@@ -46149,7 +46154,7 @@
 22139,"MN33","heliport","St Mary's Hospital Heliport",46.793800354003906,-92.0978012084961,860,"NA","US","US-MN","Duluth","no",,,"MN33","MN33",,,
 22140,"MN34","heliport","St Olaf Hospital Heliport",43.675201416015625,-92.97709655761719,1202,"NA","US","US-MN","Austin","no",,,"MN34","MN34",,,
 22141,"MN35","seaplane_base","Wild Rice Lake Seaplane Base",46.899898529052734,-92.16210174560547,1380,"NA","US","US-MN","Duluth","no",,,"MN35","MN35",,,
-22142,"MN36","heliport","Mosquito Heliport",45.68619918823242,-94.19999694824219,1000,"NA","US","US-MN","Rice","no",,,"MN36","MN36",,,
+22142,"MN36","closed","Mosquito Heliport",45.686199,-94.199997,1000,"NA","US","US-MN","Rice","no",,,,,,,"MN36"
 22145,"MN39","heliport","Winona Health Services Heliport",44.033853,-91.623305,666,"NA","US","US-MN","Winona","no",,,"MN39","MN39",,,"Community Memorial Hospital"
 22146,"MN40","small_airport","Meadowvale Airport",45.36249923706055,-93.5886001586914,950,"NA","US","US-MN","Elk River","no",,,"MN40","MN40",,,
 45489,"MN41","small_airport","Timmers Landing Field",44.973428,-94.214186,1070,"NA","US","US-MN","Silver Lake","no",,,"MN41","MN41",,,
@@ -54154,6 +54159,7 @@
 609488,"PL-0288","small_airport","Rypin Airfield",53.04709,19.42536,,"EU","PL","PL-U-A",,"no",,,,,,,
 609618,"PL-0289","small_airport","Krzywina Airfield",50.71386,17.16418,,"EU","PL","PL-DS",,"no",,,,,,,
 609798,"PL-0290","small_airport","Sieraków-Lutomek Airfield",52.60866,16.15035,,"EU","PL","PL-WP","Lutomek","no","EPSP",,,,,,
+609836,"PL-0291","small_airport","Bucharzewo Airstrip",52.67846,16.11214,,"EU","PL","PL-WP",,"no",,,,,,,
 5493,"PLCH","large_airport","Cassidy International Airport",1.986278,-157.350011,5,"OC","KI","KI-L","Kiritimati","yes","PLCH","CXI","PLCH",,,"https://en.wikipedia.org/wiki/Cassidy_International_Airport","Christmas Island, Banana"
 32466,"PLFA","small_airport","Tabuaeran Island Airport",3.89944,-159.389008,,"OC","KI","KI-L","Tabuaeran Island","no","PLFA","TNV","PLFA",,,"https://de.wikipedia.org/wiki/Flugplatz_Tabuaeran","Fanning Island"
 6493,"PLPA","small_airport","Palmyra (Cooper) Airport",5.888748,-162.077866,5,"OC","UM","UM-95","Palmyra Island Atoll","no","PLPA",,"PLPA","P16",,"https://en.wikipedia.org/wiki/Palmyra_(Cooper)_Airport",
@@ -71234,7 +71240,12 @@
 609538,"US-12995","small_airport","Cox Field",31.667,-99.088833,1608,"NA","US","US-U-A","Bangs","no",,,"68TA","68TA",,,
 609541,"US-12996","heliport","AdventHealth Aurora Highlands Heliport",39.764031,-104.714717,5478,"NA","US","US-U-A","Aurora","no",,,"CO30","CO30","https://www.adventhealth.com/locations/emergency-rooms/aurora-highlands-er",,
 609709,"US-12997","seaplane_base","Keachvill Seaplane Base",29.513333,-81.591944,38,"NA","US","US-FL","Pamona Park","no",,,"3FL4","3FL4",,,"Lake Broward"
+609844,"US-12998","small_airport","Denham Restricted Landing Area",39.470622,-88.655995,663,"NA","US","US-IL","Windsor","no",,,"52IL","52IL",,,
+609853,"US-12999","closed","J W Field",44.948572,-94.260169,1088,"NA","US","US-MN","Hutchinson","no",,,,,,,"MN36"
 334388,"US-1300","closed","Luck Field",32.599024,-97.322794,,"NA","US","US-TX","Fort Worth","no",,,,,,,
+609856,"US-13000","heliport","Essentia Health Graceville Heliport",45.562101,-96.43431,1103,"NA","US","US-MN","Graceville","no",,,"MN36","MN36",,,
+609858,"US-13001","heliport","Cooper Creek Heliport",37.097062,-84.982634,1010,"NA","US","US-KY","Russell Springs","no",,,"2KY3","2KY3",,,
+609864,"US-13002","small_airport","Ola Airstrip",44.20579,-116.25109,4085,"NA","US","US-ID","Ola","no",,,,,,,"Ola, High Valley, private"
 335788,"US-1301","closed","Baird Ranch Airstrip",30.276247,-98.310106,,"NA","US","US-TX","Johnson City","no",,,,,,,
 334414,"US-1302","small_airport","Morgan's Airport",45.065474,-123.329269,,"NA","US","US-OR","Ballston","no",,,"OR71","OR71",,,
 334415,"US-1303","heliport","Zuma Beach Emergency Helipad",34.01885,-118.82685,,"NA","US","US-CA","Malibu","no",,,,,,,
@@ -73965,7 +73976,7 @@
 344303,"US-4024","small_airport","Dolores River Ranch Airport",38.731838,-109.020701,,"NA","US","US-CO","Gateway","no",,,,,,,
 344304,"US-4025","small_airport","La Garita Creek Ranch Airport",37.811667,-106.315278,8050,"NA","US","US-CO","Del Norte","no",,,,"5CO6",,,
 344305,"US-4026","small_airport","Quarter Circle Circle Ranch Airport",38.142262,-106.747109,,"NA","US","US-CO","Gunnison","no",,,,,,,
-344311,"US-4027","small_airport","45 Ranch Airport",42.173084,-116.875378,,"NA","US","US-ID","Grand View","no",,,,,,,
+344311,"US-4027","small_airport","45 Ranch Airport",42.17243,-116.875084,4300,"NA","US","US-ID","Grand View","no",,,,,"https://jrbaf.org/properties/45-ranch/",,
 344312,"US-4028","small_airport","45 Ranch Old Airport",42.17637,-116.85425,,"NA","US","US-ID","Grand View","no",,,,,,,
 344313,"US-4029","small_airport","Allison Ranch Airport",45.56423,-115.22563,,"NA","US","US-ID","Elk City","no",,,,,,,
 344314,"US-4030","small_airport","B Bar C Airport",44.858942,-114.455903,,"NA","US","US-ID","Challis","no",,,,,,,
@@ -73998,7 +74009,7 @@
 344342,"US-4057","small_airport","White Bird Hill Airport",45.863813,-116.201486,,"NA","US","US-ID","Grangeville","no",,,,,,,
 344343,"US-4058","small_airport","Wind Ridge Airport",45.87633,-116.17888,4050,"NA","US","US-ID","Grangeville","no",,,,"66ID",,,
 344344,"US-4059","small_airport","Pittsburg Landing Airport",45.62973,-116.475138,1185,"NA","US","US-OR","Imnaha","no",,,,"O29",,,
-344345,"US-4060","small_airport","Root Ranch Airport",45.31238,-115.02567,,"NA","US","US-ID","Warren","no",,,,,,,
+344345,"US-4060","small_airport","Root Ranch Airport",45.31309,-115.02538,5600,"NA","US","US-ID","Warren","no",,,,,"https://flyingresortranches.com/the-root-ranch/",,
 344346,"US-4061","small_airport","Saylor Creek Airport",42.74718,-115.5671,,"NA","US","US-ID","Bruneau","no",,,,,,,
 344347,"US-4062","small_airport","South Fork Ranch Airport",45.24033,-115.53174,,"NA","US","US-ID","Warren","no",,,,,,,
 344348,"US-4063","small_airport","Triangle Airport",42.787973,-116.63694,,"NA","US","US-ID","Murphy","no",,,,,,,
@@ -78593,7 +78604,7 @@
 536573,"US-8652","closed","Seven Lakes Airport",46.15428,-85.27057,854,"NA","US","US-MI","Naubinway","no",,,,,,,
 536713,"US-8653","small_airport","Whatley Airport",35.46671,-86.95924,703,"NA","US","US-TN","Culleoka","no",,,,,,,
 536718,"US-8654","closed","Lakeside Highlands Airport",34.81685,-87.61472,608,"NA","US","US-AL","Florence","no",,,,,,,
-536720,"US-8655","heliport","Florence Hospital Heliport",33.07311,-111.48589,,"NA","US","US-AZ","Florence","no",,,,,,,
+536720,"US-8655","heliport","HH Florence Helistop",33.073063,-111.485875,1492,"NA","US","US-AZ","Florence","no",,,"1AZ4","1AZ4",,,"HonorHealth"
 536726,"US-8656","closed","Guthrie Center Municipal Airport",41.68119,-94.51348,1077,"NA","US","US-IA","Guthrie Center","no",,,,,,,
 536728,"US-8657","heliport","Maple Grove Hospital Heliport",45.13406,-93.48163,935,"NA","US","US-MN","Maple Grove","no",,,"20MN","20MN",,,
 536730,"US-8658","closed","Peterson Airport",42.35589,-94.31878,1145,"NA","US","US-IA","Callender","no",,,,,,,
